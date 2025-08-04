@@ -1,0 +1,49 @@
+// *****************************************************************
+// *************** GeoSpatial rules ********************************
+// *****************************************************************
+
+@prefix Turbine: <windfarm/Turbine#>.
+@prefix WindFarm: <windfarm/WindFarm#>.
+@prefix MSP: <windfarm/MSP#>.
+@prefix SeaDepth: <windfarm/MSP/SeaDepth#>.
+@prefix Substation: <windfarm/Substation#>.
+@prefix ECC: <windfarm/MSP/ECC#>.
+@prefix Restricted: <windfarm/MSP/Restricted#>.
+@prefix WindLease: <windfarm/MSP/WindLease#>.
+@prefix EFH: <windfarm/MSP/EFH#>.
+@prefix NOAA: <windfarm/MSP/NOAA#>.
+@prefix WindSpeed: <windfarm/MSP/WindSpeed#>.
+@prefix Coral: <windfarm/MSP/Coral#>.
+@prefix Cable: <windfarm/MSP/Cable#>.
+@prefix Regulation: <windfarm/Regulation#>.
+@prefix Hurricane: <windfarm/Event/WeatherEvent/Hurricane#>.
+@prefix Event: <windfarm/Event/>.
+
+
+[rule1---YawToHurricaneWindDirection-Turbines:
+(?t Turbine:hasCutOutWindSpeed ?cows)
+(?t Turbine:hasTurbineStatus ?ts)
+(?h Hurricane:hasWindSpeed ?ws)
+(?h Hurricane:hasDurationAboveCutOut ?duration)
+greaterThan(?duration, 0.1)
+(?e Event:hasStatus "Active")
+greaterThan(?ws, ?cows)
+changeTo(?t Turbine:hasTurbineStatus "Shut down" ?newStatus)
+changeTo(?t Turbine:hasPitchAngle "90.0"^^xsd:double ?newPitch)
+->
+(?t Turbine:hasTurbineStatus ?newStatus)
+(?t Turbine:hasPitchAngle ?newPitch)]
+
+
+[rule2---YawToHurricaneWindDirection-Turbines:
+(?t Turbine:hasYawAngle ?y)
+(?h Hurricane:hasWindDirection ?hwd)
+(?h Hurricane:hasDurationAboveCutOut ?duration)
+(?h Hurricane:hasWindDirection ?hwd)
+greaterThan(?duration, 0.1)
+(?e Event:hasStatus "Active")
+changeTo(?t Turbine:hasYawAngle ?hwd ?newStatus)
+->
+(?t Turbine:hasYawAngle ?newStatus)]
+
+

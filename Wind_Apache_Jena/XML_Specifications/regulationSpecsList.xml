@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RegulationSpecsList>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/Coral#</impactAreaURI>
+        <regulationDescription>Coral Protection Areas.</regulationDescription>
+        <regulationName>Coral</regulationName>
+        <regulationType>Environment</regulationType>
+        <remedy>Relocate</remedy>
+        <severity>High</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/EFH#</impactAreaURI>
+        <regulationDescription>Essential Fish Habitat.</regulationDescription>
+        <regulationName>EFH</regulationName>
+        <regulationType>Environment</regulationType>
+        <remedy>Consultation with NOAA</remedy>
+        <severity>Low</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/NOAA#</impactAreaURI>
+        <regulationDescription>NOAA Marine Protected Areas.</regulationDescription>
+        <regulationName>NOAA</regulationName>
+        <regulationType>Environment</regulationType>
+        <remedy>Consultation with NOAA</remedy>
+        <severity>Medium</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/WindSpeed#</impactAreaURI>
+        <regulationDescription>Wind Speed.</regulationDescription>
+        <regulationName>WindSpeed</regulationName>
+        <regulationType>Environment</regulationType>
+        <remedy>Consultation with meteorologists</remedy>
+        <severity>High</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/SeaDepth#</impactAreaURI>
+        <regulationDescription>Sea Depth.</regulationDescription>
+        <regulationName>SeaDepth</regulationName>
+        <regulationType>Environment</regulationType>
+        <remedy>Consultation with oceanographers</remedy>
+        <severity>High</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/Restricted#</impactAreaURI>
+        <regulationDescription>Military restricted and danger zones.</regulationDescription>
+        <regulationName>Restricted</regulationName>
+        <regulationType>Zoning</regulationType>
+        <remedy>Relocation.</remedy>
+        <severity>Critical</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/Cable#</impactAreaURI>
+        <regulationDescription>Inter-array cables.</regulationDescription>
+        <regulationName>Cable</regulationName>
+        <regulationType>Infrastructure</regulationType>
+        <remedy>Consultation with cable operators</remedy>
+        <severity>High</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/ExportCable#</impactAreaURI>
+        <regulationDescription>Export cables.</regulationDescription>
+        <regulationName>ExportCable</regulationName>
+        <regulationType>Infrastructure</regulationType>
+        <remedy>Consultation with cable operators</remedy>
+        <severity>High</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/Interconnection#</impactAreaURI>
+        <regulationDescription>Interconnection points.</regulationDescription>
+        <regulationName>Interconnection</regulationName>
+        <regulationType>Infrastructure</regulationType>
+        <remedy>Consultation with grid operators</remedy>
+        <severity>High</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/Landing#</impactAreaURI>
+        <regulationDescription>Cable landing points.</regulationDescription>
+        <regulationName>Landing</regulationName>
+        <regulationType>Infrastructure</regulationType>
+        <remedy>Consultation with cable operators</remedy>
+        <severity>High</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/ECC#</impactAreaURI>
+        <regulationDescription>Export cable corridors.</regulationDescription>
+        <regulationName>ECC</regulationName>
+        <regulationType>Infrastructure</regulationType>
+        <remedy>Consultation with cable operators</remedy>
+        <severity>High</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/OCSw#</impactAreaURI>
+        <regulationDescription>Outer Continental Shelf Wind.</regulationDescription>
+        <regulationName>OCSw</regulationName>
+        <regulationType>Administration</regulationType>
+        <remedy>Consultation with BOEM</remedy>
+        <severity>Critical</severity>
+    </RegulationSpecs>
+    <RegulationSpecs>
+        <impactAreaURI>windfarm/MSP/WindLease#</impactAreaURI>
+        <regulationDescription>Lease areas.</regulationDescription>
+        <regulationName>WindLease</regulationName>
+        <regulationType>Administration</regulationType>
+        <remedy>Consultation with BOEM</remedy>
+        <severity>High</severity>
+    </RegulationSpecs>
+</RegulationSpecsList>

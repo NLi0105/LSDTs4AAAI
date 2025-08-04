@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TurbineSpecs>
+    <aerodynamicAEP>0.5</aerodynamicAEP>
+    <airfoilSeries>NACA 64-618</airfoilSeries>
+    <availability>Available</availability>
+    <bladeCost>50000.0</bladeCost>
+    <bladeMass>11000.0</bladeMass>
+    <bladePrebend>0.5</bladePrebend>
+    <COE>0.05</COE>
+    <capacityFactor>0.3</capacityFactor>
+    <control>Pitch</control>
+    <cutInWindSpeed>3.0</cutInWindSpeed>
+    <cutOutWindSpeed>25.0</cutOutWindSpeed>
+    <downTime>0.02</downTime>
+    <driveTrain>Gearbox</driveTrain>
+    <electricalAEP>0.5</electricalAEP>
+    <gearboxRatio>100.0</gearboxRatio>
+    <genEfficiency>0.95</genEfficiency>
+    <geometry>POINT (2 2)</geometry>
+    <hubDiameter>3.0</hubDiameter>
+    <hubHeight>65.0</hubHeight>
+    <hubOverhang>1.5</hubOverhang>
+    <ICC>0.1</ICC>
+    <inclination>5.0</inclination>
+    <maxRotorSpeed>20.0</maxRotorSpeed>
+    <maxVtip>80.0</maxVtip>
+    <minRotorSpeed>10.0</minRotorSpeed>
+    <nacelleMass>10000.0</nacelleMass>
+    <nacelleUptiltAngle>5.0</nacelleUptiltAngle>
+    <numberOfBlades>3.0</numberOfBlades>
+    <powerOutput>3.4</powerOutput>
+    <ratedAerodynamicPower>3.4</ratedAerodynamicPower>
+    <ratedElectricalPower>3.4</ratedElectricalPower>
+    <ratedWindSpeed>12.0</ratedWindSpeed>
+    <rotorConeAngle>5.0</rotorConeAngle>
+    <rotorDiameter>120.0</rotorDiameter>
+    <rotorOrientation>0.0</rotorOrientation>
+    <rotorSolidity>0.05</rotorSolidity>
+    <shaftTiltAngle>5.0</shaftTiltAngle>
+    <towerCost>1000000.0</towerCost>
+    <towerMass>100000.0</towerMass>
+    <turbineID>Turbine1</turbineID>
+    <turbineModel>DTU 3.4-MW Land-Based</turbineModel>
+    <turbinePositionX>0.0</turbinePositionX>
+    <turbinePositionY>0.0</turbinePositionY>
+    <turbineStatus>Operational</turbineStatus>
+    <turbineType>Onshore</turbineType>
+    <windClass>3A</windClass>
+</TurbineSpecs>
