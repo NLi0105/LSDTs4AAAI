@@ -60,7 +60,6 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 │   ├── Multi-Model Experiments/
 │   │   ├── Anthropic/             # Claude model experiments
 │   │   ├── DeepSeek/              # DeepSeek model outputs & experiments
-│   │   ├── Ollama/                # Local LLM experiments
 │   │   └── Run_LLM/               # Multi-model batch processing pipeline
 │   ├── Document Processing/
 │   │   ├── Documents/             # Raw regulatory PDFs
