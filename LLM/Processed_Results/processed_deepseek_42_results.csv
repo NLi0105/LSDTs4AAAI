@@ -1,4 +1,0 @@
-model_name,document_number,type_of_wind_farm,chunk_number,document_id,constraint_type,requirement,scope,numerical_value,unit,source,related_domains
-deepseek-chat,OWF-REG-2023,Offshore,1,42,Environmental,All projects must conduct a full Environmental Impact Assessment (EIA) prior to construction,All offshore wind developments in federal waters,,,Bureau of Ocean Energy Management (BOEM),environmental; permitting
-deepseek-chat,OWF-REG-2023,Offshore,1,42,Technical,Wind turbine foundations must withstand 1-in-50-year extreme wave conditions,Fixed-bottom turbines in North Atlantic region,50.0,year return period,IEC 61400-3,structural engineering; safety
-deepseek-chat,OWF-REG-2023,Offshore,1,42,Safety,Minimum clearance of 22 meters between lowest blade tip and mean high water spring tide,All offshore installations,22.0,meters,International Maritime Organization (IMO),navigation safety; technical

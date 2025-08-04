@@ -1,9 +1,0 @@
-model_type,model_name,document_id,constraint_id,category,description,value,unit,source_section_number,geographic_scope,context_quote,component_name
-deepseek,deepseek-chat,3,C-001,Operational Parameter,Gear lube oil must be changed if water content exceeds 600 ppm.,600,ppm,RP 105,Gearbox,Water|Water ASTM D6304-C|ppm|300 to 600|600,Gearbox
-deepseek,deepseek-chat,3,C-002,Operational Parameter,Gear lube oil must be changed if foam exceeds 10 ml after 10 minutes of settling.,10,ml,RP 105,Gearbox,Foam (@10 min settle)|ASTM D892|ml|<10|>10,Gearbox
-deepseek,deepseek-chat,3,C-003,Operational Parameter,Gear lube oil must be changed if particulate levels exceed cleanliness code -18/15.,,,RP 105,Gearbox,Particulate Levels|Cleanliness Code|>4/>6/>14|-/17/14|-18/15,Gearbox
-deepseek,deepseek-chat,3,C-004,Operational Parameter,Gear lube oil must be changed if Total Acid Number exceeds 2.0 mg/g KOH over new oil.,2.0,mg/g KOH,RP 105,Gearbox,Total Acid Number|ASTM D664|mg/g KOH|1.5 over new|2.0 over new,Gearbox
-deepseek,deepseek-chat,3,C-005,Operational Parameter,Gear lube oil must be changed if viscosity is below 288 or above 352 mm2/sec.,"[288, 352]",mm2/sec,RP 105,Gearbox,Viscosity|STM D445|mm2/sec (cSt)|<304 or >336|<288 or >352,Gearbox
-deepseek,deepseek-chat,3,C-006,Safety Standard,"Blades must be inspected every 2 years for cracks, erosion, and other defects.",2,years,RP 301,Blade,Minimum Inspection Frequency Every 2 Years*,Blade
-deepseek,deepseek-chat,3,C-007,Operational Parameter,Substation grounding transformers must be tested similarly to main power transformers.,,,RP 510,Substation,Grounding Transformers|Testing should be similar to main power transformers where applicable.|X|||X|||||,Substation
-deepseek,deepseek-chat,3,C-008,Operational Parameter,Transmission line thermography inspections must be performed quarterly.,3,months,RP 510,Transmission Line,Thermography should be done quarterly.,Transmission Line

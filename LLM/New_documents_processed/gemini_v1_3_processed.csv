@@ -1,5 +1,0 @@
-model_type,model_name,document_id,constraint_id,category,description,value,unit,source_section_number,geographic_scope,context_quote,component_name
-gemini,gemini-1.5-pro,3,C-001,Design Specification,Maximum out-of-level tolerance for crane pad.,1.0,%,,Crane Pad,Maximum out of level value: <1%,Access Road
-gemini,gemini-1.5-pro,3,C-002,Design Specification,Maximum vertical crest or sag for intersection modification.,100.0,in.,,Intersection Modification,Maximum vertical crest or sag does not exceed _____in. in any 100' section.,Intersection Modification
-gemini,gemini-1.5-pro,3,C-003,Design Specification,Road checks must be performed at least every 1000 feet.,1000.0,ft.,,Access Road,Road Checks shall be performed at a minimum every 1000'.,Access Road
-gemini,gemini-1.5-pro,3,C-004,Safety Standard,Designated egress ways for foot travel must be clear.,,,,Warehouse,Designated egress ways for foot travel,Warehouse
