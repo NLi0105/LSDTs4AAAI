@@ -1,0 +1,121 @@
+// *****************************************************************
+// *************** GeoSpatial rules ********************************
+// *****************************************************************
+
+@prefix Turbine: <windfarm/Turbine#>.
+@prefix WindFarm: <windfarm/WindFarm#>.
+@prefix MSP: <windfarm/MSP#>.
+@prefix SeaDepth: <windfarm/MSP/SeaDepth#>.
+@prefix Substation: <windfarm/Substation#>.
+@prefix ECC: <windfarm/MSP/ECC#>.
+@prefix Restricted: <windfarm/MSP/Restricted#>.
+@prefix WindLease: <windfarm/MSP/WindLease#>.
+@prefix EFH: <windfarm/MSP/EFH#>.
+@prefix WindSpeed: <windfarm/MSP/WindSpeed#>.
+@prefix Coral: <windfarm/MSP/Coral#>.
+@prefix Cable: <windfarm/MSP/Cable#>.
+
+
+// ------------------ Turbine positions ----------------------------
+[rule1---ExclusionZones-Turbines:
+(?t <windfarm/Turbine#hasGeometry> ?tp)
+(?r <windfarm/MSP/Restricted#hasGeometry> ?ra)
+isIntersect(?tp, ?ra)
+->
+(?t <windfarm/Turbine#violateExclusionZone> "true")]
+
+[rule2---EssentialFishHabitat-Turbines:
+(?t <windfarm/Turbine#hasGeometry> ?tp)
+(?e <windfarm/MSP/EFH#hasGeometry> ?efh)
+isIntersect(?tp, ?efh)
+->
+(?t <windfarm/Turbine#InEFH> "true")]
+
+[rule3---FindWindZone-Turbines:
+(?t <windfarm/Turbine#hasGeometry> ?tGeom)
+(?ws <windfarm/MSP/WindSpeed#hasGeometry> ?wsGeom)
+isIntersect(?tGeom, ?wsGeom)
+->
+(?t <windfarm/Turbine#hasWindZone> ?ws)]
+
+[rule3.1---OperationalWindZone-Turbines:
+(?t <windfarm/Turbine#hasWindZone> ?ws)
+(?t <windfarm/Turbine#hasCutInWindSpeed> ?cutIn)
+(?t <windfarm/Turbine#hasCutOutWindSpeed> ?cutOut)
+(?ws <windfarm/MSP/WindSpeed#hasMinWindSpeed> ?minSpeed)
+(?ws <windfarm/MSP/WindSpeed#hasMaxWindSpeed> ?maxSpeed)
+greaterThan(?minSpeed, ?cutIn)
+lessThan(?maxSpeed, ?cutOut)
+->
+(?t <windfarm/Turbine#InOperationalWindZone> "true")
+]
+
+[rule4---InRangeOfExportCables-Turbines:
+(?t <windfarm/Turbine#hasGeometry> ?tGeom)
+(?ecc <windfarm/MSP/ECC#hasGeometry> ?eccGeom)
+isWithinDistance(?tGeom, ?eccGeom, 20, "km")
+->
+(?t <windfarm/Turbine#WithinCableRange> "true")]
+
+[rule5---InRangeOfExportCables-Substations:
+(?s Substation:hasGeometry ?sGeom)
+(?ecc ECC:hasGeometry ?eccGeom)
+isWithinDistance(?sGeom, ?eccGeom, 2, "km")
+->
+(?s Substation:WithinCableRange "true")]
+
+[rule6---FindWaterDepth-Turbines:
+(?t Turbine:hasGeometry ?tGeom)
+(?sd SeaDepth:hasGeometry ?sdGeom)
+isIntersect(?tGeom, ?sdGeom)
+->
+(?t Turbine:hasSeaDepth ?sd)]
+
+[rule6.1---AssignFoundationType-Floating:
+(?t Turbine:hasSeaDepth ?sd)
+(?sd SeaDepth:hasMaxDepth ?maxDepth)
+greaterThan(?maxDepth, 60.0)
+->
+(?t Turbine:hasFoundation "Floating")
+]
+
+[rule6.2---AssignFoundationType-Monopile:
+(?t Turbine:hasSeaDepth ?sd)
+(?sd SeaDepth:hasMaxDepth ?maxDepth)
+le(?maxDepth, 60.0)
+->
+(?t Turbine:hasFoundation "Monopile")
+]
+
+[rule7---ConnectionToCable-Turbines:
+(?t Turbine:hasGeometry ?tGeom)
+(?c Cable:hasGeometry ?cGeom)
+isTouching(?tGeom, ?cGeom)
+->
+(?t Turbine:hasCable ?c)]
+
+
+
+// -------------------------------------- WindFarm --------------------------------------
+[rule20---WindFarm-InWindLeaseArea:
+(?wf WindFarm:hasGeometry ?wfGeom)
+(?wl WindLease:hasGeometry ?wlGeom)
+(?wf WindFarm:hasGeometry ?wfGeom)
+(?wl WindLease:hasGeometry ?wlGeom)
+isIntersect(?wfGeom, ?wlGeom)
+->
+(?wf WindFarm:InWindLeaseArea "true")]
+
+[rule21---CoralProtectionAreas-WindFarm:
+(?wf WindFarm:hasGeometry> ?wfGeom)
+(?c Coral:hasGeometry> ?cGeom)
+isIntersect(?wfGeom, ?cGeom)
+->
+(?wf WindFarm:violateCoralProtectionArea "true")]
+
+[rule22---EssentialFishHabitat-WindFarm:
+(?wf WindFarm:hasGeometry> ?wfGeom)
+(?efh EFH:hasGeometry> ?efhGeom)
+isIntersect(?wfGeom, ?efhGeom)
+->
+(?wf WindFarm:InEFH> "true")]

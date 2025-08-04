@@ -1,0 +1,26 @@
+@prefix cee: <windfarm/Turbine#>.
+
+// Rule 01: Assign NEW property based on RotorConeAngle and RatedWindSpeed
+[rule1:
+    (?t cee:hasRotorConeAngle ?theta)
+    (?t cee:hasRatedWindSpeed ?u)
+    ->
+    (?t cee:hasTEST1 true)
+]
+
+// Rule 02: Assign TEST property if RotorConeAngle is greater than or equal to 10
+[rule2:
+    (?t cee:hasRotorConeAngle ?theta)
+    (?t cee:hasRatedWindSpeed ?u)
+    ge(?theta, 10)
+    ->
+    (?t cee:hasTEST2 true)
+]
+
+// Rule 3: Test custom rule
+[rule3:
+    (?t cee:hasRotorConeAngle ?theta)
+    getSquare(?theta, ?squaredTheta)
+    ->
+    (?t cee:hasTEST4 ?squaredTheta)
+]
