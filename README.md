@@ -1,6 +1,6 @@
 # LSDTs: LLM-Augmented Semantic Digital Twins for Adaptive Knowledge-Intensive Infrastructure Planning
 
-This repository accompanies the AAAI paper:
+This repository accompanies the source codes for an AAAI submission:
 
 **"LSDTs: LLM-Augmented Semantic Digital Twins for Adaptive Knowledge-Intensive Infrastructure Planning."**
 
