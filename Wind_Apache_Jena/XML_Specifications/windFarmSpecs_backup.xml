@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<WindFarmSpecs>
+    <AEP>200.0</AEP>
+    <farmPowerOutput>200.0</farmPowerOutput>
+    <geometry>POLYGON ((-75.02 38.35, -75.02 38.42, -74.95 38.42, -74.95 38.35, -75.02 38.35))</geometry>
+    <location>0.0</location>
+    <numberOfTurbines>25.0</numberOfTurbines>
+    <numberOfTurbinesPerRow>5.0</numberOfTurbinesPerRow>
+    <site>Site1</site>
+    <turbineSpacing>5.0</turbineSpacing>
+    <windFarmID>WindFarm1</windFarmID>
+</WindFarmSpecs>

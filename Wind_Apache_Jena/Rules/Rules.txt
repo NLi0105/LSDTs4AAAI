@@ -1,0 +1,104 @@
+// --------------- GeoSpatial rules --------------------------------
+
+// ------------------ Turbine positions ------------------------------
+[ruleInside:
+(?t <windfarm/Turbine#hasGeometry> ?p)
+(?w <windfarm/WindFarm#hasGeometry> ?poly)
+isInside(?p, ?poly)
+->
+(?t <windfarm/Turbine#hasInside> "true")]
+
+[ruleOutside:
+(?t <windfarm/Turbine#hasGeometry> ?p)
+(?w <windfarm/WindFarm#hasGeometry> ?poly)
+isOutside(?p, ?poly)
+->
+(?t <windfarm/Turbine#hasOutside> "true")]
+
+[ruleIntersect:
+(?t <windfarm/Turbine#hasGeometry> ?p)
+(?w <windfarm/WindFarm#hasGeometry> ?poly)
+isIntersect(?p, ?poly)
+->
+(?t <windfarm/Turbine#hasIntersect> "true")]
+
+[ruleTouch:
+(?t <windfarm/Turbine#hasGeometry> ?p)
+(?w <windfarm/WindFarm#hasGeometry> ?poly)
+isTouching(?p, ?poly)
+->
+(?t <windfarm/Turbine#hasTouching> "true")]
+
+[ruleWithinDistance:
+(?t <windfarm/Turbine#hasGeometry> ?p)
+(?w <windfarm/WindFarm#hasGeometry> ?poly)
+isWithinDistance(?p, ?poly, 100.5)
+->
+(?t <windfarm/Turbine#hasWithinDistance> "true")]
+
+// -------------------------------------------------------------------
+
+// --------------------- Wind Farm position --------------------------
+
+[rule---WindFarmWithinWindLeaseAreas:
+(?w <windfarm/WindFarm#hasGeometry> ?poly)
+(?l <windfarm/MSP/WindLease#hasGeometry> ?lease)
+isInside(?poly, ?lease)
+->
+(?w <windfarm/WindFarm#hasInsideLeaseArea> "true")]
+
+[rule---WindFarmInterfereNOAAMarineProtectedAreas:
+(?w <windfarm/WindFarm#hasGeometry> ?poly)
+(?n <windfarm/MSP/NOAA#hasGeometry> ?map)
+isIntersect(?poly, ?map)
+->
+(?w <windfarm/WindFarm#hasInterfereMAP> "true")]
+
+[rule---WindFarmInterfereEssentialFishHabitat:
+(?w <windfarm/WindFarm#hasGeometry> ?poly)
+(?e <windfarm/MSP/EFH#hasGeometry> ?efh)
+isIntersect(?poly, ?efh)
+->
+(?w <windfarm/WindFarm#hasInterfereEFH> "true")]
+
+[rule---WindFarmInterfereDangerZone:
+(?w <windfarm/WindFarm#hasGeometry> ?poly)
+(?d <windfarm/MSP/DangerZone#hasGeometry> ?dz)
+isIntersect(?poly, ?dz)
+->
+(?w <windfarm/WindFarm#hasInterfereDangerZone> "true")]
+
+[rule---WindFarmInterfereCoralProtection:
+(?w <windfarm/WindFarm#hasGeometry> ?poly)
+(?c <windfarm/MSP/CoralProtection#hasGeometry> ?cp)
+isIntersect(?poly, ?cp)
+->
+(?w <windfarm/WindFarm#hasInterfereCoralProtection> "true")]
+
+// -------------------------------------------------------------------
+
+// --------------------- Wind Resource rules -------------------------
+[ruleWindFarmWindSpeed:
+  (?wf <windfarm/WindFarm#hasGeometry> ?wfGeom)
+  (?ws <windfarm/MSP/WindSpeed#hasGeometry> ?wsGeom)
+  (?ws <windfarm/MSP/WindSpeed#hasMinWindSpeed> ?minSpeed)
+  (?ws <windfarm/MSP/WindSpeed#hasMaxWindSpeed> ?maxSpeed)
+  isIntersect(?wfGeom, ?wsGeom)
+  ->
+  (?wf <windfarm/WindFarm#hasMinWindSpeed> ?minSpeed)
+  (?wf <windfarm/WindFarm#hasMaxWindSpeed> ?maxSpeed)
+]
+// -------------------------------------------------------------------
+
+// --------------------- Triple manipulation rules -------------------
+
+[ruleChangeValue:
+(?t <windfarm/Turbine#hasTurbineStatus> ?ts)
+(?wr <windfarm/WindResource#hasWindSpeed50M> ?ws50)
+(?t <windfarm/Turbine#hasCutOutWindSpeed> ?cw)
+greaterThan(?ws50, ?cw)
+changeTo(?t <windfarm/Turbine#hasTurbineStatus> "Not Active" ?newStatus)
+->
+(?t <windfarm/Turbine#hasTurbineStatus> ?newStatus)]
+
+// -------------------------------------------------------------------
