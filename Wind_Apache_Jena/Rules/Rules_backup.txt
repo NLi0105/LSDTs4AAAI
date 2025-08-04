@@ -1,0 +1,75 @@
+[rule1:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasRotorConeAngle> ?theta)
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasRatedWindSpeed> ?u)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasTEST1> true)]
+
+[rule2:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasRotorConeAngle> ?theta)
+greaterThan(?theta, 1)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasTEST2> true)]
+
+[rule3:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasRotorConeAngle> ?theta)
+le(?theta, 100)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasTEST3> true)]
+
+[rule4:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasRotorConeAngle> ?theta)
+getSquare(?theta, ?squaredTheta)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasTEST4> ?squaredTheta)]
+
+// --------------- GeoSpatial rules --------------------------------
+
+[ruleInside:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasGeometry> ?p)
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+isInside(?p, ?poly)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasInside> true)]
+
+[ruleOutside:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasGeometry> ?p)
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+isOutside(?p, ?poly)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasOutside> true)]
+
+[ruleIntersect:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasGeometry> ?p)
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+isIntersect(?p, ?poly)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasIntersect> true)]
+
+[ruleTouch:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasGeometry> ?p)
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+isTouching(?p, ?poly)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasTouching> true)]
+
+[ruleWithinDistance:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasGeometry> ?p)
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+isWithinDistance(?p, ?poly, 100.5)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasWithinDistance> true)]
+
+// -------------------------------------------------------------------
+
+// --------------------- Triple manipulation rules -------------------
+
+[ruleChangeValue:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasTurbineStatus> ?ts)
+(?wr <http://www.cee.umd.edu/Energy/WindResource#hasWindSpeed50M> ?ws50)
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasCutOutWindSpeed> ?cw)
+greaterThan(?ws50, ?cw)
+changeTo(?t <http://www.cee.umd.edu/Energy/Turbine#hasTurbineStatus> "Not Active" ?newStatus)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasTurbineStatus> ?newStatus)]
+
+// -------------------------------------------------------------------

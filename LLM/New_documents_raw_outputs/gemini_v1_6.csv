@@ -1,0 +1,192 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"6","gemini","gemini-1.5-pro",1002887,723474,24,20,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Final Environmental Assessment"",
+    ""project_name"": ""Commercial Wind Lease Issuance and Site Assessment Activities"",
+    ""project_location"": ""Atlantic Outer Continental Shelf Offshore New Jersey, Delaware, Maryland and Virginia""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Meteorological Tower"",
+      ""description"": ""Structure for collecting wind and meteorological data."",
+      ""source_section_number"": ""3.1.3.1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Meteorological Buoy"",
+      ""description"": ""Floating device for collecting wind and meteorological data."",
+      ""source_section_number"": ""3.1.3.2""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Transmission Cable"",
+      ""description"": ""Cable for transmitting power to shore."",
+      ""source_section_number"": ""3.1.2.1""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Meteorological towers must be 90-100 meters above mean sea level."",
+      ""value"": 90,
+      ""unit"": ""m"",
+      ""source_section_number"": ""3.1.3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Once installed, the top of a meteorological tower would be 90-100 m (295-328 ft) above mean sea level.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Meteorological tower foundations must be driven 25 to 100 feet into the seafloor."",
+      ""value"": 25,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""3.1.3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The monopole or piles would be driven anywhere from 25 to 100 feet (ft) into the seafloor.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Bottom-founded structures must be severed at least 5 meters below the mudline."",
+      ""value"": 5,
+      ""unit"": ""m"",
+      ""source_section_number"": ""3.1.3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""As required by BOEM, the lessee would sever bottom-founded structures and their related components at least 5 m (15 ft) below the mudline to ensure that nothing would be exposed that could interfere with future lessees and other activities in the area (30 CFR 585.910(a)).""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Geophysical survey grids for transmission cable routes must include a minimum 300-meter-wide corridor."",
+      ""value"": 300,
+      ""unit"": ""meter"",
+      ""source_section_number"": ""3.1.2.1"",
+      ""geographic_scope"": ""Transmission Cable Route"",
+      ""context_quote"": ""The geophysical survey grid(s) for proposed transmission cable route(s) to shore would likely include a minimum 300 meter-wide corridor centered on the anticipated transmission cable location(s) to characterize the seabed locations where physical disturbances may occur (e.g., anchoring of vessels installing the cable or movement of the proposed cable location, if necessary).""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Safety Standard"",
+      ""description"": ""Meteorological towers taller than 199 ft require a “Notice of Proposed Construction or Alteration” filed with the FAA."",
+      ""value"": 199,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""3.1.3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""If meteorological towers are taller than 199 ft as BOEM anticipates, the lessee would also be required to file a “Notice of Proposed Construction or Alteration” with the Federal Aviation Administration (FAA) per federal aviation regulations (14 CFR 77.13).""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Safety Standard"",
+      ""description"": ""Meteorological towers within 12 nautical miles of shore and greater than 199 feet tall require an FAA obstruction evaluation analysis."",
+      ""value"": 199,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""3.1.3.1"",
+      ""geographic_scope"": ""Within 12 nautical miles of shore"",
+      ""context_quote"": ""Within 12 nm of shore, any meteorological tower greater than 199 ft tall would also require an FAA obstruction evaluation analysis, to determine if the meteorological tower would pose a hazard to air traffic.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""High resolution geophysical surveys and the installation and decommissioning of meteorological facilities are not permitted during peak right whale migration (November to April)."",
+      ""source_section_number"": ""4.4"",
+      ""geographic_scope"": ""All four Mid-Atlantic WEAs"",
+      ""context_quote"": ""high resolution geophysical (HRG) surveys and the installation and decommissioning of meteorological facilities would not be permitted during the peak migration of right whales, which is also when other marine mammals are most likely to be present.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""No meteorological towers or buoys are permitted within 1 nautical mile of any TSS boundary."",
+      ""value"": 1,
+      ""unit"": ""nm"",
+      ""source_section_number"": ""4.1.3.7.2"",
+      ""geographic_scope"": ""Within 1 nautical mile of any TSS boundary"",
+      ""context_quote"": ""no meteorological towers or buoys would be located within 1 nm of any TSS boundary until further analysis and the ACPARS is completed by the USCG""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Manages the mineral resources located on the Nation's Outer Continental Shelf."",
+      ""source_section_number"": ""Introduction""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""entity_acronym"": ""USDOI"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Oversees BOEM."",
+      ""source_section_number"": ""Introduction""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Council on Environmental Quality"",
+      ""entity_acronym"": ""CEQ"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provides regulations for environmental assessments."",
+      ""source_section_number"": ""Background""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""United States Coast Guard"",
+      ""entity_acronym"": ""USCG"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provides navigational safety recommendations and regulates Private Aids to Navigation."",
+      ""source_section_number"": ""Environmental and Socioeconomic Consequences of Alternative A (Full Leasing of WEAs)""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Consulted on impacts to marine mammals, sea turtles, and essential fish habitat."",
+      ""source_section_number"": ""4.1.2.3""
+    },
+    {
+      ""entity_id"": ""E-06"",
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""entity_acronym"": ""USFWS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Consulted on impacts to birds."",
+      ""source_section_number"": ""4.1.2.5""
+    },
+    {
+      ""entity_id"": ""E-07"",
+      ""entity_name"": ""Federal Aviation Administration"",
+      ""entity_acronym"": ""FAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Regulates marking and lighting of meteorological towers."",
+      ""source_section_number"": ""3.1.3.1""
+    },
+    {
+      ""entity_id"": ""E-08"",
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""entity_acronym"": ""USACE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Authorizes the siting of meteorological towers."",
+      ""source_section_number"": ""3.1.3.1""
+    },
+    {
+      ""entity_id"": ""E-09"",
+      ""entity_name"": ""Mid-Atlantic Fishery Management Council"",
+      ""entity_acronym"": ""MAFMC"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Manages fishery resources in the Mid-Atlantic region."",
+      ""source_section_number"": ""4.1.2.7.1.2""
+    }
+  ]
+}
+```"

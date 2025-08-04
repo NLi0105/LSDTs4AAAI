@@ -1,0 +1,4444 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+29,1,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SITE ASSESSMENT PLAN\nMaryland Offshore Wind Project"",
+    ""document_number"": ""U167"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""The Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+29,2,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Provide Consistency Certification (585.611(b)(9))"",
+      ""scope"": ""Project permitting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(9)"",
+      ""related_domains"": [""permitting"", ""legal""]
+    },
+    {
+      ""type"": ""Financial"",
+      ""requirement"": ""Provide Financial Assurance Information (585.610(a)(14))"",
+      ""scope"": ""Project financing"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(14)"",
+      ""related_domains"": [""financial security"", ""insurance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide a description of the proposed activity (585.610(A)(2))"",
+      ""scope"": ""Project planning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(A)(2)"",
+      ""related_domains"": [""project description"", ""planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""State the objectives of the project (585.610(a)(2))"",
+      ""scope"": ""Project planning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(2)"",
+      ""related_domains"": [""objectives"", ""planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide a location plat (585.610(a)(5))"",
+      ""scope"": ""Meteorological Tower & Oceanographic Package"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(5)"",
+      ""related_domains"": [""site location"", ""mapping""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Describe the general structure and project design (585.610(a)(6) and 585.610(a)(7))"",
+      ""scope"": ""Meteorological Tower & Oceanographic Package"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(6) and 585.610(a)(7)"",
+      ""related_domains"": [""structural design"", ""engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Describe the fabrication and installation procedures for the proposed MET tower (585.610(a)(6) and 585.610(a)(7))"",
+      ""scope"": ""Meteorological Tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(6) and 585.610(a)(7)"",
+      ""related_domains"": [""fabrication"", ""installation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Describe operational activities (related to the MET tower and oceanographic package) (585.610(a)(6) and 585.610(a)(7))"",
+      ""scope"": ""Meteorological Tower & Oceanographic Package"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(6) and 585.610(a)(7)"",
+      ""related_domains"": [""operations"", ""maintenance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Describe decommissioning and site clearance procedures (585.610(a)(11))"",
+      ""scope"": ""Meteorological Tower & Oceanographic Package"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(11)"",
+      ""related_domains"": [""decommissioning"", ""site remediation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,3,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2-12 to 3-17"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Site Characterization, including Geological assessment"",
+      ""scope"": ""Site Characterization"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(b)(1) and 585.610(b)(4)"",
+      ""related_domains"": [""site investigation"", ""geology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Geotechnical Survey"",
+      ""scope"": ""Site Characterization"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(b)(1) and 585.610(b)(4)"",
+      ""related_domains"": [""site investigation"", ""geotechnical engineering""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assessment of Shallow Hazards"",
+      ""scope"": ""Site Characterization"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(1)"",
+      ""related_domains"": [""site investigation"", ""hazard assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Benthic Surveys"",
+      ""scope"": ""Site Characterization"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(b)(5)"",
+      ""related_domains"": [""site investigation"", ""benthic ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Archeological Survey"",
+      ""scope"": ""Site Characterization"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(b)(3)"",
+      ""related_domains"": [""site investigation"", ""archeology"", ""cultural heritage""]
+    },
+        {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Geological assessment as part of Affected Environment and Environmental Impacts assessment"",
+      ""scope"": ""Environmental Impact Assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(1)"",
+      ""related_domains"": [""environmental impact assessment"", ""geology""]
+    }
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,4,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3-18 to 3-32"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mitigation Measures must be considered/implemented."",
+      ""scope"": ""Impacts related to Coastal Habitats & Terrestrial Mammals"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""environmental impact assessment"", ""mitigation planning"", ""coastal habitats"", ""terrestrial mammals""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Address Water Quality impacts."",
+      ""scope"": ""Water Quality"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(2)"",
+      ""related_domains"": [""water quality"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mitigation Measures must be considered/implemented."",
+      ""scope"": ""Water Quality Impacts"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""environmental impact assessment"", ""mitigation planning"", ""water quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Address impacts on Benthic Resources."",
+      ""scope"": ""Benthic Resources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(3-5)"",
+      ""related_domains"": [""benthic resources"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,5,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mitigation Measures"",
+      ""scope"": ""Unspecified"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""environmental mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Fisheries and Essential Fish Habitat considerations"",
+      ""scope"": ""Unspecified"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(3-5)"",
+      ""related_domains"": [""fisheries"", ""essential fish habitat""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mitigation Measures"",
+      ""scope"": ""Unspecified"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""environmental mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Marine Mammals and Sea Turtles considerations"",
+      ""scope"": ""Unspecified"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(3-5)"",
+      ""related_domains"": [""marine mammals"", ""sea turtles""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,6,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,7,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3-82 to 3-133"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Consideration of impacts of routine activities."",
+      ""scope"": ""Routine activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mitigation measures must be implemented."",
+      ""scope"": ""Unspecified"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""environmental impact assessment"", ""mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assessment of archaeological resources."",
+      ""scope"": ""Archaeological resources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(6)"",
+      ""related_domains"": [""archaeological impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mitigation measures must be implemented."",
+      ""scope"": ""Archaeological resources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""archaeological impact assessment"", ""mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assessment of visual resources."",
+      ""scope"": ""Visual resources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(7)"",
+      ""related_domains"": [""visual impact assessment""]
+    }
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,8,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,9,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3-160 to 4-173"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Consider potential fishery activity exposure to WEA activities."",
+      ""scope"": ""Potential impacts on fisheries from wind energy area (WEA) activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""fisheries"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Socioeconomic"",
+      ""requirement"": ""Address socioeconomics."",
+      ""scope"": ""Socioeconomic impacts of the project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(6)"",
+      ""related_domains"": [""socioeconomics"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Provide references."",
+      ""scope"": ""References for all information provided."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(A)(10)"",
+      ""related_domains"": [""documentation"", ""reporting""]
+    }
+
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,10,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,11,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,12,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,13,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Rev.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+29,14,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project – Rev.2"",
+    ""document_number"": ""Page i"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""US Wind has and will continue to comply with the stipulations in these leases as they relate to the development and approval of this Site Assessment Plan (SAP) and SAP activities."",
+      ""scope"": ""Maryland Wind Energy Areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM leases for the Maryland Wind Energy Areas (OCS-A-0489 and OCS-A-0490)"",
+      ""related_domains"": [""leasing"", ""site assessment"", ""permitting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+29,15,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 1-2, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""US Wind proposes to conduct SAP activities in a manner that will not unreasonably interfere with or endanger other approved activities"",
+      ""scope"": ""Site assessment activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Leases (implied from document)"",
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""US Wind proposes to conduct SAP activities in a manner that will not cause any undue harm or damage to the environment"",
+      ""scope"": ""Site assessment activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Leases (implied from document)"",
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""US Wind proposes to conduct SAP activities in a manner that will not create hazardous or unsafe conditions"",
+      ""scope"": ""Site assessment activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Leases (implied from document)"",
+      ""related_domains"": [""occupational safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""US Wind proposes to conduct SAP activities in a manner that will not adversely affect resources of historic, cultural or archeological significance"",
+      ""scope"": ""Site assessment activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Leases (implied from document)"",
+      ""related_domains"": [""cultural heritage"", ""archaeology""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+29,16,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 1-3, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Offshore Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""US Army Corps of Engineers (USACE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""NOAA National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""US Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""US Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Maryland Department of Environment (MD DER)"",
+      ""jurisdiction"": ""State - Maryland"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""DOD Fleet Forces Command / Virginia Capes Operating Area (VCAPES OREA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation authority""
+    },
+        {
+      ""entity_name"": ""Federal Aviation Administration (FAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Jurisdictional Authority""
+    }
+  ]
+}
+```"
+29,17,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 1-4, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""US Wind will continue to provide notifications as required during construction and operation of the MET tower, and prior to decommissioning."",
+      ""scope"": ""MET tower construction, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""permitting"", ""reporting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and oversight""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight (marine life)""
+    },
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Navigation safety and maritime security""
+    },
+    {
+      ""entity_name"": ""VCAPES"",
+      ""jurisdiction"": ""State - Virginia"",
+      ""role"": ""Coastal zone management (potentially)"" 
+    }
+  ]
+}
+```"
+29,18,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""State of Maryland"",
+      ""jurisdiction"": ""State - Maryland"",
+      ""role"": ""Coastal Management Program Authority""
+    }
+  ]
+}
+```"
+29,19,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project – Rev.2"",
+    ""document_number"": ""1-5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Before the commencement of the installation of any facility, US Wind, Inc. will provide a Surety Bond, as per the BOEM Bond Form (Appendix A), issued by a primary financial institution, or other approved security, in order to guarantee the commissioning obligation."",
+      ""scope"": ""Facility Installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM regulations (30 CFR 585.610(a)(15), 30 CFR 585.515, 30 CFR 585.516)"",
+      ""related_domains"": [""financial guarantee"", ""commissioning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""US Wind hereby nominates Hawk Technical Support, LLC to act as CVA for Design, Fabrication, and Installation of the MET tower project."",
+      ""scope"": ""MET Tower Design, Fabrication, and Installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR Part 585.706"",
+      ""related_domains"": [""third-party verification"", ""design review"", ""installation oversight""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and regulatory authority""
+    }
+  ]
+}
+```"
+29,20,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing authority""
+    }
+  ]
+}
+```"
+29,21,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The mast and the platform deck will be equipped with the proper safety lighting, markings and signal equipment per Federal Aviation Administration (FAA) and United States Coast Guard (USCG) Private Aids to Navigation (PATON) requirements."",
+      ""scope"": ""MET tower (mast and platform deck)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal Aviation Administration (FAA) and United States Coast Guard (USCG) Private Aids to Navigation (PATON) requirements"",
+      ""related_domains"": [""navigational safety"", ""aviation safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Aviation Administration (FAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety oversight (lighting and marking of structures)""
+    },
+    {
+      ""entity_name"": ""United States Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety oversight (Private Aids to Navigation)""
+    }
+  ]
+}
+```"
+29,22,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project – Rev.2"",
+    ""document_number"": ""Page 2-6, Page 2-7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The objective of establishing the Project is to measure and collect site-specific data in the Maryland WEA that is necessary for the effective and efficient design and construction of an offshore wind farm."",
+      ""scope"": ""Maryland WEA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(2)"",
+      ""related_domains"": [""site assessment"", ""data collection"", ""wind resource"", ""design"", ""construction""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,23,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project – Rev.2"",
+    ""document_number"": ""2-8, 2-9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Location Plat"",
+      ""scope"": ""Maryland Offshore Wind Project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(5)"",
+      ""related_domains"": [""site planning"", ""spatial constraints""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""General Structure and Project Design"",
+      ""scope"": ""MET Tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(6) and 585.610(a)(7)"",
+      ""related_domains"": [""structural design"", ""engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Fabrication and Installation of Proposed MET Tower"",
+      ""scope"": ""MET Tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(6) and 585.610(a)(7)"",
+      ""related_domains"": [""fabrication"", ""installation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,24,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Decommission in accordance with BOEM regulations"",
+      ""scope"": ""Decommissioning of MET tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""decommissioning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority for decommissioning""
+    },
+    {
+      ""entity_name"": ""MD DNR"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Oversight of artificial reef program""
+    },
+    {
+      ""entity_name"": ""DE NREC"",
+      ""jurisdiction"": ""Delaware"",
+      ""role"": ""Oversight of artificial reef program""
+    }
+  ]
+}
+```"
+29,25,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""2-10"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""USCG-required marking and lighting"",
+      ""scope"": ""MET tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG"",
+      ""related_domains"": [""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety oversight""
+    }
+  ]
+}
+```"
+29,26,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Allisions and collisions that result in property or equipment damage greater than $25,000 must be reported."",
+      ""scope"": ""Offshore structures in the Gulf of Mexico and Pacific regions"",
+      ""numerical_value"": 25000,
+      ""unit"": ""USD"",
+      ""source"": null,
+      ""related_domains"": [""incident reporting"", ""safety"", ""vessel operations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,27,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project – Rev.2"",
+    ""document_number"": ""2-11, 2-12, 2-13"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels are expected to comply with USCG requirements relating to prevention and control of oil spills."",
+      ""scope"": ""Vessels operating at the wind farm site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG"",
+      ""related_domains"": [""oil spill prevention"", ""environmental protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and enforcement related to oil spill prevention and response""
+    }
+  ]
+}
+```"
+29,28,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Geological"",
+      ""requirement"": ""Geological survey required."",
+      ""scope"": ""MET tower site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(b)(1) and 585.610(b)(4)"",
+      ""related_domains"": [
+        ""geology"",
+        ""site assessment""
+      ]
+    },
+    {
+      ""type"": ""Geotechnical"",
+      ""requirement"": ""Geotechnical survey required."",
+      ""scope"": ""MET tower site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(b)(1) and 585.610(b)(4)"",
+      ""related_domains"": [
+        ""geotechnical"",
+        ""site assessment""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assessment of shallow hazards required."",
+      ""scope"": ""MET tower site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(1)"",
+      ""related_domains"": [
+        ""shallow hazards"",
+        ""environmental impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Benthic survey required."",
+      ""scope"": ""MET tower site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(b)(5)"",
+      ""related_domains"": [
+        ""benthic environment"",
+        ""environmental impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Archeological survey required."",
+      ""scope"": ""MET tower site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(b)(3)"",
+      ""related_domains"": [
+        ""archeology"",
+        ""cultural heritage"",
+        ""environmental impact assessment""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+29,29,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,30,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,31,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,32,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,33,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,34,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-18, 3-19, 3-20"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""While there is no evidence that these features represent unexploded ordnance (UXO), these areas will be avoided during bottom-disturbing activities"",
+      ""scope"": ""MET tower APE (Area of Potential Effects)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""unexploded ordnance avoidance"", ""site safety"", ""construction safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,35,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,36,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-21, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Project will implement best practices and comply with all applicable regulations to eliminate or minimize the potential for adverse environmental impacts during MET tower construction, operation"",
+      ""scope"": ""MET tower construction and operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,37,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Measures will ensure that any unavoidable impacts to coastal habitats and terrestrial mammals are negligible."",
+      ""scope"": ""Coastal habitats and terrestrial mammals impacted by accidental events such as spills during construction and decommissioning."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""mammal protection"", ""habitat conservation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,38,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,39,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,40,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,41,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The discharge of bilge and ballast water is regulated under 33 CFR 151.10; which limits the discharge of water mixtures in waters less than 12 nm from shore."",
+      ""scope"": ""Vessel discharges within 12 nautical miles from shore"",
+      ""numerical_value"": 12,
+      ""unit"": ""nm"",
+      ""source"": ""33 CFR 151.10"",
+      ""related_domains"": [""water quality"", ""vessel discharges"", ""marine pollution""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""In coastal waters, bilge and ballast water may be discharged with an oil content of 15 ppm or less"",
+      ""scope"": ""Vessel discharges in coastal waters (less than 12 nm from shore)"",
+      ""numerical_value"": 15,
+      ""unit"": ""ppm"",
+      ""source"": ""33 CFR 151.10"",
+      ""related_domains"": [""water quality"", ""vessel discharges"", ""oil pollution""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""discharges may occur in waters greater than 12 nm from shore if the oil concentration is less than 100 ppm"",
+      ""scope"": ""Vessel discharges in waters beyond 12 nautical miles from shore"",
+      ""numerical_value"": 100,
+      ""unit"": ""ppm"",
+      ""source"": ""33 CFR 151.10"",
+      ""related_domains"": [""water quality"", ""vessel discharges"", ""oil pollution""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""ballast water may be subject to the USCG Ballast Water Management Program to prevent the spread of aquatic nuisance species"",
+      ""scope"": ""Ballast water discharges"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG Ballast Water Management Program"",
+      ""related_domains"": [""invasive species"", ""ballast water management"", ""aquatic ecosystems""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG (United States Coast Guard)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Ballast water management, vessel discharge regulation""
+    },
+    {
+      ""entity_name"": ""USEPA (United States Environmental Protection Agency)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Water quality standards""
+    }
+
+  ]
+}
+```"
+29,42,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-24"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A marine sanitation device (MSD) is required [...] to treat sanitary waste generated on service vessels so that surrounding waters are not impacted by possible bacteria or viruses in the waste."",
+      ""scope"": ""Service vessels operating within the project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 CFR 159"",
+      ""related_domains"": [""wastewater management"", ""water quality"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All vessels with toilet facilities must have a MSD that complies with 40 CFR 140 and 149."",
+      ""scope"": ""Service vessels with toilet facilities operating within the project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 CFR 140 and 149"",
+      ""related_domains"": [""wastewater management"", ""marine sanitation"", ""equipment standards""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The discharge of trash and debris is prohibited in the sea or into the navigable waters of the United States."",
+      ""scope"": ""All vessels operating within the project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 CFR 151.51-77"",
+      ""related_domains"": [""waste management"", ""marine pollution"", ""environmental protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,43,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,44,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-25"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels are expected to comply with USCG requirements relating to prevention and control of oil spills."",
+      ""scope"": ""Vessels involved in construction, operation, and decommissioning of the MET tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG"",
+      ""related_domains"": [""spill prevention"", ""environmental protection"", ""maritime safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and environmental regulations for vessels""
+    }
+  ]
+}
+```"
+29,45,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels engaged in Project activities during construction, operation, and decommissioning will be required to follow applicable regulations related to the discharge of bilge water, gray water, and sanitary waste."",
+      ""scope"": ""Vessels operating during construction, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""waste discharge"", ""marine pollution""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels engaged in Project activities during construction, operation, and decommissioning will be required to maintain up-to-date oil spill response plans"",
+      ""scope"": ""Vessels operating during construction, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""oil spill response"", ""maritime safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels engaged in Project activities during construction, operation, and decommissioning will be required to maintain NPDES permits, as appropriate."",
+      ""scope"": ""Vessels operating during construction, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NPDES"",
+      ""related_domains"": [""wastewater discharge"", ""environmental permitting""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels engaged in Project activities during construction, operation, and decommissioning will be required to adhere to USCG guidelines for safe navigation"",
+      ""scope"": ""Vessels operating during construction, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG"",
+      ""related_domains"": [""navigation safety"", ""collision avoidance""]
+    },
+        {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels will be expected to maintain good maintenance and housekeeping procedures to prevent the discharge of trash and debris"",
+      ""scope"": ""Vessels operating during construction, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""waste management"", ""marine pollution""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Navigation safety guidelines""
+    }
+  ]
+}
+```"
+29,46,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,47,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,48,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,49,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,50,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,51,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,52,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-32"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mitigation primarily consists of avoiding sensitive habitat types, such as hard bottom and live bottom habitats."",
+      ""scope"": ""Benthic habitats within the Site Assessment Plan (SAP) area."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""environmental impact assessment"", ""benthic habitat protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,53,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,54,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,55,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,56,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,57,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,58,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Rev.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ESA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Endangered species protection""
+    }
+  ]
+}
+```"
+29,59,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-45"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Resource management and conservation""
+    }
+  ]
+}
+```"
+29,60,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,61,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,62,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-46, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""BOEM is required to confer with NMFS on any action which is likely to jeopardize the continued existence of the proposed species or result in the destruction or adverse modification of proposed critical habitat."",
+      ""scope"": ""MD WEA (Maryland Wind Energy Area)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""endangered species protection"", ""habitat preservation"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS (National Marine Fisheries Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Endangered species protection, consultation on potential impacts to listed species""
+    },
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Offshore wind energy development oversight, consultation with NMFS regarding endangered species""
+    }
+  ]
+}
+```"
+29,63,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,64,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,65,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,66,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,67,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Rev.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Fishery management councils [must] describe and identify EFH in their respective regions"",
+      ""scope"": ""Maryland WEA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act)"",
+      ""related_domains"": [""essential fish habitat"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Fishery management councils [must] specify actions to conserve and enhance EFH"",
+      ""scope"": ""Maryland WEA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act)"",
+      ""related_domains"": [""essential fish habitat"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Fishery management councils [must] minimize the adverse effects of fishing on EFH"",
+      ""scope"": ""Maryland WEA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act)"",
+      ""related_domains"": [""essential fish habitat"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies [must] consult on activities that may adversely affect EFH designated in fishery management plans"",
+      ""scope"": ""Maryland WEA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act)"",
+      ""related_domains"": [""essential fish habitat"", ""fisheries management"", ""interagency consultation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Fishery management councils"",
+      ""jurisdiction"": ""Regional (under Magnuson-Stevens Act)"",
+      ""role"": ""Fishery management, EFH designation and conservation""
+    },
+    {
+      ""entity_name"": ""Federal agencies"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation on activities affecting EFH""
+    }
+
+  ]
+}
+```"
+29,68,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,69,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Pile driving resulting in an SEL level of 187 dB re: 1 uPa [2] - sec and a peak sound pressure level of 206 dB re: 1 uPa peak in any single strike has no potential to cause injury or mortality to fish weighing more than 2 grams."",
+      ""scope"": ""Pile driving activities impacting fish larger than 2 grams"",
+      ""numerical_value"": 187,
+      ""unit"": ""dB re: 1 uPa [2] - sec"",
+      ""source"": ""NMFS Northwest Regional Office, the US Fish and Wildlife Service, and the Federal Highway Administration"",
+      ""related_domains"": [""marine life protection"", ""noise pollution"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Pile driving resulting in a peak sound pressure level of 206 dB re: 1 uPa peak in any single strike has no potential to cause injury or mortality to fish weighing more than 2 grams."",
+      ""scope"": ""Pile driving activities impacting fish larger than 2 grams"",
+      ""numerical_value"": 206,
+      ""unit"": ""dB re: 1 uPa peak"",
+      ""source"": ""NMFS Northwest Regional Office, the US Fish and Wildlife Service, and the Federal Highway Administration"",
+      ""related_domains"": [""marine life protection"", ""noise pollution"", ""fisheries management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS Northwest Regional Office"",
+      ""jurisdiction"": ""Northwest USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""US Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Federal Highway Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+29,70,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-43, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation authority regarding incidental take of endangered species""
+    }
+  ]
+}
+```"
+29,71,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,72,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-44"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels are expected to comply with USCG requirements relating to prevention and control of oil spills."",
+      ""scope"": ""Vessel refueling during construction, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG"",
+      ""related_domains"": [""spill prevention"", ""environmental protection"", ""maritime safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The discharge or disposal of solid debris into offshore waters from OCS structures and vessels is prohibited"",
+      ""scope"": ""OCS structures and vessels"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM and USCG"",
+      ""related_domains"": [""waste disposal"", ""marine pollution"", ""environmental protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and environmental regulations for vessels""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulations related to Outer Continental Shelf (OCS) activities""
+    }
+  ]
+}
+```"
+29,73,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Adherence to BOEM and NMFS Project Design Criteria (PDC) for marine mammal and sea turtles (NMFS 2011)"",
+      ""scope"": ""Mitigation measures for impacts on fish resources, including Atlantic sturgeon"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM and NMFS Project Design Criteria (PDC) for marine mammal and sea turtles (NMFS 2011)"",
+      ""related_domains"": [""environmental impact assessment"", ""fisheries management"", ""protected species""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels will follow good maintenance and housekeeping procedures to minimize releases of oil and other chemicals to the sea."",
+      ""scope"": ""Vessel operations within the lease area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental protection"", ""spill prevention""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels will maintain up-to-date oil spill response plans and NPDES permits, as appropriate."",
+      ""scope"": ""Vessel operations within the lease area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NPDES"",
+      ""related_domains"": [""environmental protection"", ""spill response""]
+    },
+        {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessel collisions within the lease area and the resulting spills of oil, fuel, and chemicals can be reduced by adherence to USCG guidelines."",
+      ""scope"": ""Vessel operations within the lease area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG"",
+      ""related_domains"": [""navigation safety"", ""spill prevention""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and regulatory oversight""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, specifically for marine species""
+    },
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Navigation safety and spill response""
+    },
+        {
+      ""entity_name"": ""NPDES"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Water pollution control permitting""
+    }
+
+  ]
+}
+```"
+29,74,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-45, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Consideration of impacts on marine mammals and sea turtles."",
+      ""scope"": ""Offshore wind project development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.611(b)(3-5)"",
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,75,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-46"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+29,76,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,77,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-47"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Protection of four sea turtle species listed as endangered or threatened under the ESA."",
+      ""scope"": ""mid-Atlantic WEAs"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ESA"",
+      ""related_domains"": [""endangered species protection"", ""marine biology"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""ESA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority for endangered species""
+    }
+  ]
+}
+```"
+29,78,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Protection of species listed under the ESA."",
+      ""scope"": ""Mid-Atlantic coastal and shelf habitats"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ESA"",
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""endangered species""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ESA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and protection of endangered species""
+    }
+  ]
+}
+```"
+29,79,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,80,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,81,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3-49"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All vessels greater than 19.8 m (65 ft) in overall length must operate at speeds of 10 knots or less within [Seasonal Management Areas (SMAs)] during seasonal time periods."",
+      ""scope"": ""Within Seasonal Management Areas (SMAs) for North Atlantic Right Whales (NARWs), located approximately 25 km (13.5 nautical miles) from the proposed MET location"",
+      ""numerical_value"": 10,
+      ""unit"": ""knots"",
+      ""source"": null,
+      ""related_domains"": [
+        ""vessel traffic management"",
+        ""marine mammal protection"",
+        ""collision avoidance""
+      ]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Vessels must comply with speed restrictions within SMAs during seasonal time periods."",
+      ""scope"": ""Seasonal Management Areas (SMAs) active between November 1 and April 30 each year, located approximately 25 km (13.5 nautical miles) from the proposed MET location."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""vessel traffic management"",
+        ""marine mammal protection"",
+        ""temporal restriction""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,82,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-50"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS (National Marine Fisheries Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+29,83,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,84,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-51"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The fin whale was listed as federally endangered in 1970."",
+      ""scope"": ""U.S. Atlantic Exclusive Economic Zone (EEZ)"",
+      ""numerical_value"": 1970,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""endangered species protection"", ""marine mammal protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,85,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,86,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Sei whales were listed as endangered under the ESA in 1973."",
+      ""scope"": ""Atlantic waters inhabited by the Nova Scotia and Labrador Sea stocks of sei whales"",
+      ""numerical_value"": 1973,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (ESA)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,87,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-52"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federally, Florida manatees were originally listed as an endangered species in 1967 under the Endangered Species Preservation Act of 1966. The original listing was subsequently adopted under the Endangered Species Act of 1973 and manatees continue to be identified as a federally endangered species and strategic stock."",
+      ""scope"": ""Florida manatees within the northwestern Atlantic"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act of 1973"",
+      ""related_domains"": [""endangered species protection"", ""marine mammal protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,88,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,89,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-53"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Loggerhead sea turtles are listed as threatened under the ESA."",
+      ""scope"": ""U.S. Atlantic waters, specifically from Florida to Massachusetts and in the Gulf of Mexico from Florida to Texas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ESA"",
+      ""related_domains"": [""endangered species protection"", ""marine wildlife conservation"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,90,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,91,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-54"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Leatherbacks are listed as endangered under the ESA."",
+      ""scope"": ""Maryland Offshore Wind Project Lease Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ESA"",
+      ""related_domains"": [""endangered species protection"", ""marine wildlife conservation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,92,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,93,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-55"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""RMS received levels of 180 dB re 1µPa (cetaceans) and 190 dB re 1µPa (pinniped) for potential injury"",
+      ""scope"": ""Impacts to marine mammals"",
+      ""numerical_value"": 180,
+      ""unit"": ""dB re 1µPa"",
+      ""source"": ""NMFS"",
+      ""related_domains"": [""marine mammal protection"", ""acoustic impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""RMS received levels of 190 dB re 1µPa for potential injury (pinniped)"",
+      ""scope"": ""Impacts to marine mammals"",
+      ""numerical_value"": 190,
+      ""unit"": ""dB re 1µPa"",
+      ""source"": ""NMFS"",
+      ""related_domains"": [""marine mammal protection"", ""acoustic impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""RMS received levels of 160 dB re 1µPa for behavioral disturbance/harassment from a non-continuous noise source"",
+      ""scope"": ""Impacts to marine mammals"",
+      ""numerical_value"": 160,
+      ""unit"": ""dB re 1µPa"",
+      ""source"": ""NMFS"",
+      ""related_domains"": [""marine mammal protection"", ""acoustic impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""RMS received levels of 120 dB re 1µPa for behavioral disturbance/harassment from a continuous noise source"",
+      ""scope"": ""Impacts to marine mammals"",
+      ""numerical_value"": 120,
+      ""unit"": ""dB re 1µPa"",
+      ""source"": ""NMFS"",
+      ""related_domains"": [""marine mammal protection"", ""acoustic impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+29,94,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,95,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-56"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Implementation of exclusion zones of 7 km (for 160 dB sound levels) and 1 km (for 180 dB) during pile driving to mitigate potential adverse impacts of noise on marine mammals."",
+      ""scope"": ""Pile driving activities during construction"",
+      ""numerical_value"": 7,
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""noise pollution"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Implementation of exclusion zones of 1 km (for 180 dB sound levels) during pile driving to mitigate potential adverse impacts of noise on marine mammals."",
+      ""scope"": ""Pile driving activities during construction"",
+      ""numerical_value"": 1,
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""noise pollution"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monitoring of exclusion zones, soft start, and stopping pile driving activity when marine mammals and sea turtles are present."",
+      ""scope"": ""Pile driving activities during construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM and NMFS PDCs"",
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""noise pollution"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+29,96,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,97,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-57"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All vessel operators must abide by “Whale-watching Guidelines,” which contain vessel approach protocols derived from the MMPA. These guidelines identify safe navigational practices based on speed and distance limitations when encountering marine mammals."",
+      ""scope"": ""Vessel operations during construction, maintenance, or decommissioning of the MET tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s PDC (Plan of Development and Construction) referencing MMPA (Marine Mammal Protection Act)"",
+      ""related_domains"": [""marine mammal protection"", ""navigational safety"", ""vessel operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and regulatory oversight""
+    }
+  ]
+}
+```"
+29,98,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,99,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The discharge or disposal of solid debris into offshore waters from OCS structures and vessels is prohibited."",
+      ""scope"": ""Offshore waters from Outer Continental Shelf (OCS) structures and vessels"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM (30 CFR 250.300) and the USCG (MARPOL, Annex V, Public Law 100−220 (101 Stat. 1458))"",
+      ""related_domains"": [""pollution prevention"", ""marine ecosystem protection"", ""waste management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental regulation of offshore energy development""
+    },
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maritime safety and environmental protection""
+    }
+  ]
+}
+```"
+29,100,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-58"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Removal of the piles would be accomplished by cutting the piles at a depth of 4.6 m (15 ft) below the mudline"",
+      ""scope"": ""Decommissioning of MET towers"",
+      ""numerical_value"": 4.6,
+      ""unit"": ""m"",
+      ""source"": ""30 CFR 585.910"",
+      ""related_domains"": [""decommissioning"", ""structural removal""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,101,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All vessels and aircraft whose operations are authorized under or regulated by the terms of a BOEMRE-issued renewable energy lease would be required to abide by the NOAA Fisheries Northeast Regional Viewing Guidelines, as updated through the life of the project."",
+      ""scope"": ""Vessel and aircraft operations within a BOEMRE-issued renewable energy lease area."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Fisheries Northeast Regional Viewing Guidelines"",
+      ""related_domains"": [
+        ""marine mammal protection"",
+        ""sea turtle protection"",
+        ""vessel operations"",
+        ""aircraft operations""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEMRE (Bureau of Ocean Energy Management, Regulation and Enforcement)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and permitting authority for renewable energy projects in federal waters""
+    },
+    {
+      ""entity_name"": ""NOAA Fisheries (National Oceanic and Atmospheric Administration Fisheries)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Protection of marine mammals and sea turtles, issuing viewing guidelines""
+    },
+        {
+      ""entity_name"": ""NMFS (National Marine Fisheries Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and consultation regarding impacts on marine species.""
+    }
+  ]
+}
+```"
+29,102,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-59"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All vessels conducting activities in support of plan (i.e., SAP and COP) submittal comply with the vessel-strike avoidance measures specified in stipulation (1.2), except under extraordinary circumstances when complying with these requirements would put the safety of the vessel or crew at risk."",
+      ""scope"": ""Vessel operations related to SAP and COP submittal"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Stipulation (1.2)"",
+      ""related_domains"": [""vessel safety"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessel operators and crews maintain a vigilant watch for cetaceans, pinnipeds, and sea turtles and slow down or stop their vessel to avoid striking these protected species."",
+      ""scope"": ""Vessel operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Stipulation (1.2)"",
+      ""related_domains"": [""protected species"", ""environmental impact assessment"", ""marine wildlife protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All vessel operators must comply with vessel strike reduction measures for North Atlantic right whales implemented by NMFS, including Special Management Areas (SMAs) and Dynamic Management Areas (DMAs)."",
+      ""scope"": ""Vessel operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS"",
+      ""related_domains"": [""protected species"", ""environmental impact assessment"", ""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All vessels greater than 65 feet in length operating in a DMA must operate at speeds less than 10 knots."",
+      ""scope"": ""Vessels operating in a DMA (Dynamic Management Area)"",
+      ""numerical_value"": 65,
+      ""unit"": ""feet"",
+      ""source"": ""BOEMRE renewable energy lease terms, referencing NMFS regulations"",
+      ""related_domains"": [""protected species"", ""environmental impact assessment"", ""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All vessels 65 feet in length or greater operating in the November 1 - April 30 time frame must operate at speeds less than 10 knots."",
+      ""scope"": ""Vessels operating within the project area during November 1 - April 30"",
+      ""numerical_value"": 65,
+      ""unit"": ""feet"",
+      ""source"": ""BOEMRE renewable energy lease terms, referencing NMFS regulations"",
+      ""related_domains"": [""protected species"", ""environmental impact assessment"", ""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All vessels maintain a separation distance of 500 meters (1,640 ft) or greater from any sighted North Atlantic right whale."",
+      ""scope"": ""All vessels"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""Stipulation (1.2)"",
+      ""related_domains"": [""protected species"", ""environmental impact assessment"", ""marine wildlife protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and regulation of vessel interactions with protected marine species""
+    },
+    {
+      ""entity_name"": ""BOEMRE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Renewable energy lease issuing and regulatory oversight""
+    }
+  ]
+}
+```"
+29,103,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-60"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any vessel must steer a course away from any North Atlantic right whale at 10 knots (18.5 km/h) or less until the 500 meters (1,640 ft) minimum separation distance has been established."",
+      ""scope"": ""Vessel operations near North Atlantic right whales"",
+      ""numerical_value"": 10,
+      ""unit"": ""knots"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If a North Atlantic right whale is sighted within 100 meters (328 ft) to an underway vessel, the vessel operator must immediately reduce speed and promptly shift the engine to neutral. The vessel operator must not engage the engines until the North Atlantic right whale has moved beyond 100 meters (328 ft)."",
+      ""scope"": ""Vessel operations near North Atlantic right whales"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If a vessel is stationary, the vessel must not engage engines until the North Atlantic right whale has moved beyond 100 meters (328ft)."",
+      ""scope"": ""Vessel operations near North Atlantic right whales"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All vessels maintain a separation distance of 100 meters (328 ft) or greater from any sighted non-delphinoid cetacean."",
+      ""scope"": ""Vessel operations near non-delphinoid cetaceans"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If any non-delphinoid cetacean is sighted, the vessel underway must reduce speed and shift the engine to neutral, and must not engage the engines until the non-delphinoid cetacean has moved beyond 100 meters (328 ft)."",
+      ""scope"": ""Vessel operations near non-delphinoid cetaceans"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If a vessel is stationary, the vessel must not engage engines until the non-delphinoid cetacean has moved beyond 100 meters (328 ft)."",
+      ""scope"": ""Vessel operations near non-delphinoid cetaceans"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All vessels maintain a separation distance of 50 meters (164 ft) or greater from any sighted delphinoid cetacean."",
+      ""scope"": ""Vessel operations near delphinoid cetaceans"",
+      ""numerical_value"": 50,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,104,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-61"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any vessel underway remain parallel to a sighted delphinoid cetacean's course whenever possible, and avoid excessive speed or abrupt changes in direction."",
+      ""scope"": ""Vessel operations during the presence of delphinoid cetaceans"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Stipulation-1.2"",
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels underway may not adjust course and speed until the delphinoid cetaceans have moved beyond 50 meters (164 ft) or the delphinoid cetaceans have moved abeam of the underway vessel."",
+      ""scope"": ""Vessel operations during the presence of delphinoid cetaceans"",
+      ""numerical_value"": 50,
+      ""unit"": ""meters"",
+      ""source"": ""Stipulation-1.2"",
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any vessel underway reduce vessel speed to 10 knots (18.5 km/h) or less when pods (including mother/calf pairs) or large assemblages of delphinoid cetaceans are observed."",
+      ""scope"": ""Vessel operations during the presence of delphinoid cetaceans"",
+      ""numerical_value"": 10,
+      ""unit"": ""knots"",
+      ""source"": ""Stipulation-1.2"",
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels underway do not divert to approach any delphinoid cetacean and/or pinniped."",
+      ""scope"": ""Vessel operations during the presence of delphinoid cetaceans and pinnipeds"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Stipulation-1.2"",
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If a delphinoid cetacean and/or pinniped approaches any vessel underway, the vessel underway must avoid excessive speed or abrupt changes in direction to avoid injury to the delphinoid cetacean and/or pinniped."",
+      ""scope"": ""Vessel operations during interaction with delphinoid cetaceans and pinnipeds"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Stipulation-1.2"",
+      ""related_domains"": [""marine mammal protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All vessels maintain a separation distance of 50 meters (164 ft) or greater from any sighted sea turtle."",
+      ""scope"": ""Vessel operations during the presence of sea turtles"",
+      ""numerical_value"": 50,
+      ""unit"": ""meters"",
+      ""source"": ""Stipulation-1.2"",
+      ""related_domains"": [""sea turtle protection"", ""vessel operation""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All vessel operators are briefed to ensure they are familiar with the requirements specified in Stipulation-1.2."",
+      ""scope"": ""Vessel operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Stipulation-1.2"",
+      ""related_domains"": [""vessel operation"", ""personnel training""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,105,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Pilots operating noise producing aircraft over noise-sensitive areas must fly not less than 2,000 ft above ground level, weather permitting, unless doing so would be impractical or unsafe."",
+      ""scope"": ""Flights over noise-sensitive areas near offshore wind farms"",
+      ""numerical_value"": 2000,
+      ""unit"": ""ft"",
+      ""source"": ""FAA Circular 91-36D"",
+      ""related_domains"": [""noise pollution"", ""aviation safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Pilots maintain an altitude of at least 1,000 ft within sight of marine mammals."",
+      ""scope"": ""Flights within sight of marine mammals near offshore wind farms"",
+      ""numerical_value"": 1000,
+      ""unit"": ""ft"",
+      ""source"": ""National Marine Fisheries Service (NMFS) guidelines and regulations"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that vessel operators, employees, and contractors actively engaged in activity in support of plan (i.e., SAP and COP) submittal are briefed on marine trash and debris awareness and elimination, as described in the BSEE NTL No. 2012-GOl (\""Marine Trash and Debris Awareness and Elimination\"") or any NTL that supersedes this NTL"",
+      ""scope"": ""Vessel operators, employees, and contractors involved in activities supporting plan submittal for offshore wind farms."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BSEE NTL No. 2012-GOl"",
+      ""related_domains"": [""marine pollution"", ""waste management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Aviation Administration (FAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Aviation safety and noise regulation""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Marine mammal protection and environmental regulation""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Offshore energy regulation, including environmental protection""
+    }
+  ]
+}
+```"
+29,106,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-62"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessel crews must report sightings of any injured or dead protected species (marine mammals and sea turtles) immediately, regardless of whether the injury or death is caused by your vessel."",
+      ""scope"": ""All activities (e.g., transiting between port and project site), not only construction activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If the injury or death [of a protected species] was caused by a collision with the lessee's vessel, the lessee must notify BOEM within 24 hours of the strike."",
+      ""scope"": ""Vessel strikes of protected species."",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""incident reporting""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If the Lessee’s activity is responsible for the injury or death [of a protected species], the Lessee must ensure that the vessel assist in any salvage effort as requested by NMFS."",
+      ""scope"": ""Vessel strikes of protected species resulting in injury or death."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""salvage operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Incident reporting and oversight""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Protected species management and salvage operations""
+    }
+  ]
+}
+```"
+29,107,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Prior to the start of construction, the Lessee(s) must hold a briefing to establish responsibilities of each involved party, define the chains of command, discuss communication procedures, provide an overview of monitoring purposes, and review operational procedures."",
+      ""scope"": ""Construction phase, pre-construction activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety procedures"", ""communication protocols"", ""project management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A preliminary 7 km radius exclusion zone for marine mammals and sea turtles must be established around each pile driving site."",
+      ""scope"": ""Construction phase, pile driving activities"",
+      ""numerical_value"": 7,
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""environmental impact mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The 7 km exclusion zone must be monitored from two locations."",
+      ""scope"": ""Construction phase, pile driving activities, environmental monitoring"",
+      ""numerical_value"": 2,
+      ""unit"": ""locations"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal observation"", ""sea turtle observation"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""One observer must be based at or near the sound source and responsible for monitoring the 180 dB field of ensonification out to 1000m from the sound source."",
+      ""scope"": ""Construction phase, pile driving activities, environmental monitoring"",
+      ""numerical_value"": 180,
+      ""unit"": ""dB"",
+      ""source"": null,
+      ""related_domains"": [""noise monitoring"", ""marine mammal observation"", ""environmental impact mitigation""]
+    },
+        {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An additional observer must be located on a separate vessel navigating approximately 4-5 km around the pile hammer monitoring 360° out to 7km from the sound source."",
+      ""scope"": ""Construction phase, pile driving activities, environmental monitoring"",
+      ""numerical_value"": 7,
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal observation"", ""sea turtle observation"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If this method (one observer near the source and one on a vessel) is not sufficient to allow the observers to adequately monitor the exclusion zone such that any marine mammal or sea turtle in the exclusion zone would be detected, additional observers must be used to ensure complete coverage of the exclusion zone."",
+      ""scope"": ""Construction phase, pile driving activities, environmental monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal observation"", ""sea turtle observation"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,108,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-63"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If multiple piles are being driven, the field verification method may be used to modify the exclusion zone. Any new exclusion zone radius must be based on the most conservative measurement (i.e. the largest safety zone configuration) of the 160 dB zone. This zone must be used for all subsequent pile driving and be periodically re-evaluated based on the regular sound monitoring."",
+      ""scope"": ""Pile driving activities during construction"",
+      ""numerical_value"": 160,
+      ""unit"": ""dB"",
+      ""source"": null,
+      ""related_domains"": [""noise pollution"", ""marine ecosystem protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""BOEM in consultation with NMFS must approve any new exclusion zone in order for it to be implemented."",
+      ""scope"": ""Exclusion zone modification"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""permitting"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Field verification of the exclusion zone must take place during pile driving of the first pile if the meteorological tower design includes multiple piles."",
+      ""scope"": ""Pile driving activities during construction of meteorological towers"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""noise pollution""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Acoustic measurements must take place during the driving of the last half (deepest pile segment) for any given open-water pile."",
+      ""scope"": ""Pile driving activities during construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise pollution"", ""data acquisition""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Two reference locations must be established at a distance of 500 m and 5 km from the pile driving."",
+      ""scope"": ""Acoustic measurement during pile driving"",
+      ""numerical_value"": 500,
+      ""unit"": ""m"",
+      ""source"": null,
+      ""related_domains"": [""noise pollution"", ""data acquisition""]
+
+    },
+        {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Two reference locations must be established at a distance of 500 m and 5 km from the pile driving."",
+      ""scope"": ""Acoustic measurement during pile driving"",
+      ""numerical_value"": 5,
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""noise pollution"", ""data acquisition""]
+
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Sound measurements must be taken at the reference location at two depths (a depth at mid-water and a depth at approximately l m above the seafloor)."",
+      ""scope"": ""Acoustic measurement during pile driving"",
+      ""numerical_value"": 1,
+      ""unit"": ""m"",
+      ""source"": null,
+      ""related_domains"": [""noise pollution"", ""data acquisition""]
+    }
+
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+29,109,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No pile-driving will occur at any time when lighting or weather conditions (darkness, rain, fog, sea state, etc.) prevent monitoring of the exclusion zone."",
+      ""scope"": ""Pile-driving activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monitoring of the zones must be conducted by a qualified NMFS approved observer."",
+      ""scope"": ""Exclusion zone monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Visual observations must be made using reticle binoculars and other suitable equipment during daylight hours."",
+      ""scope"": ""Exclusion zone monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""visual monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The number of PSOs must be sufficient to effectively monitor the exclusion zone at all times."",
+      ""scope"": ""Exclusion zone monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""personnel safety"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Observers must not be on watch for more than 4 consecutive hours, with at least a 2-hour break after a 4-hour watch, unless otherwise accepted by the Lessor."",
+      ""scope"": ""Exclusion zone monitoring"",
+      ""numerical_value"": 4,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""personnel safety"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Observers must not work for more than 12 hours in a 24-hour period."",
+      ""scope"": ""Exclusion zone monitoring"",
+      ""numerical_value"": 12,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""personnel safety"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Lessee must provide to the Lessor a list of observers and their résumés no later than forty-five (45) calendar days prior to the scheduled start of construction activity."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": 45,
+      ""unit"": ""calendar days"",
+      ""source"": null,
+      ""related_domains"": [""permitting"", ""personnel qualification""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The résumés of any additional observers must be provided fifteen (15) calendar days prior to each observer’s start date."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": 15,
+      ""unit"": ""calendar days"",
+      ""source"": null,
+      ""related_domains"": [""permitting"", ""personnel qualification""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+29,110,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-64"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any observations concerning impacts on marine mammals or sea turtles must be transmitted to NMFS and BOEM within 48 hours."",
+      ""scope"": ""Offshore wind farm construction (pile driving operations)"",
+      ""numerical_value"": 48,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""environmental monitoring"", ""reporting requirements""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any observed takes of marine mammals or sea turtles resulting in injury or mortality will be immediately (within 24 hours) reported to NMFS and BOEM."",
+      ""scope"": ""Offshore wind farm construction (pile driving operations)"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""environmental monitoring"", ""incident reporting""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Visual monitoring must begin no less than 60 minutes prior to the beginning of soft start and continue until pile driving operations cease or sighting conditions do not allow observation of the sea surface (e.g., fog, rain, darkness, sea state, etc.)."",
+      ""scope"": ""Offshore wind farm construction (pile driving operations)"",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""sea turtle monitoring"", ""visual observation"", ""pre-construction monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""At any time a marine mammal or sea turtle is observed within the exclusion zone, pile driving activity must be shut down."",
+      ""scope"": ""Offshore wind farm construction (pile driving operations)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""exclusion zone"", ""construction safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and reporting""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and reporting""
+    }
+  ]
+}
+```"
+29,111,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Subsequent restart of the pile driving equipment may only occur following clearance of the exclusion zone of any marine mammal or sea turtle for at least 60 minutes."",
+      ""scope"": ""Pile driving activity"",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""noise mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that visual surveys are continued diligently during any pause in pile driving activity."",
+      ""scope"": ""Pile driving activity"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""sea turtle monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If visual surveys are not continued during a pause in pile driving, the observer(s) must notify the Resident Engineer, or other authorized individual that the exclusion zone must be cleared of all marine mammals and sea turtles for 60 minutes, thereafter the lessee must undertake a soft start prior to proceeding with pile driving operations."",
+      ""scope"": ""Pile driving activity"",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""noise mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If a marine mammal or sea turtle is sighted in the exclusion zone prior to the re-start of pile driving, then the exclusion zone must be cleared of all marine mammals and sea turtles for 60 minutes following the sighting, thereafter the lessee must undertake a soft start prior to proceeding with pile driving operations."",
+      ""scope"": ""Pile driving activity"",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""noise mitigation""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Pile driving may not begin during night hours or when the safety radius cannot be adequately monitored (i.e., obscured by fog, sea state, inclement weather, poor lighting conditions, etc.) unless the applicant implements an alternative monitoring method that is agreed to by BOEM and NMFS."",
+      ""scope"": ""Pile driving activity"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visibility"", ""monitoring"", ""safety""]
+    },
+        {
+      ""type"": ""Safety"",
+      ""requirement"": ""Once a pile has been driven through dark or inclement weather following a soft start, the pile driving of the next segment cannot begin until the exclusion zone can be visually or otherwise monitored."",
+      ""scope"": ""Pile driving activity"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visibility"", ""monitoring"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting/Oversight""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting/Oversight""
+    }
+  ]
+}
+```"
+29,112,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-65"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A \""soft start\"" must be implemented at the beginning of each pile installation [...] by allowing [marine mammals and sea turtles] to vacate the area prior to the commencement of pile driving activities."",
+      ""scope"": ""Pile installation activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""noise mitigation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The impact hammer soft start requires 3 strike sets, with a 1-minute wait period between each strike set."",
+      ""scope"": ""Pile installation activities"",
+      ""numerical_value"": 3,
+      ""unit"": ""strike sets"",
+      ""source"": null,
+      ""related_domains"": [""noise mitigation"", ""marine mammal protection"", ""sea turtle protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The initial strike set will be at approximately 10 percent energy, the second strike set at approximately 25 percent energy and the third strike set at approximately 40 percent energy."",
+      ""scope"": ""Pile installation activities"",
+      ""numerical_value"": null, 
+      ""unit"": ""percent energy"",
+      ""source"": null,
+      ""related_domains"": [""noise mitigation"", ""marine mammal protection"", ""sea turtle protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The soft start procedure must not be less than 20 minutes."",
+      ""scope"": ""Pile installation activities"",
+      ""numerical_value"": 20,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""noise mitigation"", ""marine mammal protection"", ""sea turtle protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If marine mammals or sea turtles are sighted within the exclusion zone prior to pile-driving, or during the soft start, [...] delay pile-driving until the animal has moved outside the exclusion zone."",
+      ""scope"": ""Pile installation activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All construction equipment must comply as much as possible with applicable equipment noise standards of the U.S. Environmental Protection Agency"",
+      ""scope"": ""Construction equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Environmental Protection Agency"",
+      ""related_domains"": [""noise mitigation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""all construction equipment must have noise control devices no less effective than those provided on the original equipment."",
+      ""scope"": ""Construction Equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise mitigation""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""Data on all observations must be recorded based on standard marine mammal observer collection data."",
+      ""scope"": ""Construction activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""reporting"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+29,113,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any observations concerning impacts on marine mammals or sea turtles will be transmitted to NMFS and BOEM within 48 hours."",
+      ""scope"": ""Offshore wind farm construction (specifically pile driving)"",
+      ""numerical_value"": 48,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any observed takes of marine mammals or sea turtles resulting in injury or mortality will be immediately (within 24 hours) reported to NMFS and BOEM."",
+      ""scope"": ""Offshore wind farm construction (specifically pile driving)"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""incident reporting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The results of the acoustic monitoring of all pile driving activities are reported to the Lessor and NMFS within 48 hours of foundation installation."",
+      ""scope"": ""Offshore wind farm construction (specifically pile driving)"",
+      ""numerical_value"": 48,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""pile driving"", ""data reporting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A final technical report within 120 days after completion of the pile driving and construction activities must be provided to BOEM and NMFS which provides full documentation of methods and monitoring protocols, summarizes the data recorded during monitoring, estimates the number of marine mammals and sea turtles that may have been taken during construction activities, and provides an interpretation of the results and effectiveness of all monitoring tasks. The report must also include the results and analysis of the field verification of exclusion zone data collected during pile driving activity."",
+      ""scope"": ""Offshore wind farm construction (specifically pile driving)"",
+      ""numerical_value"": 120,
+      ""unit"": ""days"",
+      ""source"": null,
+      ""related_domains"": [""technical reporting"", ""environmental monitoring"", ""impact assessment"", ""exclusion zone verification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The lessee must notify the Lessor and NMFS at least 24 hours prior to the initial commencement of pile driving activities, and again within 24 hours of the completion of all pile driving activities."",
+      ""scope"": ""Offshore wind farm construction (specifically pile driving)"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""notification requirement"", ""pile driving"", ""construction management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+29,114,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,115,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,116,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,117,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,118,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,119,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-71"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ESA (Endangered Species Act)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+29,120,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-72"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USFWS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+29,121,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""FWS (Fish and Wildlife Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+29,122,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-73"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USDOI, FWS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+29,123,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,124,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-74"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The *rufa* red knot (...) was added to the list of threatened species under the ESA"",
+      ""scope"": ""Project Area (potential flyover during migration)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ESA (Federal Register, 2014a)"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USDOI FWS (U.S. Department of the Interior, Fish and Wildlife Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, species protection""
+    }
+  ]
+}
+```"
+29,125,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,126,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-75"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+29,127,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Migratory birds and their nests are protected."",
+      ""scope"": ""Migratory birds within or across international borders"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Migratory Bird Treaty Act (1918)"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,128,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,129,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-76"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Identify species, subspecies, and populations of all migratory nongame birds that, without additional conservation actions, are likely to become candidates for listing under the ESA."",
+      ""scope"": ""Migratory nongame birds"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Fish and Wildlife Conservation Act (1988 Amendment)"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""FWS (Fish and Wildlife Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Species identification and conservation""
+    }
+  ]
+}
+```"
+29,130,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-77, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Audubon Society"",
+      ""jurisdiction"": ""Global/International"",
+      ""role"": ""Conservation/Habitat Identification (Important Bird Area Program)""
+    }
+  ]
+}
+```"
+29,131,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""MET tower requires safety lighting systems."",
+      ""scope"": ""MET tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FAA and Coast Guard regulations"",
+      ""related_domains"": [""avian protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""FAA obstruction lighting at the top of the MET tower will be red flashing LED light of the lowest acceptable intensity."",
+      ""scope"": ""MET tower lighting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FAA"",
+      ""related_domains"": [""avian protection"", ""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""FAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and lighting regulation""
+    },
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and lighting regulation""
+    }
+  ]
+}
+```"
+29,132,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,133,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-78"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The discharge or disposal of solid debris into offshore waters from OCS structures and vessels is prohibited."",
+      ""scope"": ""OCS structures and vessels"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM (30 CFR 250.300) and the USCG (MARPOL, Annex V, Public Law 100−220 (101 Stat. 1458))"",
+      ""related_domains"": [""waste disposal"", ""marine pollution"", ""avian protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental regulation and permitting related to Outer Continental Shelf (OCS) activities""
+    },
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maritime safety and environmental protection""
+    }
+  ]
+}
+```"
+29,134,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""US Wind will install antiperching devices similar to “bird spikes” to the probable perching location on the MET tower where OSHA regulations do not conflict."",
+      ""scope"": ""MET tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""avian protection"", ""worker safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The FAA obstruction lighting that will be proposed for installation at the top of the MET tower will be red flashing LED light of the lowest acceptable intensity"",
+      ""scope"": ""MET tower lighting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FAA"",
+      ""related_domains"": [""avian protection"", ""aviation safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Worker safety regulations""
+    },
+    {
+      ""entity_name"": ""FAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Aviation safety regulations""
+    }
+  ]
+}
+```"
+29,135,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-79"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland DNR"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Information source on bat species occurrence""
+    }
+  ]
+}
+```"
+29,136,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,137,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-80, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Ambient air concentrations of criteria pollutants must meet the National Ambient Air Quality Standards (NAAQS)."",
+      ""scope"": ""Air quality within the project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Air Act (CAA) and 40 CFR Part 50"",
+      ""related_domains"": [""air quality"", ""public health"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Primary standards set limits to protect public health, including the health of \""sensitive\"" populations (e.g., asthmatics, children, and the elderly)."",
+      ""scope"": ""Air quality within the project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Air Act (CAA)"",
+      ""related_domains"": [""air quality"", ""public health"", ""environmental protection"", ""vulnerable populations""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Secondary standards set limits to protect public welfare, including protection against decreased visibility and damage to animals, crops, vegetation, and buildings."",
+      ""scope"": ""Air quality within the project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Air Act (CAA)"",
+      ""related_domains"": [""air quality"", ""public welfare"", ""environmental protection"", ""visibility"", ""agriculture""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Establishing and enforcing the National Ambient Air Quality Standards (NAAQS)""
+    }
+  ]
+}
+```"
+29,138,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All OCS sources located within 25 nm of States’ seaward boundaries must satisfy the same air permitting requirements as would be applicable if the source were located in the corresponding onshore area."",
+      ""scope"": ""Outer Continental Shelf (OCS) sources within 25 nautical miles of state seaward boundaries"",
+      ""numerical_value"": 25,
+      ""unit"": ""nm"",
+      ""source"": ""40 CFR Part 55"",
+      ""related_domains"": [""air quality"", ""emissions permitting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USEPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority for OCS sources""
+    },
+    {
+      ""entity_name"": ""State of Maryland"",
+      ""jurisdiction"": ""State - Maryland"",
+      ""role"": ""Authorized by USEPA to permit OCS sources""
+    }
+  ]
+}
+```"
+29,139,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-81"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Emissions from vessels that are servicing or associated with the operations of the OCS source must be counted as direct emissions from the OCS source when those vessels are at the source or enroute to or from the source when within 25 nm of the source."",
+      ""scope"": ""Emissions from vessels servicing OCS sources"",
+      ""numerical_value"": 25,
+      ""unit"": ""nm"",
+      ""source"": ""Section 328 of the CAA 1990 and 40 CFR Part 55"",
+      ""related_domains"": [""emissions"", ""air quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal actions conform to applicable SIPs developed by States and approved by USEPA for the purpose of attaining or maintaining compliance with NAAQS."",
+      ""scope"": ""Emissions in nonattainment or maintenance areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 176 of the CAA 1990 and 40 CFR Part 93, Subpart B (General Conformity Rule)"",
+      ""related_domains"": [""emissions"", ""air quality"", ""state implementation plans""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A conformity determination is required when the total direct and indirect emissions of criteria pollutants in a nonattainment or maintenance area exceed rates (de minimus rates) specified in 40 CFR 93.153(b)(1) and (2)."",
+      ""scope"": ""Emissions in nonattainment or maintenance areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 CFR 93.153(b)(1) and (2)"",
+      ""related_domains"": [""emissions"", ""air quality""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USEPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and regulation""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Applicability analysis for conformity determination""
+    }
+  ]
+}
+```"
+29,140,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal actions resulting in emissions in non-attainment areas and maintenance areas in a state conform to the federally approved State Implementation Plan (SIP)."",
+      ""scope"": ""Non-attainment and maintenance areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Air Act"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A conformity determination would be required if emissions exceed 100 tons per year in the non-attainment areas."",
+      ""scope"": ""Non-attainment areas"",
+      ""numerical_value"": 100,
+      ""unit"": ""tons per year"",
+      ""source"": ""USEPA General Conformity Rule (40 CFR Part 93)"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The MET Tower must comply with all applicable sections of the Maryland Department of Environmental (MDE) Regulations listed in 40 CFR § 55, Appendix A."",
+      ""scope"": ""MET Tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 CFR § 55.14(11)"",
+      ""related_domains"": [""meteorological monitoring"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USEPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Maryland Department of Environment (MDE)"",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    }
+  ]
+}
+```"
+29,141,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-82, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A general conformity analysis would be required only if construction or decommissioning activities would emit over 100 tons of a criteria pollutant in any year."",
+      ""scope"": ""Construction and Decommissioning of Met Tower"",
+      ""numerical_value"": 100,
+      ""unit"": ""tons"",
+      ""source"": null,
+      ""related_domains"": [""air quality"", ""emissions""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,142,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,143,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,144,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-84"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The annual emissions from the Project during MET Tower construction, operation, and decommissioning will not exceed the major source permitting thresholds."",
+      ""scope"": ""MET Tower construction, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Maryland Department of Environment Air Quality Permit to Construct and Air Quality Permit to Operate"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Implementation of Best Available Control Technology (BACT) for project emissions sources"",
+      ""scope"": ""Project emissions sources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MDE Air Quality Permit to Construct"",
+      ""related_domains"": [""air quality"", ""emissions control""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Comply with Code of Maryland Regulation (COMAR) 26.11.15.06, Ambient Impact Requirement"",
+      ""scope"": ""Air emissions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""COMAR 26.11.15.06"",
+      ""related_domains"": [""air quality"", ""air dispersion modeling""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Air emissions from the Project during MET Tower construction, operation, and decommissioning are minimized to the degree practicable."",
+      ""scope"": ""MET Tower construction, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The project will be required to implement BACT for all emission sources."",
+      ""scope"": ""All emission sources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.610(a)(8)"",
+      ""related_domains"": [""air quality"", ""emissions control""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Department of Environment (MDE)"",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    },
+    {
+      ""entity_name"": ""US EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+29,145,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Clean fuels which meet EPA sulfur content standards will be used"",
+      ""scope"": ""MET Tower construction and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA sulfur content standards"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Engines which meet the applicable EPA non-road and marine engine standards will be used"",
+      ""scope"": ""MET Tower construction and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA non-road and marine engine standards"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Unnecessary idling of project engines will be limited"",
+      ""scope"": ""MET Tower construction and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null, 
+      ""related_domains"": [""air quality"", ""emissions"", ""noise pollution""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental protection, standard setting""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Offshore resource management"" 
+    }
+  ]
+}
+```"
+29,146,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-85"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Geological and Geophysical, Hazards, and Archaeological Information [must be provided] Pursuant to 30 CFR Part 585"",
+      ""scope"": ""MET tower APE"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM, Office of Renewable Energy Programs’ Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585 (BOEM 2012) (Appendices N, O, and P)"",
+      ""related_domains"": [
+        ""geological surveys"",
+        ""geophysical surveys"",
+        ""hazard assessment"",
+        ""archaeological surveys""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    }
+  ]
+}
+```"
+29,147,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,148,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-86, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Disturbance of the seafloor during construction activities has the potential to encounter and cause significant long-term adverse impacts to unidentified submerged cultural resources. As a result, an unanticipated discoveries plan, including archeological resource identification training [must be implemented]."",
+      ""scope"": ""Seafloor disturbance during construction activities, specifically related to potential impacts on submerged cultural resources."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null, 
+      ""related_domains"": [""cultural heritage"", ""archaeology"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,149,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Land Management (BLM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Guidance on visual impact assessment""
+    }
+  ]
+}
+```"
+29,150,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,151,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,152,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,153,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,154,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,155,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,156,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-93"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Park Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Management of National Seashores""
+    },
+    {
+      ""entity_name"": ""National Register of Historic Places"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Protection of historic sites""
+    }
+  ]
+}
+```"
+29,157,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,158,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,159,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,160,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,161,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,162,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,163,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,164,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,165,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,166,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,167,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,168,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,169,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,170,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,171,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,172,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,173,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,174,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,175,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,176,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,177,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,178,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,179,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,180,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,181,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,182,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,183,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,184,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project – Rev.2"",
+    ""document_number"": ""3-133, 3-134, 3-135"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A single medium intensity (L-864), red flashing light and two low intensity (L-810) red flashing lights (all lights to flash synchronously) half way down the tower."",
+      ""scope"": ""MET tower aviation safety beacons"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FAA Advisory Circular AC_70_7460-1L (Recommendation)"",
+      ""related_domains"": [""aviation safety"", ""signaling""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""FAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Aviation safety""
+    }
+  ]
+}
+```"
+29,185,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,186,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.11.2.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Delaware SHPO"",
+      ""jurisdiction"": ""Delaware"",
+      ""role"": ""Historic preservation oversight""
+    },
+    {
+      ""entity_name"": ""Maryland SHPO"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Historic preservation oversight""
+    }
+  ]
+}
+```"
+29,187,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-140, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Protection of Historic Properties"",
+      ""scope"": ""MET tower construction and operation (visual effects on historic properties)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""36 CFR Part 800"",
+      ""related_domains"": [
+        ""historic preservation"",
+        ""visual impact assessment"",
+        ""cultural heritage""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Review pursuant to Title 54 U.S.C. 306108 (formerly “Section 106”) of the National Historic Preservation Act of 1966, as amended"",
+      ""scope"": ""MET tower construction and operation (visual effects on historic properties)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Title 54 U.S.C. 306108 (formerly “Section 106”) of the National Historic Preservation Act of 1966"",
+      ""related_domains"": [
+        ""historic preservation"",
+        ""visual impact assessment"",
+        ""cultural heritage""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Delaware Division of Historical and Cultural Affairs"",
+      ""jurisdiction"": ""Delaware"",
+      ""role"": ""Historic preservation review""
+    },
+    {
+      ""entity_name"": ""Maryland Historical Trust/MD SHPO"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Historic preservation review""
+    },
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Lead Federal agency for Section 106 compliance, Historic preservation review""
+    }
+  ]
+}
+```"
+29,188,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Smart from the Start Atlantic Wind Energy Initiative"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The Area of Potential Effect (APE) is defined as “the viewshed from which lighted meteorological structures would be visible”"",
+      ""scope"": ""Area of Potential Effect (APE) extending to portions of Worcester County, Maryland and Sussex County, Delaware"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""2012 Programmatic Agreement (PA)"",
+      ""related_domains"": [""visual impact"", ""cultural heritage""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior, Bureau of Ocean Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""State Historic Preservation Officers of Delaware, Maryland, New Jersey, and Virginia"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Cultural heritage oversight""
+    },
+    {
+      ""entity_name"": ""Advisory Council on Historic Preservation"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Cultural heritage oversight""
+    },
+    {
+      ""entity_name"": ""The Narragansett Indian Tribe"",
+      ""jurisdiction"": ""Tribal"",
+      ""role"": ""Consultation""
+    },
+    {
+      ""entity_name"": ""Shinnecock Indian Nation"",
+      ""jurisdiction"": ""Tribal"",
+      ""role"": ""Consultation""
+    },
+    {
+      ""entity_name"": ""Delaware Division of Historical and Cultural Affairs (DE SHPO)"",
+      ""jurisdiction"": ""State - Delaware"",
+      ""role"": ""Cultural heritage oversight""
+    },
+    {
+      ""entity_name"": ""Maryland Historical Trust (MD SHPO)"",
+      ""jurisdiction"": ""State - Maryland"",
+      ""role"": ""Cultural heritage oversight""
+    }
+  ]
+}
+```"
+29,189,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assessment of adverse effects"",
+      ""scope"": ""Historic properties listed in the National Register of Historic Places, potentially affected by the visual impact of a MET tower."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""36 CFR 800.5"",
+      ""related_domains"": [""cultural heritage"", ""visual impact assessment"", ""historic preservation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,190,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project – Rev.2"",
+    ""document_number"": ""Page 3-141, Page 3-142"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Delaware Division of Historical and Cultural Affairs"",
+      ""jurisdiction"": ""Delaware"",
+      ""role"": ""Historic preservation review""
+    },
+    {
+      ""entity_name"": ""Maryland Historical Trust"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Historic preservation review""
+    }
+  ]
+}
+```"
+29,191,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,192,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,193,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,194,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-144 to 3-149"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""DE SHPO"",
+      ""jurisdiction"": ""Delaware"",
+      ""role"": ""Historic preservation oversight""
+    },
+    {
+      ""entity_name"": ""MD SHPO"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Historic preservation oversight""
+    }
+  ]
+}
+```"
+29,195,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+29,196,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-150, Page 3-151, Page 3-152, Page 3-153"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The U.S. Coast Guard (USCG) designates shipping fairways and establishes traffic separation schemes (TSSs) that control the movement of vessels as they approach major ports."",
+      ""scope"": ""Approaches to major ports, including Chesapeake and Delaware Bays"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Coast Guard (USCG)"",
+      ""related_domains"": [""navigational safety"", ""vessel traffic management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Navigation safety, vessel traffic management""
+    }
+  ]
+}
+```"
+29,197,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Rev.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The placement of any meteorological tower within a TSS is prohibited."",
+      ""scope"": ""Meteorological towers within Traffic Separation Schemes (TSS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 U.S.C. Section 1223"",
+      ""related_domains"": [""navigation safety"", ""maritime traffic management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,198,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project – Rev.2"",
+    ""document_number"": ""Page 3-154, Page 3-155"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Navy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Management of naval operating areas (OPAREAs)""
+    },
+    {
+      ""entity_name"": ""NASA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Management of airspace and flight activities""
+    },
+    {
+      ""entity_name"": ""FAA (Federal Aviation Administration)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Airspace management""
+    }
+  ]
+}
+```"
+29,199,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Lease Area activities are subject to restrictions imposed by military and NASA needs, rules, and regulations."",
+      ""scope"": ""Lease Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Addendum C, Item 3"",
+      ""related_domains"": [""military operations"", ""airspace restrictions""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Defense (DoD)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight and Coordination""
+    },
+    {
+      ""entity_name"": ""U.S. Fleet Forces (USFF) N46"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation and Coordination""
+    },
+    {
+      ""entity_name"": ""Fleet Forces Atlantic Exercise Coordination Center (FFAECC)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Coordination of regional military/other agency activities""
+    },
+    {
+        ""entity_name"": ""NASA"",
+        ""jurisdiction"": ""Federal - USA"",
+        ""role"": ""Oversight (needs, rules and regulations)""
+    }
+  ]
+}
+```"
+29,200,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-156"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""the MET tower will be marked in accordance with USCG requirements applicable to a Private Aid to Navigation, including color, lights, etc."",
+      ""scope"": ""MET tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG requirements applicable to a Private Aid to Navigation"",
+      ""related_domains"": [""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Navigation safety regulations""
+    },
+    {
+      ""entity_name"": ""Fleet Forces Command"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Military activity coordination""
+    }
+  ]
+}
+```"
+29,201,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The MET tower will be marked in accordance with BOEM requirements for aviation safety, including color, lights, etc."",
+      ""scope"": ""MET tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""aviation safety"", ""navigation safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""MET tower [must] meet USCG specifications"",
+      ""scope"": ""MET tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG"",
+      ""related_domains"": [""navigation safety"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Safety oversight""
+    },
+    {
+      ""entity_name"": ""FAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Aviation safety oversight""
+    },
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Navigation safety oversight""
+    }
+  ]
+}
+```"
+29,202,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-157, Rev.2, April 7, 2016"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The structure will be color-coded a standard yellow, such as Munsell Chip number 2.5Y 8/12, from the water line to the base of the tower."",
+      ""scope"": ""MET tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG and BOEM"",
+      ""related_domains"": [""navigation safety"", ""visual identification""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Two white lights will be installed, 180-degrees apart, at an elevation specified by the USCG, each with an operational range of 5 nm and a flash rate of 30/second."",
+      ""scope"": ""MET tower"",
+      ""numerical_value"": 5,
+      ""unit"": ""nm"",
+      ""source"": ""USCG and BOEM"",
+      ""related_domains"": [""navigation safety"", ""lighting""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Any aviation warning lights located on the MET tower mast will be seen in a 360- degrees arc, display a quick red characteristic, and flash synchronously."",
+      ""scope"": ""MET tower"",
+      ""numerical_value"": 360,
+      ""unit"": ""degrees"",
+      ""source"": ""USCG and BOEM"",
+      ""related_domains"": [""aviation safety"", ""lighting""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A fog signal with a range of 0.5 nm will activate whenever the visibility decreases below 3 nm."",
+      ""scope"": ""MET tower"",
+      ""numerical_value"": 0.5,
+      ""unit"": ""nm"",
+      ""source"": ""USCG and BOEM"",
+      ""related_domains"": [""navigation safety"", ""fog signaling""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Visual aids to navigation will operate with sufficient backup power and redundancy to assure a minimum availability rate of 99.7%."",
+      ""scope"": ""MET tower"",
+      ""numerical_value"": 99.7,
+      ""unit"": ""%"",
+      ""source"": ""USCG and BOEM"",
+      ""related_domains"": [""navigation safety"", ""power supply"", ""reliability""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and navigation oversight""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Offshore wind energy development oversight""
+    }
+  ]
+}
+```"
+29,203,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""US Wind has and will continue to consult with Fleet Forces Command prior to any construction or decommissioning activity, regarding the location, density, and planned periods of activity, to minimize potential conflicts with DoD activities in the VACAPES OPAREA."",
+      ""scope"": ""Construction and decommissioning activities within the VACAPES OPAREA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Fleet Forces Command (FFAECC)"",
+      ""related_domains"": [""navigational safety"", ""military operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""US Wind...will provide all Service Request Forms to FFAECC that are required prior to initiation of construction or decommissioning activities in the Lease Area"",
+      ""scope"": ""Construction and decommissioning activities within the Lease Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Fleet Forces Command (FFAECC)"",
+      ""related_domains"": [""permitting"", ""military operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""US Wind...will comply with all FFAECC directives, including any related to MET tower lighting or instrumentation, to avoid potential impacts during Project activities."",
+      ""scope"": ""MET tower lighting and instrumentation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Fleet Forces Command (FFAECC)"",
+      ""related_domains"": [""navigational safety"", ""military operations""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM rather than the FAA will conduct the Obstruction Evaluation and Determination"",
+      ""scope"": ""Obstruction Evaluation and Determination for structures greater than 199 ft tall located more than 12 nm from shore"",
+      ""numerical_value"": 199,
+      ""unit"": ""ft"",
+      ""source"": null, 
+      ""related_domains"": [""airspace regulation"", ""permitting""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Fleet Forces Command (FFAECC)"",
+      ""jurisdiction"": ""VACAPES OPAREA"",
+      ""role"": ""Safety and operational oversight within the VACAPES OPAREA, specifically related to potential conflicts with Department of Defense activities.""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""US Outer Continental Shelf"",
+      ""role"": ""Obstruction Evaluation and Determination for offshore structures.""
+    },
+        {
+      ""entity_name"": ""Federal Aviation Administration (FAA)"",
+      ""jurisdiction"": ""US Airspace"",
+      ""role"": ""Obstruction Evaluation and Determination (implicitly, for structures not meeting the criteria for BOEM jurisdiction).""
+    },
+    {
+      ""entity_name"": ""US Coast Guard (USCG)"",
+      ""jurisdiction"": ""US navigable waters"",
+      ""role"": ""Navigation safety oversight, particularly regarding communication with commercial shipping interests and potential navigational risks.""
+    }
+  ]
+}
+```"
+29,204,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-158"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The same information required by the FAA to make its determinations for inshore structures, via a “Notice of Proposed Construction or Alteration,” [is required]"",
+      ""scope"": ""Offshore wind structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FAA"",
+      ""related_domains"": [""aviation safety"", ""construction permitting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""FAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety oversight""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Assessment and permitting""
+    }
+  ]
+}
+```"
+29,205,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,206,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,207,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,208,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,209,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,210,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,211,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,212,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,213,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""Page 3-166"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""discharge of solid debris into offshore waters from OCS structures and vessels is prohibited"",
+      ""scope"": ""Discharge of debris from Outer Continental Shelf (OCS) structures and vessels"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM and USCG"",
+      ""related_domains"": [""pollution prevention"", ""marine environment protection"", ""waste management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental regulation and permitting related to Outer Continental Shelf activities""
+    },
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maritime safety and environmental protection""
+    }
+  ]
+}
+```"
+29,214,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Guidance and outreach plan requirements""
+    }
+  ]
+}
+```"
+29,215,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,216,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,217,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-168"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies [must] incorporate environmental justice as part of their missions. Specifically, it directs them to address, as appropriate, any disproportionately high and adverse human health or environmental effects of their actions, programs, or policies on minority and low-income populations."",
+      ""scope"": ""Federal actions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Executive Order 12898, Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations (59 FR 7629 (February 11, 1994))"",
+      ""related_domains"": [""environmental justice"", ""social impact"", ""human health""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Department of the Environment (MDE)"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+29,218,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,219,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,220,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,221,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,222,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.14.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Discharge of liquid wastes or solid debris from vessels and OCS structures is prohibited."",
+      ""scope"": ""Vessels and OCS structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM and USCG"",
+      ""related_domains"": [""waste disposal"", ""marine pollution""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental regulation and permitting""
+    },
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maritime safety and environmental protection""
+    }
+  ]
+}
+```"
+29,223,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Assessment Plan – Maryland Offshore Wind Project"",
+    ""document_number"": ""3-172"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""comply with all applicable regulations to eliminate or minimize the potential for adverse environmental impacts during MET tower construction, operation, and decommissioning"",
+      ""scope"": ""MET tower construction, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""implement best practices ... to ... prevent accidental events such as spills"",
+      ""scope"": ""MET tower construction, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""spill prevention"", ""safety management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+29,224,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,225,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,226,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,227,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,228,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,229,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,230,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,231,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,232,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,233,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,234,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,235,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,236,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,237,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,238,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,239,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,240,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,241,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,242,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,243,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,244,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,245,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,246,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,247,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,248,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,249,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,250,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,251,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,252,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,253,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+29,254,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND

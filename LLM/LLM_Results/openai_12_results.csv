@@ -1,0 +1,3434 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"12",1,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Assessment of Seascape, Landscape, and Visual Impacts of Offshore Wind Energy Developments on the Outer Continental Shelf of the United States"",
+    ""document_number"": ""BOEM 2021-032"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Department of Energy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Interagency collaboration""
+    }
+  ]
+}
+```"
+"12",2,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Methodology for Assessment of Seascape, Landscape, and Visual Impacts of Offshore Wind Energy Developments on the Outer Continental Shelf of the United States"",
+    ""document_number"": ""OCS Study BOEM 2021-032"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and operational oversight""
+    }
+  ]
+}"
+"12",3,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",4,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",5,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",6,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",7,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",8,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Affected Environment Description and Impact Receptor Identification"",
+    ""document_number"": ""7.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Laws, Ordinances, and Regulations"",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 7.3.4"",
+      ""related_domains"": [""environmental impact assessment"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",9,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",10,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",11,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SLVIA RFPA effects assessment process"",
+    ""document_number"": ""50"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Land Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Land management and regulation""
+    },
+    {
+      ""entity_name"": ""Council on Environmental Quality"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental policy oversight""
+    },
+    {
+      ""entity_name"": ""Institute of Environmental Management & Assessment"",
+      ""jurisdiction"": ""UK"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""Landscape Institute"",
+      ""jurisdiction"": ""UK"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"12",12,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Methodology for Seascape, Landscape, and Visual Impact Assessment"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""This methodology applies to any offshore wind energy development proposed for the OCS and considered by BOEM."",
+      ""scope"": ""Outer Continental Shelf (OCS), offshore wind energy development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Energy Policy Act of 2005, Outer Continental Shelf Lands Act, National Environmental Policy Act of 1969"",
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",13,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"12",14,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",15,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assessment of impacts from reasonably foreseeable planned actions for both seascape/landscape and visual resources are conducted."",
+      ""scope"": ""Seascape and landscape impacts assessment phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Additional recommended mitigation measures beyond those included in the COP may be identified."",
+      ""scope"": ""Mitigation measures for project approval"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""environmental impact assessment"", ""mitigation strategies""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"12",16,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Methodology for Seascape, Landscape, and Visual Impact Assessment"",
+    ""document_number"": ""1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Department of the Interior (DOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority""
+    }
+  ]
+}
+```"
+"12",17,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""OCS Renewable Energy Program Regulations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The construction and operation plan (COP) for a proposed development must include a detailed description of those resources, conditions, and related activities that could be affected by the proposed project and related activities."",
+      ""scope"": ""Offshore wind facility development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Title 30 of the Code of Federal Regulations Part 585, Subpart F"",
+      ""related_domains"": [""environmental impact assessment"", ""resource management"", ""project planning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Overseeing offshore renewable energy development""
+    }
+  ]
+}
+```"
+"12",18,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""the developer must submit a SLVIA with its COP."",
+      ""scope"": ""Offshore wind energy developments on the OCS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585"",
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""BOEM independently analyzes the submitted SLVIA as part of its NEPA review."",
+      ""scope"": ""NEPA review process for offshore wind energy developments"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""environmental impact assessment"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"12",19,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Methodology for Assessing Seascape, Landscape, and Visual Impacts of Offshore Wind Energy Developments"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"12",20,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",21,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Guidelines for Landscape and Visual Impact Assessment, third edition (GLVIA3)"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",22,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",23,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Section 106 of NHPA requires Federal agencies to consider the effects, including visual effects, of their undertakings on the ability of historic properties to convey their historic significance."",
+      ""scope"": ""Federal agency actions related to historic properties."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Historic Preservation Act (NHPA)"",
+      ""related_domains"": [""cultural resource assessment"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Visual impacts of Federal agency actions must also be considered under NEPA."",
+      ""scope"": ""Federal agency actions under NEPA."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Environmental Policy Act (NEPA)"",
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal agencies"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consider effects of undertakings on historic properties and visual impacts.""
+    }
+  ]
+}"
+"12",24,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Consideration of all potentially significant impacts is required by NEPA."",
+      ""scope"": ""Environmental reviews under NEPA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEPA"",
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"12",25,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",26,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The methodology must be consistent with the requirements of NEPA."",
+      ""scope"": null,
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEPA"",
+      ""related_domains"": [""environmental impact assessment"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",27,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""NEPA requires Federal agencies to assess the environmental effects of their proposed actions prior to making decisions."",
+      ""scope"": ""Federal actions related to offshore wind developments."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEPA 1994"",
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The SLVIA methodology must use a prescribed and structured approach for assessing impacts that may be applied consistently from project to project."",
+      ""scope"": ""Offshore wind developments."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""methodology standardization""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The SLVIA methodology must be based on sound, documented, and accepted professional practices."",
+      ""scope"": ""Offshore wind developments."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""professional practices"", ""methodology standardization""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The SLVIA methodology must utilize an approach that can be documented."",
+      ""scope"": ""Offshore wind developments."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""documentation"", ""transparency""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The SLVIA methodology must include procedures for assessing all important impacts arising from the visual presence of offshore wind developments."",
+      ""scope"": ""Offshore wind developments."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The SLVIA methodology must accommodate a phased approach to offshore wind development."",
+      ""scope"": ""Offshore wind developments."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM 2017, BOEM 2018"",
+      ""related_domains"": [""project design envelope"", ""phased development""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and permitting authority for offshore wind developments.""
+    }
+  ]
+}
+```"
+"12",28,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The methodology must avoid relying solely on 'automated,' 'formula-based' findings of magnitude and significance of impacts."",
+      ""scope"": ""Assessment of aesthetic impacts and effects on landscape/seascape character integrity."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""aesthetic impact"", ""landscape integrity""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The methodology assesses all non-negligible impacts."",
+      ""scope"": ""Visibility of an offshore wind project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""visibility assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",29,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"12",30,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A SLVIA approach modeled on the methodology for landscape and visual impact assessment presented in GLVIA3 is consistent with NEPA."",
+      ""scope"": ""Offshore wind energy developments in the United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""GLVIA3 (LI and IEMA 2013)"",
+      ""related_domains"": [""landscape impact assessment"", ""visual amenity"", ""NEPA compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",31,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",32,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""BOEM SLVIA Methodology"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assess the potential seascape, landscape, and visual impacts of construction, operation and maintenance, and decommissioning of proposed utility-scale offshore wind energy developments."",
+      ""scope"": ""Outer Continental Shelf (OCS) of the United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM SLVIA methodology"",
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assess impacts for daytime and nighttime viewing conditions separately."",
+      ""scope"": ""All phases of development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM SLVIA methodology"",
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"12",33,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Chapter 5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",34,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Draft Guidance Regarding the Use of a Project Design Envelope in a Construction and Operations Plan"",
+    ""document_number"": ""8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If BOEM approves a COP that used a PDE approach and the project proponent’s final design does not stay within the approved range of design parameters in the COP, BOEM conducts further review before allowing construction to begin."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM 2018"",
+      ""related_domains"": [""project design"", ""construction oversight""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"12",35,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"12",36,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""BMPs to avoid or reduce the seascape, landscape, and visual impacts of the project incorporated into the project design are assumed to be implemented for purposes of the SLVIA."",
+      ""scope"": ""Project design phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",37,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Impacts are evaluated for each impact receptor."",
+      ""scope"": ""All phases of development."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""visual resources""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assessments of impacts from reasonably foreseeable planned actions (RFPA) for both seascape/landscape and visual resources are conducted."",
+      ""scope"": ""All phases of development."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""visual resources""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Additional recommended mitigation measures beyond those assumed to be in place for the impact analysis may be identified."",
+      ""scope"": ""Project approval process."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""environmental impact assessment"", ""mitigation measures""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",38,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that could create seascape/landscape or visual impacts should also be described for each project phase."",
+      ""scope"": ""All project phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No assumptions regarding potential mitigation measures are made, and if the mitigation is not included in the COP, it is not assumed to be implemented for the purposes of conducting the SLVIA."",
+      ""scope"": ""SLVIA process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""mitigation measures""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Based on the results of the SLVIA, BOEM may require additional mitigation before approving the COP."",
+      ""scope"": ""COP approval process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""environmental impact assessment"", ""mitigation measures""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The viewshed analysis for onshore components is run separately from the viewshed analysis for the offshore components."",
+      ""scope"": ""Viewshed analysis"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""geographic information systems""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",39,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The geographic scope of the impact assessment covers the OCA and all SCAs and any LCAs from which the components would be visible."",
+      ""scope"": ""OCA, SCAs, LCAs"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""landscape character assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Actions associated with the project, such as construction, maintenance, and decommissioning activities, may cause impacts outside of the OCA, the SCA, or LCA in which they occur."",
+      ""scope"": ""OCA, SCA, LCA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""construction impact assessment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",40,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",41,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",42,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 3.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",43,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",44,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",45,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",46,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The visual properties of the project throughout all phases of development should be identified for all project elements to be included in the SLVIA."",
+      ""scope"": ""All project elements during all phases of development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The design of the project should incorporate BMPs and mitigation measures to avoid, reduce, repair, and/or compensate for the likely impacts of the project."",
+      ""scope"": ""Project design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""best management practices"", ""environmental mitigation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",47,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Proposed Project Description for the SLVIA"",
+    ""document_number"": ""4.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"12",48,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The SLVIA includes assessments of all project phases, not simply the operation phase."",
+      ""scope"": ""All project phases including site testing, evaluation, construction, operation, and decommissioning."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""SLVIA methodology"",
+      ""related_domains"": [""environmental impact assessment"", ""project planning""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The SLVIA should consider and assess any residual impacts of the project that remain after decommissioning."",
+      ""scope"": ""Residual impacts post-decommissioning."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""SLVIA methodology"",
+      ""related_domains"": [""environmental impact assessment"", ""land use""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The PDE approach allows the project developer the option to submit a reasonable range of design parameters within its COP."",
+      ""scope"": ""Construction and Operations Plan (COP)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM 2017, BOEM 2018"",
+      ""related_domains"": [""project design"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The PDE approach is used to undertake 'maximum design scenario' or 'worst-case scenario' assessments of environmental impact."",
+      ""scope"": ""Environmental impact assessments."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM 2017, BOEM 2018"",
+      ""related_domains"": [""environmental impact assessment"", ""risk assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority and standard setting body for offshore wind developments.""
+    }
+  ]
+}"
+"12",49,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Draft PDE Guidance"",
+    ""document_number"": ""BOEM 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""It may be necessary for a lessee to prepare a visual assessment for each end of its range of potential turbine sizes."",
+      ""scope"": ""Visual impacts assessment for wind facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Draft PDE guidance (BOEM 2018)"",
+      ""related_domains"": [""visual impact assessment"", ""landscape assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Multiple assessments for SLVIA may need to be conducted, potentially involving different landscape/seascape areas, viewsheds, and potentially affected populations and viewpoints."",
+      ""scope"": ""SLVIA assessments for wind facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Draft PDE guidance (BOEM 2018)"",
+      ""related_domains"": [""visual impact assessment"", ""landscape assessment"", ""stakeholder engagement""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",50,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""BOEM expects that every COP will incorporate BMPs for seascape, landscape, and visual impact mitigation into the design of the project."",
+      ""scope"": ""Construction and operation phases of offshore wind projects."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""environmental impact assessment"", ""visual impact mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If the mitigation is not included in the COP, it is assumed to be not implemented for the purposes of conducting the SLVIA."",
+      ""scope"": ""Assessment of visual impacts in offshore wind projects."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and permitting authority for offshore wind projects.""
+    }
+  ]
+}
+```"
+"12",51,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The primary determinant of the geographic scope of possible impacts is visibility of the components of the project."",
+      ""scope"": ""Geographic scope of the SLVIA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""landscape assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Viewshed analysis for SLVIAs is performed using GIS tools."",
+      ""scope"": ""Technical methodology for SLVIA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""geographic information systems"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Many variables, including the physical characteristics of the project, atmospheric conditions, earth curvature, and the like, affect the actual visibility of the project."",
+      ""scope"": ""Factors affecting visibility in SLVIA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visibility analysis"", ""environmental assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",52,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"12",53,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",54,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",55,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Land Management (BLM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Land management and oversight""
+    },
+    {
+      ""entity_name"": ""National Park Service (NPS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental protection and oversight""
+    },
+    {
+      ""entity_name"": ""Department of Energy (DOE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Energy policy and regulation""
+    }
+  ]
+}
+```"
+"12",56,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""the outer boundary of impact assessment to include all areas where non-negligible visibility of the project could reasonably be expected to occur under favorable viewing conditions."",
+      ""scope"": ""Geographic area surrounding the proposed offshore wind facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visibility assessment"", ""impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Viewshed analysis is conducted using GIS software to determine the potential visibility of the surrounding seascape/landscape from a designated location."",
+      ""scope"": ""Geographic area surrounding the proposed offshore wind facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visibility assessment"", ""geographic information systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Viewshed analyses use elevation data to determine whether topography and, in some cases, vegetation and structures block views of the project."",
+      ""scope"": ""Geographic area surrounding the proposed offshore wind facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visibility assessment"", ""topographical analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",57,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Viewshed Analysis for SLVIA"",
+    ""document_number"": ""Appendix A"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Viewshed analysis should be done in accordance with the protocol specified in Appendix A, Viewshed Analysis."",
+      ""scope"": ""Impact assessment phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Appendix A, Viewshed Analysis"",
+      ""related_domains"": [""visual impact assessment"", ""technical analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""ZTV analysis is performed using a digital elevation model that provides the elevation of the surface of the earth and does not consider the potential for screening from vegetation, buildings, or other structures."",
+      ""scope"": ""Impact assessment phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""SLVIA methodology"",
+      ""related_domains"": [""visual impact assessment"", ""technical analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use of an SEM (verified by field surveys) allows the presence of vegetative and structural screening elements to be accounted for when analyzing project visibility."",
+      ""scope"": ""Impact assessment phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""SLVIA methodology"",
+      ""related_domains"": [""visual impact assessment"", ""technical analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"12",58,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"12",59,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",60,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""21"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",61,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For VIAs for projects considered by BOEM, where the closest turbine is located more than 43 km (23 nm) from shore, the area of impact analysis for the VIA is determined by running a viewshed from the height of the top of the nacelle of the proposed project turbines until the line of sight is intercepted by terrain or limited by earth curvature, but not exceeding 74 km (40 nm)."",
+      ""scope"": ""Projects considered by BOEM, offshore wind farms"",
+      ""numerical_value"": 74,
+      ""unit"": ""km"",
+      ""source"": ""BOEM regulations"",
+      ""related_domains"": [""visual impact assessment"", ""offshore wind farm planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For VIAs for projects where the closest turbine is located less than 43 km (23 nm) from shore, the area of impact analysis for the VIA for daytime impacts is determined by running a viewshed from the blade tip height of the proposed project turbines until intercepted by terrain or limited by earth curvature."",
+      ""scope"": ""Projects less than 43 km from shore, offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM regulations"",
+      ""related_domains"": [""visual impact assessment"", ""offshore wind farm planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A second viewshed is run from the height of the top of the nacelle of the proposed project turbines for assessment of nighttime impacts. Neither viewshed shall exceed 74 km (40 nm)."",
+      ""scope"": ""Nighttime impacts for offshore wind farms"",
+      ""numerical_value"": 74,
+      ""unit"": ""km"",
+      ""source"": ""BOEM regulations"",
+      ""related_domains"": [""visual impact assessment"", ""offshore wind farm planning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"12",62,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""For SCAs/LCAs for which any portion falls within the VIA viewshed, the entire SCA/LCA is to be included in the SLIA."",
+      ""scope"": ""VIA viewshed"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""seascape assessment"", ""landscape assessment"", ""visual impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority overseeing offshore wind energy development""
+    }
+  ]
+}
+```"
+"12",63,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The SLIA requires a description of the affected environment, which for BOEM-reviewed offshore wind projects includes conducting seascape character assessments and possibly landscape character assessments."",
+      ""scope"": ""Offshore wind projects under BOEM review"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""SLIA"",
+      ""related_domains"": [""environmental impact assessment"", ""seascape assessment"", ""landscape assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"12",64,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",65,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",66,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",67,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",68,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",69,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""26"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",70,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"12",71,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 6.3.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The SLIA identifies and assesses positive, negative, temporary, and permanent impacts of a proposed offshore wind energy development."",
+      ""scope"": ""Offshore wind energy development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""seascape/landscape impact""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Change or complete or partial loss of elements, features, or aesthetic, perceptual, or experiential aspects that contribute to the distinctive character of the seascape/landscape."",
+      ""scope"": ""Seascape/landscape character"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""seascape/landscape impact""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Addition of new elements and/or features that may affect the distinctive character of the seascape/landscape."",
+      ""scope"": ""Seascape/landscape character"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""seascape/landscape impact""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"12",72,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 6.3.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The specific impact receptor(s) is identified and described, including its susceptibility and value."",
+      ""scope"": ""All phases of the project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""landscape character""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The magnitude of the impact is described in terms of scale and size of the effect, its duration and reversibility, and the geographic extent over which the impact occurs."",
+      ""scope"": ""Operations phase of a project"",
+      ""numerical_value"": 30000,
+      ""unit"": ""acres"",
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""landscape character""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The level of each impact is determined, such as the minimal visibility of a project judged to constitute a minor impact."",
+      ""scope"": ""All phases of the project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""landscape character""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",73,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 6.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"12",74,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",75,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",76,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6.4.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",77,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",78,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6.4.3.2 - 6.4.3.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The judgment about the geographic extent of a particular impact is recorded on an ordinal scale of large, medium, or small and is documented and justified by information provided in the COP, the Affected Environment section, and applicable research."",
+      ""scope"": ""Geographic extent of impacts related to offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""visibility analysis""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Duration is recorded on an ordinal scale of short term (less than 5 years), long term (5–30 years), or considered permanent (more than 30 years)."",
+      ""scope"": ""Duration of impacts from offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""impact duration""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Reversibility is recorded on a verbal scale of nonreversible, partially reversible, or fully reversible."",
+      ""scope"": ""Reversibility of impacts from offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""impact reversibility""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",79,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",80,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",81,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""33"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",82,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",83,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",84,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",85,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",86,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""36"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"12",87,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Forest Service (USFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Department of the Interior Bureau of Land Management (BLM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"12",88,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""37"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",89,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",90,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",91,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"12",92,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",93,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""7.3.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal, state, and local agencies"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Regulatory oversight concerning visual resource protection and management""
+    }
+  ]
+}
+```"
+"12",94,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Visual Impact Assessment for Offshore Wind Energy Development"",
+    ""document_number"": ""Section 7.4.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The impact receptor(s) is/are identified and described, including susceptibility and value."",
+      ""scope"": ""All phases of the project including residual impacts after decommissioning."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The magnitude of the impact is described in terms of the scale and size of the visual change, geographic extent, duration, and reversibility."",
+      ""scope"": ""All phases of the project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The level of each impact is evaluated."",
+      ""scope"": ""All phases of the project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"12",95,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"12",96,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",97,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""41"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Photosimulations must be spatially accurate."",
+      ""scope"": ""Photosimulation process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""stakeholder engagement""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Photosimulations must be realistic."",
+      ""scope"": ""Photosimulation process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Photosimulations must depict important views."",
+      ""scope"": ""Photosimulation process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""stakeholder engagement"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Photosimulations must depict the 'worst case lighting scenario.'"",
+      ""scope"": ""Photosimulation process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Photosimulations must be properly presented and documented."",
+      ""scope"": ""Photosimulation process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""documentation standards"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Changes are described in terms of changes to form, line, color, and texture."",
+      ""scope"": ""Visual contrast assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"12",98,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",99,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Video-based simulations are provided so that simulation evaluators have a basis for judging the increased impacts that may result from blade motion where it is visible."",
+      ""scope"": ""Offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM-reviewed offshore wind projects"",
+      ""related_domains"": [""visual impact assessment"", ""simulation accuracy""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The VIA includes video-based simulations of facility lighting at night so that simulation evaluators have a basis for judging the increased impacts that may result from flashing lighting, where it is visible."",
+      ""scope"": ""Offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""lighting visibility""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",100,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""7.4.7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"12",101,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""7.5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",102,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",103,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",104,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""7.5.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",105,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",106,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""7.5.3.3, 7.5.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The judgment about the geographic extent of a particular impact is recorded on a verbal scale of large, medium, or small."",
+      ""scope"": ""Affected Environment section"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The method for assessing duration and reversibility of visual impacts is identical to that used for the SLIA."",
+      ""scope"": ""visual impacts assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For each visual impact, in addition to identifying the impact as positive or negative, a determination is made as to whether the impact is considered major, moderate, minor, or negligible."",
+      ""scope"": ""visual impacts assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",107,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",108,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Assessing Effects of Reasonably Foreseeable Planned Actions"",
+    ""document_number"": ""48"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Park Service"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",109,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Effective assessment of RFPA effects requires careful scoping and involves a higher degree of uncertainty than assessing the proposed project’s effects."",
+      ""scope"": ""Assessment of RFPA effects on seascape/landscape and visual resources."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEPA"",
+      ""related_domains"": [""environmental impact assessment"", ""visual resources""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"12",110,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",111,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""49-50"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",112,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""8.2.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"12",113,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""8.2.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",114,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The RFPA effects assessment must address projects/activities that occurred before the proposed project is built as well as after the proposed project is decommissioned, if those activities could affect one or more of the same resources potentially affected by the proposed project."",
+      ""scope"": ""Impact assessment for proposed projects and related activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM guidelines"",
+      ""related_domains"": [""environmental impact assessment"", ""resource management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"12",115,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The actual projects/activities included in a given assessment would be determined as part of the assessment."",
+      ""scope"": ""Offshore and onshore wind development, oil and gas and other energy production and transport projects and activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""seascape and landscape character"", ""visual resources""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Some projects may be able to be eliminated from the assessment if it can be easily determined that they are likely to result in negligible RFPA effects."",
+      ""scope"": ""Assessment of projects/activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""RFPA effects""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",116,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""52"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""It is important to develop visual simulations for RFPA effects where the proximity of other projects suggests there may be RFPA effects associated with these projects."",
+      ""scope"": ""Geographic scope of the SLIA RFPA effects assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""seascape/landscape resources""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",117,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The geographic scope of the RFPA effects assessment for seascape/landscape impacts necessarily includes all SCAs/LCAs (and the OCA) of which any substantial part falls within the areas of overlap between the viewshed of the proposed project and the viewsheds of other projects included in the RFPA effects assessment."",
+      ""scope"": ""Viewshed of proposed project and other projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""seascape assessment"", ""landscape assessment"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""What portion of the OCA or SCA/LCA constitutes a 'substantial part' is determined on a case-by-case basis."",
+      ""scope"": ""OCA, SCA, LCA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""seascape assessment"", ""landscape assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If a very small portion of an SCA/LCA falls within the viewshed of multiple projects, but is heavily populated or includes features of significant value, it may need to be included in the assessment."",
+      ""scope"": ""SCA, LCA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""community impact""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If the very small area is highly fragmented and/or consists of lands/waters of minimal importance, it can be excluded from the analysis."",
+      ""scope"": ""SCA, LCA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",118,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""53"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Areas and routes that fall within the viewsheds of multiple projects are subject to seascape/landscape RFPA effects from the visibility of multiple projects at the same time."",
+      ""scope"": ""Geographic extent of SLIA RFPA effects assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Seascape/landscape RFPA effects could include impacts on the physical components of the seascape/landscape resulting from removal, addition, or changes to individual elements or features of the seascape/landscape."",
+      ""scope"": ""Seascape/landscape RFPA effects assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""landscape management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Seascape/landscape RFPA effects could include impacts on the aesthetic aspects of the seascape/landscape, such as scale, balance, diversity, composition of form, lines, colors, and textures."",
+      ""scope"": ""Seascape/landscape RFPA effects assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Seascape/landscape RFPA effects could include impacts on the availability and spatial distribution of views of the ocean that are free from development."",
+      ""scope"": ""Seascape/landscape RFPA effects assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Seascape/landscape RFPA effects could include impacts on the distinctive character of the seascape/landscape as a result of the changes described above."",
+      ""scope"": ""Seascape/landscape RFPA effects assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""landscape management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",119,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"12",120,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""8.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The criteria for determining the level of impact—negligible, minor, moderate, or major—are the same as those used for determining the level of impact of the proposed project."",
+      ""scope"": ""Geographic scope of the VIA RFPA effects assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 6.4.5"",
+      ""related_domains"": [""visual impact assessment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",121,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 8.4.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""RFPA effects are assessed for the KOPs used for the main impact analysis located in an area where the proposed project viewshed overlaps the viewshed of another project included in the assessment."",
+      ""scope"": ""Areas and routes within the viewsheds of multiple projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",122,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",123,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 9"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Land Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",124,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Draft guidance regarding the use of a project design envelope in a construction and operations plan"",
+    ""document_number"": ""OCS Study BOEM 2017-057"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use of the project design envelope in a construction and operations plan."",
+      ""scope"": ""Construction and operations phase of offshore wind developments."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM. 2018. Draft guidance regarding the use of a project design envelope in a construction and operations plan."",
+      ""related_domains"": [""project design"", ""construction planning"", ""operations management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and renewable energy authorization""
+    },
+    {
+      ""entity_name"": ""Council on Environmental Quality"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Guidance on cumulative effects under NEPA""
+    }
+  ]
+}
+```"
+"12",125,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Guidance on the assessment of the impact of offshore wind farms: seascape and visual impact report"",
+    ""document_number"": ""2005"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Guidance on the assessment of the impact of offshore wind farms: seascape and visual impact report"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Department of Trade and Industry"",
+      ""related_domains"": [""environmental impact assessment"", ""visual impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Landscape Institute and Institute of Environmental Management & Assessment"",
+      ""jurisdiction"": ""England and Wales"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"12",126,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Evaluation of lighting schemes for offshore wind facilities and impacts to local environments"",
+    ""document_number"": ""OCS Study BOEM 2013-0116"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Outer Continental Shelf - USA"",
+      ""role"": ""Environmental oversight and regulatory authority for offshore energy projects""
+    }
+  ]
+}
+```"
+"12",127,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Visual Resource Stewardship Conference: Landscape and Seascape Management in a Time of Change"",
+    ""document_number"": ""Proceedings"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior, National Park Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Forest Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"12",128,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",129,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction and operation plan (COP)"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Council on Environmental Quality (CEQ)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Develop federal agency-wide policy and regulations for implementing the procedural provisions of NEPA""
+    }
+  ]
+}
+```"
+"12",130,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""60"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"12",131,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",132,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",133,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",134,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""National Register of Historic Places"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Park Service (NPS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Administering body for the National Register of Historic Places""
+    }
+  ]
+}
+```"
+"12",135,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""63"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",136,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",137,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",138,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",139,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",140,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"12",141,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""67"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",142,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SLVIAs for projects considered by BOEM"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Light detection and ranging (LiDAR) data should always be used in the viewshed analysis if available."",
+      ""scope"": ""Viewshed analysis for offshore components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM guidelines"",
+      ""related_domains"": [""viewshed analysis"", ""elevation data""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If LiDAR data cannot be obtained, high-resolution Interferometric synthetic aperture radar (IFSAR) data could be used."",
+      ""scope"": ""Viewshed analysis for offshore components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM guidelines"",
+      ""related_domains"": [""viewshed analysis"", ""elevation data""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The minimum standard for elevation data for use in an SLVIA should be the national 3D Elevation Program (3DEP) dataset."",
+      ""scope"": ""Elevation data for SLVIA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""3DEP"",
+      ""related_domains"": [""elevation data"", ""SLVIA""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A viewshed for a substation should not use only the height of the tallest structure within the substation."",
+      ""scope"": ""Viewshed analysis for onshore substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM guidelines"",
+      ""related_domains"": [""viewshed analysis"", ""substation design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"12",143,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""68"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The viewshed analysis for determining the ZTV should use a digital terrain model (DTM) rather than a surface elevation model (SEM)."",
+      ""scope"": ""Viewshed analysis for wind farm visibility assessment."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visibility analysis"", ""technical assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use of an SEM (verified by field surveys) allows the presence of vegetative and structural screening elements to be accounted for when analyzing project visibility."",
+      ""scope"": ""Impact assessment for SLIA and VIA."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visibility analysis"", ""impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All viewshed analyses conducted for SLVIAs considered by BOEM incorporate a viewer height of 1.8 m (5.9 ft)."",
+      ""scope"": ""Viewshed analysis for SLVIA."",
+      ""numerical_value"": 1.8,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""visibility analysis"", ""technical assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"12",144,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Mitigation of Seascape/Landscape and Visual Impacts from Offshore Wind Facilities"",
+    ""document_number"": ""Appendix B"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All viewshed analyses conducted for BOEM-approved SLVIAs incorporate earth curvature and atmospheric refraction."",
+      ""scope"": ""Viewshed analysis for offshore wind facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM-approved SLVIAs"",
+      ""related_domains"": [""visual impact assessment"", ""geographic information systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The GIS software’s default value for atmospheric refraction or a stated and generally accepted value for refraction can be used."",
+      ""scope"": ""Viewshed analysis for offshore wind facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""GIS software"",
+      ""related_domains"": [""visual impact assessment"", ""geographic information systems""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",145,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Offshore wind facility seascape, landscape, and visual impact mitigation measures"",
+    ""document_number"": ""B.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mitigation measures for both the offshore and onshore facility components, for both daytime and nighttime conditions, and for all phases of development."",
+      ""scope"": ""Offshore and onshore components, all phases of development."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM-reviewed offshore wind project"",
+      ""related_domains"": [""environmental impact assessment"", ""visual impact"", ""landscape management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All mitigation measures are subject to requirements for worker safety and facility security."",
+      ""scope"": ""All phases of development."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""worker safety"", ""facility security""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"12",146,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""70"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""It is critical that seascape, landscape, and visual issues be considered as early as possible in the project design process."",
+      ""scope"": ""Offshore components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""project design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",147,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"12",148,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""71"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Developing a seascape/landscape and visual resource impact monitoring and mitigation compliance plan."",
+      ""scope"": ""Monitoring phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""visual resource management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Developing a decommissioning and site reclamation plan that considers seascape, landscape, and visual impacts."",
+      ""scope"": ""Decommissioning phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""site reclamation"", ""visual impact management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Using offsite mitigation where onsite mitigation is ineffective or infeasible."",
+      ""scope"": ""Mitigation strategy"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""mitigation strategies"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"12",149,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""B.4 Offshore Facility Impact Mitigation"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Siting offshore wind facility components as far as possible from coastal resources is the single most effective seascape, landscape, and visual impact mitigation strategy."",
+      ""scope"": ""Offshore wind facility components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DTI 2005; Orr et al. 2013"",
+      ""related_domains"": [""visual impact assessment"", ""landscape management""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Developments should be sited in already developed seascapes, with due consideration for visual absorption capacity and possible effects of other existing or reasonably foreseeable development."",
+      ""scope"": ""Offshore developments"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DTI 2005"",
+      ""related_domains"": [""visual impact assessment"", ""landscape management""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The relationship of the planned development to other existing or planned offshore wind facilities in the area should be considered in terms of siting but also to achieve consistency in layout to the extent possible."",
+      ""scope"": ""Offshore wind facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DTI 2005"",
+      ""related_domains"": [""spatial planning"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Where possible, use intervening headlands to screen project views from sensitive locations."",
+      ""scope"": ""Offshore wind facility views"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Apostol et al. 2017"",
+      ""related_domains"": [""visual impact assessment"", ""landscape management""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Avoid creating visual clutter by siting facilities at different distances along the same line of sight, as seen from sensitive locations."",
+      ""scope"": ""Offshore wind facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BLM 2013"",
+      ""related_domains"": [""visual impact assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Cluster or group turbines to break up overly long lines ('walls') of turbines."",
+      ""scope"": ""Offshore wind turbine layout"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BLM 2013"",
+      ""related_domains"": [""visual impact assessment"", ""turbine layout""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Avoid creating visual clutter by avoiding siting facilities in front of or near visible headlands or peninsulas that are focal points from the mainland."",
+      ""scope"": ""Offshore wind facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DTI 2005"",
+      ""related_domains"": [""visual impact assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Facilities should be sited so that they are not framed by landforms in 'keyhole' views from highly sensitive inland scenic vistas or other sensitive areas."",
+      ""scope"": ""Offshore wind facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DTI 2005"",
+      ""related_domains"": [""visual impact assessment"", ""landscape management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Land Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",150,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""B.4.2, B.4.3, B.4.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""To the extent possible, the wind facility layout should be designed to minimize the horizontal spread of the layout from shore, particularly from sensitive viewpoints."",
+      ""scope"": ""Facility layout from shore"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DTI 2005"",
+      ""related_domains"": [""visual impact"", ""landscape assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Where feasible, remove or relocate particular turbines to avoid impacts."",
+      ""scope"": ""Turbine placement"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BLM 2013"",
+      ""related_domains"": [""environmental impact"", ""spatial planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Within a given project, turbines should be uniform in shape, color, size of rotor blades, nacelles, and towers."",
+      ""scope"": ""Turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Gipe 1998, BLM 2013"",
+      ""related_domains"": [""design standards"", ""aesthetic considerations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Turbines should use non-reflective paints and coatings to reduce reflection, blade glinting, and glare."",
+      ""scope"": ""Turbine surface treatment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MMS 2007; BLM 2013; Scottish Natural Heritage 2014"",
+      ""related_domains"": [""visual impact"", ""material specifications""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Turbines should be painted light gray to reduce visual contrast."",
+      ""scope"": ""Turbine color"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Scottish Natural Heritage 2014"",
+      ""related_domains"": [""visual impact"", ""aesthetic considerations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Commercial messages and symbols (such as logos or trademarks) on wind turbines should be prohibited."",
+      ""scope"": ""Turbine branding"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BLM 2013"",
+      ""related_domains"": [""branding regulations"", ""visual impact""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Minimize lighting whenever and wherever possible."",
+      ""scope"": ""Lighting during operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Orr et al. 2013; BLM [in press]"",
+      ""related_domains"": [""safety regulations"", ""visual impact""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Lights that appear red to the eye should continue to be preferred for aviation obstruction lighting over lights that appear white."",
+      ""scope"": ""Aviation lighting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Orr et al. 2013; BLM [in press]"",
+      ""related_domains"": [""aviation safety"", ""lighting standards""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Use flashing rather than non-flashing lights whenever possible."",
+      ""scope"": ""Lighting during operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Orr et al. 2013; BLM [in press]"",
+      ""related_domains"": [""safety regulations"", ""visual impact""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Avoid direct lighting of the water surface, and minimize indirect lighting on the water surface to the extent practicable once the facility is in operation."",
+      ""scope"": ""Lighting during operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Orr et al. 2013; BLM [in press]"",
+      ""related_domains"": [""safety regulations"", ""environmental impact""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Land Management (BLM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and permitting authority""
+    },
+    {
+      ""entity_name"": ""Minerals Management Service (MMS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and regulatory authority""
+    },
+    {
+      ""entity_name"": ""Scottish Natural Heritage"",
+      ""jurisdiction"": ""Scotland"",
+      ""role"": ""Environmental oversight and conservation authority""
+    }
+  ]
+}
+```"
+"12",151,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All non-AOL and non-MNL permanent lighting should use luminaires with an Illuminating Engineering Society (IES) backlight, uplight, glare (BUG) (U0) rating."",
+      ""scope"": ""Permanent lighting for offshore wind facilities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Illuminating Engineering Society (IES)"",
+      ""related_domains"": [""navigational safety"", ""light pollution"", ""environmental impact""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Automatic reduction of AOL intensity when visibility sensors indicate that the meteorological visibility is conducive to safely do so."",
+      ""scope"": ""Operational phase of offshore wind facilities."",
+      ""numerical_value"": 30,
+      ""unit"": ""%"",
+      ""source"": ""Federal Aviation Administration (FAA)"",
+      ""related_domains"": [""aviation safety"", ""operational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Reduce the AOL to 30% when visibility is 5 km (3.1 mi) or greater and to 10% when visibility is 10 km (6.2 mi) or greater."",
+      ""scope"": ""Operational phase of offshore wind facilities."",
+      ""numerical_value"": 10,
+      ""unit"": ""%"",
+      ""source"": ""Federal Aviation Administration (FAA)"",
+      ""related_domains"": [""aviation safety"", ""operational safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use aircraft detection lighting system (ADLS) technology."",
+      ""scope"": ""Operational phase of offshore wind facilities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""visual impact""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Aviation Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Aviation safety oversight and regulation""
+    }
+  ]
+}
+```"
+"12",152,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Best Management Practices for Artificial Light at Night"",
+    ""document_number"": ""73"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Upon facility decommissioning, all offshore structures should be removed to at least below the visible waterline."",
+      ""scope"": ""Decommissioning phase, offshore structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Land Management"",
+      ""related_domains"": [""decommissioning"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind turbines should be well maintained for the duration of the operating permit."",
+      ""scope"": ""Operational phase, wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BLM 2013"",
+      ""related_domains"": [""maintenance"", ""operational integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Inoperative turbines should be repaired, replaced, or removed as quickly as feasible."",
+      ""scope"": ""Operational phase, inoperative turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BLM 2013"",
+      ""related_domains"": [""maintenance"", ""operational integrity""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Land Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",153,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""74"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Facilities and their components should be sited outside the viewsheds of highly sensitive viewing locations."",
+      ""scope"": ""Geographic region around sensitive viewing locations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""land use planning""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Avoid siting facilities and their components near visually prominent seascape/landscape features."",
+      ""scope"": ""Geographic region around prominent seascape/landscape features."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""land use planning""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Siting should take into account the impacts of lighting on the night sky and naturally dark areas."",
+      ""scope"": ""Areas sensitive to night sky impacts."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""wildlife protection""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Where feasible, facilities and their components should be sited in already developed industrial landscapes."",
+      ""scope"": ""Geographic region of industrial landscapes."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""land use planning"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Where feasible, in forested areas or shrublands, site facilities and their components in existing clearings."",
+      ""scope"": ""Forested areas or shrublands."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""land use planning"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A careful study of the project site should be performed to identify appropriate colors and textures for materials."",
+      ""scope"": ""Project site."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""design standards"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Facilities and their components should be sited in a location with stable soil that is favorable for revegetation and reclamation/restoration."",
+      ""scope"": ""Geographic region with stable soil."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""soil stability""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Siting should take advantage of available topographic, vegetative, and structural screening opportunities."",
+      ""scope"": ""Geographic region with screening opportunities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact assessment"", ""land use planning""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"12",154,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Structures should not be placed on ridgelines, summits, or other locations where they would be silhouetted against the sky."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact"", ""site planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Facility design should incorporate measures to minimize the profile of all facility-related structures, particularly for facilities proposed within proximity to sensitive viewing locations."",
+      ""scope"": ""Design phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""visual impact"", ""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Facility components should be specified with a low-reflectivity, neutral finish."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""material specifications"", ""visual impact""]
+    },
+    {
+      ""type"": ""Lighting"",
+      ""requirement"": ""Minimize lighting whenever and wherever possible."",
+      ""scope"": ""Construction and operational phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety"", ""visual impact""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"12",155,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""75"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All permanent lighting should use luminaires with an IES backlight, uplight, glare (BUG) (U0) rating."",
+      ""scope"": ""Permanent outdoor lighting for wind farm operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""lighting standards"", ""environmental impact""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use 'wildlife friendly' light sources that emit narrow-spectrum, long-wavelength (greater than 560 nm) light."",
+      ""scope"": ""Permanent outdoor lighting for wind farm operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""wildlife protection"", ""lighting standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If safety-related lighting requirements call for accurate color rendition, broad-spectrum light sources with a correlated color temperature (CCT) of 2200 K or below should be used."",
+      ""scope"": ""Permanent outdoor lighting for wind farm operations."",
+      ""numerical_value"": 2200,
+      ""unit"": ""K"",
+      ""source"": null,
+      ""related_domains"": [""lighting standards"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",156,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Protecting Night Skies and Dark Environments on BLM Administered Lands: Best Management Practices for Artificial Light at Night"",
+    ""document_number"": ""B.5.5"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Minimize the project footprint and associated disturbance during and after construction."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Land Management"",
+      ""related_domains"": [""environmental impact assessment"", ""land use planning""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All construction and maintenance activities should be conducted in a manner that will minimize disturbance of vegetation, soils, drainage channels, and intermittent and perennial stream banks."",
+      ""scope"": ""Construction and maintenance phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Land Management"",
+      ""related_domains"": [""environmental impact assessment"", ""soil conservation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Personal vehicles, sanitary facilities, and work areas should be confined to clearly delineated construction boundaries specified in the plan of development."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Land Management"",
+      ""related_domains"": [""construction management"", ""site management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Provide maps of avoidance areas to construction personnel; the maps should include established work zones and right-of-way areas where overland travel should be avoided."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Land Management"",
+      ""related_domains"": [""construction management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Neither paint nor permanent discoloring agents should be applied to rocks or vegetation to indicate survey limits."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Land Management"",
+      ""related_domains"": [""environmental protection"", ""site management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Allow only overland driving in areas where recontouring is not required."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Land Management"",
+      ""related_domains"": [""land use planning"", ""environmental protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Land Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"12",157,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""76"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Dust abatement measures should be implemented in arid environments and areas with air quality regulations to minimize the impacts of vehicular and pedestrian traffic, construction, and wind on exposed surface soils."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""air quality management"", ""construction impact""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Erosion and sediment control measures should be in place and functioning before construction or decommissioning activities occur."",
+      ""scope"": ""Construction and decommissioning phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""erosion control"", ""sediment management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Temporary and/or permanent soil stabilization measures should be applied immediately on all disturbed areas as grading progresses."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""soil stabilization"", ""construction management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Strip, stockpile, and stabilize topsoil from a site before excavating earth for facility construction."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""topsoil management"", ""construction practices""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Topsoil from cut and fill activities should be spread on freshly disturbed areas to reduce color contrast, reestablish surface textures, and aid rapid re-vegetation."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""vegetation management"", ""soil restoration""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Openings in vegetation for facilities, structures, and roads should be feathered and shaped to repeat the size, shape, and characteristics of naturally occurring openings."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""vegetation management"", ""land use planning""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",158,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vegetation clearing should be minimized."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""vegetation management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Cut vegetation crowns and roots should be left undisturbed to avoid root damage and to allow for re-sprouting."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""vegetation management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Installation of underground features should be completed using directional drilling rather than excavation."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""construction methods"", ""infrastructure""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Clear only to the edge of the designed grade manipulation and not beyond."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""vegetation management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Slash from vegetation removal should be mulched and spread to cover fresh soil disturbances or should be buried."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""waste management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Disturbed surfaces should be revegetated using salvaged native vegetation or using BOEMap-approved seed mixes."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""vegetation management"", ""environmental restoration""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vegetation from areas that are to be cleared or thinned for construction or visual mitigation should be transplanted into areas that were disturbed."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""vegetation management"", ""environmental restoration""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"12",159,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""B.5.8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A reclamation plan should be prepared in consultation with BOEM when necessary."",
+      ""scope"": ""Site reclamation activities during construction and operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""environmental management"", ""site reclamation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Begin site reclamation activities during construction and during operations, as soon as possible after disturbances."",
+      ""scope"": ""Site reclamation activities during construction and operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental management"", ""site reclamation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Cut slopes and recontoured areas should be randomly scarified and roughened to reduce texture contrasts with existing landscapes and aid in revegetation."",
+      ""scope"": ""Cut slopes and recontoured areas."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental management"", ""site reclamation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Temporary roads should be removed, and the land restored to its natural state, as soon as possible."",
+      ""scope"": ""Temporary roads."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental management"", ""site reclamation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Above-ground structures and near-ground pipelines, conduits, and other connecting structures should be removed upon completion of a project."",
+      ""scope"": ""Above-ground structures and near-ground pipelines."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental management"", ""decommissioning""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Gravel and other surface treatments should be removed or buried as part of project decommissioning."",
+      ""scope"": ""Surface treatments during decommissioning."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental management"", ""decommissioning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and consultation for offshore projects.""
+    }
+  ]
+}
+```"
+"12",160,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""78"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The burning of trash should be prohibited during construction, operations, and decommissioning; trash should be stored in containers and/or hauled offsite."",
+      ""scope"": ""Construction, operations, and decommissioning phases of the project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""waste management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Strict attention should be paid to rapid and complete removal of excess materials and trash generated during construction, operation, and decommissioning activities."",
+      ""scope"": ""Construction, operation, and decommissioning phases of the project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""waste management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All stakes and flagging should be removed from the construction area and disposed of in an approved facility."",
+      ""scope"": ""Construction phase of the project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""site management"", ""environmental protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"12",161,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of the Interior (DOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Management of natural resources and cultural heritage""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""U.S. Outer Continental Shelf"",
+      ""role"": ""Management of offshore energy and mineral resources""
+    },
+    {
+      ""entity_name"": ""BOEM Environmental Studies Program"",
+      ""jurisdiction"": ""U.S. Outer Continental Shelf"",
+      ""role"": ""Providing information to assess impacts from offshore energy activities""
+    }
+  ]
+}
+```"

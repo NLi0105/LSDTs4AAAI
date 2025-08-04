@@ -1,0 +1,75 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"29","gemini","gemini-1.5-pro",76879,76343,1,1,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""A R T I C L E I N F O"",
+    ""project_name"": ""United States Offshore Wind Energy Atlas"",
+    ""project_location"": ""All U.S. coastal waters""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Offshore Wind Turbines"",
+      ""description"": ""Wind turbines with varying hub heights (100m, 150m, 200m, 250m) and a capacity of 15 MW (V236-15 model)."",
+      ""source_section_number"": ""Methods""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Turbine Foundations"",
+      ""description"": ""Varying foundation types (monopile, gravity-based, jacket, tripod, semi-submersible, tension-leg buoy, spar) based on bathymetry and soil characteristics."",
+      ""source_section_number"": ""Methods""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Minimum wind speed thresholds ranging from 6 m/s to 12 m/s with 0.5 m/s intervals."",
+      ""unit"": ""m/s"",
+      ""source_section_number"": ""Methods"",
+      ""geographic_scope"": ""All U.S. coastal waters"",
+      ""context_quote"": ""To analyze the wind power distribution and visualize the results, 13 binary wind speed threshold layers were generated in a range relevant for industry use (6 – 12 m/s with an interval of 0.5 m/s).""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Wind turbine hub heights of 100m, 150m, 200m, and 250m are considered."",
+      ""unit"": ""m"",
+      ""source_section_number"": ""Methods"",
+      ""geographic_scope"": ""All U.S. coastal waters"",
+      ""context_quote"": ""To calculate the power generation in each study region, wind speed raster layers were obtained from the Global Wind Atlas at three different heights (100 m, 150 m, and 200 m) [84]. ... Since turbine hub height and blade length have increased rapidly in the past decades [75,76], wind speeds at 250 m were derived based on power-curve extrapolation, as seen in Equation S1.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Exclusion of areas based on other ocean uses or ecological significance, including airports, existing energy infrastructure, aquaculture, disposal areas, highly protected marine and bird areas, military areas, navigation and shipping lanes, reefs, kelp forests, submarine cables, and wrecks."",
+      ""source_section_number"": ""Methods"",
+      ""geographic_scope"": ""All U.S. coastal waters"",
+      ""context_quote"": ""Using Geographic Information System (GIS) mapping, regions with other ocean uses or ecological significance, including airports, existing energy infrastructure, aquaculture, disposal areas, highly protected marine and bird areas, military areas, navigation and shipping lanes, reefs, kelp forests, submarine cables, and wrecks [57,64,85], were excluded (see Table S1).""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Wake loss scenarios of 0%, 5%, 10%, and 20% are considered."",
+      ""unit"": ""%"",
+      ""source_section_number"": ""Methods"",
+      ""geographic_scope"": ""All U.S. coastal waters"",
+      ""context_quote"": ""Major output of this study includes ... energy output (TWh) with different wake loss scenarios (0%, 5%, 10%, 20%) ...""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Manages offshore wind energy leasing and development."",
+      ""source_section_number"": ""Introduction""
+    }
+  ]
+}
+```"

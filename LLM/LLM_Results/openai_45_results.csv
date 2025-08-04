@@ -1,0 +1,1284 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"45",1,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Fishery Management Plan for U.S. West Coast Fisheries for Highly Migratory Species"",
+    ""document_number"": ""7.0"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe and identify essential fish habitat, minimize to the extent practicable adverse effects on such habitat caused by fishing and identify other actions to encourage the conservation and enhancement of such habitat."",
+      ""scope"": ""All species managed under an FMP"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 303(a)(7) of the MSA, 16 U.S.C. 1801 et seq."",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe adverse impacts to EFH from fishing activities."",
+      ""scope"": ""Fishing activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS guidelines"",
+      ""related_domains"": [""environmental impact assessment"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe adverse impacts to EFH from non-fishing activities."",
+      ""scope"": ""Non-fishing activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS guidelines"",
+      ""related_domains"": [""environmental impact assessment"", ""fisheries management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Pacific Fishery Management Council"",
+      ""jurisdiction"": ""U.S. West Coast"",
+      ""role"": ""Fisheries management and oversight""
+    }
+  ]
+}
+```"
+"45",2,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP 53"",
+    ""document_number"": ""April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""FMPs must describe EFH in text and/or tables and figures which provide information on the biological requirements for each life history stage of the species."",
+      ""scope"": ""U.S. Exclusive Economic Zone (EEZ)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations"",
+      ""related_domains"": [""environmental impact assessment"", ""marine biology"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An initial inventory of available environmental and fisheries data sources should be taken to compile information necessary to describe and identify EFH and to identify major species-specific habitat data gaps."",
+      ""scope"": ""U.S. Exclusive Economic Zone (EEZ)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations"",
+      ""related_domains"": [""environmental impact assessment"", ""data management"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""FMPs should identify Habitat Areas of Particular Concern (HAPCs) within EFH for habitats which satisfy the criteria of being sensitive or vulnerable to environmental stress, are rare, or are particularly important ecologically."",
+      ""scope"": ""U.S. Exclusive Economic Zone (EEZ)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations"",
+      ""related_domains"": [""environmental impact assessment"", ""marine conservation"", ""habitat protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and advisory role in Federal interagency consultations regarding non-fishing threats.""
+    }
+  ]
+}
+```"
+"45",3,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 7.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Management measures to minimize adverse effects on EFH from fishing when there is evidence for such effects."",
+      ""scope"": ""EFH (Essential Fish Habitat) management unit species"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FMP (Fishery Management Plan)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Seasonal and areal restrictions on the use of specified gear; gear modifications to allow escapement of particular species or particular life stages."",
+      ""scope"": ""Fishing gear restrictions in EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FMP (Fishery Management Plan)"",
+      ""related_domains"": [""fishing practices"", ""marine habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Closing areas to all fishing or specific gear types during spawning, migration, foraging, and nursery activities."",
+      ""scope"": ""Time/area closures in EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FMP (Fishery Management Plan)"",
+      ""related_domains"": [""marine protected areas"", ""species conservation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Limits on the take of species that provide structural habitat for other species assemblages or communities."",
+      ""scope"": ""Harvest limits in EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FMP (Fishery Management Plan)"",
+      ""related_domains"": [""sustainable fishing"", ""marine ecology""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",4,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""HMS FMP 54 April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""the Council recommends a precautionary approach in designating EFH for the MUS."",
+      ""scope"": ""Pacific Council’s region"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",5,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",6,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",7,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",8,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",9,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",10,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",11,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",12,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",13,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""HMS FMP 58 April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"45",14,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",15,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"45",16,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP 59"",
+    ""document_number"": ""April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Council recommends adoption of EFH designations as presented without identification of HAPCs at this time, because of lack of information on specific habitat dependencies for species that may occupy critical habitat in the EEZ."",
+      ""scope"": ""Exclusive Economic Zone (EEZ)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HMS FMP 59 April 2018"",
+      ""related_domains"": [""environmental impact assessment"", ""habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If HAPCs of these species, and those of others that have more regional distributions, become identified in the future, it is recommended that the Council make every effort to protect them."",
+      ""scope"": ""Future identified HAPCs"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HMS FMP 59 April 2018"",
+      ""related_domains"": [""habitat protection"", ""species conservation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",17,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 600.815(a)(2)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""FMPs must include management measures which minimize adverse effects on EFH from fishing, to the extent practicable, and identify conservation and enhancement measures."",
+      ""scope"": ""EFH (Essential Fish Habitat)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 600.815(a)(2)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""FMPs must also contain an assessment of the potential adverse effects of all fishing activities in waters described as EFH."",
+      ""scope"": ""EFH (Essential Fish Habitat)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 600.815(a)(2)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Councils should use the best scientific information available, as well as other appropriate information sources, as available."",
+      ""scope"": ""Assessment of fishing activities in EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 600.815(a)(2)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The assessment should consider the relative impacts of all fishing gears and practices used in EFH on different types of habitat found within EFH."",
+      ""scope"": ""EFH (Essential Fish Habitat)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 600.815(a)(2)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The assessment should also consider the establishment of research closure areas and other measures to evaluate the impact of any fishing activity that alters EFH."",
+      ""scope"": ""EFH (Essential Fish Habitat)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 600.815(a)(2)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",18,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""HMS FMP 60 April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Councils must act to minimize, prevent, or mitigate any adverse effects from fishing activities, to the extent practicable, if there is evidence that a fishing activity is having an identifiable adverse effect on EFH."",
+      ""scope"": ""Fishing activities affecting EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Fishing activity can also cause harm when it takes place in areas where HMS congregate and are thus highly susceptible to capture during a critical life history period."",
+      ""scope"": ""Fishing activities in critical habitats for HMS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""fisheries management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"45",19,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Under Federal law, it is illegal for any vessel to discharge plastics or garbage containing plastics into any waters."",
+      ""scope"": ""All waters under Federal jurisdiction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal law"",
+      ""related_domains"": [""marine pollution"", ""environmental protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"45",20,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""HMS FMP 61 April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Closing areas to all fishing or specific gear types during spawning, migration, foraging, and nursery activities."",
+      ""scope"": ""Specific areas affected by fishing activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine protected areas"", ""fishery management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Prohibitions on the use of specified gear; gear modifications to allow escapement of particular species or particular life stages."",
+      ""scope"": ""Fishing gear used in sensitive areas."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""fishing practices"", ""species protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",21,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Fishers are required to save light sticks for disposal on land as required by the International Convention of the Prevention of Pollution from Ships, or MARPOL established in 1973."",
+      ""scope"": ""U.S. Exclusive Economic Zone"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""International Convention of the Prevention of Pollution from Ships (MARPOL)"",
+      ""related_domains"": [""marine pollution"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Annex V of the Protocol deals with plastics and garbage disposal from ships and prohibits dumping of all ship-generated plastics."",
+      ""scope"": ""Territorial waters of treaty nations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MARPOL Annex V"",
+      ""related_domains"": [""marine pollution"", ""waste management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""This includes, but is not limited to, strategic release of offal from vessels to distract seabirds and other protected species away from longline hooks during setting and retrieval."",
+      ""scope"": ""Fishing operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""avian protection"", ""fisheries management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""U.S. Exclusive Economic Zone"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}"
+"45",22,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""closing areas to all fishing or specific gear types during spawning, migration, foraging, and nursery activities"",
+      ""scope"": ""Marine protected areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulatory guidance on EFH"",
+      ""related_domains"": [""marine conservation"", ""fishing regulations"", ""habitat protection""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""designating zones for use as marine protected areas to limit adverse effects of fishing practices on certain vulnerable or rare areas/species/life history stages"",
+      ""scope"": ""Marine protected areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulatory guidance on EFH"",
+      ""related_domains"": [""marine conservation"", ""fishing regulations"", ""habitat protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""West Coast-based high seas longliners to abide by the same regulations restricting the targeting of swordfish north of the equator west of 150° W. longitude"",
+      ""scope"": ""Fishing operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Council recommendations"",
+      ""related_domains"": [""fishing regulations"", ""swordfish conservation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""North Pacific Fishery Management Council"",
+      ""jurisdiction"": ""North Pacific - USA"",
+      ""role"": ""Regulatory authority for fisheries management""
+    }
+  ]
+}
+```"
+"45",23,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP 62"",
+    ""document_number"": ""April 2018"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The West Coast HMS FMP meets the MSA requirement to minimize to the extent practicable, the adverse effects of fishing on EFH."",
+      ""scope"": ""West Coast HMS EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HMS FMP 62"",
+      ""related_domains"": [""environmental impact assessment"", ""fishing practices"", ""habitat conservation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"45",24,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""600.815(a)(4)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""FMPs must identify activities that have the potential to adversely affect, directly or cumulatively, EFH quantity or quality, or both."",
+      ""scope"": ""General activities affecting EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations, Section 600.815(a)(4)"",
+      ""related_domains"": [""environmental impact assessment"", ""habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""FMPs should describe known and potential adverse impacts to EFH."",
+      ""scope"": ""General description of impacts on EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations, Section 600.815(a)(4)"",
+      ""related_domains"": [""environmental impact assessment"", ""habitat protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A Geographic Information System (GIS) or mapping system should be used to support analyses of data and to present these data in an FMP."",
+      ""scope"": ""Data analysis and presentation in FMPs"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations, Section 600.815(a)(4)"",
+      ""related_domains"": [""data analysis"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"45",25,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP 63"",
+    ""document_number"": ""April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Federal agencies undertaking, permitting, or funding activities that may adversely affect EFH to consult with NMFS."",
+      ""scope"": ""Activities affecting Essential Fish Habitat (EFH)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act (MSA) Section 305(b)(4)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""NMFS is required to provide EFH conservation and enhancement recommendations to Federal and state agencies for actions that adversely affect EFH."",
+      ""scope"": ""Actions affecting Essential Fish Habitat (EFH)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act (MSA) Section 305(b)(4)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"45",26,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Periodic or constant dredging is required to maintain or create ship and boat access to docking facilities."",
+      ""scope"": ""Navigable waters during construction and operation of marinas, harbors, and ports."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""benthic habitat impact"", ""navigational access"", ""marine construction""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",27,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Dredging events using certain types of dredging equipment can result in increased levels of fine-grained mineral particles, usually smaller than silt, and organic particles in the water column habitat utilized by HMS."",
+      ""scope"": ""Water column habitat utilized by HMS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""aquatic habitat protection"", ""water quality management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The contents of the suspended material may react with the dissolved oxygen in the water and result in short-term oxygen depletion to aquatic resources."",
+      ""scope"": ""Aquatic resources affected by dredging"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""water quality management"", ""aquatic habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Dredging may also modify current patterns and water circulation of the habitat by changing the direction or velocity of water flow."",
+      ""scope"": ""Habitat utilized by HMS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""hydrodynamics"", ""aquatic habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The disposal of dredged materials resulting from dredging operations or the use of fill material in the development of harbors results in sediments covering or smothering existing substrates."",
+      ""scope"": ""Development of harbors"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""sediment management"", ""habitat protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",28,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP 64"",
+    ""document_number"": ""April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The disposal of dredged or fill material can result in varying degrees of change in the physical, chemical, and biological characteristics of the substrate."",
+      ""scope"": ""Disposal site for dredged or fill material"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HMS FMP 64 April 2018"",
+      ""related_domains"": [""benthic habitat"", ""water quality"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The discharged material can also alter the chemistry of the receiving water at the disposal site by introducing chemical constituents in suspended or dissolved form."",
+      ""scope"": ""Disposal site for dredged or fill material"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HMS FMP 64 April 2018"",
+      ""related_domains"": [""water quality"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Suspended particles may reduce light penetration and decrease the rate of photosynthesis and lower the primary productivity of an aquatic area if suspended for lengthy intervals."",
+      ""scope"": ""Water column at the disposal site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HMS FMP 64 April 2018"",
+      ""related_domains"": [""aquatic productivity"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Toxic metals and organics, pathogens, and viruses absorbed or adsorbed to fine-grained particles in the material may become biologically available to organisms either in the water column or through food chain processes."",
+      ""scope"": ""Water column and food chain"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HMS FMP 64 April 2018"",
+      ""related_domains"": [""marine ecology"", ""food chain dynamics""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",29,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",30,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP 65 April 2018"",
+    ""document_number"": ""65"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The release of these waters may introduce nutrients or organic materials into the surrounding water body and lead to a high biochemical oxygen demand which may reduce dissolved oxygen, thereby potentially affecting the survival of many aquatic organisms in the area."",
+      ""scope"": ""Aquaculture operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""aquatic ecosystem health"", ""water quality management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Aquaculture operations also have the potential to release high levels of antibiotics and disease, as well as allowing cultured organisms to escape into the environment."",
+      ""scope"": ""Aquaculture operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""aquatic ecosystem health"", ""biosecurity""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",31,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",32,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""HMS FMP 66 April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The impacts of chlorination and heat treatments, if any, are minimized as a result of their intermittent use and regulation pursuant to state and/or Federal national pollutant discharge elimination system (NPDES) permit requirements."",
+      ""scope"": ""Discharge sites related to water bodies in the vicinity of wind farm operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NPDES permit requirements"",
+      ""related_domains"": [""water quality"", ""marine ecology"", ""pollution control""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Pollutant Discharge Elimination System (NPDES)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"45",33,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",34,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""State and Federal agencies now regulate industrial discharges of mercury, and mercury use in agriculture, to provide an increased margin of safety."",
+      ""scope"": ""U.S."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Preventative measures include compliance with emission-related legislation to lower or eliminate incineration of mercury-bearing materials and industrial processes that promote removal of mercury from the waste stream."",
+      ""scope"": ""U.S."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""waste management"", ""pollution control""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""State and Federal agencies"",
+      ""jurisdiction"": ""U.S."",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"45",35,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""HMS FMP 67 April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"45",36,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 600.815(a)(6)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Non-water-dependent actions should not be located in EFH if such actions may have adverse impacts on EFH."",
+      ""scope"": ""Essential Fish Habitat (EFH)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities which may result in significant adverse effects on EFH should be avoided where less environmentally harmful alternatives are available."",
+      ""scope"": ""Essential Fish Habitat (EFH)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If avoidance or minimization is not possible, or will not adequately protect EFH, compensatory mitigation to conserve and enhance EFH should be recommended."",
+      ""scope"": ""Essential Fish Habitat (EFH)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Council"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"45",37,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP"",
+    ""document_number"": ""68"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"45",38,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Dredging in estuarine waters shallower than 20 feet in depth should be performed during the time frame when prey species are least likely to be entrained."",
+      ""scope"": ""Estuarine waters"",
+      ""numerical_value"": 20,
+      ""unit"": ""feet"",
+      ""source"": null,
+      ""related_domains"": [""marine ecology"", ""habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Sediments should be tested for contaminants as per the Environmental Protection Agency and U.S. Army Corps of Engineers requirements to determine proper removal and disposal procedures."",
+      ""scope"": ""Dredging operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Environmental Protection Agency, U.S. Army Corps of Engineers"",
+      ""related_domains"": [""contaminant management"", ""environmental assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The cumulative impacts of past and current dredging operations on EFH should be considered and described by Federal, state, and local resource management and permitting agencies and considered in the permitting process."",
+      ""scope"": ""Dredging operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""resource management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Dredging should be conducted using adequate control measures to minimize turbidity."",
+      ""scope"": ""Dredging operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""water quality"", ""environmental protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"45",39,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""HMS FMP 69 April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any disposal of dredge material in EFH should meet applicable state and/or Federal quality standards for such disposal."",
+      ""scope"": ""EFH (Essential Fish Habitat)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The cumulative impacts of past and current fill operations on EFH should be addressed by Federal, state, and local resource management and permitting agencies and considered in the permitting process."",
+      ""scope"": ""EFH (Essential Fish Habitat)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Benthic productivity should be determined by sampling prior to any discharge of fill material."",
+      ""scope"": ""Discharge of fill material"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All non-avoidable, adverse impacts (other than insignificant impacts) should be fully mitigated."",
+      ""scope"": ""Disposal operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""mitigation measures""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The areal extent of the disposal site should be minimized."",
+      ""scope"": ""Disposal site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""spatial planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All spoil disposal permits should reference latitude-longitude coordinates of the site so information can be incorporated into GIS systems."",
+      ""scope"": ""Spoil disposal permits"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""data management"", ""spatial analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",40,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Benthic productivity should be determined by sampling prior to any exploratory operations."",
+      ""scope"": ""Areas of high productivity"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Containment equipment and sufficient supplies to combat spills should be on site at all facilities that handle oil or hazardous substances."",
+      ""scope"": ""Facilities handling oil or hazardous substances"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""spill response"", ""hazardous materials management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Each facility should have a 'Spill Contingency Plan' and all employees should be trained in how to respond to a spill."",
+      ""scope"": ""All facilities handling oil or hazardous substances"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""spill response"", ""employee training""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""New facilities which rely on surface waters for cooling should be located in areas of low productivity or areas not prone to congregating HMS and their prey."",
+      ""scope"": ""New facilities relying on surface waters for cooling"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine ecology"", ""cooling water intake""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Power plant intake structures should be designed to meet the 'best technology available' requirements as developed pursuant to section 316b of the Clean Water Act."",
+      ""scope"": ""Power plant intake structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Water Act, section 316b"",
+      ""related_domains"": [""water quality"", ""intake design""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Discharge temperatures (both heated and cooled effluent) should comply with applicable temperature limits established pursuant to state and/or Federal NPDES regulations."",
+      ""scope"": ""Discharge temperatures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NPDES regulations"",
+      ""related_domains"": [""water quality"", ""discharge management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"45",41,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP 70"",
+    ""document_number"": ""April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Water intakes should be designed to avoid entrainment and impingement of fish species."",
+      ""scope"": ""Water intake structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""aquatic life protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Water discharge should be treated to avoid contamination of the receiving water, and should be located only in areas having good mixing characteristics."",
+      ""scope"": ""Water discharge structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""water quality"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Where cage mariculture operations are undertaken, water depths and circulation patterns should be investigated and should be adequate to preclude the buildup of waste products, excess feed, and chemical agents."",
+      ""scope"": ""Cage mariculture operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""waste management"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Any net pen structure should have small enough webbing to prevent entanglement by prey species."",
+      ""scope"": ""Net pen structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""aquatic life protection"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mitigation should fully address all impacts."",
+      ""scope"": ""General environmental impact"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""New outfall structures should be placed offshore sufficiently far enough to prevent discharge water from impacting productive areas."",
+      ""scope"": ""Outfall structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NPDES permit requirements"",
+      ""related_domains"": [""water quality"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Containment equipment and sufficient supplies to combat spills should be on-site at all facilities that handle oil or hazardous substances."",
+      ""scope"": ""Facilities handling oil or hazardous substances"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""spill response"", ""safety management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"45",42,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP 71 April 2018"",
+    ""document_number"": ""71"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Facilities should have a 'Spill Contingency Plan' where required by applicable local, state, Federal requirements."",
+      ""scope"": ""Facilities handling oil and hazardous substances"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Applicable local, state, Federal requirements"",
+      ""related_domains"": [""environmental protection"", ""spill response""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""To the maximum extent practicable, storage of oil and hazardous substances should be located in an area which would prevent spills from reaching the aquatic environment."",
+      ""scope"": ""Storage areas for oil and hazardous substances"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""spill prevention""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Prior to installation of any piers or docks, benthic productivity should be determined and areas with high productivity avoided."",
+      ""scope"": ""Installation of piers or docks"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""State and Federal resource agencies"",
+      ""related_domains"": [""benthic ecology"", ""coastal development""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Fueling facilities should be equipped with all necessary safeguards to prevent spills."",
+      ""scope"": ""Fueling facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""spill prevention"", ""safety measures""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Filling of any aquatic areas should be curtailed as much as reasonably possible."",
+      ""scope"": ""Aquatic areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""coastal development""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",43,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Minimize turbidity"",
+      ""scope"": ""Dredging activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""water quality"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Meet applicable quality requirements for disposal of dredge material in EFH"",
+      ""scope"": ""Dredge Material Disposal/Fills"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Minimize entrainment or impingement of prey species per CWA 316(b)"",
+      ""scope"": ""Water Intake Structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Water Act 316(b)"",
+      ""related_domains"": [""aquatic life protection"", ""water quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Avoid areas of high productivity with new discharge points"",
+      ""scope"": ""Wastewater Discharge"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""water quality"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Maintain on-site containment equipment and supplies"",
+      ""scope"": ""Oil Discharge/Hazardous Substances Release"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""spill response"", ""environmental safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Curtail fills in estuaries, wetlands, and bays"",
+      ""scope"": ""Coastal Development Impacts"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""habitat protection"", ""coastal management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",44,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP 72"",
+    ""document_number"": ""April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Federal action agencies must consult with NOAA Fisheries regarding any of their actions authorized, funded or undertaken, or proposed to be authorized, funded or undertaken, that may adversely affect EFH."",
+      ""scope"": ""Actions authorized, funded or undertaken by federal agencies that may affect Essential Fish Habitat (EFH)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HMS FMP 72 Section 7.5.3"",
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"45",45,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP"",
+    ""document_number"": ""73"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Council is authorized to proceed with establishing such a framework procedure for reviewing EFH and identifying HAPCs."",
+      ""scope"": ""Pacific and West Coast EEZ"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HMS FMP"",
+      ""related_domains"": [""habitat assessment"", ""marine biology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Research is needed to identify specific shark habitat areas of particular concern, such as pupping grounds, key migratory routes, feeding areas, and areas of concentration of large adult female sharks."",
+      ""scope"": ""Pacific and West Coast EEZ"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HMS FMP"",
+      ""related_domains"": [""marine biology"", ""habitat assessment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Council"",
+      ""jurisdiction"": ""Pacific and West Coast EEZ"",
+      ""role"": ""Establishing framework for reviewing EFH and identifying HAPCs""
+    }
+  ]
+}
+```"
+"45",46,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",47,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",48,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",49,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"45",50,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"

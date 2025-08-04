@@ -1,0 +1,1232 @@
+document_id,chunk_number,parsed_successfully,raw_output
+27,1,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Draft Outer Continental Shelf Air Permit"",
+    ""document_number"": ""Page 1 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Revolution Wind LLC is authorized to construct up to 100 wind turbine generators (\""WTGs\"") and up to 2 Offshore Substations (\""OSSs\"")."",
+      ""scope"": ""Overall wind farm infrastructure"",
+      ""numerical_value"": 100,
+      ""unit"": ""WTGs"",
+      ""source"": ""OCS-R1-05"",
+      ""related_domains"": [""wind turbine capacity"", ""electrical infrastructure""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""All wind turbine generators and offshore substations must be located within federal waters on the OCS, specifically in the Bureau of Ocean Energy Management (“BOEM”) Renewable Energy Lease Area OCS-A 0486 in the Rhode Island-Massachusetts Wind Energy Area."",
+      ""scope"": ""Wind farm site location"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OCS-R1-05"",
+      ""related_domains"": [""site planning"", ""leasing"", ""jurisdictional boundaries""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Environmental Protection Agency Region 1 (\""EPA\"")"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (“BOEM”)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing authority""
+    }
+  ]
+}
+```"
+27,2,False,NO_RELEVANT_DATA_FOUND
+27,3,False,NO_RELEVANT_DATA_FOUND
+27,4,False,NO_RELEVANT_DATA_FOUND
+27,5,False,NO_RELEVANT_DATA_FOUND
+27,6,False,NO_RELEVANT_DATA_FOUND
+27,7,False,NO_RELEVANT_DATA_FOUND
+27,8,False,NO_RELEVANT_DATA_FOUND
+27,9,False,NO_RELEVANT_DATA_FOUND
+27,10,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05"",
+    ""document_number"": ""Page 8 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The WTGs will not utilize SF6 within the switchgears."",
+      ""scope"": ""WTG Switchgears"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05"",
+      ""related_domains"": [
+        ""electrical engineering"",
+        ""environmental impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""BACT for SF6 is required for the SWGs located on the OSS (MV and HV)."",
+      ""scope"": ""MV and HV SWGs on the OSS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05"",
+      ""related_domains"": [
+        ""air quality"",
+        ""emissions control""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+27,11,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05"",
+    ""document_number"": ""Page 9 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight (air quality)""
+    }
+  ]
+}
+```"
+27,12,False,NO_RELEVANT_DATA_FOUND
+27,13,False,NO_RELEVANT_DATA_FOUND
+27,14,False,NO_RELEVANT_DATA_FOUND
+27,15,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 11 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+27,16,False,NO_RELEVANT_DATA_FOUND
+27,17,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 12 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing authority""
+    },
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and oversight""
+    }
+  ]
+}
+```"
+27,18,False,NO_RELEVANT_DATA_FOUND
+27,19,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall not cause, suffer, allow, or permit the emission of smoke from any OCS Source which has a shade, density, or appearance equal to or greater than No. 1 of the [Ringelmann] Chart for a period, or aggregate period of time in excess of six minutes during any one hour, provided that at no time during the said six minutes shall the shade, density, or appearance be equal to or greater than No. 2 of the [Ringelmann] Chart."",
+      ""scope"": ""All OCS Sources"",
+      ""numerical_value"": 6,
+      ""unit"": ""minutes"",
+      ""source"": ""310 CMR 7.06(1)(a)"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall not cause, suffer, allow, or permit the operation of any OCS Source to emit any contaminant(s), exclusive of uncombined water or smoke subject to Section IV(A)(1) above, that exceed 20% opacity for a period or aggregate period of time in excess of two minutes during any one hour provided that, at no time during the said two minutes shall the opacity exceed 40%."",
+      ""scope"": ""All OCS Sources"",
+      ""numerical_value"": 20,
+      ""unit"": ""% opacity"",
+      ""source"": ""310 CMR 7.06(1)(b)"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All diesel-fueled compression ignition internal combustion engines subject to Subpart IIII with a displacement of less than 30 liters per cylinder shall be fired with diesel fuel not to exceed a maximum sulfur content of 15 ppm."",
+      ""scope"": ""Diesel-fueled compression ignition internal combustion engines with a displacement of less than 30 liters per cylinder subject to Subpart IIII"",
+      ""numerical_value"": 15,
+      ""unit"": ""ppm"",
+      ""source"": ""40 C.F.R. 60.4207(b)"",
+      ""related_domains"": [""air quality"", ""fuel quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All diesel-fueled compression ignition internal combustion engines subject to Subpart IIII with a displacement of greater than or equal to 30 liters per cylinder shall be limited to using diesel fuel not to exceed a maximum per-gallon sulfur content of 1,000 parts per million (ppm)."",
+      ""scope"": ""Diesel-fueled compression ignition internal combustion engines with a displacement of greater than or equal to 30 liters per cylinder subject to Subpart IIII"",
+      ""numerical_value"": 1000,
+      ""unit"": ""ppm"",
+      ""source"": ""40 C.F.R. 60.4207(d)"",
+      ""related_domains"": [""air quality"", ""fuel quality""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+27,20,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Beginning at the Operational Phase Start Date, each operating day, the Permittee shall calculate emissions of NOx and VOC from the emission sources defined in Specific Page 13 of 29."",
+      ""scope"": ""NOx and VOC emissions from all emission sources defined on page 13 during the operational phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Page 1 of 29"",
+      ""related_domains"": [""air quality"", ""emissions monitoring"", ""environmental compliance""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Daily rolling, 365-day total. The limits apply immediately upon commencement of the Operational Phase Start Date."",
+      ""scope"": ""NOx and VOC emissions from all emission sources defined on page 13 during the operational phase."",
+      ""numerical_value"": 365,
+      ""unit"": ""days"",
+      ""source"": ""Page 1 of 29"",
+      ""related_domains"": [""air quality"", ""emissions monitoring"", ""environmental compliance""]
+    },
+        {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall not exceed a daily rolling, 365-day total of 6 for VOC emissions."",
+      ""scope"": ""VOC emissions from all emission sources defined on page 13 during the operational phase."",
+      ""numerical_value"": 6,
+      ""unit"": null, 
+      ""source"": ""Page 1 of 29"",
+      ""related_domains"": [""air quality"", ""emissions monitoring"", ""environmental compliance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+27,21,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 14 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Emissions of NOx and VOC shall be calculated by taking the product of the brake specific emission factor, the usage in hours (hours per day), the power available (rated power), and the load factor (the power used divided by the power available)."",
+      ""scope"": ""NOx and VOC emissions from diesel fired engines of support vessels servicing or associated with the OCS sources/facility."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05 Condition No. VI (A)(5)"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For OCS sources, if actual fuel usage data and engines hours are not recorded for that operating day, Permittee shall assume 100% load (full rated hp (kW)) for the emission calculations."",
+      ""scope"": ""Emission calculations for OCS sources using diesel fired engines."",
+      ""numerical_value"": 100,
+      ""unit"": ""%"",
+      ""source"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05 Condition No. VI (A)(5)"",
+      ""related_domains"": [""emissions monitoring"", ""reporting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For transit emissions from support vessels servicing or associated with the OCS sources [or facility…], if actual fuel usage data and engines hours are not recorded for that operating day, Permittee can utilize the most representative load factors contained in the Port Emissions Inventory Guidance (EPA-420-b-22-011, April 2022)"",
+      ""scope"": ""Emission calculations for support vessels servicing or associated with the OCS sources/facility."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05 Condition No. VI (A)(5)"",
+      ""related_domains"": [""emissions monitoring"", ""reporting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For diesel fired engines operating between 0%–20% engine load, the Permittee shall utilize guaranteed emission factors from engine manufacturer’s specifications (or engine specific test data) which indicate a representative emission factor for the lower load intervals for each engine type; or the maximum guaranteed emission factor in units of g/hp-hr (or g/kW-hr) multiplied by the engine-specific load adjustment factors based on known engine mfg. data; or for C3 propulsion engines the maximum guaranteed emission factor in units of g/hp-hr (or g/kW-hr) multiplied by the most representative low load adjustment factors (LLAFs) for the specific pollutant as contained in Table 3.10 of the Port Emissions Inventory Guidance (EPA-420-b-22-011, April 2022)."",
+      ""scope"": ""Diesel fired engines operating between 0%-20% engine load."",
+      ""numerical_value"": 20,
+      ""unit"": ""%"",
+      ""source"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05 Condition No. VI (A)(5)"",
+      ""related_domains"": [""emissions monitoring"", ""engine performance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Guidance provider""
+    }
+  ]
+}
+```"
+27,22,False,NO_RELEVANT_DATA_FOUND
+27,23,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 15 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For OCS sources, permittee shall utilize emission factors from: EPA issued Certificate of Conformity (COC) for each applicable engine containing the emission standards in 40 C.F.R. Part 60, NSPS IIII, Tier Marine Engine Standards at 40 C.F.R. Part 1042, or Nonroad Engine Standards at 40 C.F.R. Part 1039, engine manufacturer specifications, or site-specific testing derived factors."",
+      ""scope"": ""Engines used in OCS sources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 60, 40 C.F.R. Part 1042, 40 C.F.R. Part 1039"",
+      ""related_domains"": [""emissions"", ""air quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If the Tier level combines both NOx and either HC or THC into one emission limit, then that emission limit shall be multiplied by 0.976 for NOx and 0.024 for either HC or THC (to determine the VOC ratio of the emissions which shall be calculated as 1.053 times the HC emission factors)."",
+      ""scope"": ""Engines used in OCS sources with combined NOx and HC/THC emission limits"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""The provided document"",
+      ""related_domains"": [""emissions"", ""air quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For purposes of calculating emissions from vessels servicing or associated with an OCS source while at the source, and while enroute to or from the source when within 25 NM of the source, the permittee shall utilize emission factors from: an applicable Engine International Air Pollution Prevention (“EIAPP”) or International Air Pollution Prevention (“IAPP”) certificate, issued by EPA, containing associated engine Annex VI NOx standards, engine manufacturers specifications, or engine manufacturers testing data."",
+      ""scope"": ""Vessels servicing or associated with an OCS source within 25 nautical miles of the source."",
+      ""numerical_value"": 25,
+      ""unit"": ""NM"",
+      ""source"": ""The provided document"",
+      ""related_domains"": [""emissions"", ""vessel operations"", ""air quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For purposes of calculating emissions from vessels servicing or associated with an OCS source while at the source, and while enroute to or from the source when within 25 NM of the source without a Certificate of Conformity, EIAPP certificate, or IAPP certificate, the Permittee shall utilize the most representative NOx and VOC emission factors for the vessel utilized as contained in the EPA Port Emissions Inventory Guidance (EPA-420-B-22-011, April 2022)."",
+      ""scope"": ""Vessels servicing or associated with an OCS source within 25 nautical miles of the source without a COC, EIAPP, or IAPP certificate."",
+      ""numerical_value"": 25,
+      ""unit"": ""NM"",
+      ""source"": ""EPA-420-B-22-011, April 2022"",
+      ""related_domains"": [""emissions"", ""vessel operations"", ""air quality""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and standard setting""
+    }
+  ]
+}
+```"
+27,24,False,NO_RELEVANT_DATA_FOUND
+27,25,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 16 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""EUG 1 - OCS Generator Engine(s) on the OSS(s) and/or WTG(s) shall not exceed the emission standards ( in terms of g/kW-hr) for the highest applicable EPA Tier Marine Engine Standards (i.e., Tier 3 or 4, dependent on the final selected engine size and associated displacement) contained in 40 C.F.R. Part 1042, or the EPA Tier 4 Nonroad Engine Standards contained in 40 C.F.R. Part 1039 (dependent on the final selected engine size and associated displacement)."",
+      ""scope"": ""OCS generator engines on Offshore Substations (OSS) and/or Wind Turbine Generators (WTG)"",
+      ""numerical_value"": null,
+      ""unit"": ""g/kW-hr"",
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII (§60.4200–60.4219, Table 1–Table 8), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""emissions"", ""engine performance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""EUG 1 - OCS Generator Engine(s) on the OSS(s) and/or WTG(s) shall be operated in accordance with the Good Combustion and Operating Practices (“GCOP”) Plan for the facility."",
+      ""scope"": ""OCS generator engines on Offshore Substations (OSS) and/or Wind Turbine Generators (WTG)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""engine operation"", ""maintenance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""EUG 2 - Marine Engines on Vessels when Operating as OCS Source(s) shall be operated in accordance with the GCOP Plan for the facility."",
+      ""scope"": ""Marine Engines on Vessels operating as OCS Sources during construction and operation phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null, 
+      ""related_domains"": [""engine operation"", ""maintenance"", ""vessel operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body, emissions regulation""
+    }
+  ]
+}
+```"
+27,26,False,NO_RELEVANT_DATA_FOUND
+27,27,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 17 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Marine Engines on the Charybdis Vessel(s) while operating as an OCS source... shall be EPA certified to the Marine Tier 3 (Category 3 Marine Engines) NOx, HC, and CO emission standards specified within 40 C.F.R. Part 1042."",
+      ""scope"": ""Charybdis Vessel marine engines during WTG installation activities as an OCS source"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII (§60.4200–60.4219, Table 1–Table 8), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""air emissions"", ""engine certification""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Marine Engines on the Eco Edison Vessel, while operating as an OCS source, shall be EPA certified to the Marine Tier 3 (Category 3 Marine Engines) NOx, HC, and CO emission standards or Marine Tier 4 (Category 2 Marine Engines) NOx, HC, and CO emission standards specified within 40 C.F.R. Part 1042."",
+      ""scope"": ""Eco Edison Vessel marine engines while operating as an OCS source"",
+      ""numerical_value"": 600,
+      ""unit"": ""kW"",
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII (§60.4200–60.4219, Table 1–Table 8), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""air emissions"", ""engine certification""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Tier 4 emission standards apply to engine(s) at or above 600 kW, and Tier 3 emission standards apply to engine(s) below 600 kW."",
+      ""scope"": ""Eco Edison Vessel marine engines while operating as an OCS source"",
+      ""numerical_value"": 600,
+      ""unit"": ""kW"",
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII (§60.4200–60.4219, Table 1–Table 8), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""air emissions"", ""engine certification""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Marine Engines on Primary Crew Transfer Vessel, while operating as an OCS source, shall be EPA certified to the Marine Tier 3 (Category 3 Marine Engines) NOx, HC, and CO emission standards or Marine Tier 4 (Category 2 Marine Engines) NOx, HC, and CO emission standards specified within 40 C.F.R. Part 1042."",
+      ""scope"": ""Primary Crew Transfer Vessel marine engines while operating as an OCS source"",
+      ""numerical_value"": 600,
+      ""unit"": ""kW"",
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII (§60.4200–60.4219, Table 1–Table 8), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""air emissions"", ""engine certification""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Tier 4 emission standards apply to engine(s) at or above 600 kW, and Tier 3 emission standards apply to engine(s) below 600 kW."",
+      ""scope"": ""Primary Crew Transfer Vessel marine engines while operating as an OCS source"",
+      ""numerical_value"": 600,
+      ""unit"": ""kW"",
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII (§60.4200–60.4219, Table 1–Table 8), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""air emissions"", ""engine certification""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Engines on vessels while operating as OCS sources... shall be certified by the manufacturer to meet or emit less than the highest applicable EPA Tier Marine Engine Standards (i.e., Tier 3 or 4, depending on engine size) as contained within 40 C.F.R. Part 1042"",
+      ""scope"": ""Engines on tugboat, towboat, push boat, crew and supply vessel, dredge, or barge operating as OCS sources (excluding \""exempt vessels\"")"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 1042"",
+      ""related_domains"": [""air emissions"", ""engine certification""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body, Permitting authority""
+    }
+  ]
+}
+```"
+27,28,False,NO_RELEVANT_DATA_FOUND
+27,29,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 18 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All applicable engines subject to this condition shall comply with emission standards (in terms of g/kW-hr) equal to or cleaner than EPA Tier 2 marine engine emission standards contained within 40 C.F.R. Part 1042."",
+      ""scope"": ""Engines on vessels operating as OCS sources, not subject to Section IV(C)(2)-(5)"",
+      ""numerical_value"": null,
+      ""unit"": ""g/kW-hr"",
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII (§60.4200–60.4219, Table 1–Table 8), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""emissions"", ""engine performance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All applicable engines on U.S.-flagged vessels when operating as OCS source(s), and otherwise not subject to Section IV(C)(2)-(5), shall be certified to the highest applicable EPA Tier Marine Engine Standards (i.e., Tier 3 or 4, depending on engine size) as contained within 40 C.F.R. Part 1042."",
+      ""scope"": ""Engines on U.S.-flagged vessels operating as OCS sources, not subject to Section IV(C)(2)-(5)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 1042"",
+      ""related_domains"": [""emissions"", ""engine performance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A vessel with a higher Tier engine is not available within two hours of when the vessel must be deployed."",
+      ""scope"": ""Vessels operating as OCS sources"",
+      ""numerical_value"": 2,
+      ""unit"": ""hours"",
+      ""source"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05"",
+      ""related_domains"": [""vessel availability"", ""engine performance""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The total emissions associated with the use of a vessel with the higher Tier engine(s) would be greater than the total emissions associated with the use of the vessel with the next lower Tier engine(s)."",
+      ""scope"": ""Vessels operating as OCS sources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05"",
+      ""related_domains"": [""emissions"", ""engine performance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+27,30,False,NO_RELEVANT_DATA_FOUND
+27,31,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 19 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All applicable engines subject to this condition shall comply with emission standards (in terms of g/kW-hr) equal to or cleaner than EPA Tier 1 marine engine emission standards contained within 40 C.F.R. Part 1042."",
+      ""scope"": ""All applicable engines on vessels operating as an OCS source within the ECA."",
+      ""numerical_value"": null,
+      ""unit"": ""g/kW-hr"",
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII (§60.4200–60.4219, Table 1–Table 8), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [
+        ""air quality"",
+        ""emissions""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All applicable engines on U.S.-flagged or foreign-flagged vessels operating as an OCS source within the ECA shall be certified to meet or emit less than the MARPOL Annex VI Tier III NOx emission standards (in terms of g/kW-hr)."",
+      ""scope"": ""All applicable engines on U.S.-flagged or foreign-flagged vessels operating as an OCS source within the ECA (and otherwise not subject to Section IV (C)(2)-(6))."",
+      ""numerical_value"": null,
+      ""unit"": ""g/kW-hr"",
+      ""source"": ""40 C.F.R. Part 1043 (§1043.1–1043.100), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [
+        ""air quality"",
+        ""emissions""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""At a minimum, all applicable engines subject to this condition shall comply with emission standards (in terms of g/kW-hr) equal to or cleaner than MARPOL Annex VI Tier I NOx emission standards contained within 40 C.F.R. Part 1043."",
+      ""scope"": ""All applicable engines subject to this condition."",
+      ""numerical_value"": null,
+      ""unit"": ""g/kW-hr"",
+      ""source"": ""40 C.F.R. Part 1043 (§1043.1–1043.100), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [
+        ""air quality"",
+        ""emissions""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Permittee shall install sealed leak detection systems on the MV, and HV GIS on the OSS equipment with alarms."",
+      ""scope"": ""MV and HV GIS on the OSS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 52.21"",
+      ""related_domains"": [
+        ""electrical safety"",
+        ""leak detection""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Leak detection shall be repaired within five (5) days of discover."",
+      ""scope"": ""MV and HV GIS on the OSS"",
+      ""numerical_value"": 5,
+      ""unit"": ""days"",
+      ""source"": ""40 C.F.R. Part 52.21"",
+      ""related_domains"": [
+        ""maintenance"",
+        ""leak detection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Emission standards setting""
+    }
+  ]
+}
+```"
+27,32,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Leak rate of SF 6 shall not exceed 0.5% per year from the MV and HV SWGs on the OSS."",
+      ""scope"": ""MV and HV SWGs on the OSS"",
+      ""numerical_value"": 0.5,
+      ""unit"": ""%"",
+      ""source"": ""40 C.F.R. Part 52.21"",
+      ""related_domains"": [""sf6 emissions"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Maintain emissions of sulfur hexafluoride (SF 6) emissions from GIS below 1.0% maximum annual leak rate."",
+      ""scope"": ""GIS"",
+      ""numerical_value"": 1.0,
+      ""unit"": ""%"",
+      ""source"": ""310 CMR 7.72(4)(a)"",
+      ""related_domains"": [""sf6 emissions"", ""environmental protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+27,33,False,NO_RELEVANT_DATA_FOUND
+27,34,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall obtain a minimum of 265.86 tons per year of NOx CERCs and 6.43 tons per year of VOC CERCs prior to the beginning of the Operational Phase."",
+      ""scope"": ""Project-wide, prior to operational phase"",
+      ""numerical_value"": 265.86,
+      ""unit"": ""tons/year"",
+      ""source"": ""40 C.F.R. § 55.5(d), 310 CMR 7.00 Appendix A, 310 CMR 7.0 Appendix B"",
+      ""related_domains"": [""air quality"", ""emissions trading""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall obtain a minimum of 253.2 tons per year of NOx CERCs and 6.12 tons per year of VOC CERCs prior to the beginning of the Operational Phase."",
+      ""scope"": ""Project-wide, prior to operational phase"",
+      ""numerical_value"": 253.2,
+      ""unit"": ""tons/year"",
+      ""source"": ""40 C.F.R. § 55.5(d), 310 CMR 7.00 Appendix A, 310 CMR 7.0 Appendix B"",
+      ""related_domains"": [""air quality"", ""emissions trading""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee must install, operate, and maintain all engines to achieve the emissions standards at 40 C.F.R. § 60.4204(b) over the entire life of the engine."",
+      ""scope"": ""OCS Generator Engine(s) on the OSS(s) and/or WTG(s) and Marine Engines on Vessels when Operating as OCS Source(s)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. §60.4206"",
+      ""related_domains"": [""air quality"", ""engine emissions""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and oversight""
+    },
+    {
+      ""entity_name"": ""Commonwealth of Massachusetts"",
+      ""jurisdiction"": ""State - Massachusetts"",
+      ""role"": ""Emissions trading program administration""
+    }
+  ]
+}
+```"
+27,35,False,NO_RELEVANT_DATA_FOUND
+27,36,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""22 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Permittee shall install and operate all engines that are certified by the manufacturer to meet or surpass the emission standards in 40 C.F.R. § 60.4204(b) or § 60.4205(b) as specified in this permit."",
+      ""scope"": ""All engines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 60.4211(c)"",
+      ""related_domains"": [""emissions"", ""engine performance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Permittee shall install, operate, and maintain all engines and control devices according to the manufacturer’s emission-related written instructions."",
+      ""scope"": ""All engines and control devices"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 60.4211(a)(1)"",
+      ""related_domains"": [""maintenance"", ""emissions"", ""engine operation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Permittee shall only change emission-related settings on the engines that are permitted by the manufacturer."",
+      ""scope"": ""All engines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 60.4211(a)(2)"",
+      ""related_domains"": [""emissions"", ""engine configuration""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Permittee shall install and operate the engines configured according to the manufacturer’s emission-related specifications."",
+      ""scope"": ""All engines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 60.4211(c)"",
+      ""related_domains"": [""emissions"", ""engine configuration""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall comply with all applicable requirements of 40 C.F.R. Part 60 Subpart IIII, New Source Performance Standards for Stationary Compression Ignition Internal Combustion Engines (CI ICE)."",
+      ""scope"": ""All stationary compression ignition internal combustion engines (CI ICE)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII (§§60.4200–60.4219, Table 1–Table 8)"",
+      ""related_domains"": [""emissions"", ""air quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall comply with all applicable requirements of 40 C.F.R. 63 Subpart ZZZZ, National Emissions Standards for Hazardous Air Pollutants for Stationary Reciprocating Internal Combustion Engines (CI ICE)."",
+      ""scope"": ""All stationary reciprocating internal combustion engines (CI ICE)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 63 Subpart ZZZZ (§§63.6580–63.6675, Table 1–Table 8, Appendix A to Subpart ZZZZ)"",
+      ""related_domains"": [""emissions"", ""air quality"", ""hazardous air pollutants""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall, upon request by the EPA, conduct emission test(s), including visible emissions, of any operating emission unit subject to an emission limit in Section IV of this permit, including any engine on any vessel while that vessel is an OCS source. The Permittee shall perform the tests using the procedures and reference in 40 C.F.R. part 60, Appendix A, as applicable."",
+      ""scope"": ""Any operating emission unit subject to an emission limit in Section IV of the permit, including any engine on any vessel while operating as an OCS source."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 52.21"",
+      ""related_domains"": [""emissions monitoring"", ""environmental compliance""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For each engine operating on the Main WTG Installation Vessel, the Permittee shall conduct a visible emission test for 30 consecutive minutes using the EPA test method 22 when the vessel is operating as an OCS source, once per operating day."",
+      ""scope"": ""Each engine on the Main WTG Installation Vessel while operating as an OCS source"",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": ""40 C.F.R. Part 52.21"",
+      ""related_domains"": [""emissions monitoring"", ""vessel operations""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If during the method 22 test visible emissions are observed for more than 3 consecutive minutes, within 14 calendar days the Permittee shall conduct a visible emission test using the EPA method 9."",
+      ""scope"": ""Each engine on the Main WTG Installation Vessel while operating as an OCS source"",
+      ""numerical_value"": 3,
+      ""unit"": ""minutes"",
+      ""source"": ""40 C.F.R. Part 52.21"",
+      ""related_domains"": [""emissions monitoring"", ""vessel operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and enforcement authority""
+    }
+  ]
+}
+```"
+27,37,False,NO_RELEVANT_DATA_FOUND
+27,38,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05"",
+    ""document_number"": ""Page 23 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall keep records of the name of the vessel and/or engine; the daily fuel consumption of ECA Marine Fuel or ULSD for each vessel and/or engine (i.e., starting and ending fuel volume per each operating day taking into consideration any refueling) (This record is only required if the applicant is using fuel use as a surrogate to power used for purposes of documenting actual engine load when operating); the name of the fuel supplier; the sulfur content of the fuel; the method used to determine the sulfur content of the fuel (compliance may be shown by supplier’s receipt at refueling indicating % sulfur content); and the location of the fuel when the sample was drawn for analysis to determine the sulfur content of the fuel."",
+      ""scope"": ""All engines operating on OCS sources (including engines on vessels meeting the definition of an OCS source)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section IV(A)(3) and (4)"",
+      ""related_domains"": [
+        ""emissions"",
+        ""fuel consumption""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall keep records of the construction start date and operational phase start date."",
+      ""scope"": ""Project lifecycle"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section VIII.B.2"",
+      ""related_domains"": [
+        ""project management""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall keep records of the NOx and VOC emissions each operating day."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section IV(A)(5)(i)"",
+      ""related_domains"": [
+        ""emissions""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall keep records of the daily rolling, 365-day total of NOx and VOC emissions."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 365,
+      ""unit"": ""days"",
+      ""source"": ""Section IV(A)(5)(ii)"",
+      ""related_domains"": [
+        ""emissions""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall keep records of the date and time (rounded to the nearest hour) that any equipment, activity, or vessel is considered an OCS source, and associated date and time (rounded to the nearest hour) that any equipment, activity, or vessel ceases to be an OCS source."",
+      ""scope"": ""All equipment, activities, or vessels"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section VIII.B.5"",
+      ""related_domains"": [
+        ""recordkeeping""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection (MassDEP)"",
+      ""jurisdiction"": ""Massachusetts, USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+27,39,False,NO_RELEVANT_DATA_FOUND
+27,40,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""24 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Records documenting the make, model, maximum rated horsepower, engine displacement (L/cylinder), and manufacturing date of: engine(s) located on the OSS and WTG(s), all engines on vessels that meet the definition of an OCS source, and all engines on vessels servicing or associated with the OCS facility when those vessels are at the OCS facility, or en route to or from the OCS facility and are within 25 NM of the OCS facility’s centroid."",
+      ""scope"": ""Engines on OSS, WTGs, and vessels servicing the OCS facility within 25 nautical miles of the facility's centroid."",
+      ""numerical_value"": 25,
+      ""unit"": ""NM"",
+      ""source"": ""Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05, Section 6"",
+      ""related_domains"": [""emissions monitoring"", ""vessel operations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maintain records of the EPA-issued certificates of conformity (“COC”) or manufacturer’s certifications which demonstrate which tier standard each applicable OCS Generator Engine(s) on the OSS(s) and/or WTG(s) has been certified to meet."",
+      ""scope"": ""OCS Generator Engine(s) on the OSS(s) and/or WTG(s)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05, Section 7"",
+      ""related_domains"": [""emissions compliance"", ""engine certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maintain a copy of the GCOP Plan for the facility."",
+      ""scope"": ""The entire OCS facility."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05, Section 8"",
+      ""related_domains"": [""operations and maintenance"", ""pollution prevention""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maintain records of the EPA-issued COC for the Charybdis Vessel."",
+      ""scope"": ""The Charybdis Vessel"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05, Section 9"",
+      ""related_domains"": [""emissions compliance"", ""vessel operations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maintain records of the EPA-issued COC for engines on vessels while operating as OCS sources that satisfy the definition of a tugboat, towboat, push boat, crew and supply vessel, dredge, or barge and which do not meet definition of an “exempt vessel.”"",
+      ""scope"": ""Engines on specific vessel types (tugboat, towboat, push boat, crew and supply vessel, dredge, or barge) operating as OCS sources, excluding exempt vessels."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05, Section 10"",
+      ""related_domains"": [""emissions compliance"", ""vessel operations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maintain records of the EPA-issued COC for applicable engines on U.S.-flagged vessels when operating as OCS source(s), and otherwise not subject to Section IV(C)(2)-(5)."",
+      ""scope"": ""Applicable engines on U.S.-flagged vessels operating as OCS sources, not covered by sections IV(C)(2)-(5)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05, Section 11"",
+      ""related_domains"": [""emissions compliance"", ""vessel operations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maintain records of the EIAPP certificate, issued by EPA, to document that the engine meets Annex VI NOx standards for each regulated diesel engine in U.S.-flagged vessels when operating as OCS source(s) within the ECA, and otherwise not subject to Section IV(C)(2)-(6)."",
+      ""scope"": ""Regulated diesel engines in U.S.-flagged vessels operating as OCS sources within the ECA, not covered by sections IV(C)(2)-(6)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05, Section 12"",
+      ""related_domains"": [""emissions compliance"", ""vessel operations"", ""international regulations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maintain records of the IAPP certificate to document that the engine meets Annex VI NOx standards for each regulated diesel engine in foreign-flagged vessels when operating as OCS source(s) within the ECA, and otherwise not subject to Section IV(C)(2)-(6)."",
+      ""scope"": ""Regulated diesel engines in foreign-flagged vessels operating as OCS sources within the ECA, not covered by sections IV(C)(2)-(6)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05, Section 13"",
+      ""related_domains"": [""emissions compliance"", ""vessel operations"", ""international regulations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and certification authority""
+    }
+  ]
+}
+```"
+27,41,False,NO_RELEVANT_DATA_FOUND
+27,42,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""25 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall notify the EPA, in writing, at least 30 days, but no more than 90 days, prior to locating the first OCS source within the WDA."",
+      ""scope"": ""Initial offshore construction activities within the Wind Development Area (WDA)."",
+      ""numerical_value"": 30,
+      ""unit"": ""days"",
+      ""source"": ""[40 C.F.R. Part 55 (§ 55.1–55.15, Appendix A to Part 55), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A]"",
+      ""related_domains"": [""construction permitting"", ""project timeline""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall notify the EPA, in writing, at least 30 days prior to installing and/or operating an engine on each WTG and ESP."",
+      ""scope"": ""Installation and operation of engines on each Wind Turbine Generator (WTG) and Electrical Submersible Pump (ESP)."",
+      ""numerical_value"": 30,
+      ""unit"": ""days"",
+      ""source"": ""[40 C.F.R. Part 55 (§ 55.1–55.15, Appendix A to Part 55), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A]"",
+      ""related_domains"": [""engine installation"", ""engine operation"", ""permitting""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The notification shall include, for each engine, the make, model, maximum rated power output, engine displacement, and manufacturing date."",
+      ""scope"": ""Notification to EPA regarding engine installation/operation on WTGs and ESPs."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""[40 C.F.R. Part 55 (§ 55.1–55.15, Appendix A to Part 55), 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A]"",
+      ""related_domains"": [""engine specifications"", ""reporting requirements""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall provide written notification to the EPA at least 7 days prior to the first WTG entering first power."",
+      ""scope"": ""Commissioning of the first Wind Turbine Generator (WTG)."",
+      ""numerical_value"": 7,
+      ""unit"": ""days"",
+      ""source"": null,  
+      ""related_domains"": [""power generation"", ""commissioning"", ""project timeline""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall provide written notification to the EPA when the construction phase ends before the last WTG produces commercial power."",
+      ""scope"": ""Completion of the construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""construction completion"", ""project timeline""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority and oversight""
+    }
+  ]
+}
+```"
+27,43,False,NO_RELEVANT_DATA_FOUND
+27,44,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""26 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall comply with all applicable requirements of 40 C.F.R. 60 Subpart IIII, New Source Performance Standards for Stationary Compression Ignition Internal Combustion Engines (CI ICEs)."",
+      ""scope"": ""Stationary Compression Ignition Internal Combustion Engines (CI ICEs)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII (§§ 60.4200–60.4219, Table 1–Table 8)"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Permittee shall comply with all applicable requirements of 40 C.F.R. Part 63 Subpart ZZZZ, National Emissions Standards for Hazardous Air Pollutants for Stationary Reciprocating Internal Combustion Engines (RICEs)."",
+      ""scope"": ""Stationary Reciprocating Internal Combustion Engines (RICEs)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 63 Subpart ZZZZ (§§ 63.6580–63.6675, Table 1–Table 8, Appendix A to Subpart ZZZZ)"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall report annually to the MassDEP, all information as required by the Source Registration/Emission Statement Form."",
+      ""scope"": ""Project Reporting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""310 CMR 7.12"",
+      ""related_domains"": [""reporting"", ""permitting""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Responsible Official for the Permittee shall sign and submit a Source Registration to the MassDEP every year by May 1."",
+      ""scope"": ""Project Reporting"",
+      ""numerical_value"": 1,
+      ""unit"": ""May (Month)"",
+      ""source"": ""310 CMR 7.12"",
+      ""related_domains"": [""reporting"", ""permitting""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall comply with all conditions contained in this permit."",
+      ""scope"": ""Overall Project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""310 C.M.R. 7.01(3) and 7.02(3)(f) and 40 C.F.R. 55.6(a)(4)"",
+      ""related_domains"": [""permitting"", ""legal""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The ability to construct an OCS source under this permit shall become invalid if construction is not commenced within 18 months after the effective date of this Permit (OCS-R1-05)."",
+      ""scope"": ""Construction Start"",
+      ""numerical_value"": 18,
+      ""unit"": ""months"",
+      ""source"": ""40 C.F.R. § 55.6(b)(4), 40 C.F.R. § 52.21(r)(2)"",
+      ""related_domains"": [""permitting"", ""construction""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""MassDEP"",
+      ""jurisdiction"": ""Massachusetts, USA"",
+      ""role"": ""Permitting and Reporting Authority""
+    },
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and Enforcement Agency""
+    }
+  ]
+}
+```"
+27,45,False,NO_RELEVANT_DATA_FOUND
+27,46,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""27 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall notify all other owners and operators, contractors, and the subsequent owners and operators associated with emissions from the permitted activities of the conditions of the permit."",
+      ""scope"": ""All permitted activities related to emissions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 55.6(a)(4)(iv)"",
+      ""related_domains"": [""permitting"", ""communication""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""OCS sources shall comply with all requirements of 40 C.F.R. Part 55 and all permits issued pursuant to 40 C.F.R. Part 55."",
+      ""scope"": ""All OCS sources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 55.9(a) and (b)"",
+      ""related_domains"": [""environmental compliance"", ""permitting""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If the Permittee is ordered to cease operation of any piece of equipment due to enforcement action taken by EPA, the shutdown will be coordinated by the EPA with the Department of Interior’s Bureau of Ocean Energy Management (BOEM), Bureau of Safety and Environmental Enforcement (BSEE), and the United States Coast Guard, to assure that the shutdown will proceed in a safe manner. No shutdown action will occur until after the EPA’s consultation with these entities, but in no case will initiation of the shutdown be delayed by more than 24 hours."",
+      ""scope"": ""Equipment shutdown due to EPA enforcement action"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": ""40 C.F.R. §§ 55.9(c)"",
+      ""related_domains"": [""safety"", ""enforcement""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If requested in writing by the EPA, the Permittee shall have up to 30 days to submit to the EPA, an Emission Reduction Plan that meets the requirements of 310 CMR 8.08."",
+      ""scope"": ""Emission Reduction Plan"",
+      ""numerical_value"": 30,
+      ""unit"": ""days"",
+      ""source"": ""310 CMR 8.08(1) – (6)"",
+      ""related_domains"": [""environmental compliance"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Permittee shall construct all equipment regulated herein in compliance with all other applicable provisions of federal and state air regulations."",
+      ""scope"": ""All regulated equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 55.6(a)(4)(iii)"",
+      ""related_domains"": [""construction"", ""air quality""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall allow all authorized representatives of EPA, upon presentation of credentials, to enter upon or through any OCS source permitted by this permit and to enter upon or through any location where records required under this permit are maintained."",
+      ""scope"": ""OCS sources and record keeping locations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 114 of the Clean Air Act, 42 U.S.C. § 7414; 40 C.F.R. §§ 55.8(a)-(b)"",
+      ""related_domains"": [""access"", ""compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and enforcement authority""
+    },
+    {
+      ""entity_name"": ""Department of Interior’s Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and coordination during shutdowns""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and coordination during shutdowns""
+    },
+    {
+      ""entity_name"": ""United States Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and coordination during shutdowns""
+    }
+  ]
+}
+```"
+27,47,False,NO_RELEVANT_DATA_FOUND
+27,48,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05"",
+    ""document_number"": ""Page 28 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""In the event of any changes in control or ownership of the Project, this permit shall be binding on all subsequent owners and operators."",
+      ""scope"": ""Project Ownership"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""SECTION XII. Transfer of Ownership. A"",
+      ""related_domains"": [""permitting"", ""legal""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall notify the succeeding owner and operator of the existence of this permit and its conditions before such change, if possible, but in no case later than 14 days after such change."",
+      ""scope"": ""Project Ownership"",
+      ""numerical_value"": 14,
+      ""unit"": ""days"",
+      ""source"": ""SECTION XII. Transfer of Ownership. A"",
+      ""related_domains"": [""permitting"", ""notification""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Notification shall be sent by letter with a copy forwarded within five (5) days to the EPA."",
+      ""scope"": ""Project Ownership"",
+      ""numerical_value"": 5,
+      ""unit"": ""days"",
+      ""source"": ""SECTION XII. Transfer of Ownership. A"",
+      ""related_domains"": [""permitting"", ""notification""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall submit the permit application fee of $24,305 for a major comprehensive plan approval for the OCS permit."",
+      ""scope"": ""Permitting"",
+      ""numerical_value"": 24305,
+      ""unit"": ""USD"",
+      ""source"": ""SECTION XIV. Permit Fees. A,  [40 C.F.R. § 55.10(1)– (3), 310 CMR 4.10(2)(c)(4)]"",
+      ""related_domains"": [""permitting"", ""financial""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Permittee shall submit the application fees to the EPA within 60 days from receipt of written notice by the EPA of the fee amount due."",
+      ""scope"": ""Permitting"",
+      ""numerical_value"": 60,
+      ""unit"": ""days"",
+      ""source"": ""SECTION XIV. Permit Fees. B"",
+      ""related_domains"": [""permitting"", ""financial""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+27,49,False,NO_RELEVANT_DATA_FOUND

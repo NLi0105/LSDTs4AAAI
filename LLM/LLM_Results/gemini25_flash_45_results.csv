@@ -1,0 +1,135 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"45",1,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",2,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",3,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",4,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",5,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",6,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",7,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",8,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",9,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",10,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",11,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",12,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",13,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",14,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",15,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",16,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",17,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",18,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",19,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"45",20,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",21,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"45",22,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",23,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",24,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 600.815(a)(4)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""FMPs must identify activities that have the potential to adversely affect, directly or cumulatively, EFH quantity or quality, or both."",
+      ""scope"": ""Fishery Management Plans (FMPs) and activities that may affect Essential Fish Habitat (EFH), including those related to offshore development."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 600.815(a)(4) of the EFH regulations"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""habitat protection"",
+        ""fisheries management""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"45",25,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"45",26,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",27,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",28,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",29,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",30,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",31,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",32,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null"
+"45",33,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",34,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",35,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",36,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"45",37,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",38,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"45",39,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"45",40,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"45",41,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",42,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"45",43,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"45",44,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""HMS FMP 72 April 2018"",
+    ""document_number"": ""HMS FMP 72 April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal action agencies must consult with NOAA Fisheries regarding any of their actions authorized, funded or undertaken, or proposed to be authorized, funded or undertaken, that may adversely affect EFH."",
+      ""scope"": ""Actions by Federal agencies that may adversely affect Essential Fish Habitat (EFH) for Highly Migratory Species (HMS) in the eastern Pacific region."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HMS FMP 72 April 2018, Section 7.5.3"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""marine ecology"",
+        ""fisheries management""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation authority; Environmental oversight for Essential Fish Habitat""
+    },
+    {
+      ""entity_name"": ""Federal action agencies"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Project proponent; Permitting authority; Subject to environmental consultation requirements""
+    },
+    {
+      ""entity_name"": ""The Council"",
+      ""jurisdiction"": ""Federal - USA (Eastern Pacific region)"",
+      ""role"": ""Fisheries management body; Habitat protection oversight; Policy setting for Essential"
+"45",45,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""HMS FMP 73 April 2018"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""The Council"",
+      ""jurisdiction"": ""Federal - USA (West Coast EEZ)"",
+      ""role"": ""Authorized to establish framework procedures for reviewing Essential Fish Habitat (EFH) and identifying Habitat Areas of Particular Concern (HAPCs), including critical areas for sharks.""
+    },
+    {
+      ""entity_name"": ""NMFS (National Marine Fisheries Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Provides scientific data and observations related to marine species and habitats, informing management decisions regarding Essential Fish Habitat (EFH) and Habitat Areas of Particular Concern (HAPCs).""
+    }
+  ]
+}
+```"
+"45",46,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",47,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",48,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",49,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"45",50,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"

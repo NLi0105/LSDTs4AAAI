@@ -1,0 +1,4 @@
+model_name,document_number,type_of_wind_farm,chunk_number,document_id,constraint_type,requirement,scope,numerical_value,unit,source,related_domains
+deepseek-chat,NSOW-REG-2023-0042,Offshore,4,41,Environmental,All turbine foundations must undergo marine mammal impact assessment prior to installation,North Sea Exclusive Economic Zone,,,OSPAR Convention Annex VII,environmental; construction
+deepseek-chat,NSOW-REG-2023-0042,Offshore,4,41,Technical,Substation platforms shall be designed to withstand wave heights with a 100-year return period,All offshore installations in Dogger Bank area,16.2,meters,ISO 19901-1:2015,structural engineering; safety
+deepseek-chat,NSOW-REG-2023-0042,Offshore,4,41,Spatial,Minimum 1km spacing between turbine arrays in migratory bird pathways,Designated migratory bird zones,1.0,kilometers,EU Birds Directive 2009/147/EC,environmental; layout planning

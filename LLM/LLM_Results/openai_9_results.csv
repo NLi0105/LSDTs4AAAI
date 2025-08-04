@@ -1,0 +1,2250 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"9",1,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",2,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of Energy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Funding body for wind energy technologies""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Review and oversight of offshore energy projects""
+    },
+    {
+      ""entity_name"": ""National Renewable Energy Laboratory"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research and development in renewable energy""
+    }
+  ]
+}
+```"
+"9",3,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Disclaimers"",
+    ""document_number"": ""iv"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    },
+    {
+      ""entity_name"": ""U.S. Department of Energy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""National Renewable Energy Laboratory"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research and development""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Delaware Natural Resources Environmental Control"",
+      ""jurisdiction"": ""State - Delaware, USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"9",4,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Executive Summary"",
+    ""document_number"": ""vi"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Decision-making authority regarding offshore wind energy leasing""
+    },
+    {
+      ""entity_name"": ""U.S. Department of Energy’s National Renewable Energy Laboratory"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research and technical support for offshore wind energy development""
+    }
+  ]
+}"
+"9",5,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Central Atlantic 1 Call Areas Report"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Most of the space within the Central Atlantic 1 Call Areas have some degree of conflict with other ocean users, such as the military and U.S. Coast Guard vessel routing."",
+      ""scope"": ""Central Atlantic 1 Call Areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""navigational safety"", ""military operations"", ""ocean use conflict""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"9",6,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 3.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""about 2,233 square kilometers of additional lease area would be needed in these four Central Atlantic states"",
+      ""scope"": ""Central Atlantic states (Delaware, Maryland, Virginia, North Carolina)"",
+      ""numerical_value"": 2233,
+      ""unit"": ""square kilometers"",
+      ""source"": null,
+      ""related_domains"": [""marine spatial planning"", ""offshore wind energy development""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Hurricane risk is an additional concern in the Central Atlantic region and may increase with distance from shore in Call Areas E and F."",
+      ""scope"": ""Call Areas E and F"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Conduct additional marine spatial planning and site suitability analysis""
+    }
+  ]
+}
+```"
+"9",7,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Tropical class (T-Class) wind turbine design ratings, battery back-up systems, and support structures built to the specification of Annex I in International Electrotechnical Commission 61400-3-1."",
+      ""scope"": ""Offshore wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-1"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Consider the current state targets and mandates as a lower boundary for offshore wind lease requirements."",
+      ""scope"": ""Offshore leasing"",
+      ""numerical_value"": 2233,
+      ""unit"": ""square kilometers"",
+      ""source"": null,
+      ""related_domains"": [""energy planning"", ""spatial planning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing authority for offshore wind energy""
+    },
+    {
+      ""entity_name"": ""National Renewable Energy Laboratory (NREL)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research and publication of renewable energy reports""
+    },
+    {
+      ""entity_name"": ""U.S. Department of Energy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Conducts long-term energy planning""
+    }
+  ]
+}"
+"9",8,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",9,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Status of Central Atlantic Leasing"",
+    ""document_number"": ""12"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"9",10,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Central-Atlantic 1 Call Areas and lease areas showing annual average wind speeds."",
+    ""document_number"": ""vii"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"9",11,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""12-30"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority for offshore energy development""
+    },
+    {
+      ""entity_name"": ""National Aeronautics and Space Administration (NASA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight of hazard areas related to airspace""
+    }
+  ]
+}
+```"
+"9",12,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",13,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",14,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Energy Development in the Central Atlantic Region"",
+    ""document_number"": ""1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""U.S. Department of Energy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research and funding body""
+    },
+    {
+      ""entity_name"": ""National Renewable Energy Laboratory"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research institution""
+    }
+  ]
+}"
+"9",15,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All leasing in the United States has been in waters less than 1,300 meters deep."",
+      ""scope"": ""United States waters, leasing phase"",
+      ""numerical_value"": 1300,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""leasing regulations"", ""offshore wind development""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In the Central Atlantic, water depths are 2,600 meters in Call Areas E and F."",
+      ""scope"": ""Central Atlantic region, offshore wind development"",
+      ""numerical_value"": 2600,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""site assessment"", ""offshore wind development""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""On the Pacific Coast water depths can reach 3,000 meters just beyond the current leases."",
+      ""scope"": ""Pacific Coast region, offshore wind development"",
+      ""numerical_value"": 3000,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""site assessment"", ""offshore wind development""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Renewable Energy Laboratory (NREL)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research and data provision for offshore wind energy resources""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and regulatory oversight for offshore energy projects""
+    },
+    {
+      ""entity_name"": ""Department of Energy (DOE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Energy policy and research oversight""
+    }
+  ]
+}"
+"9",16,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""NREL Central Atlantic Study Area Description"",
+    ""document_number"": ""2.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority for offshore wind lease areas""
+    }
+  ]
+}"
+"9",17,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Geologic and other physical hazards that may affect offshore operations off the U.S. Atlantic Coast include the scouring action of ocean currents, irregular topography, steep slopes and seabed instabilities, sedimentary erosion processes, seismic faults, major hurricanes, tsunamis, fluid and gas expulsion, and variable seabed soil types."",
+      ""scope"": ""U.S. Atlantic Coast, Offshore operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""geological hazards"", ""offshore operations"", ""environmental impact""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",18,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"9",19,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Central Atlantic 1 wind resources showing annual average wind speeds near the Call Areas"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"9",20,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",21,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""the levels of wave severity do not exceed standard design practices for offshore wind turbines."",
+      ""scope"": ""Call Areas E and F, Offshore Wind Turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""design standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"9",22,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",23,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The most extreme external design conditions expected in the Central Atlantic region are from hurricanes."",
+      ""scope"": ""Central Atlantic region, offshore wind farms, design phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOWRDC 2024"",
+      ""related_domains"": [""structural integrity"", ""hurricane risk assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Offshore Wind Research and Development Consortium (NOWRDC)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Funding and oversight of research related to offshore wind and hurricane risk""
+    }
+  ]
+}
+```"
+"9",24,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Status of Central Atlantic Leasing"",
+    ""document_number"": ""3.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM’s assessments have revealed the potential for substantial cost increases and mitigation measures that may make offshore wind energy in these areas (e.g. B-1 WEA), difficult or not viable at this time."",
+      ""scope"": ""Central Atlantic region, specifically B-1 Wind Energy Area (WEA)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM 2023a"",
+      ""related_domains"": [""economic viability"", ""offshore wind energy development""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"9",25,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Garden State Offshore Energy I and Related Projects"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The expected passage of HB 1296 would allow US Wind to renegotiate an increase to the amount of ORECs sold from each project."",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Public Service Commission of Maryland 2021"",
+      ""related_domains"": [""renewable energy certificates"", ""state energy policy""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""BOEM announced the draft Environmental Impact Statement for this project with the final statement expected in the summer of 2024."",
+      ""scope"": ""Maryland Offshore Wind Project (OCS-A 0490)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""environmental impact assessment"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Public Service Commission of Maryland"",
+      ""jurisdiction"": ""State - Maryland"",
+      ""role"": ""Regulatory authority for energy projects""
+    }
+  ]
+}"
+"9",26,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",27,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"9",28,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Stakeholder Concerns"",
+    ""document_number"": ""3.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Impacts to other ocean uses and the environment associated with development of the Call Areas come from noise, air emissions, lighting, habitat degradation, vessel traffic, vessel discharges, seafloor disturbance, and potential entanglement."",
+      ""scope"": ""Call Areas A through D in the Central Atlantic region."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM's Call for Information and Nominations process"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology"", ""ocean use conflict""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""National security oversight and vessel traffic management""
+    }
+  ]
+}"
+"9",29,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""National security considerations for the BOEM Central Atlantic 1 Call Areas"",
+    ""document_number"": ""15"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM to identify ultradeep Call Areas E and F, which are beyond the western boundary of the shipping fairway proposed by the U.S. Coast Guard."",
+      ""scope"": ""Ultradeep Call Areas E and F, offshore North Carolina and Virginia."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM 2023c"",
+      ""related_domains"": [""ocean use conflict"", ""maritime navigation"", ""national security""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maritime navigation and safety""
+    }
+  ]
+}
+```"
+"9",30,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Frank Lautenberg Deep Sea Coral Protection Area overlaps all of Call Area E and a northern portion (~20%) of Call Area F."",
+      ""scope"": ""Call Area E and Call Area F"",
+      ""numerical_value"": 20,
+      ""unit"": ""%"",
+      ""source"": ""Frank Lautenberg Deep Sea Coral Protection Area regulations"",
+      ""related_domains"": [""environmental impact assessment"", ""marine biodiversity""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A zone of high black-capped petrel abundance in the southernmost part of Call Area F."",
+      ""scope"": ""Call Area F"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""National Centers for Coastal Ocean Science"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research and support for ocean management""
+    },
+    {
+      ""entity_name"": ""National Renewable Energy Laboratory (NREL)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research and analysis for renewable energy""
+    }
+  ]
+}
+```"
+"9",31,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""State Offshore Wind Energy Profiles"",
+    ""document_number"": ""4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The states set a target to procure at least 10 GW of offshore wind energy by 2034."",
+      ""scope"": ""Central Atlantic 1 states"",
+      ""numerical_value"": 10,
+      ""unit"": ""GW"",
+      ""source"": ""SMART-POWER agreement"",
+      ""related_domains"": [""energy generation"", ""renewable energy policy""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maryland committed to 2 GW by 2030."",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": 2,
+      ""unit"": ""GW"",
+      ""source"": ""SMART-POWER agreement"",
+      ""related_domains"": [""energy generation"", ""renewable energy policy""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Virginia committed to 5.2 GW by 2034."",
+      ""scope"": ""Virginia"",
+      ""numerical_value"": 5.2,
+      ""unit"": ""GW"",
+      ""source"": ""SMART-POWER agreement"",
+      ""related_domains"": [""energy generation"", ""renewable energy policy""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""North Carolina committed to 2.8 GW by 2030."",
+      ""scope"": ""North Carolina"",
+      ""numerical_value"": 2.8,
+      ""unit"": ""GW"",
+      ""source"": ""SMART-POWER agreement"",
+      ""related_domains"": [""energy generation"", ""renewable energy policy""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOWRDC"",
+      ""jurisdiction"": ""Central Atlantic region - USA"",
+      ""role"": ""Collaborative project oversight and analysis""
+    },
+    {
+      ""entity_name"": ""Maryland Energy Administration"",
+      ""jurisdiction"": ""Maryland - USA"",
+      ""role"": ""Funding authority for offshore wind initiatives""
+    },
+    {
+      ""entity_name"": ""NREL"",
+      ""jurisdiction"": ""National - USA"",
+      ""role"": ""Research and analysis support for offshore wind energy""
+    }
+  ]
+}"
+"9",32,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",33,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Electric power industry generation by primary energy source in Delaware in 2022"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Delaware is mandated by state law to have 40% of its energy come from renewable sources like wind and solar by 2035."",
+      ""scope"": ""State of Delaware"",
+      ""numerical_value"": 40,
+      ""unit"": ""%"",
+      ""source"": ""Delaware News 2021"",
+      ""related_domains"": [""renewable energy policy"", ""energy transition""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"9",34,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Procurement Options for Delaware"",
+    ""document_number"": ""2023"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Legislation in 2023 directs DNREC to collaborate with PJM Interconnection, LLC to study transmission impacts, work with neighboring states on offshore wind transmission, and report on the procurement process."",
+      ""scope"": ""Delaware"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Delaware Senate Bill 265 (Delaware Energy Solutions Act of 2024)"",
+      ""related_domains"": [""transmission planning"", ""interstate collaboration"", ""offshore wind energy procurement""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The State Energy Office cannot proceed with negotiating a contract unless a bid comes back with a price at or below 110% of the Delaware benchmark price."",
+      ""scope"": ""Delaware"",
+      ""numerical_value"": 110,
+      ""unit"": ""%"",
+      ""source"": ""Delaware Senate Bill 265 (Delaware Energy Solutions Act of 2024)"",
+      ""related_domains"": [""contract negotiation"", ""procurement process""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Delaware Department of Natural Resources and Environmental Control (DNREC)"",
+      ""jurisdiction"": ""Delaware"",
+      ""role"": ""Environmental oversight and regulatory authority for offshore wind energy development""
+    },
+    {
+      ""entity_name"": ""PJM Interconnection, LLC"",
+      ""jurisdiction"": ""Mid-Atlantic region of the USA"",
+      ""role"": ""Transmission planning and coordination for offshore wind energy""
+    },
+    {
+      ""entity_name"": ""Delaware State Energy Office"",
+      ""jurisdiction"": ""Delaware"",
+      ""role"": ""Authority to conduct solicitations for offshore wind energy procurement""
+    }
+  ]
+}
+```"
+"9",35,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",36,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Electric power industry generation by primary energy source in Maryland in 2022"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Maryland Offshore Wind Energy Act of 2013 revised the renewable portfolio standard goal to achieve 25% of the state’s energy from renewable sources."",
+      ""scope"": ""State of Maryland"",
+      ""numerical_value"": 25,
+      ""unit"": ""%"",
+      ""source"": ""Maryland Offshore Wind Energy Act of 2013"",
+      ""related_domains"": [""renewable energy standards"", ""energy policy""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",37,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",38,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The act eliminated the upper limit on offshore wind energy development and mandated the procurement of at least an additional 1,200 MW through three new rounds of offshore wind energy projects."",
+      ""scope"": ""Maryland, Offshore Wind Energy Projects"",
+      ""numerical_value"": 1200,
+      ""unit"": ""MW"",
+      ""source"": ""Clean Energy Jobs Act"",
+      ""related_domains"": [""energy procurement"", ""offshore wind development""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""This legislation set a new ambitious target of 8.5 GW by 2031."",
+      ""scope"": ""Maryland, Offshore Wind Energy Projects"",
+      ""numerical_value"": 8500,
+      ""unit"": ""MW"",
+      ""source"": ""Promoting Offshore Wind Energy Resources Act"",
+      ""related_domains"": [""energy targets"", ""offshore wind development""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""House Bill 1296 was introduced... allowing offshore wind energy projects to revise schedules, sizes, or pricing, subject to Public Service Commission approval."",
+      ""scope"": ""Maryland, Offshore Wind Energy Projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""House Bill 1296"",
+      ""related_domains"": [""project management"", ""regulatory approval""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Energy Administration"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Oversight and funding for offshore wind energy development""
+    },
+    {
+      ""entity_name"": ""Public Service Commission"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Approval authority for offshore wind project revisions""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and development oversight for offshore wind areas""
+    }
+  ]
+}
+```"
+"9",39,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Energy Administration"",
+      ""jurisdiction"": ""State of Maryland, USA"",
+      ""role"": ""Regulatory authority for energy-related business classifications""
+    }
+  ]
+}
+```"
+"9",40,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",41,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Energy Policy in Virginia"",
+    ""document_number"": ""4.1.4.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Virginia’s target of up to 5.2 GW of offshore wind capacity by 2034 to be in the public interest of the commonwealth."",
+      ""scope"": ""Virginia"",
+      ""numerical_value"": 5.2,
+      ""unit"": ""GW"",
+      ""source"": ""Virginia Clean Economy Act"",
+      ""related_domains"": [""energy policy"", ""public interest"", ""offshore wind development""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Virginia Department of Mines, Minerals and Energy"",
+      ""jurisdiction"": ""Virginia - USA"",
+      ""role"": ""Energy policy and regulation""
+    },
+    {
+      ""entity_name"": ""SMART-POWER"",
+      ""jurisdiction"": ""Maryland, North Carolina, Virginia - USA"",
+      ""role"": ""Collaborative initiative for offshore wind energy development""
+    }
+  ]
+}
+```"
+"9",42,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",43,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Electric power industry generation by primary energy source in North Carolina in 2022"",
+    ""document_number"": ""4.1.5.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""North Carolina’s governor issued Executive Order No. 218, which outlines significant measures, including setting ambitious offshore wind energy development goals of 2.8 GW by 2030 and 8.0 GW by 2040."",
+      ""scope"": ""North Carolina"",
+      ""numerical_value"": 2.8,
+      ""unit"": ""GW"",
+      ""source"": ""Executive Order No. 218"",
+      ""related_domains"": [""energy policy"", ""renewable energy development""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Carbon Plan Statute (Section 62-110.9) directs the North Carolina Utilities Commission to pursue a 70% reduction in carbon dioxide emissions from specific electric-generating facilities by 2030."",
+      ""scope"": ""North Carolina"",
+      ""numerical_value"": 70,
+      ""unit"": ""%"",
+      ""source"": ""Carbon Plan Statute (Section 62-110.9)"",
+      ""related_domains"": [""carbon emissions"", ""energy regulation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""North Carolina Utilities Commission"",
+      ""jurisdiction"": ""North Carolina"",
+      ""role"": ""Regulatory authority overseeing electric generation and emissions reduction""
+    },
+    {
+      ""entity_name"": ""North Carolina Taskforce for Offshore Wind Economic Resource Strategies"",
+      ""jurisdiction"": ""North Carolina"",
+      ""role"": ""Providing expert guidance on advancing offshore wind energy projects""
+    }
+  ]
+}
+```"
+"9",44,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",45,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Duke Energy’s Carbon Plan proposes to include 2.4 GW of offshore wind energy but does not yet require a procurement mechanism or other path to market for this offshore wind generation."",
+      ""scope"": ""North Carolina"",
+      ""numerical_value"": 2400,
+      ""unit"": ""MW"",
+      ""source"": ""North Carolina Utilities Commission"",
+      ""related_domains"": [""energy procurement"", ""offshore wind development""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""North Carolina Utilities Commission"",
+      ""jurisdiction"": ""North Carolina - USA"",
+      ""role"": ""Regulatory oversight and approval of energy plans""
+    },
+    {
+      ""entity_name"": ""Duke Energy"",
+      ""jurisdiction"": ""North Carolina - USA"",
+      ""role"": ""Utility provider and carbon plan proponent""
+    }
+  ]
+}"
+"9",46,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""State, Offtake, and Project Capacity Assumptions for Central Atlantic Projects"",
+    ""document_number"": ""12"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Area-based (4.00-5.64 MW/km2)"",
+      ""scope"": ""Project capacity calculation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""capacity planning"", ""energy generation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Renewable Energy Laboratory (NREL)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research and standard-setting body for renewable energy""
+    }
+  ]
+}
+```"
+"9",47,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""13"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Delaware’s goal of 1.2 GW, pending adoption of Senate Bill 265, is not a mandate."",
+      ""scope"": ""Delaware"",
+      ""numerical_value"": 1.2,
+      ""unit"": ""GW"",
+      ""source"": ""Senate Bill 265"",
+      ""related_domains"": [""energy policy"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""OREC sizes in Maryland can be subject to increases."",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": 8.5,
+      ""unit"": ""GW by 2031"",
+      ""source"": ""House Bill 1296"",
+      ""related_domains"": [""energy policy"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Delaware General Assembly"",
+      ""jurisdiction"": ""Delaware"",
+      ""role"": ""Legislative body responsible for energy policy and mandates.""
+    },
+    {
+      ""entity_name"": ""Maryland Energy Administration"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Agency responsible for energy policy and regulation.""
+    }
+  ]
+}
+```"
+"9",48,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Offtake agreements are shown for reference, but we assume that all lease areas will eventually be developed and obtain offtake agreements."",
+      ""scope"": ""Central Atlantic 1 region, Delaware, Maryland, Virginia, North Carolina"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""energy procurement"", ""lease agreements""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",49,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""an estimated area of 1,208 km² (298,503 acres) of additional leasing is required in geographical proximity to Delaware and Maryland to achieve minimum state offshore wind energy objectives."",
+      ""scope"": ""Geographical proximity to Delaware and Maryland"",
+      ""numerical_value"": 1208,
+      ""unit"": ""km²"",
+      ""source"": null,
+      ""related_domains"": [""offshore wind energy"", ""leasing requirements""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maryland must procure an additional 7,500 MW to meet its current target."",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": 7500,
+      ""unit"": ""MW"",
+      ""source"": null,
+      ""related_domains"": [""energy procurement"", ""offshore wind energy""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Delaware needs to procure at least 1,200 MW of offshore wind energy to meet the goal."",
+      ""scope"": ""Delaware"",
+      ""numerical_value"": 1200,
+      ""unit"": ""MW"",
+      ""source"": null,
+      ""related_domains"": [""energy procurement"", ""offshore wind energy""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",50,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""an estimated area of 1,025 km² (253,283 acres) for leasing is needed in geographical proximity to both states to attain these objectives"",
+      ""scope"": ""Geographical proximity to Virginia and North Carolina"",
+      ""numerical_value"": 1025,
+      ""unit"": ""km²"",
+      ""source"": null,
+      ""related_domains"": [""marine spatial planning"", ""offshore wind leasing""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""about 2,233 km² (551,786 acres) of additional lease area would be needed in the Central Atlantic to meet the current state targets"",
+      ""scope"": ""Central Atlantic region"",
+      ""numerical_value"": 2233,
+      ""unit"": ""km²"",
+      ""source"": null,
+      ""related_domains"": [""marine spatial planning"", ""offshore wind leasing""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Conduct additional marine spatial planning and site suitability analysis for offshore wind energy""
+    }
+  ]
+}
+```"
+"9",51,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Federal Policy Support"",
+    ""document_number"": ""4.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The act provides incentives for investing in offshore wind energy and the domestic supply chain."",
+      ""scope"": ""United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Inflation Reduction Act"",
+      ""related_domains"": [""economic viability"", ""investment incentives"", ""domestic supply chain""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The act also provides opportunities for U.S. businesses under the advanced manufacturing production tax credit, and advanced manufacturing investment tax credit."",
+      ""scope"": ""United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Inflation Reduction Act"",
+      ""related_domains"": [""manufacturing"", ""investment incentives""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of Energy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Policy implementation and oversight for energy projects""
+    },
+    {
+      ""entity_name"": ""U.S. Congress"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Legislative authority responsible for enacting laws""
+    }
+  ]
+}
+```"
+"9",52,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Central Atlantic Offshore Wind Technology"",
+    ""document_number"": ""5.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"9",53,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"9",54,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Cumulative floating offshore wind capacity by country based on announced commercial operation dates through 2030"",
+    ""document_number"": ""5.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Monopile foundations have been selected for all offshore wind energy projects in the existing shallow lease areas in the Central Atlantic (20- to 40-m depth range)."",
+      ""scope"": ""Central Atlantic shallow lease areas, Turbine foundations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""foundation design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Beyond 40 m some developers are choosing jackets as the preferred substructure."",
+      ""scope"": ""Water depths greater than 40 m, Turbine foundations"",
+      ""numerical_value"": 40,
+      ""unit"": ""meters"",
+      ""source"": ""Gavin 2019"",
+      ""related_domains"": [""structural integrity"", ""foundation design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",55,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The feasibility of installing suction buckets improves with deeper water, as the surrounding hydrostatic pressure prevents cavitation during installation."",
+      ""scope"": ""Installation of suction buckets in offshore wind projects"",
+      ""numerical_value"": 40,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""installation procedures""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Their environmental analysis found no significant impacts."",
+      ""scope"": ""Environmental analysis for ocean testing of suction bucket concept"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM 2024b"",
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"9",56,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Technology Overview"",
+    ""document_number"": ""5.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The semisubmersible depends primarily on buoyancy at the water plane to maintain static stability."",
+      ""scope"": ""Floating platforms in water depths of 700 m to more than 2,600 m."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""marine engineering""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",57,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",58,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"9",59,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",60,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""None of the California leaseholders have submitted COPs yet, indicating that floating wind energy project designs are still at a preliminary stage with many remaining technical details to be determined."",
+      ""scope"": ""California lease areas, floating wind energy project designs"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""project design"", ""engineering standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The depths of Call Areas E and F range from 779 to 2,636 m, and we consider these sites to be predominately 'ultradeep' water depths."",
+      ""scope"": ""Call Areas E and F, offshore wind energy development"",
+      ""numerical_value"": 2636,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""site assessment"", ""engineering design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"9",61,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",62,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The best practice for placing anchors or buried cable on irregular seabed contours or high seabed slopes is to design the mooring systems to avoid those areas as much as possible using geophysical surveys of seabed slope and soil stability."",
+      ""scope"": ""Mooring systems design phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""cable installation"", ""geophysical surveying""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If those areas cannot be avoided, the potential reductions in anchor holding capacity and changes in cable layout must be considered during the design phase."",
+      ""scope"": ""Mooring systems design phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""cable installation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",63,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Qualitative Technology Assessment of Ultradeep Call Areas"",
+    ""document_number"": ""5.5.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"9",64,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Preliminary qualitative assessment of floating offshore wind technology categories in ultradeep water depths"",
+    ""document_number"": ""5.5.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Catenary mooring systems that use mostly heavy chain moorings with horizontally loaded anchors have the largest anchor footprint for a given water depth and will not be a reasonable option in ultradeep waters."",
+      ""scope"": ""Mooring systems in ultradeep water depths"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""mooring design"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Taut mooring systems, which use synthetic fiber rope mooring lines, have lower costs, weights, and seabed footprints, making them more attractive."",
+      ""scope"": ""Mooring systems in ultradeep water depths"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""mooring design"", ""cost efficiency""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",65,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.5.3.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Mooring loads could increase incrementally due to changes in the mooring system design, but the anchor types can be upsized to properly account for the larger loads."",
+      ""scope"": ""Mooring system design and anchor types"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""mooring system design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The installation method of the anchors and mooring system may change in ultradeep water depths."",
+      ""scope"": ""Installation of anchors and mooring systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""installation procedures"", ""construction""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The precision of anchor placement and mooring line position may decrease in ultradeep water."",
+      ""scope"": ""Anchor placement and mooring line positioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""installation accuracy"", ""construction""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"9",66,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",67,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.5.3.6 to 5.5.3.9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable depth requirements will need to be specified in the design and tested in an accredited facility before the cable can qualify for operation."",
+      ""scope"": ""Export cables in ultradeep water depths"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable design"", ""subsea technology"", ""operational qualification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If the distance from the offshore substation to the point of interconnection exceeds 80 km, a high-voltage direct current (HVDC) transmission system is warranted to lower transmission losses and cost."",
+      ""scope"": ""Export cable installation logistics"",
+      ""numerical_value"": 80,
+      ""unit"": ""km"",
+      ""source"": ""Bredenkamp 2023"",
+      ""related_domains"": [""transmission efficiency"", ""cost management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The longer, heavier cable extending to the seabed in ultradeep water may exceed the capacity of conventional cable-laying vessels."",
+      ""scope"": ""Export cable installation logistics"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""marine logistics""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The length of mooring line needed is proportional to the water depth."",
+      ""scope"": ""Mooring line supply chain for floating offshore wind systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""mooring systems"", ""supply chain management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"9",68,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",69,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Most conventional Class 1 offshore wind turbines can withstand the winds from a Category 2 hurricane but Category 3 and above may require additional design upgrades."",
+      ""scope"": ""Offshore wind turbines in hurricane regions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Mudd and Vickery 2023"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The severity of the maximum strength hurricane expected at most lease areas in the North Atlantic are less than the design load limit states based on current practices specified by the International Electrotechnical Commission."",
+      ""scope"": ""North Atlantic lease areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 2019a, 2019b"",
+      ""related_domains"": [""design standards"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"9",70,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind turbines design categories are divided into classes based on the severity of the external conditions they are exposed to."",
+      ""scope"": ""Wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC-61400-01"",
+      ""related_domains"": [""structural integrity"", ""design standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The limit state is the maximum load the wind turbine is allowed to experience for a given load case."",
+      ""scope"": ""Wind turbine load cases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC-61400-01"",
+      ""related_domains"": [""structural integrity"", ""load management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""International Electrotechnical Commission"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"9",71,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In hurricane-prone regions, there is a much greater probability that the limit state design conditions may occur well before the 50-year return period."",
+      ""scope"": ""U.S. East Coast and Gulf of Mexico, including the Central Atlantic region"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""IEC 61400-3-1 Annex I"",
+      ""related_domains"": [""structural integrity"", ""hurricane design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The most recent edition of IEC 61400-3-1 added Annex I, which provides recommendations for wind support structure design augmentations in tropical cyclone regions."",
+      ""scope"": ""Tropical cyclone regions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-1 Annex I"",
+      ""related_domains"": [""structural integrity"", ""hurricane design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American National Standards Institute"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Clean Power"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}"
+"9",72,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""the normal safety factors prescribed by the standards may not be sufficient."",
+      ""scope"": ""Offshore wind lease areas along the Atlantic Seaboard and in the Gulf of Mexico"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""safety standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",73,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Annex I is optional in the IEC 61400-3-1 standard, we recommend that it be mandatory for lease areas on the eastern Atlantic in the United States, including the Central Atlantic."",
+      ""scope"": ""Eastern Atlantic in the United States, lease areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-1"",
+      ""related_domains"": [""structural integrity"", ""hurricane risk assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Hurricane probability and intensity cannot be extrapolated from extra-tropic storm records."",
+      ""scope"": ""Site-specific hurricane risk assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""hurricane risk assessment"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Hurricane Center"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Providing hurricane data and risk assessment models""
+    }
+  ]
+}"
+"9",74,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""46"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Offshore wind turbines must be designed to withstand the extreme conditions they will experience thirty years or more from when they are installed."",
+      ""scope"": ""Offshore wind turbines, design phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""climate resilience""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Hazard models must be upgraded to consider changing statistics due to climate change."",
+      ""scope"": ""Hurricane hazard models, assessment phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""risk assessment"", ""climate change adaptation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Site assessments for offshore wind lease planning""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight and regulation of offshore energy activities""
+    },
+    {
+      ""entity_name"": ""National Renewable Energy Laboratory (NREL)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research and development related to renewable energy""
+    }
+  ]
+}
+```"
+"9",75,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",76,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Historic track records for hurricanes of a Category 3 or greater passing through Central-Atlantic 1 Call Areas during the 173-year period from 1851 through 2023"",
+    ""document_number"": ""5.6.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Offshore wind energy projects adopt the optional features described in the IEC standards that include T-Class wind turbine design ratings, battery back-up systems during loss of grid, and support structures built to the specification of Annex I in IEC 61400-3-1."",
+      ""scope"": ""Central Atlantic region, Offshore wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-1"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The loading caused by extreme cross winds resulting from an incapacitated yaw drive could be significantly higher and should be avoided."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Fuchs 2023"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Argonne National Laboratory"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Research and development in hurricane modeling""
+    },
+    {
+      ""entity_name"": ""Pacific Northwest National Laboratory"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Research and development in hurricane modeling""
+    },
+    {
+      ""entity_name"": ""National Renewable Energy Laboratory (NREL)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Research and development in hurricane modeling""
+    },
+    {
+      ""entity_name"": ""NOWRDC"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Research funding and oversight""
+    }
+  ]
+}
+```"
+"9",77,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Central Atlantic Supply Chain"",
+    ""document_number"": ""6.1.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research sponsor for offshore wind turbine battery backup systems""
+    },
+    {
+      ""entity_name"": ""National Renewable Energy Laboratory (NREL)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Coordinator of research and development for offshore wind engineering tools""
+    }
+  ]
+}
+```"
+"9",78,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Port Requirements for Floating Offshore Wind Energy Projects"",
+    ""document_number"": ""6.1.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Floating project requirement for short- and long-term wet storage of floating substructures and fully integrated turbine-substructure units."",
+      ""scope"": ""Floating offshore wind energy projects, storage and staging of components."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""storage requirements"", ""project deployment"", ""component staging""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",79,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wet storage of substructures requires protected water areas of suitable depth for temporary moorings."",
+      ""scope"": ""Floating offshore wind supply chain, specifically for wet storage of substructures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine logistics"", ""construction safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Fully assembled units will require more room to enable safe spacing between rotors."",
+      ""scope"": ""Floating offshore wind supply chain, specifically for the spacing of fully assembled units."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""construction safety"", ""operational efficiency""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"9",80,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",81,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""State and federal environmental reviews would be required before those could be developed as wet storage areas."",
+      ""scope"": ""Wet storage areas for offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",82,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""53"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"9",83,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"9",84,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The act requires that goods transported between two U.S. points must be carried on vessels that are built, owned, and crewed by U.S. citizens or permanent residents."",
+      ""scope"": ""U.S. offshore wind industry"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Jones Act, also known as the Merchant Marine Act of 1920"",
+      ""related_domains"": [""maritime law"", ""transportation"", ""offshore wind development""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""floating offshore wind projects must use U.S.-flagged AHTS vessels."",
+      ""scope"": ""Floating offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""vessel requirements"", ""offshore wind development""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+"9",85,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Global AHTS status by region"",
+    ""document_number"": ""Figure 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""it will be difficult to attract the required Jones-Act-compliant AHTS vessels to install floating wind turbines"",
+      ""scope"": ""Gulf of Maine and U.S. West Coast"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""vessel compliance"", ""installation standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""vessels will need to handle much longer and heavier mooring lines"",
+      ""scope"": ""Central Atlantic 1 Call Areas E and F"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""mooring systems"", ""installation standards""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""these areas incur a greater risk of disruption by tropical storm and hurricane activity"",
+      ""scope"": ""Central Atlantic region"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""storm risk management"", ""safety regulations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"9",86,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",87,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Future Leasing Considerations"",
+    ""document_number"": ""7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The combined policy targets announced by Delaware, Maryland, Virginia, and North Carolina thus far indicate at least 22.9 GW of offshore wind will need to be procured."",
+      ""scope"": ""Delaware, Maryland, Virginia, and North Carolina"",
+      ""numerical_value"": 22.9,
+      ""unit"": ""GW"",
+      ""source"": ""State procurement mandates"",
+      ""related_domains"": [""energy procurement"", ""state policy""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""There remains a need to secure up to 2,233 km² or 551,786 acres of additional lease area to meet the combined targets."",
+      ""scope"": ""Central Atlantic region"",
+      ""numerical_value"": 2233,
+      ""unit"": ""km²"",
+      ""source"": ""Final Sale Notice OCS-A 0557 and OCS-A 0558"",
+      ""related_domains"": [""spatial planning"", ""lease area""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Technology readiness in ultradeep waters should be a major concern in establishing future site suitability for round 2 leasing."",
+      ""scope"": ""Ultradeep Call Areas E and F"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""technology assessment"", ""site suitability""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Developing future leasing plans for offshore wind energy""
+    }
+  ]
+}
+```"
+"9",88,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",89,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""BOEM should consider that the current state targets and mandates are a lower boundary for offshore wind lease requirements."",
+      ""scope"": ""Offshore wind lease requirements"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""energy supply"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Long-term electrification and decarbonization scenarios developed and analyzed by federal and state energy planners should include realistic energy supply curves for land-based wind, solar photovoltaics, hydroelectric, offshore wind, and nuclear capacity to inform BOEM’s future leasing requirements."",
+      ""scope"": ""Future leasing requirements"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""energy planning"", ""decarbonization""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"9",90,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",91,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Vessel Needs"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""American National Standards Institute"",
+      ""jurisdiction"": ""National - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"9",92,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",93,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Atlantic Wind Lease Sale 10 for Commercial Leasing for Wind Power Development on the U.S. Central Atlantic Outer Continental Shelf – Final Sale Notice"",
+    ""document_number"": ""2024c"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Delaware General Assembly"",
+      ""jurisdiction"": ""State - Delaware, USA"",
+      ""role"": ""Legislative body""
+    },
+    {
+      ""entity_name"": ""Delaware Natural Resources Environmental Control"",
+      ""jurisdiction"": ""State - Delaware, USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"9",94,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",95,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Energy Transition Outlook 2022"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Energy Information Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Data collection and analysis regarding energy production and consumption""
+    },
+    {
+      ""entity_name"": ""Duke Energy"",
+      ""jurisdiction"": ""North Carolina, USA"",
+      ""role"": ""Energy provider and developer of offshore wind projects""
+    }
+  ]
+}
+```"
+"9",96,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",97,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Geological and Geotechnical Considerations for Floating Offshore Wind Infrastructure within the U.S. Atlantic OCS"",
+    ""document_number"": ""32578 - MS"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design requirements for Fixed Offshore Wind Turbines."",
+      ""scope"": ""Fixed Offshore Wind Turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-1:2019"",
+      ""related_domains"": [""structural integrity"", ""design standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design requirements for wind turbines."",
+      ""scope"": ""Wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1:2019"",
+      ""related_domains"": [""structural integrity"", ""design standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"9",98,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",99,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Electric Vehicle Registrations Pass Record- Breaking 100,000 Mark in Maryland"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Electricity – Offshore Wind Projects – Alterations."",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""House Bill 1296"",
+      ""related_domains"": [""permitting"", ""energy regulation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Energy Administration"",
+      ""jurisdiction"": ""State of Maryland"",
+      ""role"": ""Environmental oversight and promotion of renewable energy""
+    },
+    {
+      ""entity_name"": ""Maryland General Assembly"",
+      ""jurisdiction"": ""State of Maryland"",
+      ""role"": ""Legislative body responsible for enacting laws related to energy and offshore wind projects""
+    }
+  ]
+}
+```"
+"9",100,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",101,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Saffir Simpson Wind Scales"",
+    ""document_number"": ""2024"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Hurricane Center"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""North Carolina Environmental Quality"",
+      ""jurisdiction"": ""State - North Carolina, USA"",
+      ""role"": ""Jurisdictional authority""
+    },
+    {
+      ""entity_name"": ""North Carolina Utilities Commission"",
+      ""jurisdiction"": ""State - North Carolina, USA"",
+      ""role"": ""Regulatory authority""
+    },
+    {
+      ""entity_name"": ""Office of Energy Justice and Equity"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Program oversight""
+    },
+    {
+      ""entity_name"": ""Office of the Secretary of Commerce and Trade, Department of Mines, Minerals and Energy"",
+      ""jurisdiction"": ""State - Virginia, USA"",
+      ""role"": ""Energy planning authority""
+    }
+  ]
+}
+```"
+"9",102,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",103,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""ORDER NO. 90011. Order Granting Offshore Wind Renewable Energy Credits"",
+    ""document_number"": ""90011"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Public Service Commission of Maryland"",
+      ""jurisdiction"": ""State of Maryland - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"9",104,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"9",105,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""An Act to Amend Titles 17, 26, And 29 Of the Delaware Code Relating to The Delaware Energy Solutions Act Of 2024"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of Energy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""State of Delaware"",
+      ""jurisdiction"": ""State - Delaware"",
+      ""role"": ""Legislative body""
+    },
+    {
+      ""entity_name"": ""State of North Carolina"",
+      ""jurisdiction"": ""State - North Carolina"",
+      ""role"": ""Legislative body""
+    }
+  ]
+}
+```"
+"9",106,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"

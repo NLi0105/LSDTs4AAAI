@@ -1,0 +1,325 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"11","gemini","gemini-1.5-pro",635754,510940,70,67,False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""project_name"": ""Sunrise Wind"",
+    ""project_location"": ""Outer Continental Shelf (OCS), offshore of Rhode Island and Massachusetts, with a cable landing on Long Island, New York""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Sunrise Wind Farm"",
+      ""component_acronym"": ""SRWF"",
+      ""description"": ""A wind energy facility with an operating capacity ranging between 924 megawatts (MW) and 1,034 MW."",
+      ""source_section_number"": ""2.0""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Sunrise Wind Export Cable"",
+      ""component_acronym"": ""SRWEC"",
+      ""description"": ""A 320-kilovolt (kV) DC export cable bundle."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTGs"",
+      ""description"": ""Up to 94 wind turbine generators."",
+      ""source_section_number"": ""2.0""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Offshore Converter Station"",
+      ""component_acronym"": ""OCS-DC"",
+      ""description"": ""One Offshore Converter Station."",
+      ""source_section_number"": ""2.0""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Inter-array Cables"",
+      ""component_acronym"": ""IAC"",
+      ""description"": ""Cables connecting the WTGs to the OCS-DC."",
+      ""source_section_number"": ""2.2.2""
+    },
+    {
+      ""component_id"": ""COMP-06"",
+      ""component_name"": ""Onshore Transmission Cable"",
+      ""component_acronym"": null,
+      ""description"": ""Cable carrying power from the landfall to the OnCS-DC."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-07"",
+      ""component_name"": ""Temporary Pile-Supported Pier"",
+      ""component_acronym"": null,
+      ""description"": ""A temporary pier to transport equipment and materials."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-08"",
+      ""component_name"": ""Onshore Interconnection Cable"",
+      ""component_acronym"": null,
+      ""description"": ""Cable carrying power from the OnCS-DC to the Holbrook Substation."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-09"",
+      ""component_name"": ""Monopile Foundations"",
+      ""component_acronym"": null,
+      ""description"": ""Foundations for the WTGs."",
+      ""source_section_number"": ""2.2.1""
+    },
+    {
+      ""component_id"": ""COMP-10"",
+      ""component_name"": ""Piled Jacket Foundation"",
+      ""component_acronym"": null,
+      ""description"": ""Foundation for the OCS-DC."",
+      ""source_section_number"": ""2.2.1""
+    },
+    {
+      ""component_id"": ""COMP-11"",
+      ""component_name"": ""Scour Protection"",
+      ""component_acronym"": null,
+      ""description"": ""Protection around foundations and cables."",
+      ""source_section_number"": ""2.2.1""
+    },
+    {
+      ""component_id"": ""COMP-12"",
+      ""component_name"": ""Intracoastal Waterway Horizontal Directional Drill"",
+      ""component_acronym"": ""ICW-HDD"",
+      ""description"": ""Horizontal directional drill crossing under Great South Bay."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-13"",
+      ""component_name"": ""Carmans River Horizontal Directional Drill"",
+      ""component_acronym"": null,
+      ""description"": ""Horizontal directional drill crossing under the Carmans River."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-14"",
+      ""component_name"": ""Temporary Pile-Supported Trestle"",
+      ""component_acronym"": null,
+      ""description"": ""Temporary trestle at Smith Point County Park."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-15"",
+      ""component_name"": ""Horizontal Directional Drill"",
+      ""component_acronym"": ""HDD"",
+      ""description"": ""Method for cable landfall construction."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-16"",
+      ""component_name"": ""Casing Pipe"",
+      ""component_acronym"": null,
+      ""description"": ""Pipe used during HDD to contain drilling fluid."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-17"",
+      ""component_name"": ""Sheet Pile Goal Posts"",
+      ""component_acronym"": null,
+      ""description"": ""Sheet piles used to support casing pipe installation."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-18"",
+      ""component_name"": ""Sheet Pile Supports"",
+      ""component_acronym"": null,
+      ""description"": ""Additional sheet piles to anchor the barge."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-19"",
+      ""component_name"": ""Production Piles"",
+      ""component_acronym"": null,
+      ""description"": ""Piles for the temporary pier."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-20"",
+      ""component_name"": ""Temporary Piles"",
+      ""component_acronym"": null,
+      ""description"": ""Piles to support installation of production piles."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-21"",
+      ""component_name"": ""Onshore Converter Station"",
+      ""component_acronym"": ""OnCS-DC"",
+      ""description"": ""Converts power from DC to AC."",
+      ""source_section_number"": ""2.2""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The operating capacity of the wind farm will be between 924 MW and 1,034 MW."",
+      ""value"": 924,
+      ""unit"": ""MW"",
+      ""source_section_number"": ""2.0"",
+      ""geographic_scope"": ""SRWF"",
+      ""context_quote"": ""The proposed Project would allow Sunrise Wind to construct, operate, maintain, and eventually decommission a wind energy facility with an operating capacity ranging between 924 megawatts (MW) and 1,034 MW in scale.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 94 WTGs will be installed."",
+      ""value"": 94,
+      ""unit"": null,
+      ""source_section_number"": ""2.0"",
+      ""geographic_scope"": ""SRWF"",
+      ""context_quote"": ""The Project would include up to 94 wind turbine generators (WTGs) at 102 potential locations""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTGs will be placed at 102 potential locations."",
+      ""value"": 102,
+      ""unit"": null,
+      ""source_section_number"": ""2.0"",
+      ""geographic_scope"": ""SRWF"",
+      ""context_quote"": ""The Project would include up to 94 wind turbine generators (WTGs) at 102 potential locations""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The export cable will be buried at a target depth of 3 to 7 feet."",
+      ""value"": 3,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""SRWEC"",
+      ""context_quote"": ""The SRWEC would be located in federal and New York state waters and would be one 320-kilovolt (kV) DC export cable bundle buried to a target depth of 3 to 7 feet (ft) (1 to 2 meters [m]).""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-07"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The temporary pier will extend approximately 240 feet offshore."",
+      ""value"": 240,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Smith Point County Park"",
+      ""context_quote"": ""The pier would extend approximately 240 feet (73 m) offshore and be approximately 16-feet (4.9-m) wide.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-07"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The temporary pier will be approximately 16 feet wide."",
+      ""value"": 16,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Smith Point County Park"",
+      ""context_quote"": ""The pier would extend approximately 240 feet (73 m) offshore and be approximately 16-feet (4.9-m) wide.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-07"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 24 production piles will be used for the temporary pier."",
+      ""value"": 24,
+      ""unit"": null,
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Smith Point County Park"",
+      ""context_quote"": ""it is anticipated that up to 24 production piles would be used.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-19"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Production piles will be 14 x 14 inch H-shaped or 16-inch diameter round steel."",
+      ""value"": 14,
+      ""unit"": ""inch"",
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Smith Point County Park"",
+      ""context_quote"": ""Production piles would be either a 14 x 14inch (36.5 x 36.5 cm) H-shaped pile or a 16-inch (40.6-cm) diameter round steel pile.""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-20"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 24 temporary piles may be used."",
+      ""value"": 24,
+      ""unit"": null,
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Smith Point County Park"",
+      ""context_quote"": ""In addition, up to 24 temporary piles (of the same size as the production piles) may be used to support the installation of the production piles""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-06"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The Onshore Transmission Cable will cross the Carmans River via HDD."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Carmans River"",
+      ""context_quote"": ""The Onshore Transmission Cable will cross the Carmans River via HDD.""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTGs will extend up to 787 ft above mean sea level."",
+      ""value"": 787,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""2.2.1"",
+      ""geographic_scope"": ""SRWF"",
+      ""context_quote"": ""Sunrise Wind proposes the installation of up to 94 WTGs within 102 potential positions extending up to 787 ft (240 m) above mean sea level (AMSL).""
+    },
+    {
+      ""constraint_id"": ""C-012"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Turbines will be sited in a uniform grid with 1.15 by 1.15-mile spacing."",
+      ""value"": 1.15,
+      ""unit"": ""mile"",
+      ""source_section_number"": ""2.2.1"",
+      ""geographic_scope"": ""SRWF"",
+      ""context_quote"": ""Turbines would be sited in a uniform east-west/northsouth grid with 1.15 by 1.15-mile (mi) (1 by 1-nautical mile [nm]; 1.85 by 1.85 kilometer [km]) spacing.""
+    },
+    {
+      ""constraint_id"": ""C-013"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Sunrise Wind would maintain diagonal lanes between 0.7 and 0.9 mi wide when micrositing foundations."",
+      ""value"": 0.7,
+      ""unit"": ""mi"",
+      ""source_section_number"": ""2.2.1"",
+      ""geographic_scope"": ""SRWF"",
+      ""context_quote"": ""Sunrise Wind would maintain diagonal lanes between 0.7 and 0.9 mi (0.6 to 0.8 nm; 1.1 and 1.5 km) wide when micrositing foundations.""
+    },
+    {
+      ""constraint_id"": ""C-014"",
+      ""linked_component_id"": ""COMP-09"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTG foundations would be 39 ft in diameter at the seabed."",
+      ""value"": 39,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""2.2.1"",
+      ""geographic_scope"": ""SRWF"",
+      ""context_quote"": ""The WTG foundations as proposed in the COP would be 39 ft (12 m) in diameter at the seabed and 23 ft (7 m) in diameter at the sea surface (Sunrise Wind 2022).""
+    },
+    {
+      ""constraint_id"": ""C-015"",
+      ""linked_component_id"": ""COMP-09"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTG foundations would be 23 ft in diameter at the sea surface."",
+      ""value"": 23,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""2.2.1"",
+      ""geographic_scope"": ""SRWF"",
+      ""context_quote"": ""The WTG foundations as proposed in the COP would be 39 ft (12 m) in diameter at the seabed and 23 ft (7 m) in diameter at the sea surface (Sunrise Wind 2022).""
+    },
+    {
+      ""constraint_"

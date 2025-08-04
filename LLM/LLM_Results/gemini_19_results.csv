@@ -1,0 +1,375 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+19,1,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,2,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,3,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,4,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,5,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,6,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,7,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,8,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,9,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,10,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,11,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""8 of 26"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Exclusion distance of 17,000 m from civil/military aviation areas."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 17000,
+      ""unit"": ""m"",
+      ""source"": ""[31, 60]"",
+      ""related_domains"": [""aviation safety"", ""spatial planning""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Exclusion distance of 0 m from protected environmental areas, bird habitats and migration corridors."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 0,
+      ""unit"": ""m"",
+      ""source"": ""[5, 8, 23, 24, 28, 30-33, 36, 40, 43, 60]"",
+      ""related_domains"": [""environmental protection"", ""avian protection"", ""spatial planning""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Exclusion distance of 0 m from agricultural land."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 0,
+      ""unit"": ""m"",
+      ""source"": ""[2, 5, 25, 29, 30, 37]"",
+      ""related_domains"": [""spatial planning"", ""agriculture""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Exclusion distance of 0 m from military zones."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 0,
+      ""unit"": ""m"",
+      ""source"": ""[23, 24, 32, 43]"",
+      ""related_domains"": [""security"", ""spatial planning""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Minimum water depth of 5 m."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 5,
+      ""unit"": ""m"",
+      ""source"": ""Table 3, MEC 1"",
+      ""related_domains"": [""navigation safety"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Maximum water depth of 62 m."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 62,
+      ""unit"": ""m"",
+      ""source"": ""Table 3, MEC 1"",
+      ""related_domains"": [""navigation safety"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Exclusion distance of 0 m from protected environmental areas."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 0,
+      ""unit"": ""m"",
+      ""source"": ""Table 3, MEC 2"",
+      ""related_domains"": [""environmental protection"", ""spatial planning""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Exclusion distance of 0 m from verified shipping routes."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 0,
+      ""unit"": ""m"",
+      ""source"": ""Table 3, MEC 3"",
+      ""related_domains"": [""navigation safety"", ""spatial planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Minimum wind velocity of 3 m/s."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 3,
+      ""unit"": ""m/s"",
+      ""source"": ""Table 3, MEC 4"",
+      ""related_domains"": [""energy efficiency""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maximum wind velocity of 7 m/s."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 7,
+      ""unit"": ""m/s"",
+      ""source"": ""Table 3, MEC 4"",
+      ""related_domains"": [""energy efficiency""]
+    }
+
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+19,12,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Minimum distance of 500m from Military zones."",
+      ""scope"": ""Offshore wind farm placement"",
+      ""numerical_value"": 500,
+      ""unit"": ""m"",
+      ""source"": ""MEC 5"",
+      ""related_domains"": [""military exclusion zones"", ""security""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Maintain a distance of 1000m to 25,000m for Landscape protection and acoustic/visual disturbance."",
+      ""scope"": ""Offshore wind farm placement"",
+      ""numerical_value"": 1000,
+      ""unit"": ""m"",
+      ""source"": ""MEC 6"",
+      ""related_domains"": [""landscape protection"", ""noise pollution"", ""visual impact""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Minimum distance of 3000m from Bird habitats and migration corridors."",
+      ""scope"": ""Offshore wind farm placement"",
+      ""numerical_value"": 3000,
+      ""unit"": ""m"",
+      ""source"": ""MEC 7"",
+      ""related_domains"": [""avian protection"", ""ecological impact""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Minimum distance of 500m from underwater cables and pipelines."",
+      ""scope"": ""Offshore wind farm placement"",
+      ""numerical_value"": 500,
+      ""unit"": ""m"",
+      ""source"": ""MEC 8"",
+      ""related_domains"": [""subsea infrastructure"", ""navigation""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Distance between 20,000m and 200,000m from local ports (upper limit)."",
+      ""scope"": ""Offshore wind farm placement"",
+      ""numerical_value"": 20000,
+      ""unit"": ""m"",
+      ""source"": ""MEC 9"",
+      ""related_domains"": [""port operations"", ""navigation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Project must be within Territorial Waters (TW) or Exclusive Economic Zone (EEZ)."",
+      ""scope"": ""Offshore wind farm placement"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MEC 10"",
+      ""related_domains"": [""maritime boundaries"", ""legal compliance""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Minimum distance of 500m from Fishing areas."",
+      ""scope"": ""Offshore wind farm placement"",
+      ""numerical_value"": 500,
+      ""unit"": ""m"",
+      ""source"": ""MEC 12"",
+      ""related_domains"": [""fishing industry"", ""economic impact""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Minimum distance of 1000m from the high-voltage electricity grid (lower limit)."",
+      ""scope"": ""Offshore wind farm connection"",
+      ""numerical_value"": 1000,
+      ""unit"": ""m"",
+      ""source"": ""MEC 13"",
+      ""related_domains"": [""grid connection"", ""power transmission""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Distance between 20,000m and 100,000m from the high-voltage electricity grid (upper limit)."",
+      ""scope"": ""Offshore wind farm connection"",
+      ""numerical_value"": 20000,
+      ""unit"": ""m"",
+      ""source"": ""MEC 13"",
+      ""related_domains"": [""grid connection"", ""power transmission""]
+
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Minimum distance of 1000m to 1500m from Urban and residential areas."",
+      ""scope"": ""Offshore wind farm placement"",
+      ""numerical_value"": 1000,
+      ""unit"": ""m"",
+      ""source"": ""MEC 14"",
+      ""related_domains"": [""social impact"", ""noise pollution"", ""visual impact""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Avoid construction in High Seismic Hazard Zones (HSHZ)."",
+      ""scope"": ""Offshore wind farm placement"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MEC 15"",
+      ""related_domains"": [""seismic risk"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Minimum area of 25 km² for the wind farm."",
+      ""scope"": ""Offshore wind farm size"",
+      ""numerical_value"": 25,
+      ""unit"": ""km²"",
+      ""source"": ""MEC 18"",
+      ""related_domains"": [""project planning"", ""capacity""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+19,13,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""9 of 26"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The most restrictive limit of MEC was 25,000 m from the shore… to protect the landscape, and avoid visual and acoustic disturbances."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 25000,
+      ""unit"": ""m"",
+      ""source"": null,
+      ""related_domains"": [""landscape protection"", ""visual impact"", ""noise pollution""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The least restrictive (and predominant) limit was 0 m… applied from protected environmental areas… verified shipping routes… military zones… bird habitats and migration corridors… pipelines and underwater cables… and fishing areas."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 0,
+      ""unit"": ""m"",
+      ""source"": null,
+      ""related_domains"": [""environmental protection"", ""navigation safety"", ""military operations"", ""avian protection"", ""subsea infrastructure"", ""fishing industry""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For MEC 1, an upper limit for economic and technical reasons was frequently applied"",
+      ""scope"": ""MEC 1 (unspecified parameter)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""economic feasibility"", ""technical feasibility""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""…in some cases, for technical reasons and social causes, a lower limit was set (for MEC 1)."",
+      ""scope"": ""MEC 1 (unspecified parameter)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""technical feasibility"", ""social impact""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""for MEC 13, a lower limit for safety reasons… was typically applied."",
+      ""scope"": ""MEC 13 (unspecified parameter)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""for MEC 13… an upper limit for economic and technical causes was typically applied."",
+      ""scope"": ""MEC 13 (unspecified parameter)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""economic feasibility"", ""technical feasibility""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""MEC 9 is minimization and it obtained an upper exclusion limit."",
+      ""scope"": ""MEC 9 (unspecified parameter)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""spatial planning""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""exclusion limits greater than 60 m water depth"",
+      ""scope"": ""Floating offshore wind farms"",
+      ""numerical_value"": 60,
+      ""unit"": ""m"",
+      ""source"": null,
+      ""related_domains"": [""water depth"", ""structural design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+19,14,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,15,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,16,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,17,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,18,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,19,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,20,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,21,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,22,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,23,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,24,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,25,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,26,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,27,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,28,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,29,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,30,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,31,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,32,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,33,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,34,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,35,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Proper national laws, regulations, or policies are either missing or should be globally reinforced in several countries and regions (i.e., in Asian, North American, and African countries)."",
+      ""scope"": ""Asian, North American, and African countries"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""policy"", ""legal framework""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+19,36,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,37,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,38,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,39,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,40,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,41,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,42,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,43,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,44,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,45,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,46,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,47,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+19,48,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND

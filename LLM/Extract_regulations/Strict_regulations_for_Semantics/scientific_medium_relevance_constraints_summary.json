@@ -1,0 +1,17 @@
+{
+  "total_constraints": 6797,
+  "filtered_constraints": 1587,
+  "filter_efficiency": 23.348536118875977,
+  "constraints_with_numerical_values": 1587,
+  "scientific_metrics": {
+    "mean_composite_score": 0.10784310186363945,
+    "std_composite_score": 0.022252952219339758,
+    "mean_tfidf_similarity": 0.004965889844540645,
+    "mean_jaccard_similarity": 0.03353149984327337,
+    "mean_semantic_density": 0.46101258406659995,
+    "mean_match_count": 47.599243856332706,
+    "max_match_count": 90
+  },
+  "scoring_methodology": "comprehensive_scientific_tfidf_jaccard_with_match_count",
+  "filtering_date": "2025-07-01T09:26:38.914032"
+}

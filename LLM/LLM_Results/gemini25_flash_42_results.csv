@@ -1,0 +1,1081 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"42",1,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Offshore Wind Lease Issuance, Site Characterization, and Site Assessment in the Gulf of Mexico"",
+    ""document_number"": ""BOEM 2022-049"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight body""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"42",2,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",3,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",4,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",5,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",6,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",7,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies are required to consult with the National Marine Fisheries Service (NMFS) on any action that may result in adverse effects to Essential Fish Habitat (EFH)."",
+      ""scope"": ""Offshore wind energy development activities on the Outer Continental Shelf (OCS) of the Gulf of Mexico (GOM) authorized by the Bureau of Ocean Energy Management (BOEM), undertaken by Federal agencies."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 305(b)(2) of the Magnuson-Stevens Fishery Conservation and Management Act (MSA); final rule (67 FR 2376) implementing EFH provisions (January 17, 2002); 50 CFR §§ 600.805 to 600.930"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""fisheries protection"",
+        ""regulatory compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA (Magnuson-Stevens Fishery Conservation and Management Act)"",
+      ""role"": ""Consultation authority; Rule-making body for Essential Fish Habitat (EFH) provisions""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Authorizing agency for Outer Continental Shelf (OCS) activities""
+    }
+  ]
+}
+```"
+"42",8,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA, Outer Continental Shelf"",
+      ""role"": ""Lead federal agency for purposes of EFH consultation""
+    },
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA, Outer Continental Shelf"",
+      ""role"": ""Co-action agency coordinating with BOEM on Outer Continental Shelf Lands Act (OCSLA) regulatory oversight; responsible for promoting safety and conducting environmental-compliance verification, inspections, and enforcement for operations outlined under the proposed action.""
+    }
+  ]
+}
+```"
+"42",9,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Gulf of Mexico OCS)"",
+      ""role"": ""Permitting and Leasing Authority""
+    }
+  ]
+}
+```"
+"42",10,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A lessee must submit a Site Assessment Plan (SAP) to describe site assessment activities for BOEM’s review."",
+      ""scope"": ""Site assessment activities on leases and along potential export cable corridors to shore"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR §§ 585.605-613"",
+      ""related_domains"": [
+        ""site assessment"",
+        ""regulatory compliance"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Site assessment activities include the installation, operation, maintenance, and decommissioning"
+"42",11,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",12,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Western GOM)"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"42",13,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A Nationwide Permit (NWP) (USACE 2022b) is required to regulate geophysical surveys in state waters."",
+      ""scope"": ""Geophysical surveys in state waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USACE Nationwide Permit (USACE 2022b)"",
+      ""related_domains"": [
+        ""permitting"",
+        ""site characterization""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""State issued permits may also be required for surveys in state waters."",
+      ""scope"": ""Surveys in state waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""State authorities"
+"42",14,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",15,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",16,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",17,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",18,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",19,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",20,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Table 2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Minerals Management Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and Resource Management""
+    }
+  ]
+}
+```"
+"42",21,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 2, Page 13"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Standard setting body, Permitting authority, Oversight""
+    }
+  ]
+}
+```"
+"42",22,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",23,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",24,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Cone penetration test Survey Method"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""United States Federal Waters"",
+      ""role"": ""Regulatory oversight for offshore energy development""
+    }
+  ]
+}
+```"
+"42",25,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Minerals Management Service"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Permitting authority; Environmental oversight""
+    }
+  ]
+}
+```"
+"42",26,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",27,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",28,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Gulf of Mexico Fishery Management Council"",
+      ""jurisdiction"": ""Gulf of Mexico"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"42",29,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",30,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",31,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",32,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.1.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""BOEM expects up to two proposed transmission cable route corridors to shore will be surveyed for each lease."",
+      ""scope"": ""transmission cable route corridors for each lease"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [
+        ""site characterization"",
+        ""cable routing"",
+        ""environmental impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Routes would cross soft bottom habitats and are expected to avoid hard bottoms and other sensitive seafloor resources."",
+      ""scope"": ""transmission cable route corridors"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""habitat preservation"",
+        ""cable routing""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Site characterization activities, such as sub-bottom sampling and benthic surveys would occur along these corridors."",
+      ""scope"": ""export"
+"42",33,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",34,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",35,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""21"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Offshore)"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"42",36,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All potential impacts to hard bottom features from bottom-disturbing activities will be avoided or mitigated to no adverse effect."",
+      ""scope"": ""Call Area; hard bottom features; bottom-disturbing activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM review and conditioning of permitted activities; adherence to proposed mitigations, monitoring, and reporting standards listed in Section 6 Proposed Mitigation Guidance."",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""habitat preservation"",
+        ""impact mitigation"",
+        ""monitoring"",
+        ""reporting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Environmental oversight; Standard setting body""
+    }
+  ]
+}
+```"
+"42",37,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"42",38,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",39,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",40,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",41,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",42,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Gulf of Mexico OCS Region)"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"42",43,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",44,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",45,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",46,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",47,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",48,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""27"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""GMFMC"",
+      ""jurisdiction"": ""Gulf of Mexico"",
+      ""role"": ""Area designation and revision (specifically HAPCs), influencing conservation and fishery management efforts.""
+    },
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA (Gulf of Mexico)"",
+      ""role"": ""Area designation and revision (specifically HAPCs), influencing conservation and fishery management efforts.""
+    }
+  ]
+}
+```"
+"42",49,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",50,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM is not authorizing any activities in state waters and onshore areas."",
+      ""scope"": ""Activities in state waters and onshore areas related to wind energy leases."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [
+        ""jurisdiction"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM does not have the regulatory authority to apply mitigation measures outside of the OCS."",
+      ""scope"": ""Areas outside the Outer Continental Shelf (OCS)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [
+        ""jurisdiction"",
+        ""environmental regulation""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Lessees would be responsible for obtaining any permits or other clearances required for operations conducted in state waters."",
+      ""scope"": ""Operations conducted in state waters by wind energy lessees."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulatory framework (as stated in document)"",
+      ""related_domains"": [
+        ""permitting"",
+        ""regulatory compliance"",
+        ""jurisdiction""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Regulatory authority; Permitting authority; Environmental oversight""
+    }
+  ]
+}
+```"
+"42",51,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"42",52,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 4.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All bottom-disturbing activity avoid physical impacts to all hard bottom habitats."",
+      ""scope"": ""Bottom-disturbing activities (specifically geotechnical and benthic habitat surveys) within lease areas and export cable corridors, applicable to hard bottom habitats."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s proposed mitigation, monitoring, and reporting standards in Section 6 Proposed Mitigation Guidance."",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""habitat protection"",
+        ""survey methodology""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, Standard setting body, Permitting authority""
+    }
+  ]
+}
+```"
+"42",53,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",54,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""lessees be required to avoid physical impacts to sensitive benthic habitats, including SAV"",
+      ""scope"": ""Lease areas and associated cable corridors"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM (referencing Section 6 Lease Stipulations and Guidance)"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""habitat preservation"",
+        ""benthic ecology""
+      ]
+    }
+  ],
+  ""regulatory_"
+"42",55,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",56,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",57,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",58,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",59,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",60,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 32, Section 4.1.2.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, Leasing and Permitting Authority""
+    }
+  ]
+}
+```"
+"42",61,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""33"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental assessment""
+    }
+  ]
+}
+```"
+"42",62,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",63,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",64,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",65,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 37, Section 4.1.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and Oversight Authority""
+    }
+  ]
+}
+```"
+"42",66,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 4.1.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"42",67,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",68,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",69,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 4.2.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""It is expected that physical impacts to all hard bottom features will be avoided."",
+      ""scope"": ""Activities that disturb the seafloor, specifically impacting hard bottom habitats (e.g., HAPCs) and their associated communities, including slow-growing corals, during HRG surveys."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM (referencing Section 6 Proposed Mitigation Guidance)"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""habitat preservation"",
+        ""seafloor disturbance"",
+        ""geophysical surveys""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (implied)"",
+      ""role"": ""Environmental oversight; Permitting authority; Guidance provider""
+    }
+  ]
+}
+```"
+"42",70,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",71,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""avoidance of hard bottom habitats"",
+      ""scope"": ""Geotechnical and benthic habitat surveys in areas with hard bottom habitats, including inshore hard bottom habitats such as oyster beds."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s proposed mitigation"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""habitat preservation"",
+        ""geotechnical surveys"",
+        ""benthic surveys""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    }
+  ]
+}
+```"
+"42",72,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",73,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",74,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",75,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",76,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",77,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",78,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",79,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""lease stipulations would distance bottom disturbing survey activities from sensitive, benthic habitats (e.g., hard bottoms)"",
+      ""scope"": ""bottom disturbing survey activities; sensitive, benthic habitats"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""lease stipulations"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""habitat preservation"",
+        ""site characterization"",
+        ""survey operations""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"42",80,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",81,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""44"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Trash and debris disposal at sea is prohibited."",
+      ""scope"": ""At sea (applicable to vessels involved in offshore wind farm activities)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG (International Convention for the Prevention of Pollution from Ships [MARPOL], Annex V, Public Law 100-220 [101 Stat. 1458])"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""waste management"",
+        ""vessel operations"",
+        ""water quality""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees, applicants, operators, or holders of a ROW grant, RUE grant, or Alternate Use RUE grant are required to take measures to prevent unauthorized discharge of pollutants including marine trash and debris into the offshore environment."",
+      ""scope"": ""Offshore environment; applicable to lessees, applicants, operators, or holders of a ROW grant, RUE grant, or Alternate Use RUE grant"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM (30 CFR § 585.105)"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""waste management"",
+        ""pollution control"",
+        ""offshore operations"",
+        ""regulatory compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency; Standard setting body""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Environmental oversight; Regulatory body""
+    }
+  ]
+}
+```"
+"42",82,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A Lessee’s rights to conduct activities on leased areas are subject to lease terms, conditions, and stipulations."",
+      ""scope"": ""Leased areas for wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Lease agreements issued by BOEM"",
+      ""related_domains"": [
+        ""lease management"",
+        ""project development"",
+        ""regulatory compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority"
+"42",83,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 6.1, Page 45"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees’ plans must provide information about benthic habitats as well as methods for avoiding, minimizing, reducing, eliminating, and monitoring environmental impacts."",
+      ""scope"": ""Renewable energy development on the Outer Continental Shelf (OCS) of the Gulf of Mexico (GOM)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.611 and 585.627 (BOEM)"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""benthic habitat protection"",
+        ""environmental monitoring""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Regulatory authority, Environmental oversight, Resource conservation""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"":"
+"42",84,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",85,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",86,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",87,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",88,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",89,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""48"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must submit a “Recovery Plan” to DOI (using the email address listed on DOI’s most recent incident reporting guidance) if marine debris is not recovered in 48 hours and DOI determines that recovery is warranted."","
+"42",90,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Attachment 1, Pages 50-51"",
+    ""type_of_wind"
+"42",91,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",92,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""53"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Hard bottom habitats would be identified (via HRG surveys) and avoided during met buoy placement and during geotechnical and benthic habitat sampling."",
+      ""scope"": ""Call and Project Areas; during met buoy placement, geotechnical sampling, and benthic habitat sampling."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""avoidance standards outlined above (see Section 6 Proposed Mitigation Guidance)"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""habitat preservation"",
+        ""site surveying""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"42",93,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",94,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Leasing and permitting authority for offshore energy development; Environmental review and oversight""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Marine resource protection; Environmental review; Scientific research""
+    },
+    {
+      ""entity_name"": ""Bureau of Land Management (BL"
+"42",95,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",96,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Fish & Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Department of the Interior, Minerals Management Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Resource management and environmental assessment""
+    }
+  ]
+}
+```"
+"42",97,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""55"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Environmental oversight; Leasing authority""
+    },
+    {
+      ""entity_name"": ""U.S. Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Standard setting body""
+    }
+  ]
+}
+```"
+"42",98,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",99,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",100,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",101,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",102,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Fisheries management and habitat conservation oversight""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oceanic and atmospheric research and environmental oversight""
+    }
+  ]
+}
+```"
+"42",103,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",104,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""59"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Environmental oversight, Permitting authority""
+    }
+  ]
+}
+```"
+"42",105,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"42",106,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",107,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",108,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",109,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",110,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",111,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",112,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""65-66"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Goliath grouper is designated as a protected species."",
+      ""scope"": ""Marine environments, specifically reefs, hard bottom, bank/shoal, and artificial reef/wreck habitats, at depths less than 95m, where Goliath grouper are found."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental protection"",
+        ""biodiversity conservation"",
+        ""marine ecology"",
+        ""environmental impact assessment""
+      ]"
+"42",113,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",114,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",115,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",116,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",117,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",118,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",119,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",120,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",121,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",122,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Table 8. Described Essential Fish Habitat locations for coastal migratory species in the Gulf of Mexico"",
+    ""document_number"": ""71"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Artificial reefs not considered EFH"",
+      ""scope"": ""Artificial reefs within the context of Essential Fish Habitat (EFH) designations in the Gulf of Mexico"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Document context regarding Essential Fish Habitat definitions"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""fisheries management"",
+        ""habitat protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"42",123,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",124,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",125,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",126,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",127,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",128,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",129,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",130,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",131,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",132,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",133,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",134,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",135,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"42",136,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"

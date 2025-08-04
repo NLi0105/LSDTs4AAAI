@@ -1,0 +1,636 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+24,1,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+24,2,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+24,3,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""178"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""1,200 MW by 2030"",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": 1200,
+      ""unit"": ""MW"",
+      ""source"": ""Maryland State Offshore Wind Capacity and Incentive Programs"",
+      ""related_domains"": [""renewable energy"", ""capacity target""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""1,600 MW by 2027"",
+      ""scope"": ""Massachusetts"",
+      ""numerical_value"": 1600,
+      ""unit"": ""MW"",
+      ""source"": ""Massachusetts State Offshore Wind Capacity and Incentive Programs"",
+      ""related_domains"": [""renewable energy"", ""capacity target""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""3,500 MW by 2030"",
+      ""scope"": ""New Jersey"",
+      ""numerical_value"": 3500,
+      ""unit"": ""MW"",
+      ""source"": ""New Jersey State Offshore Wind Capacity and Incentive Programs"",
+      ""related_domains"": [""renewable energy"", ""capacity target""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""9,000 MW by 2035"",
+      ""scope"": ""New York"",
+      ""numerical_value"": 9000,
+      ""unit"": ""MW"",
+      ""source"": ""New York State Offshore Wind Capacity and Incentive Programs"",
+      ""related_domains"": [""renewable energy"", ""capacity target""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+24,4,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+24,5,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+24,6,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+24,7,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Outlook for U.S. Offshore Wind"",
+    ""document_number"": ""180"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""An OCS lease obtained within a Wind Energy Area does not authorize the construction of anything. It merely grants a developer the exclusive right to submit a site assessment plan (“SAP”) for approval by BOEM, and to submit a construction and operations plan (“COP”), which would be subject to evaluation and further review by BOEM under NEPA."",
+      ""scope"": ""US Outer Continental Shelf (OCS) within a Wind Energy Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""leasing"", ""permitting"", ""construction"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A developer with an OCS lease has the exclusive right to submit a site assessment plan (\""SAP\"") for approval by the Bureau of Ocean Energy Management (\""BOEM\"")."",
+      ""scope"": ""US Outer Continental Shelf (OCS) within a Wind Energy Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""site assessment"", ""permitting""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A developer with an OCS lease has the right to submit a construction and operations plan (\""COP\"") for evaluation and further review by BOEM under NEPA."",
+      ""scope"": ""US Outer Continental Shelf (OCS) within a Wind Energy Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Environmental Policy Act (NEPA)"",
+      ""related_domains"": [""construction"", ""operation"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, plan approval, environmental review""
+    }
+  ]
+}
+```"
+24,8,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""181"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM requires the lessee to post financial assurance [at] various stages of the leasing and development process: prior to lease issuance, following submission of the SAP (if needed); and prior to COP approval."",
+      ""scope"": ""Offshore wind energy leasing process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""financial assurance"", ""leasing"", ""permitting""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM charges commercial rental payments during the term of the lease"",
+      ""scope"": ""Offshore wind energy leasing process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""leasing"", ""financial""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Operating fees are calculated according to a formula that assesses nameplate capacity, anticipated capacity factor, and neighboring state’s average wholesale electric power price."",
+      ""scope"": ""Offshore wind energy operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""power generation"", ""financial""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Lessee must submit [relevant] plans such as the SAP or the critical COP"",
+      ""scope"": ""Offshore wind energy leasing process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""planning"", ""permitting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Manages the offshore renewable energy leasing program and is responsible for all phases of OCS management, from identification of wind energy areas to issuance of OCS leases to decommissioning activities. Conducts federal environmental reviews and approves relevant plans.""
+    }
+  ]
+}
+```"
+24,9,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A holder of a commercial lease has the exclusive right to subsequently seek BOEM approval for the development of the leasehold—the lessee does not have the right to construct any facilities absence subsequent BOEM approval."",
+      ""scope"": ""Leasehold development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""leasing"", ""permitting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The lessee’s SAP must be approved by BOEM before it conducts these site assessment activities within the leased area."",
+      ""scope"": ""Site assessment activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""site assessment"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If the lessee decides to proceed with a wind project, it must submit a COP to BOEM for review and approval."",
+      ""scope"": ""Construction and operation of a wind energy project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""construction"", ""operation"", ""permitting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""At the conclusion of the operations term, the lease expires and the developer must decommission the wind turbines unless BOEM grants a lease renewal."",
+      ""scope"": ""Decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""decommissioning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (implied)"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    }
+  ]
+}
+```"
+24,10,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""OUTLOOK FOR U.S. OFFSHORE WIND"",
+    ""document_number"": ""182"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Government"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Jurisdiction over activities beyond three geographical miles out to the edge of the continental shelf""
+    }
+  ]
+}
+```"
+24,11,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""States have authority to manage ocean energy resources and structures located in their coastal zones, so long as its regulation does not infringe on the federal government’s reserved rights to regulate navigation, commerce, or foreign affairs in state waters."",
+      ""scope"": ""State coastal zones"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Submerged Lands Act of 1953"",
+      ""related_domains"": [""jurisdiction"", ""state regulations"", ""federal preemption""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Federal actions affecting any coastal use or resource be conducted in a manner that is consistent with the enforceable policies of a state’s federally-approved Coastal Zone Management Program (“CZMP”) or Coastal Resource Management Program (“CRMP”)."",
+      ""scope"": ""Coastal zones"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coastal Zone Management Act (CZMA) of 1972"",
+      ""related_domains"": [""federal consistency"", ""coastal zone management"", ""state regulations""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""An offshore wind project in federal waters must obtain a “consistency” determination or certification from the applicable state agency that the proposed activity is consistent to the maximum extent practicable with the enforceable policies of federally-approved but state implemented coastal zone management programs."",
+      ""scope"": ""Offshore wind projects in federal waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coastal Zone Management Act (CZMA) of 1972"",
+      ""related_domains"": [""federal consistency"", ""coastal zone management"", ""state regulations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Secretary of the Interior"",
+      ""jurisdiction"": ""Federal - USA, Outer Continental Shelf (OCS)"",
+      ""role"": ""Ultimate authority over offshore wind energy development on the OCS""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA, Outer Continental Shelf (OCS)"",
+      ""role"": ""Administers the Secretary of the Interior's authority over offshore wind energy development on the OCS; Leasing and environmental reviews of offshore wind projects on the OCS""
+    },
+    {
+      ""entity_name"": ""Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA, Great Lakes"",
+      ""role"": ""Leads federal environmental reviews of offshore wind projects in the Great Lakes""
+    },
+
+    {
+      ""entity_name"": ""Applicable State Agency"",
+      ""jurisdiction"": ""State Coastal Zones"",
+      ""role"": ""Coastal zone consistency review and concurrence determination""
+    }
+
+
+
+  ]
+}
+```"
+24,12,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""183"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""evaluate and determine impacts from major federal actions on the environment"",
+      ""scope"": ""major federal actions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Environmental Policy Act (NEPA)"",
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If the agency determines that a significant impact would occur, it must prepare an Environmental Impact Statement evaluating the proposed action, impacts, and alternatives."",
+      ""scope"": ""major federal actions with significant impact"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Environmental Policy Act (NEPA)"",
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+24,13,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Outlook for U.S. Offshore Wind"",
+    ""document_number"": ""184"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""a state certify that a project will not violate that state’s surface water quality standards"",
+      ""scope"": ""Offshore facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Water Act (CWA) Section 401"",
+      ""related_domains"": [""water quality"", ""environmental permitting""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""regulates discharges of any pollutant from offshore facilities"",
+      ""scope"": ""Offshore facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""CWA Section 402, National Pollutant Discharge Elimination System (NPDES)"",
+      ""related_domains"": [""pollution control"", ""wastewater discharge"", ""environmental permitting""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""regulates the discharge of dredge and fill materials into waters of the United States"",
+      ""scope"": ""Offshore facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""CWA Section 404"",
+      ""related_domains"": [""dredging"", ""filling"", ""habitat modification"", ""environmental permitting""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""federal agencies to consult with the Secretary of Commerce (National Marine Fisheries Service) regarding any action...that may negatively impact identified Essential Fish Habitat"",
+      ""scope"": ""Activities impacting Essential Fish Habitat"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson Fishery Conservation and Management Act"",
+      ""related_domains"": [""fisheries management"", ""habitat protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""any federal agency undertaking a federal action that may have an impact on living resources and/or habitats must consult with the National Marine Fisheries Service and U.S. Fish and Wildlife Service"",
+      ""scope"": ""Activities impacting living resources and/or habitats"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Fish and Wildlife Coordination Act"",
+      ""related_domains"": [""wildlife management"", ""habitat protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, Consultation on impacts to Essential Fish Habitat and living resources""
+    },
+    {
+      ""entity_name"": ""Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and regulation of dredge and fill activities""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation on impacts to living resources and habitats""
+    }
+  ]
+}
+```"
+24,14,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""preventing the taking, capture, and killing of migratory birds with regard for breeding habitats, times, and lines of migratory flight"",
+      ""scope"": ""Migratory bird species"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Migratory Bird Treaty Act (MBTA)"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""ensure that any action authorized, funded, or undertaken by the agency is not likely to jeopardize the continued existence of endangered or threatened species"",
+      ""scope"": ""Endangered or threatened species"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act"",
+      ""related_domains"": [""environmental impact assessment"", ""species protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Secretary of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation agency""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA, marine waters"",
+      ""role"": ""Consultation and enforcement agency""
+    }
+  ]
+}
+```"
+24,15,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""185"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Protection to marine mammals from harassment, including from adverse impacts to habitat, and feeding or breeding patterns."",
+      ""scope"": ""Offshore wind farm construction and marine site characterization surveys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""The Act, administered by NMFS"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Vessels transporting “merchandise by water”—such as nacelles, foundations, or turbines blades—within the three nautical mile territorial sea of the United States, or any point permanently or temporarily attached to the seabed on the U.S. outer continental shelf, must be U.S.-built or re-built, and U.S.-flagged. Further, the vessel must be 75 percent U.S.-owned and U.S.-crewed."",
+      ""scope"": ""Transport of wind turbine components and installation equipment within the three nautical mile territorial sea of the United States, or any point permanently or temporarily attached to the seabed on the U.S. outer continental shelf"",
+      ""numerical_value"": 75,
+      ""unit"": ""percent"",
+      ""source"": ""Jones Act"",
+      ""related_domains"": [""maritime transport"", ""shipping regulations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority (for incidental harassment authorizations related to marine mammals)""
+    },
+    {
+      ""entity_name"": ""State Historic Preservation Office"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Consultation required for potential impacts on cultural or historic resources""
+    },
+    {
+      ""entity_name"": ""Advisory Council on Historic Preservation"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Opportunity to comment during Section 106 consultation process related to cultural or historic resources""
+    },
+    {
+      ""entity_name"": ""Customs and Border Patrol (\""CBP\"")"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Defines \""merchandise\"" for the purpose of Jones Act application""
+    }
+
+  ]
+}
+```"
+24,16,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""OUTLOOK FOR U.S. OFFSHORE WIND"",
+    ""document_number"": ""186"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Construction work impacting coastlines and wetlands—such as where the transmission cable comes ashore—may require a permit from the Army Corps."",
+      ""scope"": ""U.S. Coastlines and Wetlands, Transmission Cable Landing"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Rivers and Harbors Act, Section 10 and Clean Water Act, Section 404"",
+      ""related_domains"": [""permitting"", ""coastal zone management"", ""wetland protection""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Any offshore wind project on the Great Lakes will need a permit from the Army Corps"",
+      ""scope"": ""Great Lakes, Offshore Wind Projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Rivers and Harbors Act, Section 10"",
+      ""related_domains"": [""permitting"", ""Great Lakes jurisdiction""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Environmental review""
+    },
+    {
+      ""entity_name"": ""CBP (Customs and Border Protection)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulation of vessel flagging and cable laying""
+    }
+  ]
+}
+```"
+24,17,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Any wind development with a turbine over 200 feet above ground level must file a notice of proposed construction for each planned turbine prior to construction."",
+      ""scope"": ""Turbines over 200 feet above ground level"",
+      ""numerical_value"": 200,
+      ""unit"": ""feet"",
+      ""source"": ""Federal Aviation Administration (FAA)"",
+      ""related_domains"": [""air navigation safety""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""State approvals and permits are needed for the last kilometers, bringing a submerged transmission cable ashore and connecting to an electrical substation."",
+      ""scope"": ""Submerged transmission cable connection to electrical substation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""New Jersey State Law"",
+      ""related_domains"": [""grid connection"", ""cable landing""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""This law prohibits the taking of species of wildlife appearing on designated lists."",
+      ""scope"": ""Endangered and threatened wildlife species in New Jersey"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NJ Endangered and Nongame Species Conservation Act"",
+      ""related_domains"": [""environmental protection"", ""biodiversity"", ""wildlife conservation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The CAFRA law regulates residential, commercial, public, and industrial development such as construction, relocation, and enlargement of structures, and associated work such as excavation and grading."",
+      ""scope"": ""Construction, relocation, and enlargement of structures within the CAFRA area in New Jersey"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coastal Area Facility Review Act (CAFRA)"",
+      ""related_domains"": [""coastal development"", ""construction permitting""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Aviation Administration (FAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety oversight, air navigation impact assessment""
+    }
+  ]
+}
+```"
+24,18,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""187"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""This law regulates construction and development occurring in state tidal waters, outside of the Coastal Area Facility Review Act boundary, and up to 500 feet inland of the mean high-water line."",
+      ""scope"": ""State tidal waters, outside of the Coastal Area Facility Review Act boundary, and up to 500 feet inland of the mean high-water line"",
+      ""numerical_value"": 500,
+      ""unit"": ""feet"",
+      ""source"": ""NJ Waterfront Development Law"",
+      ""related_domains"": [""construction"", ""development"", ""jurisdiction""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Act authorizes the development and implementation of the New Jersey Pollution Discharge Elimination System (“NJPDES”) for stormwater discharges."",
+      ""scope"": ""Stormwater discharges"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NJ Water Pollution Control Act"",
+      ""related_domains"": [""pollution control"", ""stormwater management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""These laws regulate development within coastal and freshwater wetlands and associated buffer areas."",
+      ""scope"": ""Coastal and freshwater wetlands and associated buffer areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Wetlands Act of 1970 and Freshwater Wetlands Protection Act"",
+      ""related_domains"": [""wetland protection"", ""development""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New Jersey Department of Environmental Protection (NJDEP)"",
+      ""jurisdiction"": ""New Jersey"",
+      ""role"": ""Implements federal consistency provisions of the CZMA, CAFRA and the Waterfront Development Law in state waters, the NJPDES permit program, wetlands protection, and the Endangered and Nongame Species Conservation Act""
+    },
+    {
+      ""entity_name"": ""Board of Public Utilities (BPU)"",
+      ""jurisdiction"": ""New Jersey"",
+      ""role"": ""Overseeing regulated utilities and representing the state’s interests regarding changes to the PJM Tariff, Operating Agreement and Reliability Assurance Agreement; adopted a funding mechanism for offshore wind projects (Offshore Wind Renewable Energy Certificate)""
+    }
+  ]
+}
+```"
+24,19,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND

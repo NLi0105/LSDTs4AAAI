@@ -1,0 +1,34 @@
+{
+  "total_original_constraints": 6797,
+  "total_filtered_constraints": 2107,
+  "filter_efficiency_percent": 30.998970133882597,
+  "score_statistics": {
+    "mean": 0.09321264409912076,
+    "median": 0.08913354732538019,
+    "std": 0.026286342881736535,
+    "min": 0.050044488535495715,
+    "max": 0.19018715609725342
+  },
+  "category_breakdown": {
+    "Low-Medium Relevance": 753,
+    "Medium-High Relevance": 651,
+    "Medium Relevance": 635,
+    "High Relevance": 68
+  },
+  "scientific_metrics": {
+    "mean_tfidf_similarity": 0.003925141871872372,
+    "mean_jaccard_similarity": 0.028808619875315102,
+    "mean_semantic_density": 0.41987466352926267
+  },
+  "methodology": {
+    "scoring_method": "comprehensive_scientific",
+    "weights": {
+      "tfidf_mean_similarity": 0.4,
+      "tfidf_max_similarity": 0.3,
+      "jaccard_similarity": 0.2,
+      "semantic_density": 0.1
+    },
+    "requires_numerical_values": true
+  },
+  "generated_date": "2025-07-01T09:29:32.182471"
+}

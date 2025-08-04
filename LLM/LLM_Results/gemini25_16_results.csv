@@ -1,0 +1,926 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"16",1,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Information Guidelines for a Renewable Energy Construction and Operations Plan (COP)"",
+    ""document_number"": ""Version 4.0"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""UNITED STATES DEPARTMENT OF THE INTERIOR"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Government oversight""
+    },
+    {
+      ""entity_name"": ""Office of Renewable Energy Programs"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Program management for renewable energy""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight for ocean energy projects""
+    }
+  ]
+}
+```"
+"16",2,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Introduction to These Guidelines"",
+    ""document_number"": ""2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A COP must be submitted six months prior to the completion of your site assessment term."",
+      ""scope"": ""Commercial lease on the Outer Continental Shelf (OCS)"",
+      ""numerical_value"": 6,
+      ""unit"": ""months"",
+      ""source"": ""30 CFR 585.601"",
+      ""related_domains"": [
+        ""project planning"",
+        ""regulatory submission"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""You must take measures to prevent the unauthorized discharge of pollutants including marine trash and debris into the offshore environment."",
+      ""scope"": ""All project activities in the offshore environment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30"
+"16",3,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",4,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document"
+"16",5,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",6,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The COP must"
+"16",7,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",8,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",9,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",10,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",11,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",12,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",13,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",14,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",15,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",16,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",17,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.626(b)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""For all construction and operations activities you propose to conduct under your COP, you must provide the information listed under the “Project Information” column in table 1 pursuant to 30 CFR 585.626(b)."",
+      ""scope"": ""Construction and Operations Plan (COP) for all proposed construction and operations activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(b)"",
+      ""related_domains"": [
+        ""project planning"",
+        ""regulatory compliance"",
+        ""environmental impact assessment""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""COP review""
+    }
+  ]
+}
+```"
+"16",18,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",19,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",20,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",21,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",22,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",23,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",24,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",25,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",26,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",27,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""(b)(17)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Indicate the names of people, their affiliation, and the dates on which you had contact, along with a short summary of issues discussed."",
+      ""scope"": ""Construction and Operations Plan (COP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [
+        ""stakeholder engagement"",
+        ""permitting"","
+"16",28,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",29,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",30,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""18"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""You should provide a copy of the analysis that you prepare for the EPA, or other agency delegated by EPA for enforcement of the Clean Air Act, to BOEM subsequent to submittal to EPA (or other officially recognized designee)."",
+      ""scope"": ""Air emissions analysis for a renewable energy COP (Construction and Operations Plan)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR § 585.700"",
+      ""related_domains"": [
+        ""air quality"",
+        ""environmental impact assessment"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The digital files should contain the formatted meteorological files used in modeling runs, along with the emission estimates and control measures that apply."",
+      ""scope"": ""Digital files for air emissions analysis submitted to BOEM."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR § 585.700"",
+      ""related_domains"": [
+        ""air quality"",
+        ""environmental modeling"",
+        ""data submission""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM may request additional data or information in order to assist BOEM in evaluating your COP."",
+      ""scope"": ""COP (Construction and Operations Plan) evaluation for project-specific and site-specific needs."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section (b)(23)"",
+      ""related_domains"
+"16",31,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""19"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Pursuant to 30 CFR 585.627(a) for construction and operations activities on a commercial lease, you must submit with your COP detailed information that describes resources, conditions, and activities that could be affected by your proposed project."",
+      ""scope"": ""Construction and operations activities on a commercial lease"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""permitting"",
+        ""project planning"",
+        ""NEPA compliance""
+      ]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Pursuant to 30 CFR 585.627(c), you are required to submit an OSRP to Bureau of Safety and Environmental Enforcement (BSEE), in accordance with 30 CFR part 254."",
+      ""scope"": ""Offshore commercial lease activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(c); 30 CFR part 254"",
+      ""related_domains"": [
+        ""oil spill response"",
+        ""safety management"",
+        ""environmental protection"",
+        ""operational planning""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority and environmental oversight for commercial leases""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency for safety and environmental regulations, including OSRP review""
+    }
+  ]
+}
+```"
+"16",32,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""You must submit your Safety Management System (SMS) to Bureau of Safety and Environmental Enforcement (BSEE), in accordance with section 285."
+"16",33,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""21"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Submit one paper copy and one electronic version of the COP to the addressees indicated below (Table 2; Table 3)"",
+      ""scope"": ""Construction and Operations Plan (COP) submittal to BOEM"",
+      ""numerical_value"": 1,
+      ""unit"": ""copy"",
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [
+        ""document submission"",
+        ""permitting"",
+        ""regulatory compliance""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The TIMS Web is required for formal submittals of data and information to BSEE from renewable energy Lessees."",
+      ""scope"": ""Formal submittals of data and information to BSEE from renewable energy Lessees, including applications, reports, and notices."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""related_domains"": [
+        ""data submission"",
+        ""reporting"",
+        ""regulatory compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority for receiving Construction and Operations Plans (COP).""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight for data submission, receiving renewable-related applications, reports, and notices.""
+    }
+  ]
+}
+```"
+"16",34,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Tables 3 & 4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An Oil Spill Response Plan must be submitted to the Bureau of Safety and Environmental Enforcement"
+"16",35,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",36,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""23"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""If you are issued a plan, permit, or other authorization from BOEM with a condition of approval or a lease with a stipulation requiring compliance with this guidance document or identified portions thereof, you must implement those portions or all aspects of this guidance document... Under such circumstances, you must implement and comply with this guidance document (or identified portions thereof) regardless of whether the terms within the guidance document would otherwise be a recommendation or request (e.g., use of the term “should” in the guidance document will be considered “must” if required by the lease stipulation or condition of approval)."",
+      ""scope"": ""Projects under a BOEM-issued plan, permit, authorization, or lease containing a specific stipulation or condition of approval."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""lease stipulation or condition of approval from BOEM"",
+      ""related_domains"": [
+        ""legal compliance"",
+        ""permitting"",
+        ""project development""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""An agency may not conduct or sponsor a collection of information unless it displays a currently valid OMB Control Number."",
+      ""scope"": ""Information collection activities by federal agencies."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Paperwork Reduction Act of 1995"",
+      ""related_domains"": [
+        ""administrative procedure"",
+        ""information management""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Issues leases, stipulations, and conditions of approval.""
+    },
+    {
+      ""entity_name"": ""OMB"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Approves information collection requirements under the Paperwork Reduction Act.""
+    }
+  ]
+}
+```"
+"16",37,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",38,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""24"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal, state, and local agencies"",
+      ""jurisdiction"": ""Federal, State, Local - USA"",
+      ""role"": ""Consultation""
+    },
+    {
+      ""entity_name"": ""Minerals Management Service, Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Program establishment and guidance""
+    }
+  ]
+}
+```"
+"16",39,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",40,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",41,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Col1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Lessees and grantees must comply with Federal Aviation Administration (FAA) and USCG requirements for lighting in accordance with BOEM’s “Guidelines for Providing Information on Lighting and Marking of Structures Supporting Renewable Energy Development,” dated April 2021."",
+      ""scope"": ""Lighting and marking of structures supporting renewable energy development."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal Aviation Administration (FAA); USCG; BOEM’s “"
+"16",42,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",43,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Marking applicable structures (e.g., wind turbines, wave generation structures) must be done with USCG-approved measures (e.g., lighting) to ensure safe vessel operation."",
+      ""scope"": ""Applicable structures (e.g., wind turbines, wave generation structures)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG"",
+      ""related_domains"": [
+        ""navigational safety"",
+        ""structural marking"",
+        ""commercial fishing""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Approving authority for vessel safety measures ("
+"16",44,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",45,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",46,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",47,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",48,"gemini","gemini-2.5-pro",False,"```"
+"16",49,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",50,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",51,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",52,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",53,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",54,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",55,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Attachment D: Waste and Discharge Information"",
+    ""document_number"": ""36"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The COP must include information on the projected liquid and solid wastes to be generated by all vessels and facilities during all phases of the COP activities."",
+      ""scope"": ""All vessels and facilities during all phases of the COP activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""585.626(b)(9)"",
+      ""related_domains"": [
+        ""waste management"",
+        ""permitting"",
+        ""environmental impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Comply with U.S. Coast Guard regulations for bilge and ballast water treatment requirements for oil and grease."",
+      ""scope"": ""Vessel bilge and ballast water"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Coast Guard regulations"",
+      ""related_domains"": [
+        ""waste management"",
+        ""water quality"",
+        ""vessel operations""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Comply with the EPA’s vessel NPDES permits."",
+      ""scope"": ""Vessels"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA’s vessel NPDES permits"",
+      ""related_domains"": [
+        ""waste management"",
+        ""water quality"",
+        ""permitting"",
+        ""vessel operations""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Chemicals, solvents, oils, greases must be designated as hazardous materials and disposed of at onshore facilities."",
+      ""scope"": ""West coast of the U.S."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""waste management"",
+        ""hazardous materials handling""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_"
+"16",56,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Attachment E: Information Guidance for NEPA and Other Relevant Laws"",
+    ""document_number"": """
+"16",57,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",58,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.627(a)(1)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Survey should be conducted in accordance with BOEM's Guidelines for Providing Geophysical, Geotechnical, and Geohazard Information Pursuant to 30 CFR Part 585."",
+      ""scope"": ""Geophysical, Geotechnical, and Geohazard surveys conducted for the Construction and Operations Plan (COP) submittal."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM's Guidelines for Providing Geophysical, Geotechnical, and Geohazard Information Pursuant to 30 CFR Part 585"",
+      ""related_domains"": [
+        ""geophysical survey"",
+        ""geotechnical investigation"",
+        ""geohazard assessment"",
+        ""site characterization""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",59,"gemini","gemini-2.5-pro",False,"```json
+{
+  """
+"16",60,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",61,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""40"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide report(s) that present the methods used, results of, and conclusions reached by any numerical modeling performed."",
+      ""scope"": ""Presentation of results for proposed activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""numerical modeling"",
+        ""technical reporting"",
+        ""impact assessment""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",62,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",63,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""42"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe any research and/or monitoring activities you propose to undertake for construction and/or operations, as part of your COP proposal."",
+      ""scope"": ""Construction and Operations phases, as part of the Construction and Operations Plan (COP) proposal."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""COP § 585.627(a)(3)"",
+      ""related_domains"": [
+        ""environmental monitoring"",
+        ""biological resources"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Environmental"","
+"16",64,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",65,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""CONSTRUCTION AND OPERATIONS PLAN (COP) 30 CFR 585.627(b)(4) Threatened and Endangered Species*"",
+    ""document_number"": ""44"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide reports and associated data in the format requested by BOEM and outlined in the Guidelines for Providing Information on Marine Mammals and Sea Turtles for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585 Subpart F, the Guidelines for Providing Information on Fisheries Survey for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585, and/or other relevant guidance provided by"
+"16",66,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""45"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If information for Biological Resources, Threatened and Endangered Species, and Sensitive Biological Resources and Habitats is combined into an integrated section, protected species must be clearly indicated."",
+      ""scope"": ""Documentation and reporting on biological resources."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""species protection"",
+        ""documentation standards""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",67,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",68,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",69,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",70,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",71,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""CONSTRUCTION AND OPERATIONS PLAN (COP) Archaeological Resources"",
+    ""document_number"": ""30 CFR 585.627(a)(6)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Provide detailed information regarding the nature and location of historic properties to assist BOEM in reviewing your COP under NEPA and Section 106 of the National Historic Preservation Act (36 CFR part 800)."",
+      ""scope"": ""Construction Phase COP Submittal"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(6); NEPA; Section 106 of the National Historic Preservation Act (36 CFR part 800)"",
+      ""related_domains"": [
+        ""archaeological assessment"",
+        ""cultural heritage"",
+        ""permitting"",
+        ""environmental impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide a detailed description of the methods and results of surveys conducted to identify historic properties that may be affected within the geographic area or areas of your activities"
+"16",72,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",73,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""CONSTRUCTION AND OPERATIONS PLAN (COP) Archaeological Resources"",
+    ""document_number"": ""30 CFR 585.627(a)(6)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""On tribal lands, the historic property identification survey(s) should be conducted in a manner acceptable to the affected tribe."",
+      ""scope"": ""Historic property identification surveys on tribal lands during the"
+"16",74,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""50"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Construction and Operations Plan (COP) must include information on proposed anchoring locations (or radius of potential anchoring locations) and a detailed description of all ground tackle and mooring methods for construction and operation."",
+      ""scope"": ""Construction and Operations Plan (COP) for construction and operation phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(6)"",
+      ""related_domains"": [
+        ""archaeological resources"",
+        ""seafloor impact assessment"",
+        ""construction planning"",
+        ""operations planning""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",75,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    """
+"16",76,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",77,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",78,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""54"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe environmental protection measures that are proposed that are designed to minimize adverse effects on other coastal and marine uses."",
+      ""scope"": ""Construction Phase of the Construction and Operations Plan (COP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(8)"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""environmental protection"",
+        ""marine spatial planning"",
+        ""coastal use planning""
+      ]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Provide an integrated map(s) and descriptions of extant coastal and marine use patterns defined by intensity and seasonality in your project area."",
+      ""scope"": ""Construction Phase of the Construction and Operations Plan (COP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(8)"",
+      ""related_domains"": [
+        ""marine spatial planning"",
+        ""environmental impact assessment"",
+        ""cartography"",
+        ""coastal use planning""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",79,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",80,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",81,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""59"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Include desktop analysis for the fisheries resources that occur in the subsequent area in accordance with 30 CFR 585.626(a)(3)."",
+      ""scope"": ""Site characterization data for subsequent phases of development in a lease area."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(a)(3)"",
+      ""related_domains"": [
+        ""fisheries"",
+        ""site characterization"",
+        ""environmental impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Include known sensitive benthic sites and essential fish habitat in accordance with 30 CFR 585.627(a); provide information on known sites potentially sensitive to impacts from the proposed phase development and essential fish habitat for the subsequent area."",
+      ""scope"": ""Site characterization data for subsequent phases of development in a lease area."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)"",
+      ""related_domains"": [
+        ""benthic habitats"",
+        ""fisheries"",
+        ""site characterization"",
+        ""environmental impact assessment""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"16",82,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Conduct the [historic property identification] survey in a manner acceptable to the affected State Historic Preservation Office (SHPO)."",
+      ""scope"": ""The onshore viewshed as defined by the currently proposed activities and all potential future phases of development."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""State Historic Preservation Office (SHPO)"",
+      ""related_domains"": [
+        ""cultural resources"",
+        ""historic preservation"",
+        ""visual impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide data from desktop studies on offshore activities and hazard identification in accordance with 30 CFR 585.626 and 627."",
+      ""scope"": ""Subsequent area of development for offshore activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626 and 627"",
+      ""related_domains"": [
+        ""hazard identification"",
+        ""site assessment"",
+        ""environmental impact assessment""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""State Historic Preservation Office (SHPO)"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"16",83,"gemini","gemini-2.5-pro",False,"```json
+{{
+  ""document_metadata"": {{
+    ""title"": null,
+    ""document_number"": ""60"",
+    ""type_of_wind_farm"": ""Offshore""
+  }},
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {{
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Provides guidelines for renewable energy activities.""
+    }}
+  ]
+}}
+```"
+"16",84,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""61"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""There may be civil and criminal penalties associated with causing damage to existing telecommunications cables."",
+      ""scope"": ""BOEM-issued renewable energy lease areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""47 U.S.C. §§ 21-33"",
+      ""related_domains"": [
+        ""telecommunications infrastructure"",
+        ""legal compliance"",
+        ""project planning"",
+        ""construction""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority and regulatory oversight for renewable energy leases.""
+    },
+    {
+      ""entity_name"": ""Federal Communications Commission"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight of telecommunications infrastructure protection.""
+    },
+    {
+      ""entity_name"": ""North American Submarine Cable Association (NASCA)"",
+      ""jurisdiction"": ""North American"",
+      ""role"": ""Industry coordination and information provider for submarine cables.""
+    }
+  ]
+}
+```"
+"16",85,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"16",86,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"16",87,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""63"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""ICPC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"

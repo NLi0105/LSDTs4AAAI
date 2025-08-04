@@ -1,0 +1,612 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"35",1,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analysis of the provided document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Federal Register"",
+    ""document_number"": ""Vol. 89, No. 204"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Establishment of safety zones for non-mineral energy resource permanent or temporary structures located on the OCS for the purpose of protecting life and property on the facilities, appurtenances and attending vessels, and on the adjacent waters within the safety zone"",
+      ""scope"": ""Offshore facilities and adjacent waters"",
+      ""source"": ""14 U.S.C. 544, 43 U.S.C. 1333, and Department of Homeland Security (DHS) Delegation No. 00170.1, Revision No. 01.3"",
+      ""related_domains"": [""Safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Proposing and enforcing the safety zone regulations""
+    },
+    {
+      ""entity_name"": ""Department of Homeland Security (DHS)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Delegating authority to the Coast Guard""
+    }
+  ]
+}"
+"35",2,"claude","claude-3-haiku-20240307",True,"{
+  ""document_metadata"": {
+    ""title"": ""Proposed Rule for Temporary Safety Zones Around Offshore Wind Farm Construction"",
+    ""document_number"": ""N/A"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Establish 55 temporary 500-meter safety zones around the construction of 54 wind turbine generators (WTGs) and one offshore substation (OSS) on the Outer Continental Shelf (OCS)"",
+      ""scope"": ""Construction of 54 WTGs and 1 OSS"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""District Commander"",
+      ""related_domains"": [""Safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""District Commander"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Proposing the establishment of temporary safety zones""
+    },
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Enforcing the safety zones and issuing notices to mariners""
+    }
+  ]
+}"
+"35",3,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OCS–A 0512, Offshore New York and New Jersey, Atlantic Ocean"",
+    ""document_number"": ""Docket Number USCG–2024–0704"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Coast Guard proposes to establish 55 temporary safety zones around the construction of each facility during the development of the Empire Wind 1 Wind Farm project area within federal waters on the Outer Continental Shelf."",
+      ""scope"": ""Empire Wind 1 Wind Farm project area, Outer Continental Shelf, Lease OCS–A 0512, offshore New York and New Jersey, Atlantic Ocean"",
+      ""numerical_value"": 55,
+      ""unit"": ""number of safety zones"",
+      ""source"": ""Coast Guard, Department of Homeland Security"",
+      ""related_domains"": ""Safety""
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""When enforced, only attending vessels and vessels with authorization are permitted to enter or remain in the temporary safety zones."",
+      ""scope"": ""Temporary safety zones around the construction of each facility in the Empire Wind 1 Wind Farm project area"",
+      ""source"": ""Coast Guard, Department of Homeland Security"",
+      ""related_domains"": ""Safety""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Establish and enforce safety zones for the Empire Wind 1 Wind Farm project""
+    },
+    {
+      ""entity_name"": ""Department of Homeland Security"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Oversee the Coast Guard's regulation of the Empire Wind 1 Wind Farm project""
+    }
+  ]
+}"
+"35",4,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Notice of Proposed Rulemaking"",
+    ""document_number"": ""USCG–2024–0704"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""You may submit comments identified by docket number USCG–2024–0704 using the Federal Decision-Making Portal at www.regulations.gov."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""source"": ""Notice of Proposed Rulemaking"",
+      ""related_domains"": ""Regulatory compliance""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Coast Guard First District"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Waterways management and providing further information on the proposed rulemaking""
+    },
+    {
+      ""entity_name"": ""Department of Homeland Security (DHS)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Oversight of the Coast Guard""
+    }
+  ]
+}"
+"35",5,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Empire Wind 1 (EW1) Offshore Wind Farm Project"",
+    ""document_number"": ""N/A"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Establishment of 55 temporary safety zones through rulemaking to ensure the safety of life, property, and the environment during the extremely complex offshore construction of the OCS facilities"",
+      ""scope"": ""Portion of the BOEM Renewable Energy Lease Area OCS–A 0512, approximately 12 nautical miles (NM) offshore south of Long Island, New York (NY), and 17 NM offshore east of Long Branch, New Jersey (NJ)"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""First Coast Guard District Commander"",
+      ""related_domains"": [""Safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Notification of construction plans and establishment of temporary safety zones""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Oversight of the Renewable Energy Lease Area OCS–A 0512""
+    }
+  ]
+}"
+"35",6,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any clear regulatory constraints or entities related to offshore wind farm planning, construction, and operation. The document appears to be a table listing proposed ""Safety Zones"" using an ""Alpha-Numeric Naming Convention"" and ""Facility Type"", but does not provide any specific regulatory requirements or details about the governing authorities. 
+
+Since the document does not contain the necessary information to extract the requested data, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""List of Proposed Safety Zones Using Unique Alpha-Numeric Naming Convention, Facility Type, and"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+Without any clear regulatory information present in the provided document, I am unable to populate the ""regulatory_constraints"" and ""regulatory_entities"" sections of the output. Please let me know if you have any other documents that contain the necessary information for me to analyze."
+"35",7,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there does not appear to be any explicit regulatory information or constraints related to offshore wind farm planning, construction, and operation. The document appears to contain only coordinate data for various locations, likely representing the positions of wind turbines or other offshore wind farm infrastructure. There are no clear references to regulatory entities, requirements, or standards. Therefore, the structured output would be as follows:
+
+{
+  ""document_metadata"": {
+    ""title"": ""LATITUDE AND LONGITUDE"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+Since the provided document does not contain any explicit regulatory information, there are no regulatory constraints or entities to extract and include in the structured output."
+"35",8,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Federal Register / Vol. 89, No. 204 / Tuesday, October 22, 2024 / Proposed Rules"",
+    ""document_number"": ""84318"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Establishment of 55 proposed safety zones around commercial shipping vessels and fishing areas"",
+      ""scope"": ""Approaches to New York and New Jersey"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""Federal Register"",
+      ""related_domains"": [""Safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Establishing and enforcing the proposed safety zones""
+    }
+  ]
+}
+
+The analyzed document proposes the establishment of 55 safety zones around commercial shipping vessels and fishing areas in the approaches to New York and New Jersey. The safety zones would have a radius of 500 meters. The U.S. Coast Guard is the regulatory entity responsible for establishing and enforcing these proposed safety zones."
+"35",9,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Regulatory Analysis for Proposed Rule"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""This proposed rule is consistent with the fundamental federalism principles and preemption requirements described in Executive Order 13132."",
+      ""scope"": ""States and the relationship between the National Government and the States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Executive Order 13132 (Federalism)"",
+      ""related_domains"": ""Jurisdictional""
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""This proposed rule does not have Tribal implications under Executive Order 13175 (Consultation and Coordination with Indian Tribal Governments) because it would not have a substantial direct effect on one or more Indian tribes, on the relationship between the Federal Government and Indian tribes, or on the distribution of power and responsibilities between the Federal Government and Indian tribes."",
+      ""scope"": ""Indian tribes and the relationship between the Federal Government and Indian tribes"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Executive Order 13175 (Consultation and Coordination with Indian Tribal Governments)"",
+      ""related_domains"": ""Jurisdictional""
+    },
+    {
+      ""type"": ""Unfunded Mandates"",
+      ""requirement"": ""The Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1531–1538) requires Federal agencies to assess the effects of their discretionary regulatory actions. In particular, the Act addresses actions that may result in the expenditure by a State, local, or Tribal government, in the aggregate, or by the private sector of $100,000,000 (adjusted for inflation) or more in any one year."",
+      ""scope"": ""State, local, or Tribal government, and the private sector"",
+      ""numerical_value"": 100000000,
+      ""unit"": ""USD"",
+      ""source"": ""Unfunded Mandates Reform Act of 1995"",
+      ""related_domains"": ""Jurisdictional, Financial""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Homeland Security"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Compliance with National Environmental Policy""
+    }
+  ]
+}"
+"35",10,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there is no information directly related to offshore wind farm planning, construction, or operation. The document appears to be discussing the establishment of a safety zone around vessels, cruise ships, tugs, and recreational vessels. It does not contain any regulatory information specific to wind farms. Therefore, the output is:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"35",11,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Executive Orders 12866 and 13563"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The safety zones established would extend to a maximum distance of 500-meters around the OCS facility measured from its center point."",
+      ""scope"": ""Offshore wind farm facilities"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""33 CFR 147.15"",
+      ""related_domains"": [""Safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Office of Management and Budget (OMB)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Review of significant regulatory actions""
+    },
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Establishing safety zones around offshore facilities""
+    }
+  ]
+}"
+"35",12,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Farm Safety Zones"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels would only be prohibited from the regulated zone during periods of actual construction activity in correspondence to the period of enforcement."",
+      ""scope"": ""Offshore wind farm construction sites"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coast Guard certification under 5 U.S.C. 605(b)"",
+      ""related_domains"": [""Safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels would be able to request deviation from this rule to transit through a safety zone. Such requests would be considered on a case by-case basis and may be authorized by the First Coast Guard District Commander or a designated representative."",
+      ""scope"": ""Offshore wind farm safety zones"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coast Guard certification under 5 U.S.C. 605(b)"",
+      ""related_domains"": [""Safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Certifies economic impact and enforces safety zones""
+    },
+    {
+      ""entity_name"": ""First Coast Guard District Commander"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Authorizes deviations from safety zone rules""
+    }
+  ]
+}"
+"35",13,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OCS–A 0512, Offshore New York and New Jersey, Atlantic Ocean"",
+    ""document_number"": ""84321"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The area within 500-meters of the center point of the positions provided in the table below is an individual safety zone."",
+      ""scope"": ""Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OCS–A 0512, Offshore New York and New Jersey, Atlantic Ocean"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""33 CFR 147.T01–0704"",
+      ""related_domains"": ""Safety""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Proposing the amendment to 33 CFR part 147""
+    },
+    {
+      ""entity_name"": ""Department of Homeland Security"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Providing delegation of authority to the Coast Guard""
+    }
+  ]
+}"
+"35",14,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Act of 1969 (42 U.S.C. 4321–4370f)"",
+    ""document_number"": ""42 U.S.C. 4321–4370f"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Establishment of a safety zone around an OCS facility to protect life, property, and the marine environment"",
+      ""scope"": ""OCS facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Paragraph L60(a) of appendix A, table 1 of DHS Instruction Manual 023–01–001–01, Rev. 1"",
+      ""related_domains"": [""Safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Enforcement of safety zones around OCS facilities""
+    },
+    {
+      ""entity_name"": ""Department of Homeland Security (DHS)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Issuing instruction manual for categorical exclusions""
+    }
+  ]
+}"
+"35",15,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there is no specific information related to regulatory entities or regulatory constraints for offshore wind farm planning, construction, and operation. The document appears to be a general guidance on how to submit comments for a rulemaking process, but does not contain any technical or regulatory details about wind farm development. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Guidance on Submitting Comments"",
+    ""document_number"": ""USCG–2024–0704"",
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document does not contain any information that can be extracted into the requested structured format. It is a general procedural document about the public comment process, and does not discuss any specific regulations or requirements for offshore wind farm projects."
+"35",16,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there does not appear to be any explicit regulatory information or constraints. The document appears to be a table of coordinates for various wind turbine generator (WTG) and offshore substation (OSS) locations, without any accompanying regulatory text.
+
+Therefore, the structured output would be as follows:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Untitled"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document does not contain any information about regulatory entities or specific regulatory constraints for offshore wind farm planning, construction, or operation. The provided data seems to be purely technical in nature, without any regulatory context."
+"35",17,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any specific regulatory information related to offshore wind farm planning, construction, or operation. The document appears to be a generic header for a Federal Register entry, but does not include the actual regulatory content.
+
+Without the full regulatory document, I am unable to extract the requested information about regulatory entities and constraints. If you are able to provide the complete regulatory document, I would be happy to analyze it and provide the structured output as requested. Please let me know if you can share the full document for analysis."
+"35",18,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any explicit regulatory information or constraints related to offshore wind farm planning, construction, and operation. The document appears to be a table of coordinates for wind turbine generator (WTG) locations, but does not mention any regulatory entities or specific requirements.
+
+Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Untitled"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+This document does not seem to contain the type of regulatory information that the expert system is designed to extract. Without any explicit regulatory content, there is no data to populate the requested JSON structure."
+"35",19,"claude","claude-3-haiku-20240307",False,"Based on the provided document, here is the structured output:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Air Plan Approval; WA; Excess Emissions, Startup, Shutdown, and Malfunction Revisions, Energy Facility Site Evaluation Council"",
+    ""document_number"": ""EPA–R10–OAR–2024–0372; FRL–12293–01–R10"",
+    ""type_of_wind_farm"": ""Offshore or Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Environmental Protection Agency (EPA) is proposing to approve Washington State Implementation Plan (SIP) revisions to the Energy Facility Site Evaluation Council (EFSEC) air quality regulations submitted by the State of Washington, through the Department of Ecology (Ecology) on June 15, 2023."",
+      ""scope"": ""Washington State"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA"",
+      ""related_domains"": ""Air quality""
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The revisions were submitted in response to EPA's June 12, 2015 'SIP call' in which the EPA found a substantially inadequate Washington SIP provision providing affirmative defenses that operate to limit the jurisdiction of the Federal court in an enforcement action related to excess emissions during startup, shutdown, and malfunction (SSM) events."",
+      ""scope"": ""Washington State"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA"",
+      ""related_domains"": ""Air quality, Enforcement""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority, Enforcement""
+    },
+    {
+      ""entity_name"": ""Energy Facility Site Evaluation Council (EFSEC)"",
+      ""jurisdiction"": ""Washington State"",
+      ""role"": ""Regulatory authority""
+    },
+    {
+      ""entity_name"": ""Washington Department of Ecology (Ecology)"",
+      ""jurisdiction"": ""Washington State"",
+      ""role"": ""Regulatory authority, Submission of SIP revisions""
+    }
+  ]
+}"
+"35",20,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Offshore Wind Farm Construction, First Coast Guard District"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""No vessel may enter or remain in this safety zone except for the following: (1) An attending vessel as defined in 33 CFR 147.20; (2) A vessel authorized by the First Coast Guard District Commander or a designated representative."",
+      ""scope"": ""Offshore wind farm construction area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""First Coast Guard District Commander"",
+      ""related_domains"": [""Safety""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Persons or vessels seeking to enter the safety zone must request authorization from the First Coast Guard District Commander or a designated representative."",
+      ""scope"": ""Offshore wind farm construction area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""First Coast Guard District Commander"",
+      ""related_domains"": [""Jurisdictional""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If permission is granted, all persons and vessels must comply with lawful instructions of the First Coast Guard District Commander or designated representative via VHF–FM channel 16 or by phone at 866–842–1560 (First Coast Guard District Command Center)."",
+      ""scope"": ""Offshore wind farm construction area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""First Coast Guard District Commander"",
+      ""related_domains"": [""Safety""]
+    },
+    {
+      ""type"": ""Temporal"",
+      ""requirement"": ""This section will be effective from March 1, 2025, through 11:59 p.m. on February 29, 2028. But it will only be enforced during active construction or other instances which may cause a hazard to navigation deemed necessary by the First Coast Guard District Commander."",
+      ""scope"": ""Offshore wind farm construction area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""First Coast Guard District Commander"",
+      ""related_domains"": [""Temporal""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""First Coast Guard District Commander"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Enforcement and authorization of safety zones""
+    },
+    {
+      ""entity_name"": ""Coast Guard Patrol Commander"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Enforcement of safety zones""
+    },
+    {
+      ""entity_name"": ""Federal, State, and local officers"",
+      ""jurisdiction"": ""Federal, State, and Local"",
+      ""role"": ""Enforcement of safety zones""
+    }
+  ]
+}"
+"35",21,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Notice to Mariners"",
+    ""document_number"": ""FR Doc. 2024–24393"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Mariners must monitor marine channel 16 (VHF–FM) and respond to an emergency as soon as practicable."",
+      ""scope"": ""Offshore wind farm project area"",
+      ""source"": ""U.S. Coast Guard"",
+      ""related_domains"": [""Safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If the project is completed before February 29, 2028, enforcement of the safety zones will be suspended, and notice given via Local Notice to Mariners."",
+      ""scope"": ""Offshore wind farm project area"",
+      ""source"": ""U.S. Coast Guard"",
+      ""related_domains"": [""Safety""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Violations of this section may be processed in accordance with 33 CFR 140.40 on civil and criminal penalty proceedings."",
+      ""scope"": ""Offshore wind farm project area"",
+      ""source"": ""U.S. Coast Guard"",
+      ""related_domains"": [""Jurisdictional""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Enforcement and regulation of offshore wind farm safety zones""
+    },
+    {
+      ""entity_name"": ""First Coast Guard District"",
+      ""jurisdiction"": ""Regional"",
+      ""role"": ""Issuing Local Notice to Mariners""
+    }
+  ]
+}"

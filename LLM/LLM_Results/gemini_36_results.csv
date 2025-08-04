@@ -1,0 +1,524 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+36,1,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0512, Offshore New York and New Jersey, Atlantic Ocean"",
+    ""document_number"": ""USCG-2024-0704, Page 1 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""only attending vessels and vessels with authorization are permitted to enter or remain in the temporary safety zones"",
+      ""scope"": ""55 temporary safety zones around the construction of each facility during the development of the Empire Wind 1 Wind Farm project area within federal waters on the Outer Continental Shelf, specifically in the Bureau of Ocean Energy Management Renewable Energy Lease Area OCS-A 0512, approximately 12 nautical miles south of Long Island, NY"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG-2024-0704"",
+      ""related_domains"": [""navigation safety"", ""construction safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety zone establishment and enforcement""
+    }
+  ]
+}
+```"
+36,2,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OC..."",
+    ""document_number"": ""USCG-2024-0704"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Regulations establishing or increasing the size of Regulated Navigation Areas and security or safety zones."",
+      ""scope"": ""Empire Wind 1 Wind Farm project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""L60(a)*"",
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Regulations establishing or increasing the size of Regulated Navigation Areas and security or safety zones."",
+      ""scope"": ""Empire Wind 1 Wind Farm project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""L60(a)*"",
+      ""related_domains"": [""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG - U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety zone regulation""
+    }
+  ]
+}
+```"
+36,3,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OC..."",
+    ""document_number"": ""2 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any change to the Proposed Action that may cause a physical interaction with the human environment will require re-evaluation for compliance with NEPA and other EP&HP requirements before the action can proceed."",
+      ""scope"": ""Any change to the Proposed Action"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DHS Directive 023-01"",
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+36,4,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,5,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,6,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""establishment of 55 temporary safety zones [...] within a 500-meter radius of each of the 55 facilities during their construction"",
+      ""scope"": ""Construction phase, 55 offshore facilities"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""First Coast Guard District Commander"",
+      ""related_domains"": [""safety"", ""navigation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""First Coast Guard District Commander"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety zone establishment and enforcement""
+    }
+  ]
+}
+```"
+36,7,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OC..."",
+    ""document_number"": ""Page 4 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety Zone Enforcement""
+    }
+  ]
+}
+```"
+36,8,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,9,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OC..."",
+    ""document_number"": ""Page 5 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety Zone Enforcement""
+    }
+  ]
+}
+```"
+36,10,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,11,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OC..."",
+    ""document_number"": ""Page 6 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety Zone Enforcement""
+    }
+  ]
+}
+```"
+36,12,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,13,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OC..."",
+    ""document_number"": ""Page 7 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""establishment of a safety zone around an OCS facility to protect life, property, and the marine environment"",
+      ""scope"": ""Outer Continental Shelf (OCS) facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG-2024-0704"",
+      ""related_domains"": [""navigational safety"", ""safety zone"", ""marine environment protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety zone establishment""
+    }
+  ]
+}
+```"
+36,14,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""establishment of 55 temporary safety zones [...] within a 500-meter radius of each of the 55 facilities during their construction"",
+      ""scope"": ""55 offshore facilities during construction"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""First Coast Guard District Commander"",
+      ""related_domains"": [""safety"", ""navigation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""First Coast Guard District Commander"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety zone establishment and enforcement""
+    }
+  ]
+}
+```"
+36,15,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OC..."",
+    ""document_number"": ""Page 8 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety Zone Enforcement""
+    }
+  ]
+}
+```"
+36,16,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,17,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OC..."",
+    ""document_number"": ""Page 9 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety Zone Enforcement""
+    }
+  ]
+}
+```"
+36,18,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,19,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OC..."",
+    ""document_number"": ""Page 10 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety Zone Enforcement""
+    }
+  ]
+}
+```"
+36,20,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,21,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OC..."",
+    ""document_number"": ""Page 11 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety Zone Enforcement""
+    }
+  ]
+}
+```"
+36,22,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,23,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,24,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any change to the Proposed Action that may cause a physical interaction with the human environment will require re-evaluation for compliance with NEPA and other EP&HP requirements before the action can proceed."",
+      ""scope"": ""Any change to the proposed action"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DHS Directive 023-01"",
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Categorical Exclusion determination""
+    },
+    {
+      ""entity_name"": ""Department of Homeland Security (DHS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental policy and regulations (DHS Directive 023-01, DHS Instruction 023-01-001-01)""
+    }
+  ]
+}
+```"
+36,25,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OCS-A 0512"",
+    ""document_number"": ""Pages 15-18 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG (United States Coast Guard)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Safety Zone Enforcement/Establishment""
+    }
+  ]
+}
+```"
+36,26,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 19 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No efef ct if outside critical habitat. Within critical habitat, applicant consult NOAA NMFS."",
+      ""scope"": ""Coastal waters; Sea Turtles (Green, Kemp’s ridley, Loggerhead, Leatherback)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""sea turtle protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No efef ct but if sighted reduce speed and pause work"",
+      ""scope"": ""Coastal waters; Sea Turtles (Green, Kemp’s ridley, Loggerhead, Leatherback)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""sea turtle protection"", ""construction impact mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No efef ct if outside critical habitat. Within critical habitat, applicant consult NOAA NMFS."",
+      ""scope"": ""Coastal waters; Whales (Fin, Humpback, NARW, Sei, Sperm)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No efef ct but if sighted reduce speed and pause work"",
+      ""scope"": ""Coastal waters; Whales (Fin, Humpback, NARW, Sei, Sperm)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""construction impact mitigation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, Consultation agency""
+    },
+    {
+      ""entity_name"": ""USCG (United States Coast Guard)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety Zone establishment"" 
+    },
+    {
+      ""entity_name"": ""United States Department of the Interior, Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+36,27,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies are required to utilize their authorities to carry out programs for the conservation of threatened and endangered species and to determine whether projects may affect threatened and endangered species and/or designated critical habitat."",
+      ""scope"": ""Projects that may affect threatened and endangered species and/or designated critical habitat"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (Act) of 1973, as amended (16 U.S.C. 1531 et seq. ) sections 7(a)(1) and 7(a)(2)"",
+      ""related_domains"": [""environmental impact assessment"", ""species conservation"", ""habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A Biological Assessment is required for construction projects (or other undertakings having similar physical impacts) that are major Federal actions significantly affecting the quality of the human environment."",
+      ""scope"": ""Construction projects (or similar undertakings) that are major Federal actions significantly affecting the human environment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Environmental Policy Act (42 U.S.C. 4332(2)(c))"",
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The accuracy of this species list should be verified after 90 days."",
+      ""scope"": ""Species list verification"",
+      ""numerical_value"": 90,
+      ""unit"": ""days"",
+      ""source"": ""50 CFR 402.12(e)"",
+      ""related_domains"": [""environmental impact assessment"", ""species conservation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+36,28,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,29,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""USCG-2024-0704"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any activity, intentional or unintentional, resulting in take of migratory birds, including eagles, is prohibited unless otherwise permitted by the U.S. Fish & Wildlife Service"",
+      ""scope"": ""Migratory birds and eagles within the project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Migratory Bird Treaty Act (MBTA) (50 C.F.R. Sec. 10.12 and 16 U.S.C. Sec. 668(a)) and Bald and Golden Eagle Protection Act (BGEPA)"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If a Federal agency determines, based on the Biological Assessment or biological evaluation, that listed species and/or designated critical habitat may be affected by the proposed project, the agency is required to consult with the Service"",
+      ""scope"": ""Listed species and designated critical habitat"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 402"",
+      ""related_domains"": [""environmental impact assessment"", ""endangered species protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Fish & Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    }
+  ]
+}
+```"
+36,30,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+36,31,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""USCG-2024-0704, Page 24 of 28, Page 25 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""YOU ARE STILL REQUIRED TO DETERMINE IF YOUR PROJECT(S) MAY HAVE EFFECTS ON ALL ABOVE LISTED SPECIES."",
+      ""scope"": ""Empire Wind 1 Wind Farm Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG-2024-0704"",
+      ""related_domains"": [""environmental impact assessment"", ""avian protection"", ""endangered species""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries (National Marine Fisheries Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""USFWS (U.S. Fish and Wildlife Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+36,32,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND

@@ -1,0 +1,2063 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"31",1,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",2,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",3,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",4,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",5,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 1 – Pg. 1"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Property tax reassessment of wind project sites in California is triggered under California Proposition 13, both at the commencement and again at the end of the lease term, if the lease term runs 35 years or more (including extension options)."",
+      ""scope"": ""Wind project sites in California"",
+      ""numerical_value"": 35,
+      ""unit"": ""years"",
+      ""source"": ""California Proposition 13"",
+      ""related_domains"": [
+        ""property tax"",
+        ""land agreements"",
+        ""legal compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",6,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",7,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",8,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",9,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",10,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 1 – Pg. 4"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""this arrangement will not violate applicable permitting requirements"",
+      ""scope"": ""Land agreements for wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""applicable permitting requirements"",
+      ""related_domains"": [
+        ""permitting compliance"",
+        ""legal compliance"",
+        ""land use planning""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""this arrangement will not violate... other local land use laws"",
+      ""scope"": ""Land agreements for wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""local land use laws"",
+      ""related_domains"": [
+        ""land use planning"",
+        ""legal compliance""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""the leased premises be a legally created parcel"",
+      ""scope"": ""Leased premises for wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,"
+"31",11,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",12,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 1 – Pg. 5"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""project permits or applicable zoning impose setback requirements"",
+      ""scope"": ""Landowner's property included in the project's \""footprint\"" for onshore wind energy projects."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""project permits, applicable zoning"",
+      ""related_domains"": [
+        ""land use planning"",
+        ""spatial planning"",
+        ""zoning"",
+        ""permitting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",13,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",14,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",15,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""wind leases, options, and easements are void if no development occurs within five years of the commencement of the interest"",
+      ""scope"": ""North Dakota"",
+      ""numerical_value"": 5,
+      ""unit"": ""years"",
+      ""source"": ""N.D. Cent. Code § 17-04-01, -03 & -05"",
+      ""related_domains"": [
+        ""legal compliance"",
+        ""project development"",
+        ""land use planning""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""term of a wind easement or lease may not exceed 50 years"",
+      ""scope"":"
+"31",16,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 1 – Pg. 7"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""strict timelines that must be met to keep the Wind Energy Land Agreement in effect"",
+      ""scope"": ""certain states, particularly in the Midwest"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""state statutes"",
+      ""related_domains"": [
+        ""legal compliance"",
+        ""project development"",
+        ""land use planning""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""development of the project must commence or commercial operations must begin within specified time periods"",
+      ""scope"": ""depending on the state"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""state statutes"",
+      ""related_domains"": [
+        ""project development"",
+        ""commercial operations"",
+        ""legal compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""States"",
+      ""jurisdiction"": ""USA - State Level"",
+      ""role"": ""Legislative and Regulatory Authority""
+    }
+  ]
+}
+```"
+"31",17,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",18,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",19,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Where the agreement is an option, most if not all states’ law requires separate consideration to make the option binding. The amount of consideration to make an option binding can be minimal, but it must be actually paid to have the binding effect. Mere recitals that adequate consideration has been paid may not bind the parties where the recital is untrue."",
+      ""scope"": ""States within the USA (specifically regarding wind energy land agreements structured as options)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""States' law (e.g., Oregon Revised Statutes § 42.300)"",
+      ""related_domains"": [
+        ""contract law"",
+        ""legal compliance"",
+        ""land agreements"",
+        ""project development""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""State Legislatures"",
+      ""jurisdiction"": ""Individual US States"",
+      ""role"": ""Lawmaking body responsible for contract and property law""
+    }
+  ]
+}
+```"
+"31",20,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",21,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",22,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 1 – Pg. 10"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""restrictions or reporting requirements relating to foreign ownership of certain types of land."",
+      ""scope"": ""Land ownership for wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""land ownership"",
+        ""foreign investment""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",23,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",24,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 1 – Pg. 11"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Wind leases must be for not more than 50 years and require annual payments."",
+      ""scope"": ""Wind leases in Kansas"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""Kan. Rev. Stat. § 58-2272"",
+      ""related_domains"": [
+        ""property law"",
+        ""contractual agreements"",
+        ""land rights""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",25,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 1 – Pg. 12"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""rights would need to be set out in the conveyance instrument with clarity and in detail, and in compliance with applicable law."",
+      ""scope"": ""Conveyance instruments for wind rights"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""applicable law; applicable statutory requirements"",
+      ""related_domains"": [
+        ""legal compliance"",
+        ""contractual agreements"",
+        ""property rights""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",26,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",27,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",28,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",29,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",30,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",31,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",32,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",33,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 1 – Pg. 16"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""statutory limits on the length of time before a particular project reaches commencement of construction or before development is commenced"",
+      ""scope"": ""States (e.g., North Dakota, South Dakota) for wind and solar projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""States (e.g., North Dakota, South Dakota)"",
+      ""related_domains"": [
+        ""project development"",
+        ""legal compliance"",
+        ""permitting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",34,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",35,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",36,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",37,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",38,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The specific entity doing business and issuing the actual title policies in a particular state or country must be an entity specific to and authorized to issue insurance in that jurisdiction."",
+      ""scope"": ""A particular state or country"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Implicit regulatory requirement for insurance issuance"",
+      ""related_domains"": [
+        ""legal compliance"",
+        ""insurance regulation"",
+        ""project finance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",39,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",40,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",41,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 2 – Pg. 3"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A state with promulgated rates will not permit an underwriter or its agents to adjust rates unless formally approved by the state regulatory body."",
+      ""scope"": ""States with promulgated title insurance rate structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""State law, usually under the authority of that state’s insurance commissioner"",
+      ""related_domains"": [
+        ""financial regulation"",
+        ""title insurance"",
+        ""project development costs""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""State Insurance Commissioner"",
+      ""jurisdiction"": ""State-level (USA)"",
+      ""role"": ""Controls title insurance rate structures; Approves adjustments to promulgated rates.""
+    },
+    {
+      ""entity_name"": ""State regulatory body"",
+      ""jurisdiction"": ""State-level (USA)"",
+      ""role"": ""Formal approval authority for adjustments to promulgated title insurance rates.""
+    }
+  ]
+}
+```"
+"31",42,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",43,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",44,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",45,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",46,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",47,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",48,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",49,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",50,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",51,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",52,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",53,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",54,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",55,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",56,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",57,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 2 – Pg. 11"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A stand-alone option to lease must be exercised and the lease must be in effect before title insurance coverage is available."",
+      ""scope"": ""Project state / specific jurisdictions for project site interests"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Jurisdictional laws/regulations governing title insurance"",
+      ""related_domains"": [
+        ""land rights"",
+        ""title insurance"",
+        ""project financing"",
+        ""legal compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",58,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",59,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",60,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",61,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",62,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",63,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",64,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",65,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",66,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",67,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section I"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {"
+"31",68,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",69,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""D. Comparative Advantages."",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""mandatory minimum threshold for state jurisdiction (150 MW)"",
+      ""scope"": ""State jurisdiction for energy facilities"",
+      ""numerical_value"": 150,
+      ""unit"": ""MW"",
+      ""source"": ""state law"",
+      ""related_domains"": [
+        ""jurisdiction"",
+        ""project planning"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""all energy facilities proposed in agricultural areas must be allowed, subject to a conditional use permit, with criteria defined by state law."",
+      ""scope"": ""Energy facilities in agricultural areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""state law"",
+      ""related_domains"": [
+        ""land use planning"",
+        ""permitting"",
+        ""spatial planning""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""state agency or board"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""Review and approval of site certificates""
+    },
+    {
+      ""entity_name"": ""local authorities"",
+      ""jurisdiction"": ""Local"",
+      ""role"": ""Siting and permitting of energy facilities""
+    }
+  ]
+}
+```"
+"31",70,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 3 – Pg. 2"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""To secure a conditional use permit, an applicant must show that the project will be compatible with adjacent land uses (typically farming or ranching)."",
+      ""scope"": ""Wind power projects seeking conditional use permits in rural land use zones within US counties."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      """
+"31",71,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",72,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",73,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 3 – Pg. 4"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Financial"",
+      ""requirement"": ""new payment and bonding requirements for wind energy development rights-of-way."",
+      ""scope"": ""wind energy development rights-of-way on public lands administered by the Bureau of Land Management (BLM)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""81 Fed. Reg. 92,122 (Dec. 19, 2016) (BLM final rule)"",
+      ""related_domains"": [
+        ""financial requirements"",
+        ""land use"",
+        ""permitting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Land Management (BLM)"",
+      ""jurisdiction"": ""Federal - USA (11 western states)"",
+      ""role"": ""Permitting authority; Policy setting body; Leasing authority""
+    },
+    {
+      ""entity_name"": ""Forest Service"",
+      ""jurisdiction"": ""Federal - USA (National Forest System lands)"",
+      ""role"": ""Permitting authority; Guidance issuing body""
+    }
+  ]
+}
+```"
+"31",74,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Forest Service Handbook 2709.11, Chapter 70, Section IV.A"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Forest Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"31",75,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",76,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,"
+"31",77,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",78,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",79,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 3 – Pg. 7"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Lights on the turbines are typically required by the Federal Aviation Administration (FAA) and the Department of Defense (DOD)."",
+      ""scope"": ""Wind turbines (for aviation and defense purposes)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal Aviation Administration (FAA), Department of Defense (DOD)"",
+      ""related_domains"": ["
+"31",80,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",81,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",82,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",83,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 3 – Pg. 9"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""In Oregon, the noise statutes do not expressly allow an applicant to simply get permission from a nearby resident to exceed the maximum statutory noise limits (such as through a noise easement)."",
+      ""scope"": ""Oregon, for wind farm projects located near residences"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Oregon noise statutes"",
+      ""related_domains"": [
+        ""noise regulation"",
+        ""land use"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Noise modeling and ambient baseline noise monitoring may be required as part of the permitting process."",
+      ""scope"": ""Wind farm permitting process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""permitting process"",
+      ""related_domains"": [
+        ""noise assessment"",
+        ""environmental impact assessment"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""avian baseline data will be required and, if so, whether two or more years of baseline data will be required as part of the permit application."",
+      ""scope"": ""Wind farm permit application"",
+      ""numerical_value"": 2,
+      ""unit"": ""years"",
+      ""source"": ""permit application"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""avian protection"",
+        ""permitting""
+      ]
+    },
+    {
+      """
+"31",84,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",85,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",86,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",87,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",88,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",89,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section B.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Energy (DOE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Promotes offshore wind industry growth; involved in strategy development, innovation, and demonstration initiatives related to offshore wind energy.""
+    },
+    {
+      ""entity_name"": ""Department of the Interior (DOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Collaborates on offshore wind development; aims to enhance its regulatory program by reducing burdens on regulated stakeholders; implied role in siting and permitting.""
+    }
+  ]
+}
+```"
+"31",90,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 4 – Pg. 3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Ocean Council"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Policy implementation and coordination body for ocean management, including facilitating offshore wind development through advancing mapping technology, data access, and improving permitting processes.""
+    },
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Federal agency involved in establishing national offshore wind energy targets and strategies.""
+    },
+    {
+      ""entity_name"": ""U.S. Department of Energy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Federal agency involved in establishing national offshore wind energy targets and strategies.""
+    },
+    {
+      ""entity_name"": ""U.S. Department of Commerce"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Federal agency involved in establishing national offshore wind energy targets.""
+    }
+  ]
+}
+```"
+"31",91,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of the Interior (DOI)"",
+      ""jurisdiction"": ""Federal - USA"","
+"31",92,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",93,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",94,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",95,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""satisfying the document-intensive procedural requirements of the National Environmental Policy Act (“NEPA”), 42 U.S.C. § 4321, et seq."",
+      ""scope"": ""activities on federal lands"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Environmental Policy Act (NEPA), 42 U.S.C. § 4321, et seq."",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""permitting procedures""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Bureau of Land Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Regulatory oversight""
+    }
+  ]
+}
+```"
+"31",96,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 5 – Pg. 1"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight and goal setting for renewable energy projects on public lands""
+    },
+    {
+      ""entity_name"": ""Bureau of Land Management (BLM)"",
+      ""jurisdiction"": ""Federal - USA (Public Lands in Western United States)"",
+      ""role"": ""Permitting authority for wind energy development; Environmental impact assessment; Policy setting""
+    }
+  ]
+}
+```"
+"31",97,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Secretary of the Interior is directed to permit at least 25 gigawatts of renewable energy on public lands no later than 2025."",
+      ""scope"": ""Public lands in the USA, for renewable energy projects."",
+      ""numerical_value"": 25,
+      ""unit"": ""gigawatts"",
+      ""source"": ""2020 Energy Policy Act (43 U.S.C. ch. 48)"",
+      ""related_domains"": [
+        ""energy policy"",
+        ""permitting"",
+        ""renewable energy development""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"
+"31",98,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",99,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",100,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 5 – Pg. 3"",
+    ""type_of_wind_farm"": ""Onshore""
+  }},
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Analysis (“EA”) to determine whether the proposed agency action would significantly affect the quality of the human environment."",
+      ""scope"": ""Federal agency actions (e.g., land use authorizations for private development on federal land, including wind farm related projects)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""42 U.S.C. § 4332 (C)"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""regulatory compliance""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Issuance of short-term rights-of-way or land use authorizations for uses such as storage sites, apiary sites, and construction sites must be 3 years or less."",
+      ""scope"": ""Short-term rights-of-way or land use authorizations on federal land."",
+      ""numerical_value"": 3,
+      ""unit"": ""years"",
+      ""source"": ""BLM NEPA Handbook, H-1790-1,"
+"31",101,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",102,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",103,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",104,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {"
+"31",105,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",106,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 5 – Pg. 7"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Land Management (BLM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Facilitates cooperation and streamlines siting and permitting processes for commercial wind projects on federal lands.""
+    },
+    {
+      ""entity_name"": ""Oregon Department of Energy"",
+      ""jurisdiction"": ""State - Oregon, USA"",
+      ""role"": ""Facilitates cooperation and streamlines siting and permitting processes for commercial wind projects in Oregon.""
+    },
+    {
+      ""entity_name"": ""Tribal Governments"",
+      ""jurisdiction"": ""Tribal Lands - USA"",
+      ""role"": ""Develop and enforce Tribal Laws related to land use and wind energy development; act as landowners for wind energy land agreements.""
+    }
+  ]
+}
+```"
+"31",107,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",108,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 6 – Pg. 1"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Under NEPA, the BIA must prepare an environmental impact statement before approving a lease of tribal land or taking other action, unless a categorical exclusion applies because the BIA’s action is of a type that will not have significant environmental impact, individually or cumulatively, or the BIA concludes after preparing an environmental assessment that its action will not have a significant impact on the environment."",
+      ""scope"": ""Lease approval and project development on tribal land"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Environmental Policy Act (“NEPA”)"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Under section 106 of the NHPA, the BIA must take into account impacts of its actions on any property, including traditional cultural properties, listed on or eligible for listing on the National Register of Historic Places and must consult with tribes and other interested parties on measures to avoid, minimize, and mitigate any adverse impacts of its action on such properties."",
+      ""scope"": ""Project development on tribal land impacting historic properties"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Historic Preservation Act (“NHPA”), section 106"",
+      ""related_domains"": [
+        ""cultural heritage protection"",
+        ""consultation"",
+        ""impact mitigation""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Section 7 of the ESA"
+"31",109,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",110,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",111,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",112,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",113,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 7 – Pg. 1"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""State laws may restrict direct retail sales of energy."",
+      ""scope"": ""Direct retail sales of energy from wind projects within states."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""State laws"",
+      ""related_domains"": [
+        ""energy sales"",
+        ""market regulation"",
+        ""legal compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",114,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""only regulated utilities can sell electricity to the end-user"",
+      ""scope"": ""most states"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""laws of most states"",
+      ""related_domains"": [
+        ""electricity sales"",
+        ""market regulation"",
+        ""utility regulation""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""legal restrictions that may prevent an end-use customer from directly purchasing renewable energy"",
+      ""scope"": ""State-level jurisdictions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""legal restrictions"",
+      ""related_domains"": [
+        ""electricity sales"",
+        ""corporate procurement"",
+        ""market regulation""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",115,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",116,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",117,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",118,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",119,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",120,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""public utility commission"",
+      ""jurisdiction"": ""State/Regional - USA"",
+      ""role"": ""Regulatory oversight of utility contracts and rates""
+    }
+  ]
+}
+```"
+"31",121,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",122,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",123,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Independent System Operators (ISOs)/Regional Transmission Organizations (RTOs)"",
+      ""jurisdiction"": ""Regional"",
+      ""role"": ""Energy Market Operator; Transmission System Operator; Price Setting Authority (Locational Marginal Price - LMP)""
+    }
+  ]
+}
+```"
+"31",124,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",125,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",126,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",127,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",128,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",129,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",130,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 7 – Pg. 10"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Independent System Operator (ISO)"",
+      ""jurisdiction"": ""Organized markets"",
+      ""role"": ""Manages generation dispatch; Market operator""
+    }
+  ]
+}
+```"
+"31",131,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",132,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",133,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",134,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",135,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",136,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",137,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",138,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",139,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",140,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",141,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",142,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",143,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",144,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",145,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",146,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",147,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",148,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",149,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 8 – Pg. 5"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""start of construction to commence... once any necessary state regulatory approvals have been obtained"",
+      ""scope"": ""Wind project construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""State regulatory bodies (implied by 'state regulatory approvals')"",
+      ""related_domains"": [
+        ""permitting"",
+        ""project development"",
+        ""construction commencement""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""State regulatory bodies"",
+      ""jurisdiction"": ""State-level (USA, implied)"",
+      ""role"": ""Approval authority; Permitting authority""
+    }
+  ]
+}
+```"
+"31",150,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",151,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",152,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",153,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",154,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",155,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""VII."",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""the existing infrastructure including towers or foundations must have sufficient structural integrity to support the load profile of the new equipment."",
+      ""scope"": ""Existing wind farm infrastructure (towers, foundations) undergoing repowering."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""structural integrity"",
+        ""repowering"",
+        ""technical assessment"",
+        ""safety""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",156,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 8 – Pg. 9"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""a repowered project will have to ensure that it does not exceed the performance criteria set out in the interconnection agreement with the grid operator."",
+      ""scope"": ""Repowered wind projects; grid interconnection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""interconnection agreement with the grid operator"",
+      ""related_domains"": [
+        ""grid integration"",
+        ""electrical systems"",
+        ""operational parameters"",
+        ""interconnection agreements""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In the event a repowered project is expected to exceed the grid operator’s operational parameters, the project developer may be obligated to perform additional interconnection studies at its own expense."",
+      ""scope"": ""Repowered wind projects; grid interconnection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""grid operator"",
+      ""related_domains"": [
+        ""grid integration"",
+        ""electrical systems"",
+        ""operational parameters"",
+        ""interconnection studies"",
+        ""financial implications"
+"31",157,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Compliance with the Jones Act regarding the use of U.S.-flagged carriers for marine logistics, including delivery and staging operations, for offshore wind projects."",
+      ""scope"": ""Offshore wind projects in the United States, specifically marine logistics, delivery, and staging operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Jones Act (implicitly referenced by 'Jones Act U.S.-flagged carrier issues')"",
+      ""related_domains"": [
+        ""marine logistics"",
+        ""shipping"",
+        ""legal compliance"",
+        ""supply chain""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",158,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",159,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",160,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",161,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",162,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""new winter weatherization requirements for all power generators"",
+      ""scope"": ""all power generators in Texas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Public Utility Commission of Texas (pursuant to Senate Bill 3, passed by the Texas legislature)"",
+      ""related_domains"": [
+        ""operational resilience"",
+        ""grid stability"",
+        ""power generation""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Public Utility Commission of Texas"",
+      ""jurisdiction"": ""Texas"",
+      ""role"": ""Standard setting body; Market oversight""
+    }
+  ]
+}
+```"
+"31",163,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 9 – Pg. 3"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Reliability Council of Texas or ERCOT"",
+      ""jurisdiction"": ""Texas, USA"",
+      ""role"": ""Grid reliability oversight; Electricity market operator""
+    }
+  ]
+}
+```"
+"31",164,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",165,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",166,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",167,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",168,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 9 – Pg. 6"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Production Tax Credit (PTC) for wind projects will be reduced to zero if construction begins after December 31, 2020."",
+      ""scope"": ""Wind projects in the United States (for PTC eligibility)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Internal Revenue Service (IRS)"",
+      ""related_domains"": [
+        ""tax incentives"",
+        ""project finance"",
+        ""project development timeline""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Internal Revenue Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Determines eligibility for and value of Production Tax Credit (PTC) for wind projects.""
+    }
+  ]
+}
+```"
+"31",169,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",170,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",171,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",172,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",173,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",174,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",175,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",176,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 9 – Pg. 10"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The PTC for projects that began construction in 2017 is 80 percent of its nominal value."",
+      ""scope"": ""Projects that began construction in 2017"",
+      ""numerical_value"": 80.0,
+      ""unit"": ""percent"",
+      ""source"": ""Implied US tax law/regulation (referenced by STOEL RIVES LLP)"",
+      ""related_domains"": [
+        ""project finance"",
+        ""tax incentives"",
+        ""construction planning""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The PTC for projects that began construction in 2018 is 60 percent of its nominal value."",
+      ""scope"": ""Projects that began construction in 20"
+"31",177,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",178,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",179,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",180,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",181,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",182,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",183,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",184,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",185,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",186,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",187,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",188,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",189,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",190,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",191,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",192,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Sections E-G, II"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Internal Revenue Service (IRS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Tax regulation""
+    }
+  ]
+}
+```"
+"31",193,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",194,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",195,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",196,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 10 – Pg. 5"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_"
+"31",197,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",198,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",199,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 10 – Pg. 7"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""State revenue authority"",
+      ""jurisdiction"": ""State-level in various western US states (e.g., Oregon, Washington)"",
+      ""role"": ""Determines the taxable value of property for central assessment purposes for companies producing electricity.""
+    }
+  ]
+}
+```"
+"31",200,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",201,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",202,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",203,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",204,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",205,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",206,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",207,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section D, E, and III"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Property rights, permits, and contracts related to a wind"
+"31",208,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 11 – Pg. 3"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Transfers of assets that have become subject to the jurisdiction of the Federal Energy Regulatory Commission (FERC) under the Federal Power Act may trigger a requirement to obtain the approval of FERC, under section 203 of the Act, for the transfer."",
+      ""scope"": ""Assets subject to FERC jurisdiction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal Power Act, section 203"",
+      ""related_domains"": [
+        ""asset management"",
+        ""regulatory compliance"",
+        ""corporate transactions""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Energy Regulatory Commission (FERC)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Approval authority for asset transfers; Regulatory oversight""
+    }
+  ]
+}
+```"
+"31",209,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",210,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",211,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",212,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",213,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",214,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""THE LAW OF WIND —Regulatory and Transmission-Related Issues—"",
+    ""document_number"": ""Chapter Thirteen, Pg. 3"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Wind generation companies selling wholesale power are subject to the Federal Energy Regulatory Commission’s (“FERC”) rate regulation under Part II of the Federal Power Act (“FPA”)."",
+      ""scope"": ""Wind generation companies selling wholesale power"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Part II of the Federal Power Act (“FPA”)"",
+      ""related_domains"": [
+        ""market regulation"",
+        ""energy sales"",
+        ""regulatory compliance""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind generation companies selling wholesale power are subject to FERC’s electric reliability rules."",
+      ""scope"": ""Wind generation companies"
+"31",215,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",216,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",217,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",218,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""FERC’s prior approval may be required before the developer disposes of FERC-jurisdictional facilities, subject to certain value thresholds."",
+      ""scope"": ""Wind developers, FERC-jurisdictional facilities, asset disposition"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FERC"",
+      ""related_domains"": [
+        ""asset disposition"",
+        ""corporate restructuring"",
+        ""regulatory compliance""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""FERC may require updates to the market-based rate filing, EWG application, and/or QF certification in connection with changes in the material facts on which FERC relied in granting such status."",
+      ""scope"": ""Wind developers, market-based rate status, EWG application, QF certification"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FERC"",
+      ""related_domains"": [
+        ""regulatory compliance"",
+        ""licensing"",
+        ""certification""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""FERC notice or approval may be required when certain directors or officers hold similar positions in related affiliates."",
+      ""scope"": ""Wind developers, corporate governance, interlocking directorates"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FERC"",
+      ""related_domains"": [
+        ""corporate governance"",
+        ""regulatory compliance"",
+        ""conflict of interest""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""FERC"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority; Approvals for power sales, asset disposition, status updates; Oversight of corporate governance""
+    }
+  ]
+}
+```"
+"31",219,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 13 – Pg. 3"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""wind project developers must negotiate agreements to interconnect with the transmission system of the applicable transmission provider."",
+      ""scope"": ""Wind project developers"",
+      ""numerical_value"": null,
+      ""unit"":"
+"31",220,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",221,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 13 – Pg. 4"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Transmission providers are required by FERC to offer transmission service on an open, nonpreferential basis pursuant to a transmission tariff that will govern the terms by which such service is provided."",
+      ""scope"": ""Transmission providers; Grid interconnection; Project output delivery"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FERC"",
+      ""related_domains"": [
+        ""grid interconnection"",
+        ""market access"",
+        ""transmission service"",
+        ""regulatory compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""FERC"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority; Oversight of transmission service; Standard setting body""
+    },
+    {
+      ""entity_name"": ""ISOs"",
+      ""jurisdiction"": ""Regional - USA"",
+      ""role"": ""Grid operator; Market administrator; Transmission system management""
+    }
+  ]
+}
+```"
+"31",222,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Financial"",
+      ""requirement"": ""generators pay the greater of the incremental costs or embedded costs associated with requested transmission service."",
+      ""scope"": ""Generators (including wind projects) seeking transmission service in the United States."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FERC’s general transmission pricing policy"",
+      ""related_domains"": [
+        ""financial regulation"",
+        ""grid connection"",
+        ""transmission planning""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""FERC"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight; Jurisdiction over transmission services under sections 205 and 206 of the FPA""
+    },
+    {
+      ""entity_name"": ""Regional Transmission Organization (RTO)"",
+      ""jurisdiction"": ""Regional - USA"",
+      ""role"": ""Transmission provider""
+    },
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""Regional - USA"",
+      ""role"": ""Transmission provider""
+    }
+  ]
+}
+```"
+"31",223,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 13 – Pg. 5"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Energy Regulatory Commission (FERC)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Qualified NERC as the ERO; oversees reliability standards for the power industry.""
+    },
+    {
+      ""entity_name"": ""National Electric Reliability Corporation (NERC)"",
+      ""jurisdiction"": ""Continent-wide (North America)"",
+      ""role"": ""Electric Reliability Organization (ERO) responsible for proposing and enforcing mandatory reliability standards for the power industry; monitors and improves reliability and security of the bulk electric system; assesses fines for noncompliance.""
+    },
+    {
+      ""entity_name"": ""Regional Entities (delegated by NERC)"",
+      ""jurisdiction"": ""Region-specific (within NERC's continent-wide scope)"",
+      ""role"": ""Monitor and enforce reliability standards delegated by NERC; may enforce region-specific reliability standards; maintain a Compliance Registry.""
+    }
+  ]
+}
+```"
+"31",224,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""THE LAW OF WIND"",
+    ""document_number"": ""Ch. 13 – Pg. 6"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""NERC requires that certain generator owners and operators register with the Compliance Registry."",
+      ""scope"": ""Generator owners and operators (specifically those meeting minimum requirements, potentially aggregated facilities sharing interconnection facilities)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NERC"",
+      ""related_domains"": [
+        ""registration"",
+        ""compliance"",
+        ""grid reliability""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Industry participants must take appropriate steps to determine whether they should register with the appropriate regional entity, to understand each function, and to implement a comprehensive program that will track and ensure compliance."",
+      ""scope"": ""Industry participants (specifically generator owners/operators subject to NERC standards)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NERC mandatory reliability standards"","
+"31",225,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Energy Regulatory Commission (FERC)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    }
+  ]
+}
+```"
+"31",226,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Finding the Appropriate Forum: State and Federal Courts, Regulatory Agencies, and ADR."",
+    ""document_number"": ""Ch. 14 – Pg. 1"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""FERC"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight of the energy sector; Forum for administrative litigation""
+    },
+    {
+      ""entity_name"": ""State utilities commissions"",
+      ""jurisdiction"": ""State-level - USA"",
+      ""role"": ""Regulatory oversight of the energy sector; Forum for administrative litigation""
+    }
+  ]
+}
+```"
+"31",227,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",228,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 14 – Pg. 2"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"":"
+"31",229,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 14 – Pg. 3"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Washington Supreme Court"",
+      ""jurisdiction"": ""Washington State - USA"",
+      ""role"": ""Judicial oversight""
+    },
+    {
+      ""entity_name"": ""State Energy Facility Site Evaluation Council"",
+      ""jurisdiction"": ""Washington State - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Kittitas County Commission"",
+      ""jurisdiction"": ""Kittitas County, Washington - USA"",
+      ""role"": ""Local governmental body""
+    }
+  ]
+}
+```"
+"31",230,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",231,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",232,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The ESA, the Bald and Golden Eagle Protection Act (“BGEPA”), and the Migratory Bird Treaty Act (“MBTA”) all prohibit injuring or killing particular species."",
+      ""scope"": ""Ongoing operations of wind power projects; applies to particular species (e.g., birds and bats)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""The ESA, the Bald and Golden Eagle Protection Act (“BGEPA”), and the Migratory Bird Treaty Act (“MBTA”)"",
+      ""related_domains"": [
+        ""wildlife protection"",
+        ""environmental impact assessment"",
+        ""operational compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",233,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",234,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Prohibition against 'taking' endangered Indiana bats."",
+      ""scope"": ""Wind energy project construction and operation, specifically concerning endangered Indiana bats."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (ESA)"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""wildlife protection"",
+        ""endangered species protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"31",235,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",236,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",237,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",238,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",239,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",240,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",241,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",242,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",243,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",244,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 14 – Pg. 11"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""FERC"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory jurisdiction over energy transmission and sales; issues declaratory judgments (e.g., regarding REC ownership).""
+    },
+    {
+      ""entity_name"": ""State utility commissions"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Regulatory jurisdiction over energy transmission and sales; make determinations regarding REC ownership.""
+    },
+    {
+      ""entity_name"": ""Other state agencies"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Regulatory jurisdiction over energy transmission and sales.""
+    }
+  ]
+}
+```"
+"31",245,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",246,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 15 – Pg. 1"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""It is necessary to check both the federal law and the law of each state in which the fundraising or trading activity will occur."",
+      ""scope"": ""Fundraising or trading activity related to securities for wind industry participants in the United States."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal and State securities laws"",
+      ""related_domains"": [
+        ""financial regulation"",
+        ""legal compliance"",
+        ""project financing""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Federal securities laws are applied principally to regulate transactions in the United States and its territories or transactions to which U.S. citizens or residents are a party."",
+      ""scope"": ""Transactions involving U.S. citizens/residents or occurring in the United States and its territories."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal securities laws"",
+      ""related_domains"": [
+        ""financial regulation"",
+        ""legal compliance"",
+        ""international transactions"
+"31",247,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",248,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",249,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",250,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",251,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",252,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",253,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",254,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",255,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",256,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",257,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",258,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",259,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",260,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",261,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",262,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",263,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",264,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",265,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",266,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",267,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",268,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",269,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",270,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",271,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",272,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Companies (both private and public) and individuals are prohibited from paying or promising to pay foreign officials anything of value with the corrupt intent of obtaining or retaining business."",
+      ""scope"": ""International wind energy companies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FCPA’s anti-bribery provisions"",
+      ""related_domains"": [
+        ""corporate compliance"",
+        ""anti-corruption"",
+        ""business ethics"",
+        ""international law""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Companies must implement various internal accounting controls and recordkeeping practices aimed at preventing and detecting illegal bribery of foreign officials."",
+      ""scope"": ""International wind energy companies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FCPA’s accounting and recordkeeping provisions"",
+      ""related_domains"": [
+        ""corporate compliance"",
+        ""financial reporting"",
+        ""internal controls"",
+        ""anti-corruption""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Justice (DOJ)"",
+      ""jurisdiction"": """
+"31",273,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",274,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",275,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",276,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",277,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",278,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",279,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 16 – Pg. 7"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The FCPA prohibits corrupt payments through intermediaries."",
+      ""scope"": ""Wind energy companies operating internationally (under"
+"31",280,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",281,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",282,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",283,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",284,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",285,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",286,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",287,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",288,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",289,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",290,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",291,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Ch. 16 – Pg. 14"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Energy Regulatory Commission"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    },
+    {
+      ""entity_name"": ""State Public Utility Commissions"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Regulatory oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Department of Justice, Environment & Natural Resources Division"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight"""
+"31",292,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",293,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",294,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3"","
+"31",295,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",296,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",297,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",298,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""California State Water Resources Control Board"",
+      ""jurisdiction"": ""California - USA"",
+      ""role"": ""Environmental oversight, Permitting authority""
+    }
+  ]
+}
+```"
+"31",299,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",300,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"31",301,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",302,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Idaho Energy Resources Authority"",
+      ""jurisdiction"": ""State of Idaho"",
+      ""role"": ""Financing authority for the construction of electric generation and transmission projects, including certain renewable energy projects, through the issuance of revenue bonds.""
+    }
+  ]
+}
+```"
+"31",303,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""California Public Utilities Commission"",
+      ""jurisdiction"": ""California - USA"",
+      ""role"": ""Regulatory authority for energy utilities and generation projects, including renewable generation""
+    },
+    {
+      ""entity_name"": ""California Energy Commission"",
+      ""jurisdiction"": ""California - USA"",
+      ""role"": ""Energy policy and planning; Siting and permitting authority for power plants, including renewable generation""
+    },
+    {
+      ""entity_name"": ""California Independent System Operator"",
+      ""jurisdiction"": ""California - USA"",
+      ""role"": ""Electricity grid operator; Manages wholesale electricity market and transmission, impacting renewable generation integration""
+    }
+  ]
+}
+```"
+"31",304,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""11"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Energy Regulatory Commission"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight; Dispute resolution; Market regulation""
+    },
+    {
+      ""entity_name"": ""ISO/RTO"",
+      ""jurisdiction"": ""Regional - USA"",
+      ""role"": ""Electricity market operation; Transmission system management; Interconnection facilitation""
+    }
+  ]
+}
+```"
+"31",305,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",306,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",307,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",308,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""14"",
+    ""type_of_wind_farm"": ""Onshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Minnesota Public Utilities Commission"",
+      ""jurisdiction"": ""Minnesota - USA"",
+      ""role"": ""Regulatory body overseeing energy matters, including regulatory issues and proceedings affecting ratepayers, and potentially interconnection agreements for energy projects.""
+    }
+  ]
+}
+```"
+"31",309,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",310,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"31",311,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"

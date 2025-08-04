@@ -1,0 +1,125 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"1","openai","gpt-4o-mini",113745,113396,1,1,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Energy Policy 171 (2022) 113248"",
+    ""project_name"": ""Offshore Wind Projects"",
+    ""project_location"": ""United Kingdom, Germany, Denmark, Taiwan""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Offshore Wind Power (OWP)"",
+      ""component_acronym"": ""OWP"",
+      ""description"": ""Renewable energy generated from wind turbines located in marine environments."",
+      ""source_section_number"": ""1""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The UK aims to achieve 40 GW of offshore wind installed capacity by 2030."",
+      ""value"": 40,
+      ""unit"": ""GW"",
+      ""source_section_number"": ""4.1"",
+      ""geographic_scope"": ""United Kingdom"",
+      ""context_quote"": ""It is expected to reach 40 GW of offshore wind installed by 2030.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Germany has set a target of 20 GW offshore wind capacity by 2030."",
+      ""value"": 20,
+      ""unit"": ""GW"",
+      ""source_section_number"": ""4.2"",
+      ""geographic_scope"": ""Germany"",
+      ""context_quote"": ""Germany defined an offshore wind capacity target of 20 GW by 2030.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Denmark aims for 55% of electricity consumption to come from offshore wind by 2030."",
+      ""value"": 55,
+      ""unit"": ""%"",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Denmark"",
+      ""context_quote"": ""At the same time, energy from offshore wind turbines must contribute to 55%.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Taiwan plans to achieve 8.7 GW of offshore wind capacity by 2027."",
+      ""value"": 8.7,
+      ""unit"": ""GW"",
+      ""source_section_number"": ""4.4"",
+      ""geographic_scope"": ""Taiwan"",
+      ""context_quote"": ""Taiwan will have 8.7 GW of offshore wind capacity by 2027.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Environmental Impact Assessments (EIA) are required for offshore wind projects."",
+      ""source_section_number"": ""4.1.1"",
+      ""geographic_scope"": ""United Kingdom"",
+      ""context_quote"": ""For large offshore wind projects, an EIA is required, unless the relevant authority grants an exemption.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Environmental studies must consider the adverse impacts of offshore wind projects."",
+      ""source_section_number"": ""5.2"",
+      ""geographic_scope"": ""New Markets"",
+      ""context_quote"": ""The development of the Environmental Impact Studies should consider the adversity of the environmental impacts.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""The Crown Estate (TCE)"",
+      ""entity_acronym"": ""TCE"",
+      ""jurisdiction"": ""United Kingdom"",
+      ""role_description"": ""Manages rights to generate electricity from offshore wind in England, Wales, and Northern Ireland."",
+      ""source_section_number"": ""4.1.1""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""Crown Estate Scotland (CES)"",
+      ""entity_acronym"": ""CES"",
+      ""jurisdiction"": ""Scotland"",
+      ""role_description"": ""Manages seabed rights for offshore wind development in Scotland."",
+      ""source_section_number"": ""4.1.1""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Federal Maritime and Hydrographic Agency (BSH)"",
+      ""entity_acronym"": ""BSH"",
+      ""jurisdiction"": ""Germany"",
+      ""role_description"": ""Regulates offshore wind farms in the German Economic Exclusive Zone."",
+      ""source_section_number"": ""4.2.1""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""Danish Energy Agency (DEA)"",
+      ""entity_acronym"": ""DEA"",
+      ""jurisdiction"": ""Denmark"",
+      ""role_description"": ""Coordinates the rights to exploit energy from wind in Danish waters."",
+      ""source_section_number"": ""4.3.1""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""Bureau of Energy (BoE)"",
+      ""entity_acronym"": ""BoE"",
+      ""jurisdiction"": ""Taiwan"",
+      ""role_description"": ""Sets policies for electricity businesses and issues regulations for offshore wind."",
+      ""source_section_number"": ""4.4.1""
+    }
+  ]
+}
+```"

@@ -1,0 +1,85 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"38",1,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Information Needs to Assess Essential Fish Habitat Impacts from Offshore Wind Energy Projects Along the U.S. Atlantic"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The MSA requires federal agencies to consult with the Secretary of Commerce, through NMFS, with respect to “any action authorized, funded, or undertaken, or proposed to be authorized, funded, or undertaken, by such agency that may adversely affect any essential fish habitat identified under this Act,” 16 U.S.C. § 1855(b)(2)."","
+"38",2,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"38",3,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document"
+"38",4,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"38",5,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"38",6,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"38",7,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"38",8,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""March292021_NMFS_Habitat_Mapping_Recommendations.pdf"",
+    ""document_number"": ""2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Advisory body""
+    }
+  ]
+}
+```"
+"38",9,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"38",10,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"38",11,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"38",12,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"38",13,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"38",14,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"38",15,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"38",16,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"38",17,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"38",18,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""9-10"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""should not consider the extent of similar habitat adjacent to or outside the area of impact."",
+      ""scope"": ""Assessments of components and/or activities (e.g., wind farm related projects)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""habitat assessment""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Justify conclusions using the best available scientific information."",
+      ""scope"": ""Conclusions of assessments (e.g., environmental impact assessments)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""scientific methodology"",
+        ""data quality""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"

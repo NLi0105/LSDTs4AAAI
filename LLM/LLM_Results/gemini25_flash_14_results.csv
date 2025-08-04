@@ -1,0 +1,78 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"14",1,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",2,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"14",3,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",4,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"14",5,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",6,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"14",7,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""4"",
+    ""type_of"
+"14",8,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"14",9,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",10,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"14",11,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",12,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",13,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"14",14,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",15,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"14",16,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",17,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"14",18,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",19,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Reports must include identification of all vocalizing species, if possible, but especially species of interest; descriptions of monthly and/or seasonal presence of all species; any trends in vocalization patterns; spatial presence of species; ambient noise analysis."",
+      ""scope"": ""Passive-acoustic monitoring (PAM) data reporting for offshore wind projects."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM (implied by document context)"",
+      ""related_domains"": [
+        ""environmental monitoring"",
+        ""acoustic monitoring"",
+        ""species identification"",
+        ""data reporting"",
+        ""noise analysis""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; data management (recommends data archiving for PAM data)""
+    }
+  ]
+}
+```"
+"14",20,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",21,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",22,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"14",23,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"14",24,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""14-15"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Permitting authority""
+    }
+  ]
+}
+```"

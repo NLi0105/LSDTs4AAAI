@@ -1,0 +1,466 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+38,1,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Information Needs to Assess Essential Fish Habitat Impacts from Offshore Wind Energy Projects Along the U.S. Atlantic"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""federal agencies to consult with the Secretary of Commerce, through NMFS, with respect to “any action authorized, funded, or undertaken, or proposed to be authorized, funded, or undertaken, by such agency that may adversely affect any essential fish habitat identified under this Act"",
+      ""scope"": ""Offshore wind energy projects in NMFS’ Greater Atlantic Region (Maine - Virginia) and the Atlantic Coast portion of the Southeast Region (SER) (North Carolina to Florida)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act (MSA), 16 U.S.C. § 1855(b)(2)"",
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All federal agencies consult with us (and any state counterpart) whenever the waters of any stream or other body of water are proposed or authorized to be impounded, diverted, the channel deepened, or the stream or other body of water otherwise controlled or modified for any purpose by any federal agency."",
+      ""scope"": ""Offshore wind energy projects impacting bodies of water"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Fish and Wildlife Coordination Act (FWCA)"",
+      ""related_domains"": [""environmental impact assessment"", ""water resources""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS (National Marine Fisheries Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation on impacts to Essential Fish Habitat (EFH), federally managed species, and other resources under NMFS’ purview""
+    },
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation with NMFS regarding project impacts to EFH""
+    }
+  ]
+}
+```"
+38,2,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+38,3,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For any federal action that may adversely affect EFH, Federal agencies must provide NMFS with a written assessment of the effects of that action on EFH."",
+      ""scope"": ""Offshore wind project consultations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 600.920(e)"",
+      ""related_domains"": [""environmental impact assessment"", ""essential fish habitat""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS (National Marine Fisheries Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, EFH consultation""
+    },
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""EFH consultation, Guidance Development""
+    },
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Guidance Development""
+    }
+  ]
+}
+```"
+38,4,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+38,5,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Offshore wind projects have the potential to result in substantial adverse effects to EFH and warrant a correspondingly more detailed EFH assessment."",
+      ""scope"": ""Offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH Final Rule"",
+      ""related_domains"": [""environmental impact assessment"", ""essential fish habitat""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Offshore wind projects will require an expanded consultation"",
+      ""scope"": ""Offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""CFR 600.920(i) on page 40 of the EFH Final Rule"",
+      ""related_domains"": [""environmental impact assessment"", ""consultation process"", ""essential fish habitat""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Offshore wind projects will also require all elements of both the “Mandatory contents” and “Additional information,” described in the EFH Final Rule"",
+      ""scope"": ""Offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH Final Rule"",
+      ""related_domains"": [""environmental impact assessment"", ""essential fish habitat""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The assessment must contain: a. A description of the action. b. An analysis of the potential adverse effects of the action on EFH and the managed species. c. The Federal agency’s conclusions regarding the effects of the action on EFH. d. Proposed mitigation, if applicable."",
+      ""scope"": ""Offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH Final Rule"",
+      ""related_domains"": [""environmental impact assessment"", ""essential fish habitat""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Detailed maps showing the extent and types of habitats within the project area (offshore lease area and onshore cable corridors) must be provided."",
+      ""scope"": ""Offshore wind project area (offshore lease area and onshore cable corridors)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH Final Rule"",
+      ""related_domains"": [""environmental impact assessment"", ""habitat mapping"", ""essential fish habitat""]
+    }
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+38,6,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+38,7,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Recommendations for Mapping Fish Habitat [2]"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""NMFS Habitat staff should be consulted prior to the planning and initiation of acoustic and benthic surveys to ensure appropriate mapping methods, data analysis procedures, and habitat classification methods are used to support the EFH consultation."",
+      ""scope"": ""EFH consultation, acoustic and benthic surveys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS"",
+      ""related_domains"": [""environmental impact assessment"", ""habitat mapping"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Analysis of alternatives to the action should include alternatives that could avoid or minimize adverse effects on EFH."",
+      ""scope"": ""EFH assessment, project design alternatives"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations"",
+      ""related_domains"": [""environmental impact assessment"", ""alternatives analysis""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For the EFH assessment, impact analyses should be limited to the area of direct and indirect impacts of each project component and/or activity and should be assessed by habitat type."",
+      ""scope"": ""EFH assessment, impact analysis"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations"",
+      ""related_domains"": [""environmental impact assessment"", ""impact analysis""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The impact assessment should focus on and evaluate how specific project activities could affect specific habitat types (e.g., depths and substrate types) designated as EFH for managed fish and invertebrate species within the project area and what measures are [needed to mitigate impacts]."", 
+      ""scope"": ""EFH assessment, impact assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH regulations"",
+      ""related_domains"": [""environmental impact assessment"", ""habitat analysis"", ""fisheries management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, consultation on Essential Fish Habitat (EFH)""
+    }
+  ]
+}
+```"
+38,8,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+38,9,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The EFH assessment should consider the use of designated EFH by sensitive life history stages of managed fish and invertebrate species."",
+      ""scope"": ""Offshore wind farm project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Fisheries"",
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An evaluation of the degree of habitat vulnerability to specific project activities should be included."",
+      ""scope"": ""Offshore wind farm project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Fisheries"",
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment"", ""habitat vulnerability""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Special attention should be paid to any activities that could affect any Habitat Areas of Particular Concern (HAPCs) designated within the project area as well as habitats and life stages that may be more vulnerable to impacts from the project."",
+      ""scope"": ""Offshore wind farm project area, Habitat Areas of Particular Concern (HAPCs)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Fisheries"",
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment"", ""Habitat Areas of Particular Concern"", ""vulnerable habitats""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The EFH assessment should include an evaluation of impacts to both benthic and pelagic habitats and the species that use them."",
+      ""scope"": ""Offshore wind farm project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Fisheries"",
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment"", ""benthic habitat"", ""pelagic habitat""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An evaluation of pelagic habitat impacts should include an assessment of the project on the acoustic environment, existing hydrodynamics and primary productivity in the project area, and water quality, including any potential for disruption of contaminated material."",
+      ""scope"": ""Offshore wind farm project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Fisheries"",
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment"", ""acoustic environment"", ""hydrodynamics"", ""primary productivity"", ""water quality"", ""contaminated material""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Information sources used to support all analyses and conclusions should be cited with references to all scientific publications included in the bibliography."",
+      ""scope"": ""EFH Assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Fisheries"",
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment"", ""data management"", ""scientific publications""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The EFH assessment should be based on the best available scientific information."",
+      ""scope"": ""EFH Assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Fisheries"",
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment"", ""data quality""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+38,10,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+38,11,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Appendix A"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Detailed maps delineating habitat types within the project area (i.e. lease area and onshore cable corridor alternatives). The habitat maps should delineate soft sediment habitats, complex habitats, and benthic features, consistent with NMFS Recommendations for Mapping Fish Habitat."",
+      ""scope"": ""Lease area and onshore cable corridor alternatives"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Recommendations for Mapping Fish Habitat (https://media.fisheries.noaa.gov/2021 - 03/March292021 _ NMF S _ Habitat _ Mapping _ Recommendations.pdf?null)"",
+      ""related_domains"": [""environmental impact assessment"", ""habitat mapping"", ""benthic habitats""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Identify all HAPCs (e.g., summer flounder, inshore juvenile Atlantic cod, sandbar shark, etc.) in the project area and delineate areas consistent with the HAPC designations as appropriate."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS"",
+      ""related_domains"": [""environmental impact assessment"", ""habitat protection"", ""essential fish habitat""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Identify and map areas of sensitive habitats and habitat features (e.g., rocky habitats, structure-forming taxa, submerged aquatic vegetation, shellfish beds, etc.)."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS"",
+      ""related_domains"": [""environmental impact assessment"", ""habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Provide a detailed description of habitat mapping methodology, including explanations of how survey data were collected and analyzed, and how maps were developed with reference to NMFS Recommendations for Mapping Fish Habitat."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Recommendations for Mapping Fish Habitat"",
+      ""related_domains"": [""environmental impact assessment"", ""reporting"", ""habitat mapping""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Include a list of all designated EFH in the project area by species and life history stages, with brief summaries of the habitat requirements, seasonal occurrence, prey species, spawning behavior, etc (see EFH text descriptions and other relevant information sources)."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS (EFH descriptions)"",
+      ""related_domains"": [""environmental impact assessment"", ""essential fish habitat"", ""reporting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+38,12,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+38,13,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+38,14,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+38,15,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assessment of effects from sound pressure should be based upon the best available science to determine the appropriate thresholds to incorporate into the evaluation."",
+      ""scope"": ""Acoustic impacts during construction and operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic impact assessment"", ""marine fauna protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The assessment of effects from sound pressure should be based upon the best available science to determine the appropriate thresholds to incorporate into the evaluation. Currently, NOAA Fisheries considers the potential for behavioral disturbance with exposure to noise greater than 150 dB re 1 uPa rms and utilizes the FHWG (2008) [3] interim criteria for injury associated with impact pile driving. However, Popper et al. 2014 [4] ANSI guidelines are widely used and recognized as the best available science and we recommend including both sets of criteria for acoustic modeling."",
+      ""scope"": ""Acoustic impacts during construction and operation"",
+      ""numerical_value"": 150,
+      ""unit"": ""dB re 1 uPa rms"",
+      ""source"": ""NOAA Fisheries"",
+      ""related_domains"": [""acoustic impact assessment"", ""marine fauna protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+38,16,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+38,17,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For all identified adverse impacts to managed fish and invertebrate species EFH and their prey, detailed information on avoidance and minimization measures that will be employed should be provided."",
+      ""scope"": ""Impacts to Essential Fish Habitat (EFH)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""fisheries management"", ""benthic habitat""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The effectiveness of all proposed measures that will be included to avoid and minimize adverse impacts to specific habitat types, species or species groups, and prey species should be evaluated and assessed."",
+      ""scope"": ""Impacts to Essential Fish Habitat (EFH)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""fisheries management"", ""benthic habitat""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Any acoustic impact monitoring plan should include measures to ensure target attenuation levels are maintained during construction."",
+      ""scope"": ""Acoustic impacts during construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise pollution"", ""marine mammals"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A benthic monitoring plan should clearly demonstrate that scientifically robust data, capable of detecting changes in the community structure of benthic fauna and juvenile fish species, will be collected and evaluated."",
+      ""scope"": ""Benthic impacts"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""benthic habitat"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""In cases where a particular project component or activity is expected to have more than a minimal impact to a given habitat type, any proposed mitigation to offset such impacts should be fully described and presented."",
+      ""scope"": ""Impacts to Essential Fish Habitat (EFH)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""mitigation planning"", ""habitat restoration""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Explain how the proposed mitigation is expected to compensate for impacts to managed fish and invertebrate species EFH."",
+      ""scope"": ""Mitigation for impacts to EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""mitigation planning"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Justify conclusions using the best available scientific information."",
+      ""scope"": ""Environmental impact assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""scientific data""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+38,18,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND

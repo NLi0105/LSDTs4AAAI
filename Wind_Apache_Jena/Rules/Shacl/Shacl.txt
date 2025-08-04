@@ -1,0 +1,106 @@
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix Turbine: <http://www.cee.umd.edu/Energy/Turbine#>.
+@prefix WindFarm: <http://www.cee.umd.edu/Energy/WindFarm#>.
+@prefix MSP: <http://www.cee.umd.edu/Energy/MSP#>.
+@prefix SeaDepth: <http://www.cee.umd.edu/Energy/MSP/SeaDepth#>.
+@prefix Substation: <http://www.cee.umd.edu/Energy/Substation#>.
+@prefix ECC: <http://www.cee.umd.edu/Energy/MSP/ECC#>.
+@prefix Restricted: <http://www.cee.umd.edu/Energy/MSP/Restricted#>.
+@prefix WindLease: <http://www.cee.umd.edu/Energy/MSP/WindLease#>.
+@prefix EFH: <http://www.cee.umd.edu/Energy/MSP/EFH#>.
+@prefix WindSpeed: <http://www.cee.umd.edu/Energy/MSP/WindSpeed#>.
+@prefix Coral: <http://www.cee.umd.edu/Energy/MSP/Coral#>.
+@prefix Cable: <http://www.cee.umd.edu/Energy/MSP/Cable#>.
+@prefix Regulation: <http://www.cee.umd.edu/Energy/Regulation#>.
+
+# Turbine must have at least but only one position (geometry).
+Turbine:TurbineShape
+    a sh:NodeShape ;
+    sh:targetClass Turbine:Turbine ;
+    sh:property [
+        sh:path Turbine:hasGeometry ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] .
+
+# Aerodynamic AEP must be a double.
+Turbine:TurbineShape
+    a sh:NodeShape ;
+    sh:targetClass Turbine:Turbine ;
+    sh:property [
+        sh:path Turbine:hasAerodynamicAEP ;
+        sh:datatype xsd:double ;
+        sh:minCount 1 ;
+    ] .
+
+# Cut in wind speed must be a double.
+Turbine:TurbineShape
+    a sh:NodeShape ;
+    sh:targetClass Turbine:Turbine ;
+    sh:property [
+        sh:path Turbine:hasCutInWindSpeed ;
+        sh:datatype xsd:double ;
+        sh:minCount 1 ;
+    ] .
+
+# Cut out wind speed must be a double.
+Turbine:TurbineShape
+    a sh:NodeShape ;
+    sh:targetClass Turbine:Turbine ;
+    sh:property [
+        sh:path Turbine:hasCutOutWindSpeed ;
+        sh:datatype xsd:double ;
+        sh:minCount 1 ;
+    ] .
+
+# Rated wind speed must be a double.
+Turbine:TurbineShape
+    a sh:NodeShape ;
+    sh:targetClass Turbine:Turbine ;
+    sh:property [
+        sh:path Turbine:hasRatedWindSpeed ;
+        sh:datatype xsd:double ;
+        sh:minCount 1 ;
+    ] .
+# Minimum rotor speed must be a double.
+Turbine:TurbineShape
+    a sh:NodeShape ;
+    sh:targetClass Turbine:Turbine ;
+    sh:property [
+        sh:path Turbine:hasMinRotorSpeed ;
+        sh:datatype xsd:double ;
+        sh:minCount 1 ;
+    ] .
+
+# Maximum rotor wind speed must be a double.
+Turbine:TurbineShape
+    a sh:NodeShape ;
+    sh:targetClass Turbine:Turbine ;
+    sh:property [
+        sh:path Turbine:hasMaxRotorSpeed ;
+        sh:datatype xsd:double ;
+        sh:minCount 1 ;
+    ] .
+
+# Turbine status must be a string.
+Turbine:TurbineShape
+    a sh:NodeShape ;
+    sh:targetClass Turbine:Turbine ;
+    sh:property [
+        sh:path Turbine:hasTurbineStatus ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+    ] .
+
+
+# Wind farm must have at least but only one position (geometry).
+WindFarm:WindFarmShape
+    a sh:NodeShape ;
+    sh:targetClass WindFarm:WindFarm ;
+    sh:property [
+        sh:path WindFarm:hasGeometry ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+    ] .

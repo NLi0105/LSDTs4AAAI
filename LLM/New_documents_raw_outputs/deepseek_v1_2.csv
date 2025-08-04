@@ -1,0 +1,130 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"2","deepseek","deepseek-chat",617384,72968,48,25,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Joint BOEM/BSEE Final Rule on Renewable Energy and Alternate Uses of Existing Facilities on the Outer Continental Shelf"",
+    ""project_name"": ""Renewable Energy and Alternate Uses of Existing Facilities on the Outer Continental Shelf"",
+    ""project_location"": ""Outer Continental Shelf (OCS)""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Site Assessment Plan (SAP)"",
+      ""description"": ""Plan for conducting site assessment activities on a commercial lease."",
+      ""source_section_number"": ""585.600""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Construction and Operations Plan (COP)"",
+      ""description"": ""Plan for construction and operation of facilities for commercial operations on a commercial lease."",
+      ""source_section_number"": ""585.600""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""General Activities Plan (GAP)"",
+      ""description"": ""Plan for conducting activities on a limited lease, ROW grant, or RUE grant in any OCS area."",
+      ""source_section_number"": ""585.600""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Facility Design Report"",
+      ""description"": ""Report detailing the design of any facilities, including cables and pipelines."",
+      ""source_section_number"": ""285.701""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Fabrication and Installation Report"",
+      ""description"": ""Report describing how facilities will be fabricated and installed."",
+      ""source_section_number"": ""285.702""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Must submit a SAP before conducting site assessment activities on a commercial lease."",
+      ""source_section_number"": ""585.600"",
+      ""geographic_scope"": ""Commercial lease area"",
+      ""context_quote"": ""Before you conduct any site assessment activities on your commercial lease, you must submit a SAP, according to §§ 585.605 through 585.613.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Must submit a COP before conducting construction activities for commercial operations on a commercial lease."",
+      ""source_section_number"": ""585.600"",
+      ""geographic_scope"": ""Commercial lease area"",
+      ""context_quote"": ""Before you conduct any activities pertaining to construction of facilities for commercial operations on your commercial lease, you must submit a COP, according to §§ 585.620 through 585.628.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Must submit a GAP before conducting activities on a limited lease, ROW grant, or RUE grant."",
+      ""source_section_number"": ""585.600"",
+      ""geographic_scope"": ""Limited lease, ROW grant, or RUE grant area"",
+      ""context_quote"": ""Before you conduct any activities on your limited lease, ROW grant, or RUE grant in any OCS area, you must submit a GAP, according to §§ 585.640 through 585.648.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Facility Design Report must include location plat with specific coordinates."",
+      ""source_section_number"": ""285.701"",
+      ""geographic_scope"": ""Facility location"",
+      ""context_quote"": ""Your plat must be drawn to a scale of 1 inch equals 100 feet and include the coordinates of the lease, ROW grant, or RUE grant block boundary lines.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Fabrication and Installation Report must include a schedule of fabrication and installation activities."",
+      ""source_section_number"": ""285.702"",
+      ""geographic_scope"": ""Facility location"",
+      ""context_quote"": ""Your Fabrication and Installation Report must describe how your facilities will be fabricated and installed in accordance with the design criteria identified in the Facility Design Report; your BOEM-approved SAP, COP, or GAP; and generally accepted industry standards and practices.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Regulates and manages energy and mineral resources on the OCS."",
+      ""source_section_number"": ""585.600""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Ensures safety and environmental protection in OCS energy activities."",
+      ""source_section_number"": ""285.701""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Department of Interior"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Oversees BOEM and BSEE operations."",
+      ""source_section_number"": ""20""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""Environmental Protection Agency"",
+      ""entity_acronym"": ""EPA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Regulates air quality and other environmental aspects of OCS activities."",
+      ""source_section_number"": ""585.700""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""National Historic Preservation Act"",
+      ""entity_acronym"": ""NHPA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Protects archaeological resources on the OCS."",
+      ""source_section_number"": ""285.701""
+    }
+  ]
+}
+```"

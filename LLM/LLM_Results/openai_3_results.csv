@@ -1,0 +1,2775 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"3",1,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""Contract # E14PC00005"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",2,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Federal Regulations"",
+      ""scope"": ""United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""US Regulatory Regime"",
+      ""related_domains"": [""permitting"", ""environmental oversight""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""State Regulations"",
+      ""scope"": ""United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""US Regulatory Regime"",
+      ""related_domains"": [""permitting"", ""environmental oversight""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",3,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Federal Energy Regulatory Commission"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""United States Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""United States Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and navigation oversight""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""International Cable Protection Committee"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""Insulated Cable Engineers Association"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""North American Electric Reliability Corporation"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Reliability oversight""
+    },
+    {
+      ""entity_name"": ""North American Submarine Cable Association"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Industry association""
+    },
+    {
+      ""entity_name"": ""United Kingdom Hydrographic Office"",
+      ""jurisdiction"": ""UK"",
+      ""role"": ""Hydrographic data and mapping""
+    },
+    {
+      ""entity_name"": ""United Nations Convention on the Law of the Sea"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""International maritime law""
+    }
+  ]
+}
+```"
+"3",4,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The distance constraints on subsea HVAC (high voltage alternating current) transmission are now being widened with new technology but still remain limited in efficiency to about 100 km."",
+      ""scope"": ""Offshore transmission systems"",
+      ""numerical_value"": 100,
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""power transmission"", ""offshore wind energy""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"3",5,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"3",6,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""To provide BSEE with general criteria for assessing the cable spacing proposals from developers based upon best industry practice."",
+      ""scope"": ""Offshore wind collection and transmission systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable routing"", ""offshore wind development"", ""infrastructure planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""To develop guidance that may be utilized by BSEE, and more broadly by the U.S. offshore wind industry, during the design, development and review of offshore wind collection and transmission systems."",
+      ""scope"": ""Design and development of offshore wind collection and transmission systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""technical standards"", ""system design"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"3",7,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"3",8,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""Not specified"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""International Cable Protection Committee (ICPC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""Subsea Cables UK (SCUK)"",
+      ""jurisdiction"": ""UK"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""North American Submarine Cable Association (NASCA)"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"3",9,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""Section 2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",10,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""cable spacing needs to consider ongoing access to structures for operations and maintenance."",
+      ""scope"": ""Turbine array and export cable layout"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""operations and maintenance"", ""cable layout"", ""accessibility""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",11,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",12,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""10"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",13,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""United Nations Convention on Law of the Sea"",
+    ""document_number"": ""1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The coastal state may not impede the laying or maintenance of submarine cables or pipelines on the continental shelf."",
+      ""scope"": ""Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Geneva Convention on the Continental Shelf (1958), Article 4"",
+      ""related_domains"": [""submarine cable regulation"", ""international law""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The safety zones referred to in 5-2 may extend to a distance of 500 m around the installations and other devices which have been erected, measured from each point of their outer edge."",
+      ""scope"": ""Safety zones around installations on the continental shelf"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""Geneva Convention on the Continental Shelf (1958), Article 5-3"",
+      ""related_domains"": [""navigational safety"", ""installation protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United Nations"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Establishing international law regarding maritime activities and submarine cables.""
+    }
+  ]
+}
+```"
+"3",14,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""11"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",15,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geneva Convention on the High Seas (1958) – Relevant Provisions"",
+    ""document_number"": ""3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""All states shall be entitled to lay submarine cables and pipelines on the bed of the high seas."",
+      ""scope"": ""High seas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Geneva Convention on the High Seas (1958), Article 26-1"",
+      ""related_domains"": [""cable laying"", ""international law""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Subject to its right to take reasonable measures for the exploration of the continental shelf and the exploitation of its natural resources, the coastal state may not impede the laying or maintenance of such cables or pipelines."",
+      ""scope"": ""Continental shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Geneva Convention on the High Seas (1958), Article 26-2"",
+      ""related_domains"": [""cable laying"", ""coastal state rights""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""When laying such cables or pipelines, the state in question shall pay due regard to cables or pipelines already in position on the seabed."",
+      ""scope"": ""Seabed"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Geneva Convention on the High Seas (1958), Article 26-3"",
+      ""related_domains"": [""cable laying"", ""infrastructure management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",16,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""12"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",17,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""ICPC Recommendation No.13 ( Issue 2A, November 2013) The Proximity of Offshore Renewable Wind Energy Installations and Submarine Cable Infrastructure in National Waters"",
+    ""document_number"": ""6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Suggests an approach including early dialogue with stakeholders to determine site specific proximity limits based on a risk assessment of the circumstances and conditions of the situation."",
+      ""scope"": ""National Waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ICPC Recommendation No.13"",
+      ""related_domains"": [""stakeholder engagement"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Primary recommendation is that each situation is risk assessed on a case-by-case basis."",
+      ""scope"": ""Proximity between offshore wind farms and submarine cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Proximity Study Submarine Cables and Offshore Renewable Energy Installations"",
+      ""related_domains"": [""risk assessment"", ""spatial planning""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Due to the considerable variation in local issues and circumstances, the spacing between cables should be considered on a case-by-case basis applying an appropriate site specific risk assessment."",
+      ""scope"": ""Spacing between export transmission cables for offshore renewable installations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Principles of Cable Routing and Spacing"",
+      ""related_domains"": [""cable routing"", ""risk assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""International Cable Protection Committee"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""The Crown Estate"",
+      ""jurisdiction"": ""UK"",
+      ""role"": ""Guidance provider for offshore renewable energy installations""
+    }
+  ]
+}
+```"
+"3",18,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""13"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",19,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Guidelines for leasing of export cable routes/corridors The Crown Estate (UK) 2012"",
+    ""document_number"": ""9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Establishing site specific proximity limits based on a case-by-case risk assessment and the principles of As Low as Reasonably Practical (ALARP)."",
+      ""scope"": ""UK waters, offshore renewable energy installations and submarine cable infrastructure."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""SCUK Guidance No 6 2012"",
+      ""related_domains"": [""stakeholder consultation"", ""risk assessment"", ""infrastructure planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Separation distances should also consider redundancy issues to mitigate multiple failures from an external source (e.g., anchor strike)."",
+      ""scope"": ""Offshore wind farm cable installations."",
+      ""numerical_value"": ""200"",
+      ""unit"": ""yards"",
+      ""source"": ""Offshore Electrical Cable Burial for Offshore Wind Farms on the OCS BSEE Technology Assessment Program (TAP) Project 671"",
+      ""related_domains"": [""cable installation"", ""redundancy planning"", ""risk management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""The Crown Estate"",
+      ""jurisdiction"": ""UK"",
+      ""role"": ""Leasing authority for seabed and offshore infrastructure""
+    }
+  ]
+}"
+"3",20,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"3",21,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""BOEM 30 CFR Part 585 Bureau of Ocean Energy Management, USA"",
+    ""document_number"": ""12"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Survey guidelines for early surveys prior to SAP (Site Assessment Plan) or COP (Construction and Operations Plan) application."",
+      ""scope"": ""Early stage surveys relevant to offshore wind farm planning."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM 30 CFR Part 585"",
+      ""related_domains"": [""geological surveys"", ""geophysical surveys"", ""hazard assessments"", ""archaeological investigations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Addresses proposed guidelines for cable surveys and installation including BOEM 30 CFR 585."",
+      ""scope"": ""Cable surveys and installation for offshore wind farms."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""AWEA OCRP 2012"",
+      ""related_domains"": [""cable installation"", ""cable protection"", ""cable burial""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cables are commonly spaced far enough apart to allow for a section to be cut out, a new section spliced in and then lowered to the seafloor."",
+      ""scope"": ""Submarine power cable systems."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE Std 1120 (2004)"",
+      ""related_domains"": [""cable installation"", ""risk management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""American Wind Energy Association"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""Institute of Electrical and Electronic Engineers"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"3",22,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""15"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",23,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Transmission Network Feasibility Study"",
+    ""document_number"": ""17"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Coordinated design offshore would require a clear regulatory framework, delivered in a timely manner."",
+      ""scope"": ""UK offshore transmission network"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Grid and The Crown Estate (September 2011)"",
+      ""related_domains"": [""regulatory framework"", ""transmission network design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Grid"",
+      ""jurisdiction"": ""UK"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""The Crown Estate"",
+      ""jurisdiction"": ""UK"",
+      ""role"": ""Regulatory oversight""
+    }
+  ]
+}
+```"
+"3",24,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Proximity of Offshore Renewable Energy Installations & Submarine Cable Infrastructure in UK Waters"",
+      ""scope"": ""UK Waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Subsea Cables United Kingdom Guideline No. 6"",
+      ""related_domains"": [""submarine cable infrastructure"", ""offshore renewable energy""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Regulatory authority for offshore renewable energy projects""
+    },
+    {
+      ""entity_name"": ""North American Submarine Cable Association"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Endorsing body for submarine cable guidelines""
+    }
+  ]
+}"
+"3",25,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The spacing between cables should be considered on a case-by-case basis incorporating all relevant information."",
+      ""scope"": ""Cable routing and installation phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""risk assessment"", ""engineering methods""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",26,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Outer Continental Shelf - USA"",
+      ""role"": ""Authority over renewable energy installation""
+    },
+    {
+      ""entity_name"": ""American Wind Energy Association (AWEA)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Developed offshore compliance recommended practices""
+    },
+    {
+      ""entity_name"": ""Insulated Cable Engineers Association (ICEA)"",
+      ""jurisdiction"": ""North America and some Latin American countries"",
+      ""role"": ""Writes standards for power cables""
+    },
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Provides recommendations for cables""
+    },
+    {
+      ""entity_name"": ""Council on Large Electric Systems (CIGRÉ)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Develops standards related to electrical design""
+    }
+  ]
+}
+```"
+"3",27,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""4. Regulatory regime and stakeholder engagement"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""There is currently limited regulatory guidance with regard to subsea cable spacing for offshore wind farms."",
+      ""scope"": ""Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""subsea cable installation"", ""offshore wind farm regulation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"3",28,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Offshore Renewable Energy Installations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""A Right of Way (ROW) grant includes the full length of the corridor on which a cable, pipeline or associated facility is located. It is 200 feet (61 meters) in width, centered on the cable or pipeline, unless safety and environmental factors during construction and maintenance of the associated cable or pipeline require a greater width and is limited to the area reasonably necessary."",
+      ""scope"": ""Cable systems and pipelines within the Outer Continental Shelf (OCS)"",
+      ""numerical_value"": 200,
+      ""unit"": ""feet"",
+      ""source"": ""30 CFR 585.301"",
+      ""related_domains"": [""spatial planning"", ""infrastructure development""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Every effort must be taken to ensure that all cables and pipelines are constructed in a manner that minimizes deviations from the approved plan under the lease or grant."",
+      ""scope"": ""Construction of cables and pipelines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.658"",
+      ""related_domains"": [""construction standards"", ""project compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Facility Design Report (FDR) must provide specific details of the design of any facilities, including cables and pipelines that are identified in the Construction and Operations Plan (COP)."",
+      ""scope"": ""Facility design for cables and pipelines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.701 (a) (4)"",
+      ""related_domains"": [""design specifications"", ""project planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Fabrication and Installation Report must describe how the facilities will be fabricated and installed within the design criteria identified in the Facility Design Report and the approved COP."",
+      ""scope"": ""Fabrication and installation of facilities, including cables and pipelines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.702 (a) (7)"",
+      ""related_domains"": [""installation standards"", ""project execution""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Lead regulatory authority for leasing and licensing associated with offshore wind farm projects.""
+    },
+    {
+      ""entity_name"": ""Army Corps of Engineers (USACE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory body with jurisdiction over Offshore Renewable Energy Installations.""
+    },
+    {
+      ""entity_name"": ""United States Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory body with jurisdiction over Offshore Renewable Energy Installations.""
+    }
+  ]
+}"
+"3",29,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A Certification and Verification Authority (CVA) must be used to review and certify the FDR and the Fabrication and Installation Report (FIR)."",
+      ""scope"": ""Facility design and installation design for offshore wind farms."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.705"",
+      ""related_domains"": [""certification"", ""engineering practices""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If environmental or other conditions adversely affect a cable, pipeline or facility so as to endanger safety or the environment a plan of corrective action must be submitted within 30 days of discovery of the adverse effect."",
+      ""scope"": ""Cable, pipeline, or facility operation."",
+      ""numerical_value"": 30,
+      ""unit"": ""days"",
+      ""source"": ""30 CFR 585.816"",
+      ""related_domains"": [""environmental safety"", ""remedial action""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Permits are required for the construction of artificial islands, installations and other devices on the seabed."",
+      ""scope"": ""Seabed installations including subsea cables."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 CFR 322.3 (b)"",
+      ""related_domains"": [""permitting"", ""construction regulations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Approval of the burial depth and separation distances is required from the nearest District Engineer of the USACE."",
+      ""scope"": ""Cable installation, operation, and maintenance."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USACE regulations"",
+      ""related_domains"": [""cable installation"", ""engineering standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and regulatory authority for offshore energy projects.""
+    },
+    {
+      ""entity_name"": ""United States Army Corps of Engineers (USACE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulating discharge of dredged material and work affecting navigable waters.""
+    }
+  ]
+}
+```"
+"3",30,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Reference ID11"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""burial depths specified are likely to be around 15 ft.(5 m) below seabed"",
+      ""scope"": ""anchorage area or marine park"",
+      ""numerical_value"": 15,
+      ""unit"": ""ft"",
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable installation"", ""marine safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""the required burial depth may be as low as 3-6 ft (1-2 m)"",
+      ""scope"": ""areas outside anchorage or marine park"",
+      ""numerical_value"": 6,
+      ""unit"": ""ft"",
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable installation"", ""marine safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""burial requirements must be specified with consideration of local conditions"",
+      ""scope"": ""areas of coral and other sensitive habitats"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental protection"", ""habitat conservation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    },
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers (USACE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    }
+  ]
+}
+```"
+"3",31,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The consistency requirement gives states substantial influence and discretion in cable permitting, installation and maintenance."",
+      ""scope"": ""Coastal states in the USA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coastal Zone Management Act (CZMA) (16 U.S.C. 1451 et seq.)"",
+      ""related_domains"": [""cable permitting"", ""installation"", ""maintenance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Approval of project Navigation Safety Plans""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Coordination with USCG on offshore wind farm projects""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Approval of coastal management programs""
+    }
+  ]
+}
+```"
+"3",32,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""New Jersey has a minimum burial depth requirement in state waters of 5 ft (1.5m)."",
+      ""scope"": ""State waters of New Jersey"",
+      ""numerical_value"": 5,
+      ""unit"": ""ft"",
+      ""source"": ""State of New Jersey regulations"",
+      ""related_domains"": [""cable installation"", ""engineering standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""State of New Jersey"",
+      ""jurisdiction"": ""State of New Jersey"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"3",33,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""20"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Cable spacing may be impacted by the need to avoid a particularly sensitive seabed habitat (e.g., reef)."",
+      ""scope"": ""Subsea power cables installation phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""EMF concerns are unlikely to impact upon cable spacing, except in cases where cable bundling is intended to have the magnetic fields of adjoining cables cancel each other (typically in water depths less than 100ft (30.5m))."",
+      ""scope"": ""Subsea power cables installation phase."",
+      ""numerical_value"": 30.5,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""electromagnetic fields"", ""cable design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal and State Environmental Authorities"",
+      ""jurisdiction"": ""Federal and State - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Nongovernmental organizations (NGOs) focusing on nature conservation"",
+      ""jurisdiction"": ""Various - USA"",
+      ""role"": ""Advocacy and environmental protection""
+    }
+  ]
+}
+```"
+"3",34,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Avoidance of critical and sensitive habitats, prime recreational and commercial fishing grounds, avoidance of seasonal activities (beachgoing, intensive fishing periods, spawning periods and habitats, etc.)."",
+      ""scope"": ""Project installation and operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""State fishery, environmental and historical preservation agencies"",
+      ""related_domains"": [""environmental impact assessment"", ""fisheries management"", ""cultural preservation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Avoidance of fishing grounds, adequate burial to prevent interference with fishing, assurance of compensation for damaged or lost fishing gear, timing of installation and maintenance to avoid intensive fishing seasons."",
+      ""scope"": ""Project installation and operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Commercial fishermen"",
+      ""related_domains"": [""fisheries management"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Avoidance of critical habitats and seasons of special concern for particular species, monitoring for impacts, mitigation to protect sensitive resources."",
+      ""scope"": ""Project installation and operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NGO environmental interests"",
+      ""related_domains"": [""environmental impact assessment"", ""species conservation""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Risk assessments are required to inform cable spacing and burial and potential relocation of anchorages."",
+      ""scope"": ""Project installation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Shipping and navigation authorities"",
+      ""related_domains"": [""navigational safety"", ""marine operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""US Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""State fishery, environmental and historical preservation agencies"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Tribal authorities"",
+      ""jurisdiction"": ""State - USA (specifically Washington)"",
+      ""role"": ""Resource management and protection""
+    },
+    {
+      ""entity_name"": ""US Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Shipping and navigation authority""
+    }
+  ]
+}
+```"
+"3",35,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""21"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",36,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""regional planning bodies, if set up, are not regulatory and have no independent legal authority to regulate or otherwise direct Federal, State, tribal, or local government actions."",
+      ""scope"": ""United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Ocean Policy Executive Order July 19, 2010"",
+      ""related_domains"": [""marine spatial planning"", ""regulatory authority""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""ICPC Recommendation No. 2 - Recommended Routing and Reporting Criteria for Cables in Proximity to Others."",
+      ""scope"": ""Cables in proximity to offshore energy installations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""International Cable Protection Committee"",
+      ""related_domains"": [""cable routing"", ""offshore installations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""ICPC Recommendation No. 13 - Proximity of Wind Farm Developments and Submarine Cables."",
+      ""scope"": ""Wind farm developments and submarine cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""International Cable Protection Committee"",
+      ""related_domains"": [""cable routing"", ""offshore installations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Ocean Council"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Guidance and coordination for marine spatial planning""
+    },
+    {
+      ""entity_name"": ""International Cable Protection Committee"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body for submarine cable routing""
+    }
+  ]
+}"
+"3",37,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Some authorities have moved toward requirements of cable removal after service life."",
+      ""scope"": ""Marine environment, cable routing, operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Removing a buried cable can be disruptive to the environment, especially in sensitive habitats."",
+      ""scope"": ""Marine environment, cable removal, operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"3",38,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""to determine the seabed licensing and project permit requirements."",
+      ""scope"": ""Seabed licensing and project permits"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""permitting"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""each project must define its own strategy for cable spacing based on the various and varying factors that inform cable routing."",
+      ""scope"": ""Cable spacing strategy"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable routing"", ""technical standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"3",39,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"3",40,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""24"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A risk based approach to route engineering, including consideration of route geology, third party assets and key stakeholders."",
+      ""scope"": ""Cable routing and spacing during the planning and construction phases."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""route engineering"", ""stakeholder engagement"", ""geological assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Strategic design of the system to meet the requirements of the system operator and redundancy."",
+      ""scope"": ""System design phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""system design"", ""redundancy"", ""operational requirements""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and regulatory authority for offshore wind projects.""
+    }
+  ]
+}
+```"
+"3",41,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""5.2.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable route design must necessarily address diverse issues in order to achieve the key objectives of: Achieving maximum cable security; Safeguarding system supply through transmission redundancy; Achieving cost effectiveness; and Managing interactions and conflicts with other seabed users."",
+      ""scope"": ""Cable routing and design phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable security"", ""system redundancy"", ""cost effectiveness"", ""seabed user interaction""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",42,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Demonstrate an understanding of the regulatory framework pertinent to the project cable route development"",
+      ""scope"": ""Project cable route development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""permitting"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Identify requirements and points of contact and establish a permit and consents plan including time lines for activities including; submissions, consultations, responses and all relevant requirements"",
+      ""scope"": ""Permit and consents plan"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""permitting"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",43,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"3",44,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Provide a statement or impact assessment as appropriate"",
+      ""scope"": ""Feasibility phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""5, 15 CFR part 930"",
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Demonstrate a detailed assessment of limitations, constraints, socioeconomic, geopolitical, geophysical, geotechnical and metocean factors that require to be addressed through development of the project"",
+      ""scope"": ""Feasibility phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""5, 11, 12, 13, 16"",
+      ""related_domains"": [""engineering design"", ""socioeconomic assessment"", ""geophysical studies""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Demonstrate that an appropriate assessment of the risks to project cables has been fully assessed and evaluated"",
+      ""scope"": ""Feasibility/Select/Define phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16"",
+      ""related_domains"": [""cable security"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Demonstrate a process for development of a project engineering concept that details the range of engineering options that may be necessary to install the project cables"",
+      ""scope"": ""Feasibility phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16"",
+      ""related_domains"": [""engineering design"", ""installation planning""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",45,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""27"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Agreement with the Dutch permit authorities to pre-sweep the active sand wave areas close to the Dutch coast, to reduce the risk of cables being suspended between sand waves as they move across the cable route."",
+      ""scope"": ""Dutch coast, cable routing phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Dutch permit authorities"",
+      ""related_domains"": [""cable routing"", ""marine engineering"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Route engineering to minimize the crossing of shipping lanes close to the ports of London and Rotterdam and hence reduce the risk of anchor damage to the cables in the future."",
+      ""scope"": ""Shipping lanes near London and Rotterdam, cable routing phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""cable integrity"", ""marine traffic management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",46,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A properly executed desktop study and marine route survey will assess the hazards and determine the nature of the seabed before recommending the most cost effective and secure route to achieve acceptable risk levels."",
+      ""scope"": ""Marine route survey"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""hazard assessment"", ""marine engineering"", ""risk management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Assessment of shipping threat (potential anchor strikes) using AIS (Automatic Identification System) distribution analysis (where it exists) or other baseline studies including assessment of extent of anchorages – existing or planned."",
+      ""scope"": ""Shipping threat assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""marine traffic management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Assessment of fishing threat (e.g. trawl board strikes, scallop/clam etc. dredging – invasive to seabed – distribution) – AIS may be of assistance in this task too."",
+      ""scope"": ""Fishing threat assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""fishing impact"", ""marine safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Distribution of seabed hazards e.g., debris, wrecks, Unexploded Ordnance (UXO), etc."",
+      ""scope"": ""Seabed hazard assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"3",47,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For parallel laid cables, the German grid operator Tennet requests >= 100m or 3x water depth."",
+      ""scope"": ""Germany, cable burial and separation issues."",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": ""Tennet"",
+      ""related_domains"": [""cable burial"", ""cable separation"", ""technical standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Tennet"",
+      ""jurisdiction"": ""Germany"",
+      ""role"": ""Grid operator""
+    }
+  ]
+}
+```"
+"3",48,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Determine threat(s) and establish a probability based risk assessment from which a cable protection plan can be derived."",
+      ""scope"": ""Cable protection plan development phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 5.3, 5.7"",
+      ""related_domains"": [""cable protection"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Develop a burial protection index (BPI) and identify remedial protection media where primary scheme is not achievable."",
+      ""scope"": ""BPI development phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 5.3, 5.7"",
+      ""related_domains"": [""cable protection"", ""engineering solutions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Conduct a detailed assessment of the threats identified regarding vessel traffic."",
+      ""scope"": ""Threat assessment phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 5.3, 5.7"",
+      ""related_domains"": [""marine traffic"", ""safety assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Conduct a detailed assessment of the threats identified regarding fishing."",
+      ""scope"": ""Threat assessment phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 5.3, 5.7"",
+      ""related_domains"": [""fishing activity"", ""safety assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Conduct a detailed assessment of the threats identified regarding dredging & dumping, hydrocarbons."",
+      ""scope"": ""Threat assessment phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 5.3, 5.7"",
+      ""related_domains"": [""dredging"", ""environmental impact""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Conduct detailed assessment of threats identified regarding seabed hazards & UXO."",
+      ""scope"": ""Threat assessment phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 5.3, 5.7"",
+      ""related_domains"": [""seabed hazards"", ""UXO assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",49,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If such a hazard is deemed to exist the degree of cable burial protection can be increased to minimize the risks from such an eventuality."",
+      ""scope"": ""Cable routes crossing shipping lanes or areas of high shipping activity."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""navigational safety"", ""cable protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If this is not possible due to seabed conditions or the requirement of any remedial cable protection, cable separation should be increased further."",
+      ""scope"": ""Cable routes in seabed conditions that do not allow for burial."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""navigational safety"", ""cable protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"3",50,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.2.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""the developer will need to evaluate AIS data in areas of high shipping activity."",
+      ""scope"": ""areas of high shipping activity"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""cable integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Detailed modeling of fluke penetration is therefore recommended in cases where cable routes cross busy shipping lanes or close to vessel anchorages."",
+      ""scope"": ""cable routes crossing busy shipping lanes or close to vessel anchorages"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable integrity"", ""engineering standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"3",51,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""30"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Energy Regulatory Commission (FERC)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulates reliability of bulk electric generation and transmission""
+    },
+    {
+      ""entity_name"": ""North American Electric Reliability Corporation (NERC)"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Develops mandatory and enforceable reliability standards""
+    },
+    {
+      ""entity_name"": ""State Public Utilities Commissions"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Regulates physical construction of electric generation facilities""
+    }
+  ]
+}
+```"
+"3",52,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""The DNV Recommended Practice on Subsea Power Cables in Shallow Water Renewable Energy Applications"",
+    ""document_number"": ""Reference ID 16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The optimum spacing of two or more power cables should be determined considering project internal and external factors, i.e. a risk-assessed case-by-case determination."",
+      ""scope"": ""Offshore cable systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV Recommended Practice on Subsea Power Cables in Shallow Water Renewable Energy Applications"",
+      ""related_domains"": [""transmission integrity"", ""cable repair"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Separation of cables to overcome any issues of transmission integrity by factoring redundancy and/or increasing spacing between cables is typically a function of transmission system operator requirements and cost/risk analysis by the project developer."",
+      ""scope"": ""Offshore cable systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV Recommended Practice on Subsea Power Cables in Shallow Water Renewable Energy Applications"",
+      ""related_domains"": [""transmission integrity"", ""redundancy"", ""cost analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Some principles of separation of high capacity transmission may be necessary to mitigate the risk of significant localized loss of supply."",
+      ""scope"": ""Offshore transmission networks"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV Recommended Practice on Subsea Power Cables in Shallow Water Renewable Energy Applications"",
+      ""related_domains"": [""supply integrity"", ""transmission systems""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",53,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""31"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""the transmission operators (TenneT in the German North Sea and 50 Hertz in the Baltic Sea) are required to provide the connection to the grid due to the regulatory framework adopted."",
+      ""scope"": ""German North Sea and Baltic Sea"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulatory framework in Germany"",
+      ""related_domains"": [""grid connection"", ""offshore transmission""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""TenneT"",
+      ""jurisdiction"": ""German North Sea"",
+      ""role"": ""Transmission operator""
+    },
+    {
+      ""entity_name"": ""50 Hertz"",
+      ""jurisdiction"": ""Baltic Sea"",
+      ""role"": ""Transmission operator""
+    }
+  ]
+}"
+"3",54,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""32"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In the UK, SQSS states that up to 1800MW can be connected by a single circuit, and that radial connections are rated at 100% capacity."",
+      ""scope"": ""UK transmission system"",
+      ""numerical_value"": 1800,
+      ""unit"": ""MW"",
+      ""source"": ""SQSS"",
+      ""related_domains"": [""transmission capacity"", ""system reliability""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For coordinated (grid) elements, connections can be greater than 1800MW provided that alternative power paths are available to redistribute power following loss."",
+      ""scope"": ""UK transmission system"",
+      ""numerical_value"": 1800,
+      ""unit"": ""MW"",
+      ""source"": ""SQSS"",
+      ""related_domains"": [""transmission capacity"", ""system reliability""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The design of the offshore transmission system will be determined at a high level by the regulatory requirements set in place by the US Department of Energy Federal Energy Regulatory Commission (FERC)."",
+      ""scope"": ""US offshore transmission system"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""US Department of Energy Federal Energy Regulatory Commission (FERC)"",
+      ""related_domains"": [""regulatory compliance"", ""system redundancy""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In the absence of formal SQSS requirements in the US, individual projects would need to undertake project specific design risk analysis, with the system operator, in order to confirm that the system design meets the reliability standards set down by the regulator."",
+      ""scope"": ""US offshore transmission system"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""US regulatory standards"",
+      ""related_domains"": [""design risk analysis"", ""system reliability""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Department of Energy Federal Energy Regulatory Commission (FERC)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority for offshore transmission system design""
+    }
+  ]
+}"
+"3",55,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""5.2.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The degree of separation should be determined through full route design analysis and assessment and consideration of the specific circumstances, present and potential threats and the level of protection that may be afforded to each cable group in a system."",
+      ""scope"": ""Export cable systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""transmission integrity"", ""cable routing"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Where a risk of disruption of significant transmission capacity might exist within a short time frame, then there is a risk to system supply to the onshore grid and a detailed assessment of grid requirements will be necessary."",
+      ""scope"": ""Export cable systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""grid supply"", ""transmission capacity"", ""risk assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",56,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Reference ID 17"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A clear regulatory framework, delivered in a timely manner, would be required to navigate these challenges."",
+      ""scope"": ""Offshore transmission network development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""regulatory compliance"", ""transmission network planning""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""It is important that all parties reach agreement on mutually acceptable routing and spacing."",
+      ""scope"": ""Cable routing and spacing"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UNCLOS; Reference ID No. 1"",
+      ""related_domains"": [""cable management"", ""commercial development""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",57,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""34"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Repair strategy will have a considerable bearing on separation decisions not only for lay-down of the repair bight but also for access to the cables where de-burial and/or removal of external protection may require surface operations to present a risk to other proximate cables."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable management"", ""repair operations"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",58,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Controlled notification of marine activities to include notices to mariners, navigation warnings, proximity warnings/temporary exclusion zones."",
+      ""scope"": ""Project delivery phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""marine coordination""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Consideration to use of guard vessels during installation and between installation of cables on seabed before burial."",
+      ""scope"": ""Installation phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable security"", ""marine safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The value of educating third parties in the presence and purpose of cables should not be underestimated."",
+      ""scope"": ""Installation and operational phases."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable security"", ""public awareness""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",59,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Management of interactions and conflicts"",
+    ""document_number"": ""5.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Proper consideration should be given to the cable type and its properties and the risk of introducing latent defect through mishandling before committing to any particular strategy."",
+      ""scope"": ""Installation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""TÜV SÜD PMSS 2014"",
+      ""related_domains"": [""cable installation"", ""engineering safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""While simultaneous lay and burial of bundled cables is presently not commonly employed, post-lay-burial of bundled HVDC cables is currently accepted practice."",
+      ""scope"": ""Installation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""TÜV SÜD PMSS 2014"",
+      ""related_domains"": [""cable installation"", ""engineering standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"3",60,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""a corridor of 30 to 50 meters between each cable will alleviate any risk to either cable during installation and subsequent burial."",
+      ""scope"": ""Installation phase"",
+      ""numerical_value"": 30,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""subsea operations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The figure of 50 meters is based on historical data where two HVDC cables were separately laid in this manner."",
+      ""scope"": ""Installation phase"",
+      ""numerical_value"": 50,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""subsea operations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"3",61,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""In exceptional circumstances a cable may be cut away from the vessel for safety reasons."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety management"", ""cable installation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"3",62,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""36"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""one or more conduits are used to separate the cables in the landfall to mitigate potential overheating."",
+      ""scope"": ""Landfall phase, cable installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable protection"", ""thermal management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""bend radii are not exceeded."",
+      ""scope"": ""Cable installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable integrity"", ""installation practices""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",63,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Proper regard should be had for the appropriate recommendations and guidance and early dialogue is encouraged."",
+      ""scope"": ""Proximate or crossing cables transiting through the wind farm development area."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""third party interactions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Separation should consider installation equipment and the requirements of operational contingency."",
+      ""scope"": ""Array cables and installation equipment."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""installation practices"", ""operational planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Detailed post-survey route design based on survey results and BPI studies will identify optimal burial strategy and suitable burial tools."",
+      ""scope"": ""Export cables."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable burial"", ""route design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Due consideration as to best practice for crossings is required."",
+      ""scope"": ""Crossing of third party cables and pipelines."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable crossings"", ""engineering solutions""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",64,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""37"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable security is best achieved by suitable cable protection measures that may be decided upon by the assessment of external risks and potential mitigation measures; adequate cable burial is the principal factor, given geological constraints."",
+      ""scope"": ""Cable protection measures during construction and operation phases."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable security"", ""geological assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In the vicinity of turbines and OSPs then scour protection methods may be warranted to safeguard cables from environmental forces."",
+      ""scope"": ""Cables in the vicinity of turbines and Offshore Substation Platforms (OSPs) during construction and operation phases."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""environmental protection"", ""cable security""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable protection in congested waters may need to adopt specific techniques relevant to the situation."",
+      ""scope"": ""Congested waters during construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""engineering design"", ""cable protection""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Regulators may be approached to consider no anchoring and/or no fishing zones to give protection around congested critical infrastructure sites."",
+      ""scope"": ""Congested critical infrastructure sites during construction and operation phases."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""infrastructure protection"", ""regulatory engagement""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and regulatory authority for offshore wind projects.""
+    }
+  ]
+}
+```"
+"3",65,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A case-by-case assessment must be made for cable separation to allow for potential repairs to the cable including its recovery and redeployment."",
+      ""scope"": ""Cable route, operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable repair"", ""operational safety"", ""technical assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"3",66,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""5.5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable recovery in very shallow water or on drying seabed is usually only feasible by mechanical means which may involve limited works during times of low water."",
+      ""scope"": ""Shore end section of offshore wind farms during repair operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable installation"", ""marine operations"", ""safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Due consideration must be given to the deployment of suitable vessels and support craft given the navigation restrictions."",
+      ""scope"": ""Deployment of vessels for cable repair within the wind farm array."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""TÜV SÜD PMSS 2014"",
+      ""related_domains"": [""navigational safety"", ""marine operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",67,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"3",68,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""40"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""There may be concerns about potential interference to ships’ magnetic/gyro compasses."",
+      ""scope"": ""Marine navigation issues related to offshore wind farm cable spacing."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""navigational safety"", ""marine navigation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",69,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In shallow water, HVDC cables be bundled to become a bipolar configuration."",
+      ""scope"": ""Shallow water areas near navigation channels."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""marine engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In deeper water, HVDC cables can be laid separately and spaced apart."",
+      ""scope"": ""Deeper water areas."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""marine engineering""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""It would be desirable to avoid shipping channels (or cross them as perpendicular as possible) wherever feasible."",
+      ""scope"": ""Shipping channels."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Port authorities"",
+      ""jurisdiction"": ""Local port areas"",
+      ""role"": ""Regulatory oversight concerning navigation safety and cable influence.""
+    },
+    {
+      ""entity_name"": ""Regulatory bodies"",
+      ""jurisdiction"": ""Local maritime jurisdictions"",
+      ""role"": ""Engagement and oversight regarding cable routing and navigation.""
+    }
+  ]
+}
+```"
+"3",70,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""5.6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Has the environmental impact been assessed appropriate to the route?"",
+      ""scope"": ""Development area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Reference ID 8"",
+      ""related_domains"": [""environmental impact assessment"", ""marine species protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Has the navigational impact been assessed appropriate to the route?"",
+      ""scope"": ""Development area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Reference ID 11"",
+      ""related_domains"": [""navigational safety"", ""marine wildlife protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",71,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"3",72,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Detailed coastal site surveys will be warranted to optimize routing and minimize engineering costs."",
+      ""scope"": ""Coastal areas during the construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""engineering design"", ""site assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"3",73,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""42"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A developer may be forced to 'squeeze' their cable(s) into a narrower landfall area in order to avoid the sensitive area."",
+      ""scope"": ""Coastal locations, specifically near sensitive areas like saltmarshes or mudflats."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""cable installation"", ""coastal conservation""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Cable lay and burial must be mindful of existing or planned third-party infrastructure ensuring that spacing is such that these assets may be accessed for maintenance, repair or installation."",
+      ""scope"": ""Coastal zone, specifically regarding cable burial and existing infrastructure."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""infrastructure management"", ""cable installation"", ""maintenance access""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",74,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""It may be appropriate to consider establishing a no-fishing and/or a no anchoring corridor either side of the installed cable."",
+      ""scope"": ""Areas where the target depth of burial may not have been achieved."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""marine operations""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The cables are spaced at 60m offshore and then fan in to HDD ducts at the shore spaced at 10m intervals."",
+      ""scope"": ""Cable installation at coastal landfalls."",
+      ""numerical_value"": 60,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""marine spatial planning""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""There is a gap of around 50m between the cables from the two projects."",
+      ""scope"": ""Cable installation at coastal landfalls."",
+      ""numerical_value"": 50,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""marine spatial planning""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The jointing pits are spaced at around 5m."",
+      ""scope"": ""Cable installation at coastal landfalls."",
+      ""numerical_value"": 5,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""marine spatial planning""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"3",75,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""5.7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Regulators may be approached to consider no anchoring and/or no fishing zones to give protection around congested critical infrastructure sites."",
+      ""scope"": ""Congested critical infrastructure sites"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""navigational safety"", ""infrastructure protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",76,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable spacing into an OSP will be constrained by the number of array cables coming into the OSP and the need for a 'cable free' zone."",
+      ""scope"": ""Offshore Substation Platforms (OSP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable management"", ""construction safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Distribution of seabed stabilization material, scour protection and other seabed infrastructure around the OSP should be considered in developing the cable routing plan."",
+      ""scope"": ""Offshore Substation Platforms (OSP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""seabed management"", ""cable routing""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"3",77,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""45"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The spacing of export cables from the OSP to the edge of the wind farm through the wind farm area will be governed by the same principles of maximizing separation and ensuring optimal cable security as for export cables outside the wind farm area."",
+      ""scope"": ""Export cables from the OSP to the edge of the wind farm area."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""maintenance operations"", ""cable security""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The cables were installed by plough burial. The plough launch position (for cable burial) was set at 50m from the OSP, to ensure that there was sufficient separation (10m) from adjacent cables when installing and to allow a degree of separation for maintenance purposes."",
+      ""scope"": ""Cable installation methodology and separation requirements."",
+      ""numerical_value"": 50,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""maintenance operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",78,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""46"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Consideration should be given at the design stage as to the routing of cables to the OSP, including consideration of the platform type, ‘J’ or ‘I’ tube configuration and distribution, seabed stabilization and scour protection and any mooring requirements."",
+      ""scope"": ""Design stage for array and export cables."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable routing"", ""seabed stabilization"", ""scour protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Separation should consider O&M planning repair strategy."",
+      ""scope"": ""Design stage for array and export cables."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""operation and maintenance"", ""repair strategy""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Close coordination and interface management is the key factor within the wind farm development area."",
+      ""scope"": ""Construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""construction safety"", ""interface management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",79,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Comprehensive desktop research into constraining factors is fundamental to understanding risks to cable routing, and therefore, cable spacing."",
+      ""scope"": ""Cable routing and spacing for offshore wind farms."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable routing"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Guidance has been given by way of external references as to how to space cables in proximity to one another and with respect to other third party cables or pipelines."",
+      ""scope"": ""Spacing of cables in offshore wind farms."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""operations and maintenance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Regulator"",
+      ""jurisdiction"": ""Offshore wind farm projects"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""System Operator"",
+      ""jurisdiction"": ""Offshore wind farm projects"",
+      ""role"": ""Grid connectivity oversight""
+    }
+  ]
+}
+```"
+"3",80,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable route development is a holistic and iterative process that must include factors affecting cable spacing and demonstrate cable spacing decisions have been deliberate and based on all relevant factors."",
+      ""scope"": ""Offshore wind farm arrays"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable routing"", ""electrical system design"", ""stakeholder requirements"", ""EMF impacts"", ""transmission integrity"", ""cable installation safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The need to safely install, repair and maintain cables adjacent to one another or other infrastructure without posing intolerable risk to those adjacent assets."",
+      ""scope"": ""Offshore wind farm arrays"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable installation safety"", ""infrastructure integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The relationship between burial depth and cable spacing must be taken into account."",
+      ""scope"": ""Offshore wind farm arrays"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""cable burial"", ""cable spacing""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",81,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""BOEM currently requires a 200 ft right of way corridor for offshore wind farm cables."",
+      ""scope"": ""Offshore wind farm cables"",
+      ""numerical_value"": 200,
+      ""unit"": ""ft"",
+      ""source"": ""BOEM"",
+      ""related_domains"": [""cable routing"", ""marine spatial planning""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The TAP671 report recommends a 500 m wide right of way corridor."",
+      ""scope"": ""Offshore wind farm cables"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""TAP671 report"",
+      ""related_domains"": [""cable routing"", ""marine spatial planning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"3",82,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""49"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The federal regulation CFR 585 requires a Facilities Design Report, Construction and Operations Plan, Fabrication and Installation Report, Site Assessment Plan and General Activities Plan."",
+      ""scope"": ""General Activities Plan for offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""CFR 585"",
+      ""related_domains"": [""construction planning"", ""operations management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"3",83,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable routing and spacing should be considered from the outset of any development planning and be incorporated into strategic risk assessments as a critical factor."",
+      ""scope"": ""Development planning phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+      ""related_domains"": [""cable routing"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Facilities Design Report, Construction and Operations Plan, Fabrication and Installation Report, Site Assessment Plan and General Activities Plan should evidence that factors affecting cable spacing have been given suitable consideration."",
+      ""scope"": ""Documentation for offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+      ""related_domains"": [""project documentation"", ""cable spacing""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Federal Energy Regulatory Commission (FERC)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority""
+    },
+    {
+      ""entity_name"": ""Insulated Cable Engineers Association, Inc."",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"3",84,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Submarine Cable Spacing Guidance"",
+    ""document_number"": ""51"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    },
+    {
+      ""entity_name"": ""U.S. Department of Homeland Security"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""National Ocean Council"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Marine planning authority""
+    },
+    {
+      ""entity_name"": ""North American Electric Reliability Corporation (NERC)"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""State of New Jersey Board of Public Utilities"",
+      ""jurisdiction"": ""State - New Jersey, USA"",
+      ""role"": ""Regulatory authority""
+    },
+    {
+      ""entity_name"": ""National Association of Regulatory Utility Commissioners"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Regulatory oversight""
+    }
+  ]
+}
+```"
+"3",85,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"

@@ -1,0 +1,2448 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"44",1,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM Minimum Recommendations for Use of Passive Acoustic Listening Systems in Offshore Wind Energy Development Monitoring and Mitigation Programs"",
+    ""document_number"": ""10.3389/fmars.2021.760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use of passive acoustic listening systems in offshore wind energy development monitoring and mitigation programs"",
+      ""scope"": ""Offshore wind energy projects"",
+      ""source"": ""NOAA and BOEM"",
+      ""related_domains"": [""Environmental"", ""Safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide recommendations for use of passive acoustic listening systems""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide recommendations for use of passive acoustic listening systems""
+    }
+  ]
+}"
+"44",2,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore wind energy development is rapidly ramping up in United States (U.S.) waters in order to meet renewable energy goals."",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Understanding the potential consequences of construction and operation activities is essential to advancing responsible offshore wind development."",
+      ""scope"": ""Offshore wind projects in U.S. waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Oceanic and Atmospheric Administration and Bureau of Ocean Energy Management"",
+      ""related_domains"": [""Environmental""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""PAM during offshore wind construction and operation may be required by the National Oceanic and Atmospheric Administration and Bureau of Ocean Energy Management through project-related permits and approvals issued pursuant to relevant statutes and regulations."",
+      ""scope"": ""Offshore wind projects in U.S. waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Oceanic and Atmospheric Administration and Bureau of Ocean Energy Management"",
+      ""related_domains"": [""Jurisdictional""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The recommendations in this paper aim to support this need as well as to aid the development of project-specific PAM Plans by identifying minimum procedures, system requirements, and other important components for inclusion, while promoting consistency across plans."",
+      ""scope"": ""Offshore wind projects in U.S. waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""This document"",
+      ""related_domains"": [""Technical""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulator and issuer of permits and approvals for offshore wind projects""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulator and issuer of permits and approvals for offshore wind projects""
+    }
+  ]
+}"
+"44",3,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM PAM Recommendations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Approaches to PAM and agency requirements will evolve as future permits are issued and construction plans are approved, regional research priorities are refined, and scientific publications and new technologies become available."",
+      ""scope"": ""Offshore wind projects in United States waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental monitoring, regulatory compliance""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide recommendations for passive acoustic monitoring (PAM) for offshore wind projects""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide requirements for passive acoustic monitoring (PAM) for offshore wind projects""
+    }
+  ]
+}"
+"44",4,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Rapid global economic growth has contributed to today's increasing demand for energy"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The main environmental concerns related to offshore wind development for marine animals are primarily focused around construction and operations through increased noise levels, behavioral changes, displacement from important biological areas such as feeding grounds, risk of vessel collisions, changes to benthic and pelagic habitats, alterations to food webs, and pollution from increased vessel traffic or release of contaminants from seabed sediments"",
+      ""scope"": ""Offshore wind development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Tougaard et al., 2009; Bailey et al., 2014"",
+      ""related_domains"": [""Environmental"", ""Technical"", ""Safety""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The potential effects of offshore wind energy on protected marine species are regulated primarily by National Oceanic and Atmospheric Administration (NOAA) under the Endangered Species Act, Marine Mammal Protection Act, National Environmental Policy Act, National Marine Sanctuary Act, and the Energy Policy Act and by BOEM through issuance of leases and approval of COPs"",
+      ""scope"": ""Offshore wind development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Oceanic and Atmospheric Administration (NOAA), Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""Environmental"", ""Jurisdictional""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""During activities where potential adverse effects may occur to marine species, including marine mammals, a combination of visual surveying and passive acoustic monitoring (PAM) may be required to record information on species presence and behavior to inform BOEM and NOAA mitigation requirements measures aimed at minimizing potential effects"",
+      ""scope"": ""Offshore wind development activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Oceanic and Atmospheric Administration (NOAA), Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""Environmental"", ""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM may also be required during operations to record ambient noise levels and to monitor noise impacts on marine species"",
+      ""scope"": ""Offshore wind operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Oceanic and Atmospheric Administration (NOAA), Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""Environmental"", ""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM is a proven method for monitoring calling species to gain ecological context before, during, and after offshore wind development activities (site characterization, construction, operations, and decommissioning)"",
+      ""scope"": ""Offshore wind development activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Environmental"", ""Technical""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulates the potential effects of offshore wind energy on protected marine species under the Endangered Species Act, Marine Mammal Protection Act, National Environmental Policy Act, National Marine Sanctuary Act, and the Energy Policy Act""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulates offshore wind development through the issuance of leases and approval of Construction and Operations Plans (COPs)""
+    }
+  ]
+}"
+"44",5,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Recommendations for Passive Acoustic Monitoring of Marine Mammals for Offshore Wind Development"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Passive acoustic monitoring (PAM) platforms include moored recording buoys, autonomous underwater or surface vehicles, profile drifters, and towed hydrophone arrays, which can be strategically located to provide real-time information for immediate mitigative decision-making, monitor or assess the effects from specific activities, and gather continuous archival recordings for long-term monitoring, periodic evaluation, and adaptive management."",
+      ""scope"": ""Offshore wind development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Van Parijs and Southall, 2007; Van Parijs et al., 2009"",
+      ""related_domains"": ""Environmental, Safety""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM data can increase in utility when collected in a standardized method and analyzed using similar techniques."",
+      ""scope"": ""Offshore wind development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Safety""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""These recommendations also contain information on standardizing data collection methods, processing and analyses, archiving acoustic recordings, and data products, as well as steps to making these products publicly available."",
+      ""scope"": ""Offshore wind development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Safety""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulator""
+    },
+    {
+      ""entity_name"": ""Wildlife Conservation Society (WCS)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Advisor""
+    },
+    {
+      ""entity_name"": ""New York State Energy Research and Development Authority (NYSERDA)"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""Regulator""
+    }
+  ]
+}"
+"44",6,"claude","claude-3-haiku-20240307",False,"Based on the provided document, here is the extracted information in the requested JSON format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM PAM Recommendations"",
+    ""document_number"": ""Article 760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Project-specific PAM Plans, developed by project proponents and approved by Federal agencies, should include descriptions of equipment, procedures (deployment, retrieval, detection, and analyses), ISO data quality standards and protocols that will be used for monitoring and mitigation."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA and BOEM"",
+      ""related_domains"": ""Environmental, Technical""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory agency for offshore wind farm projects""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory agency for offshore wind farm projects""
+    }
+  ]
+}"
+"44",7,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM PAM Recommendations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM recording technologies, PAM system requirements, and PAM designs need to be constructed with the frequency requirements and specific call types of low-frequency sound producing baleen whale species in mind."",
+      ""scope"": ""Offshore wind energy development in the Atlantic OCS region"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Ocean Best Practices"",
+      ""related_domains"": [""Environmental"", ""Technical""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide recommendations for PAM requirements""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide recommendations for PAM requirements""
+    }
+  ]
+}"
+"44",8,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Passive Acoustic Monitoring (PAM) for Offshore Wind Farm Planning and Operation"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM recording technology, PAM system requirements and PAM design needs to be considered when creating a PAM Plan"",
+      ""scope"": ""Offshore wind farm planning and operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Technical, Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A combination of PAM and acoustic telemetry can be used to delineate the temporal and spatial extent of spawning grounds for acoustically active fishes or invertebrates"",
+      ""scope"": ""Offshore wind farm planning and operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Ingram et al., 2019; Zemeckis et al., 2019"",
+      ""related_domains"": ""Technical, Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Fish are generally low-frequency sound producers with most species' core frequency occurring below 1 kHz"",
+      ""scope"": ""Offshore wind farm planning and operation"",
+      ""numerical_value"": 1,
+      ""unit"": ""kHz"",
+      ""source"": ""Figure 3"",
+      ""related_domains"": ""Technical, Environmental""
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"44",9,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there does not appear to be any information related to regulatory entities or regulatory constraints for offshore wind farm planning, construction, and operation. The document discusses the use of passive acoustic monitoring (PAM) for evaluating species distribution and occurrence, and changes in animal calls over time. It does not contain any information about wind farm regulations or requirements.
+
+Therefore, the structured output is as follows:
+
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM PAM Recommendations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",10,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be focused on the frequency ranges of various marine animal vocalizations and anthropogenic sound sources, without any mention of wind farm regulations or requirements.
+
+Since the document does not contain the type of information requested, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Frequency ranges of marine animal calls and anthropogenic sound sources"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document does not appear to contain any regulatory entities or constraints relevant to offshore wind farm development. Therefore, the output reflects the absence of the requested information in the provided text."
+"44",11,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to regulatory entities or regulatory constraints for offshore wind farm planning, construction, and operation. The document appears to be focused on describing the acoustic characteristics of certain whale species, which is not directly relevant to the requested information. Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Sei whale Downsweeps (reproductive and social)"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",12,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be a technical description of various whale vocalizations, including their frequency ranges and call types. This information is not relevant to the requested task of extracting regulatory entities and constraints for wind farm projects. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Whistles and Pulsed Calls"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",13,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Passive Acoustic Monitoring for Offshore Wind Farms"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Archival PAM systems are often moored near the seabed with no surface expression and are returned to the surface by divers or by using an acoustic release mechanism."",
+      ""scope"": ""Offshore wind farm monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Technical""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Archival data can be useful to build long-term monitoring records of the presence of sound producing species, both temporally (seasonal and yearly occurrence) as well as spatially (occurrence in and across different regions)."",
+      ""scope"": ""Offshore wind farm monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Technical, Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Real-time PAM systems that enable rapid detection and recognition of marine mammal calls are invaluable for monitoring but are essential components for mitigating"",
+      ""scope"": ""Offshore wind farm monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Technical, Environmental, Safety""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}"
+"44",14,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM PAM Recommendations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Real-time acoustic alerts can be used to respond quickly to the presence of protected species in a construction area (e.g., during impact pile driving as long as the presence of multiple construction noise sources do not mask their presence) or in the vicinity of transiting vessels, thereby reducing the risk of vessel strike"",
+      ""scope"": ""Offshore wind farm construction and operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Spaulding et al., 2009; Baumgartner et al., 2019, 2020, 2021; Norris et al., 2019; Kowarski et al., 2020; Wood et al., 2020"",
+      ""related_domains"": ""Environmental, Safety""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Real-time PAM can also be used to improve and adjust to noise produced by pile driving, by offering real time feedback on the noise produced by the hammer and the capacity to adjust this if needed"",
+      ""scope"": ""Offshore wind farm construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Technical""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Real-time PAM can be conducted from a variety of platforms, including vessels, surface buoys, autonomous vehicles such as gliders, and drifting buoys"",
+      ""scope"": ""Offshore wind farm construction and operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Technical""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The PAM data will travel from a PAM recording sensor to the receiving station on shore/vessel at regular time intervals agreed upon in the PAM Plan"",
+      ""scope"": ""Offshore wind farm construction and operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Technical""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide recommendations for passive acoustic monitoring (PAM) in offshore wind farm development""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide recommendations for passive acoustic monitoring (PAM) in offshore wind farm development""
+    }
+  ]
+}"
+"44",15,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Farm Planning and Regulation"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Phone towers can be used for data relay if sensors are located close to land, as reception tends to be lost beyond 15 miles offshore."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": 15,
+      ""unit"": ""miles"",
+      ""source"": null,
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Iridium satellite data transmission (currently the most common type) costs are based on the quantity of data and frequency at which you want to upload, and which data service plan you select."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Another possible option is cabled arrays laid out on the seafloor, which can also provide a real-time data feed straight to shore where such an installation is feasible."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Lindsey et al. (2019)"",
+      ""related_domains"": [""Technical""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"44",16,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analysis of the provided document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""PAM Fixed, Bottom-Mounted Archival"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Passive acoustic monitoring fixed, bottom-mounted archival recorders are moored on or near the ocean floor for several weeks to months (many recorders can now record continuously for 4 to 6 months), and up to several years."",
+      ""scope"": ""Offshore wind farm operating area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Technical""
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The detection radius will vary depending on a number of factors, including those influencing signal propagation (i.e., water depth and temperature, substrate type, noise levels), as well as source level and directivity differences in calls between individuals and species."",
+      ""scope"": ""Offshore wind farm operating area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Technical""
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""An estimate of the minimum number of hydrophones needed for detection of the call types of the species of interest should be made and hydrophones placed with these considerations in mind to minimize potential missed portions of the operating or surrounding areas."",
+      ""scope"": ""Offshore wind farm operating area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Technical""
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The percentage of area that is desirable or required to be covered by the hydrophone spacing needs to be considered."",
+      ""scope"": ""Offshore wind farm operating area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Technical""
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""We aim to have 100% coverage of the acoustic radius of a calling North Atlantic right whale individual within the lease block areas and 50% coverage outside of the areas."",
+      ""scope"": ""Offshore wind farm lease block areas"",
+      ""numerical_value"": 100,
+      ""unit"": ""Percent"",
+      ""source"": ""Supplemental Information I"",
+      ""related_domains"": ""Environmental, Technical""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Multi-element bottom-mounted hydrophone arrays can be used to track the movements of calling individuals."",
+      ""scope"": ""Offshore wind farm operating area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Stanistreet et al., 2013"",
+      ""related_domains"": ""Technical""
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"44",17,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there is no explicit information about regulatory entities or regulatory constraints related to offshore wind farm planning, construction, and operation. The document appears to be focused on describing passive acoustic monitoring (PAM) surface buoys and their use for monitoring marine species, rather than discussing wind farm regulations.
+
+Therefore, the structured output would be as follows:
+
+{
+  ""document_metadata"": {
+    ""title"": ""PAM Fixed Surface Buoys, Real Time and Archival"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document does not contain any information about regulatory entities or regulatory constraints relevant to the given task. It is focused on the technical aspects of PAM surface buoys and their use for monitoring marine species, rather than wind farm regulations."
+"44",18,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM PAM Recommendations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Mooring/floatation system can add unwanted noise and must be carefully considered in the design phase."",
+      ""scope"": ""Offshore wind farm surface recorders"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Baumgartner et al., 2019"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM moored surface buoys should be placed with similar listening distances in mind as for PAM bottom-mounted recorders."",
+      ""scope"": ""Offshore wind farm PAM moored surface buoys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If the intent is to minimize ship strikes in a high vessel transit area, the PAM moored surface buoys should cover the vessel transit lanes."",
+      ""scope"": ""Offshore wind farm PAM moored surface buoys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Technical"", ""Safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If the intent is to listen for the presence of endangered species in the vicinity and within the wind lease construction area, then the number and spacing of buoys should reflect the effective listening area."",
+      ""scope"": ""Offshore wind farm PAM moored surface buoys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Technical"", ""Environmental""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority for offshore wind farm development""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority for offshore wind farm development""
+    }
+  ]
+}"
+"44",19,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Dense – continuous data Archival Baseline long-term monitoring"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Autonomous Large Underwater Vehicles can survey large spatial areas along slow moving tracklines"",
+      ""scope"": ""Offshore wind farm monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Technical""
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""PAM Drifters can survey large spatial areas dependent on current, tide and wind"",
+      ""scope"": ""Offshore wind farm monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Technical""
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""PAM Towed Array can survey large spatial areas"",
+      ""scope"": ""Offshore wind farm monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Technical""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Monitoring and data collection for offshore wind farms""
+    }
+  ]
+}"
+"44",20,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there is no information directly related to offshore wind farm planning, construction, or operation. The document discusses Autonomous Underwater Vehicles (AUVs) and their use in passive acoustic monitoring (PAM) applications, but does not mention any regulatory entities or constraints specific to wind farms. Therefore, the output is:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Autonomous Underwater Vehicles for Passive Acoustic Monitoring"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",21,"claude","claude-3-haiku-20240307",False,"Unfortunately, the given document does not contain any information related to regulatory entities or regulatory constraints for offshore wind farm planning, construction, and operation. The document appears to be discussing the capabilities of low-frequency baleen whales and the development of autonomous underwater vehicle technologies, which are not directly relevant to the requested information. Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",22,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM PAM Recommendations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Autonomous Underwater Vehicles are ideally suited for monitoring an area to inform BOEM and NOAA mitigation requirements."",
+      ""scope"": ""Offshore wind farm monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM and NOAA"",
+      ""related_domains"": ""Environmental monitoring""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Tracklines should be designed with consideration of the listening radius of the focal species and the total detection radius of the mitigation and monitoring area that is required."",
+      ""scope"": ""Offshore wind farm monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental monitoring, Technical design""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If the aim is to understand a small area in great detail so as to not miss the presence of the species of interest, then dense tracklines that are surveyed frequently are recommended."",
+      ""scope"": ""Offshore wind farm monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental monitoring, Technical design""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If the intention is to cover a large area to detect individuals before an activity requiring mitigation occurs or to inform BOEM and NOAA mitigation decisions over larger areas, then broader tracklines are needed to be able to cover the detection area in question."",
+      ""scope"": ""Offshore wind farm monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM and NOAA"",
+      ""related_domains"": ""Environmental monitoring, Technical design""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulator and decision-maker for offshore wind farm mitigation requirements""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulator and decision-maker for offshore wind farm mitigation requirements""
+    }
+  ]
+}"
+"44",23,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there does not appear to be any information directly related to offshore wind farm regulations or requirements. The document discusses the use of glider tracklines for detecting spawning Atlantic cod and North Atlantic right whales, which is not relevant to the requested analysis. Therefore, the structured output is as follows:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Example of proposed glider tracklines"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",24,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there is no information that can be directly extracted as regulatory constraints or regulatory entities related to offshore wind farm planning, construction, and operation. The document discusses passive acoustic monitoring (PAM) drifters, which are used for monitoring marine species and ocean noise, but does not mention any specific regulations or regulatory bodies governing offshore wind farms.
+
+Here is the structured output in the requested JSON format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""PAM Drifters, Real Time and Archival"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document appears to be focused on the technical aspects of PAM drifters and their potential applications, but does not contain any information relevant to the regulation of offshore wind farms. Therefore, there are no regulatory entities or constraints that can be extracted from this document."
+"44",25,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there is no information that can be directly extracted as regulatory constraints or regulatory entities related to offshore wind farm planning, construction, and operation. The document discusses the use of various acoustic monitoring techniques, such as drifters, towed PAM arrays, and autonomous underwater vehicles, for marine mammal detection. While it mentions some technical considerations around the use of these monitoring methods, it does not contain any specific regulatory requirements or information about regulatory bodies governing offshore wind farms.
+
+Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Acoustic Monitoring"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",26,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Van Parijs et al. NOAA and BOEM PAM Recommendations"",
+    ""document_number"": ""Article 760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Other types of arrays, such as bottom-mounted cabled arrays, are not discussed here because they are less frequently used, given the cost and infrastructure needed to lay and maintain them."",
+      ""scope"": ""Offshore wind farm monitoring systems"",
+      ""source"": ""Frontiers in Marine Science"",
+      ""related_domains"": ""Technical, Cost""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority for offshore wind farm monitoring""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority for offshore wind farm monitoring""
+    }
+  ]
+}"
+"44",27,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Passive Acoustic Monitoring for Offshore Wind Farm Planning and Operation"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Baseline acoustic data collection is essential in order to build an understanding of the inter- and intra- year variability of species presence in an area."",
+      ""scope"": ""Offshore wind energy lease areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Yoccoz et al. (2001)"",
+      ""related_domains"": ""Environmental, Monitoring""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Robust baseline monitoring allows for inference to be drawn as to the cause of any observed changes and whether they are a result of oceanographic, ecological, or climatological factors, or due to anthropogenic effects."",
+      ""scope"": ""Offshore wind energy lease areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Yoccoz et al. (2001)"",
+      ""related_domains"": ""Environmental, Monitoring""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Both large-scale and small-scale trends and changes in species distribution, occurrence, calling behavior (e.g., foraging, socializing, reproduction), and movements can be derived from archival PAM data collection."",
+      ""scope"": ""Offshore wind energy lease areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Monitoring""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Passive acoustic monitoring archival recordings are also increasingly being used to monitor the long-term ambient noise and communication space available to marine animals is a given area, in addition to the composition and health of marine soundscapes e.g., the prevalence of non-biological or anthropogenic sound sources."",
+      ""scope"": ""Offshore wind energy lease areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clark et al. (2009); Hatch et al. (2012); Staaterman et al. (2014); Erbe et al. (2016); Merchant et al. (2016); Haver et al. (2018)"",
+      ""related_domains"": ""Environmental, Monitoring""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Potential effects of anthropogenic activities on marine species can be evaluated through applying the collected data to analytical frameworks, such as Before-After-Control-Impact (BACI) and Beyond-BACI designs, or Before-After-Gradient (BAG) analyses."",
+      ""scope"": ""Offshore wind energy lease areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Underwood (1992, 1994), Ellis and Schneider (1997), Brandt et al. (2011), Methratta (2020)"",
+      ""related_domains"": ""Environmental, Monitoring""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}"
+"44",28,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""development evaluation for marine mammals"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""robust real-time monitoring needs to be established throughout the impacted area and the area directly in the vicinity"",
+      ""scope"": ""Offshore wind farm project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Carstensen et al. (2006) and Scheidat et al. (2011)"",
+      ""related_domains"": ""Environmental, Technical""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The timing of data reporting and the subsequent actions taken need to clearly show how it will be effective at minimizing risk"",
+      ""scope"": ""Offshore wind farm project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Technical""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""ISO data templates which serve as guidelines for consistent and standardized data collection"",
+      ""scope"": ""Offshore wind farm project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Supplemental III"",
+      ""related_domains"": ""Technical""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}"
+"44",29,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Understand distribution of species"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monitor a given area prior to, during, and after the construction period in order to understand the presence and distribution of species of interest."",
+      ""scope"": ""Offshore wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Best practice recommendation"",
+      ""related_domains"": [""Environmental""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Data collection is recommended at least 3 to 5 years prior to construction, during construction, and at least 3 to 5 years during wind farm operation."",
+      ""scope"": ""Offshore wind farm development"",
+      ""numerical_value"": 3,
+      ""unit"": ""years"",
+      ""source"": ""Best practice recommendation"",
+      ""related_domains"": [""Environmental""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Multiple years of data from the same area are needed in order to understand the inter-annual variability in species movement."",
+      ""scope"": ""Offshore wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Best practice recommendation"",
+      ""related_domains"": [""Environmental""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""These data provide an understanding of the annual presence, occupancy, and distribution of a species; help discern the potential impact of other factors, such as climate change, that may influence distribution; and help determine the likelihood of the species being in the area during construction and/or during subsequent long-term operation."",
+      ""scope"": ""Offshore wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Best practice recommendation"",
+      ""related_domains"": [""Environmental""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}"
+"44",30,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Van Parijs et al. NOAA and BOEM PAM Recommendations"",
+    ""document_number"": ""760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monitoring a given area during the construction period of a wind development area to inform mitigation actions, such as delaying, ceasing, or proceeding with pile driving when a protected species is confirmed acoustically within a relevant impact zone (i.e., Shutdown or Clearance Zone)."",
+      ""scope"": ""Offshore wind farm construction"",
+      ""source"": ""Supplemental Information II"",
+      ""related_domains"": [""Environmental"", ""Safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A thorough decision-making and communication process when a detection is made is needed to ensure that vessels are alerted and slow down to reduce the risk of vessel strike."",
+      ""scope"": ""Offshore wind farm operation"",
+      ""source"": ""Document"",
+      ""related_domains"": [""Safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority""
+    }
+  ]
+}"
+"44",31,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there is no information directly related to offshore wind farm planning, construction, or operation. The document discusses the triggering of NOAA's Slow Zones to reduce vessel strike risk for North Atlantic right whales. This information is not relevant to the requested task of extracting regulatory entities and constraints for wind farm projects. Therefore, the output is:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Triggering of NOAA's Slow Zones"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",32,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Information II"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All real-time PAM designs need a clear and well thought out and consistent process, including PAM placement and technology type, species detection, integration with other visual data observations, communication of information to Protected Species Operators (PSOs)/shoreside operators, and response of the information/detection."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Technical"", ""Environmental""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Limitations of each real-time PAM system should be well understood and considered in detail in any PAM Plan."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Efficacy of the system used and its capacity to detect the signal/species of interest is essential to developing a successful and credible PAM Plan."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Technical"", ""Environmental""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""No one PAM system is capable of answering all needs and that frequently a mixture of PAM systems, technologies and designs are likely needed to address all monitoring and mitigation requirements."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Technical""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ADEON (Atlantic Deep Water Sea Ecosystem Observatory Network)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Providing standards and guidelines for PAM systems""
+    },
+    {
+      ""entity_name"": ""JONAS (Joint Framework for Ocean Noise in the Atlantic Seas)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Providing standards and guidelines for PAM systems""
+    },
+    {
+      ""entity_name"": ""JOMOPANS (Joint Monitoring Programme for Ambient Noise North Sea)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Providing standards and guidelines for PAM systems""
+    },
+    {
+      ""entity_name"": ""Ocean Best Practices Repository"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Providing existing practices on PAM""
+    }
+  ]
+}"
+"44",33,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM PAM Recommendations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The hydrophones and related hardware need to be calibrated (every 3 to 5 years) and their performance systematically measured and optimized within frequency bandwidths of interest for the particular activity, species, and environment."",
+      ""scope"": ""Passive Acoustic Monitoring (PAM) technologies"",
+      ""numerical_value"": 3,
+      ""unit"": ""years"",
+      ""source"": ""NOAA and BOEM recommendations"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Calibration data, and relevant settings and sensitivities should be noted for all hardware used in recording/monitoring to ensure consistency among measurements for particular hardware and software."",
+      ""scope"": ""Passive Acoustic Monitoring (PAM) technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA and BOEM recommendations"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Array synchronization information (where relevant) should also be documented."",
+      ""scope"": ""Passive Acoustic Monitoring (PAM) technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA and BOEM recommendations"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All hardware should be tested and optimized for low self-noise, including the mooring system."",
+      ""scope"": ""Passive Acoustic Monitoring (PAM) technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA and BOEM recommendations"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The system should be fully tested to ensure adequate sensitivity in the area where it will be deployed and with the type of signals it would receive."",
+      ""scope"": ""Passive Acoustic Monitoring (PAM) technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA and BOEM recommendations"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If the system cannot be tested at the project site, it should be fully tested in a comparable location (i.e., an area exhibiting similar depth, temperature, substrate, current, acoustic propagation, and ambient noise, with relevant sound sources)."",
+      ""scope"": ""Passive Acoustic Monitoring (PAM) technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA and BOEM recommendations"",
+      ""related_domains"": [""Technical""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority for offshore wind farm development""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority for offshore wind farm development""
+    }
+  ]
+}"
+"44",34,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Passive Acoustic Monitoring (PAM) Requirements"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The system needs to have a bandwidth and frequency response of 10 to 2000 kHz."",
+      ""scope"": ""Offshore wind farm PAM systems"",
+      ""numerical_value"": 10,
+      ""unit"": ""kHz"",
+      ""source"": ""Document"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The system sensitivity should be -207 dB re 1 V/µPa @ 1 kHz."",
+      ""scope"": ""Offshore wind farm PAM systems"",
+      ""numerical_value"": -207,
+      ""unit"": ""dB re 1 V/µPa"",
+      ""source"": ""Document"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The system should have a dynamic range."",
+      ""scope"": ""Offshore wind farm PAM systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Document"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The system self-noise should be the equivalent bandwidth noise pressure level."",
+      ""scope"": ""Offshore wind farm PAM systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Document"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The system should have a gain."",
+      ""scope"": ""Offshore wind farm PAM systems"",
+      ""numerical_value"": null,
+      ""unit"": ""dB"",
+      ""source"": ""Document"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The system should have a directional response, either omnidirectional or angular dependent."",
+      ""scope"": ""Offshore wind farm PAM systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Document"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The system should have a sample rate."",
+      ""scope"": ""Offshore wind farm PAM systems"",
+      ""numerical_value"": null,
+      ""unit"": ""kHz"",
+      ""source"": ""Document"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The system should have a sample resolution of 12 Bits."",
+      ""scope"": ""Offshore wind farm PAM systems"",
+      ""numerical_value"": 12,
+      ""unit"": ""Bits"",
+      ""source"": ""Document"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The system should have a recording schedule, including recording duration and interval."",
+      ""scope"": ""Offshore wind farm PAM systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Document"",
+      ""related_domains"": [""Technical""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The system needs to be designed, installed, and operated by those having expertise with the specific PAM technology."",
+      ""scope"": ""Offshore wind farm PAM systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Document"",
+      ""related_domains"": [""Safety"", ""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The PAM technology used should have been used for the same purpose in other field efforts and have clear and detailed information available about its previous performance and reliability for PAM purposes."",
+      ""scope"": ""Offshore wind farm PAM systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Document"",
+      ""related_domains"": [""Technical""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}"
+"44",35,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there are no explicit regulatory entities or constraints mentioned. The document appears to be focused on technical details related to passive acoustic monitoring (PAM) software for species detection, rather than regulatory information for offshore wind farm planning, construction, and operation.
+
+The document discusses the use of PAM software and visual processing by acoustic experts for detecting the presence of specific species, as well as the need to report standard performance metrics for such software. However, it does not contain any information about regulatory bodies or specific rules and requirements for offshore wind farm development.
+
+Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""PAM Species-Specific Automated Detection Software"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",36,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Passive Acoustic Monitoring for Offshore Wind Farm Planning and Operation"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Three upcalls within a 24-hour time period serves as the determination that at least one North Atlantic right whale is present during that day"",
+      ""scope"": ""North Atlantic right whales along the United States East Coast"",
+      ""numerical_value"": 3,
+      ""unit"": ""upcalls"",
+      ""source"": ""Davis et al. (2017)"",
+      ""related_domains"": ""Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Automated detectors for 20 Hz fin whales have a high detection accuracy, and it may be reasonable to simply take the detector output with no further evaluation"",
+      ""scope"": ""20 Hz fin whales"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Morano et al. (2012b)"",
+      ""related_domains"": ""Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For PAM real-time data analysis, additional visual verification of the detected sound is likely to be needed since the occurrence of a given call type may influence whether operations are able to continue or are required to shut down"",
+      ""scope"": ""PAM real-time data analysis"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental, Safety""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A PAM expert is defined as a scientist who has 6 months of experience in PAM data analysis"",
+      ""scope"": ""PAM data analysis"",
+      ""numerical_value"": 6,
+      ""unit"": ""months"",
+      ""source"": null,
+      ""related_domains"": ""Technical""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}"
+"44",37,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Van Parijs et al. NOAA and BOEM PAM Recommendations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM operators must have one or more of experience working with the call types of the species of interest, who can distinguish between confounding sounds, and who has experience working with the relevant detection software."",
+      ""scope"": ""Offshore wind farm projects using passive acoustic monitoring (PAM)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA and BOEM recommendations"",
+      ""related_domains"": [""Environmental"", ""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Established and publicly available protocols on how a species is determined present for the specific PAM system and software must be documented in the PAM Plan."",
+      ""scope"": ""Offshore wind farm projects using passive acoustic monitoring (PAM)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA and BOEM recommendations"",
+      ""related_domains"": [""Environmental"", ""Technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The PAM Plan should demonstrate for all PAM systems and moorings that (a) the species' signal of interest can be heard reliably beyond the self-noise, and (b) any detection and classification software that is used has (1) been tested; (2) clearly documented reliability in detecting a given species; and (3) software performance metrics that are openly available."",
+      ""scope"": ""Offshore wind farm projects using passive acoustic monitoring (PAM)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA and BOEM recommendations"",
+      ""related_domains"": [""Environmental"", ""Technical""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority for offshore wind farm projects""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority for offshore wind farm projects""
+    }
+  ]
+}"
+"44",38,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Localizing calling species during the construction phase of offshore wind projects"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Localization of calling species during the construction phase of offshore wind projects would be very useful for satisfying mitigation requirements regarding the location and distance of the species in question, relative to the sound source (e.g., pile driving location)."",
+      ""scope"": ""Offshore wind projects during construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Environmental""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}
+
+The document discusses technical methods for localizing calling species during the construction phase of offshore wind projects, which can be useful for satisfying environmental mitigation requirements. However, it does not explicitly mention any regulatory entities or specific regulatory constraints. Therefore, the ""regulatory_entities"" section is null, and the ""regulatory_constraints"" section contains only a general environmental requirement related to mitigating the impact on calling species."
+"44",39,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""PAM Ambient Noise Metrics"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Localization and methodology should be included in the PAM Plan to approximate locations of the animal or sound source for purposes of taking action."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Environmental""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Bottom-mounted recorders, real-time systems, towed and vertical arrays, and drifters can all be used for localization purposes, depending on the accuracy needed and the species of interest."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Environmental""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Determining which system and technology to use requires careful consideration and supporting evidence to demonstrate that the design is appropriate."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Environmental""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The analytical component of localization can be highly time consuming, which can be costly, and each array design requires careful documentation of the localization errors of the system."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Environmental""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"44",40,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Measurement of Background Sound Levels and Ambient Noise Metrics"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Measurements of ambient noise metrics can be carried out using a number of open source programs such as PAMGUIDE or MANTA."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Merchant et al., 2015; Ocean Best Practices Repository"",
+      ""related_domains"": ""Technical, Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""These programs provide a standard series of measurements at the decidecadal level that can be replicated across projects."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Ocean Best Practices Repository"",
+      ""related_domains"": ""Technical""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Ambient noise metrics could also document the level of potential increases in ambient noise due to wind farms."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Metrics for the coincidental recording of ambient noise should be included in PAM Plans and include factors anticipated to be associated with offshore wind development such as vessel traffic and operational noise."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Ocean Best Practices Repository"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Provides standards and guidelines for observations of sound in the ocean""
+    }
+  ]
+}"
+"44",41,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM PAM Recommendations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Passive acoustic monitoring archiving is essential in order to provide a long-lasting record of the efforts invested in PAM data collection."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Van Parijs et al."",
+      ""related_domains"": [""Environmental""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The acoustic sound recordings, which are the raw sound recordings made using the PAM technology, should be compressed into a standardized lossless format such as FLAC for archiving."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Van Parijs et al."",
+      ""related_domains"": [""Environmental""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The associated metadata, which is the information associated with the deployment and retrieval of the PAM technology at sea (e.g., recorder type, depth, location, and functionality) and information on the recording settings, such as the sampling rate and recording schedule, should be archived."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Van Parijs et al."",
+      ""related_domains"": [""Environmental""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Derived analytical products, such as the software program used and evaluation of efficacy of species detection, number of hourly or daily species detections, sound source levels, and other relevant measured sound parameters, should be archived."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Van Parijs et al."",
+      ""related_domains"": [""Environmental""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority for offshore wind farm projects""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority for offshore wind farm projects""
+    }
+  ]
+}"
+"44",42,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Archiving of acoustic sound recordings"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM metadata are required criteria for archiving at NCEI."",
+      ""scope"": ""Acoustic sound recordings"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA's National Center for Environmental Information (NCEI)"",
+      ""related_domains"": ""Technical""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA's National Center for Environmental Information (NCEI)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Archiving service provider for acoustic sound recordings""
+    }
+  ]
+}
+
+Explanation:
+
+1. The document discusses the archiving of acoustic sound recordings, which is relevant to offshore wind farm planning and operation.
+
+2. The regulatory constraint identified is the requirement for PAM (Passive Acoustic Monitoring) metadata to be included when archiving acoustic sound recordings at NCEI.
+
+3. The regulatory entity identified is the NOAA's National Center for Environmental Information (NCEI), which provides the archiving service and has the authority to set this technical requirement.
+
+4. The document does not contain any information about spatial, environmental, jurisdictional, or safety regulations related to offshore wind farms. Therefore, those sections are left empty."
+"44",43,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""PAM Detection/Data Reporting"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All confirmed passive acoustic detections of target species/species, whether from archival or real-time data, must be archived in a publicly accessible location."",
+      ""scope"": ""United States East Coast"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Northeast Passive Acoustic Reporting System"",
+      ""related_domains"": ""Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All species detection data and ambient noise metrics should be reported to the Northeast Passive Acoustic Reporting System via nmfs.pacmdata@noaa.gov."",
+      ""scope"": ""United States East Coast"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Northeast Passive Acoustic Reporting System"",
+      ""related_domains"": ""Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""When real-time PAM is used during construction for mitigation purposes, a subset of the information required on species detections is expected to be provided and uploaded no later than 24 after the detection."",
+      ""scope"": ""United States East Coast"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": ""Northeast Passive Acoustic Reporting System"",
+      ""related_domains"": ""Environmental, Safety""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Full acoustic detection data, metadata, and GPS data records must be submitted within 48 h via the formatted spreadsheets."",
+      ""scope"": ""United States East Coast"",
+      ""numerical_value"": 48,
+      ""unit"": ""hours"",
+      ""source"": ""Northeast Passive Acoustic Reporting System"",
+      ""related_domains"": ""Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""When PAM is used for long-term monitoring, all data (detection data, metadata, GPS data, and ambient noise data) should be provided via the formatted spreadsheets and uploaded within 90 days of the retrieval of the recorder or data collection."",
+      ""scope"": ""United States East Coast"",
+      ""numerical_value"": 90,
+      ""unit"": ""days"",
+      ""source"": ""Northeast Passive Acoustic Reporting System"",
+      ""related_domains"": ""Environmental""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Northeast Passive Acoustic Reporting System"",
+      ""jurisdiction"": ""United States East Coast"",
+      ""role"": ""Data collection and reporting""
+    },
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Oversight and management of the Northeast Passive Acoustic Reporting System""
+    }
+  ]
+}"
+"44",44,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""PAM Recommendations for Offshore Wind Development"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Passive Acoustic Monitoring (PAM) for monitoring and mitigation of offshore wind development impacts on marine mammals"",
+      ""scope"": ""Offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA and BOEM recommendations"",
+      ""related_domains"": [""Environmental""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA's National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide recommendations for PAM for offshore wind development""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide recommendations for PAM for offshore wind development""
+    }
+  ]
+}
+
+The document provides recommendations from NOAA's National Marine Fisheries Service and the Bureau of Ocean Energy Management (BOEM) for the use of Passive Acoustic Monitoring (PAM) in offshore wind development projects. The key regulatory constraint extracted is the requirement to use PAM for monitoring and mitigation of impacts on marine mammals. The two regulatory entities identified are NOAA's National Marine Fisheries Service and BOEM, which have the authority to provide guidance and recommendations for offshore wind development."
+"44",45,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM PAM Recommendations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Passive acoustic monitoring (PAM) should be used to monitor for the presence of marine mammals during offshore wind farm construction and operation"",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA and BOEM recommendations"",
+      ""related_domains"": ""Environmental, Safety""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA (National Oceanic and Atmospheric Administration)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide recommendations for monitoring marine mammals during offshore wind farm development""
+    },
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Provide recommendations for monitoring marine mammals during offshore wind farm development""
+    }
+  ]
+}
+
+The document provides recommendations from NOAA and BOEM regarding the use of passive acoustic monitoring (PAM) to monitor for the presence of marine mammals during offshore wind farm construction and operation. This is the only regulatory constraint identified in the document. The two regulatory entities mentioned are NOAA and BOEM, which have federal jurisdiction over offshore wind farm development and the protection of marine mammals."
+"44",46,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be focused on the acoustic behavior and characteristics of various marine mammals, such as dolphins and porpoises. There are no regulatory entities or constraints mentioned that are relevant to the wind farm domain. Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""IQOE Workshop Report: Guidelines for Observation of Ocean Sound, 13 July 2019, Park Hotel, Den Haag, Netherlands"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",47,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Assessing environmental impacts of offshore wind farms: lessons learned and recommendations for the future"",
+    ""document_number"": ""10.1186/2046-9063-10-8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assessing the potential effects of offshore wind farms on marine mammals"",
+      ""scope"": ""Offshore wind farms"",
+      ""source"": ""Bailey et al. (2010b)"",
+      ""related_domains"": [""Environmental""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Using T-PODs to assess variations in the occurrence of coastal bottlenose dolphins and harbour porpoises"",
+      ""scope"": ""Offshore wind farms"",
+      ""source"": ""Bailey et al. (2010a)"",
+      ""related_domains"": [""Environmental"", ""Technical""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Not specified"",
+      ""jurisdiction"": ""Not specified"",
+      ""role"": ""Not specified""
+    }
+  ]
+}"
+"44",48,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be focused on the acoustic identification of various marine mammal species, specifically beaked whales and pilot whales. There are no regulatory entities or constraints mentioned that are relevant to the wind farm domain. Therefore, the output is:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",49,"claude","claude-3-haiku-20240307",False,"Unfortunately, the given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be a scientific publication focused on passive acoustic monitoring of baleen whales. There are no regulatory entities or constraints mentioned that are relevant to the requested task. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Persistent near real-time passive acoustic monitoring for baleen whales from a moored buoy: system description and evaluation"",
+    ""document_number"": ""10.1111/2041-210X.13244"",
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",50,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be focused on the calibration of hydrophones and autonomous underwater recorders, as well as the detection and classification of marine mammals using passive acoustic monitoring. There are no regulatory entities or constraints mentioned that are relevant to the wind farm domain. Therefore, the output is:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",51,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Bowhead whale (Balaena mysticetus) migration and calling behaviour in the Alaskan Beaufort Sea, autumn 2001–04: an acoustic localization study"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monitoring of bowhead whale migration and calling behavior in the Alaskan Beaufort Sea during autumn"",
+      ""scope"": ""Alaskan Beaufort Sea"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Blackwell et al. (2007)"",
+      ""related_domains"": ""Environmental""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}
+
+The analyzed document does not contain any information about regulatory entities or specific regulatory constraints related to offshore wind farm planning, construction, or operation. The document focuses on a study of bowhead whale migration and calling behavior in the Alaskan Beaufort Sea, which is not directly related to wind farm regulations."
+"44",52,"claude","claude-3-haiku-20240307",False,"Based on the provided document, here is the extracted information in the requested JSON format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Communicating amidst the noise: modeling the aggregate influence of ambient and vessel noise on baleen whale communication space in a national marine sanctuary"",
+    ""document_number"": ""14867"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Protecting baleen whale communication space from the influence of ambient and vessel noise in a national marine sanctuary"",
+      ""scope"": ""National marine sanctuaries"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Cholewiak et al. (2018)"",
+      ""related_domains"": ""Environmental, Acoustic""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulating and managing national marine sanctuaries""
+    }
+  ]
+}
+
+The analyzed document does not contain any specific technical, safety, jurisdictional, or spatial regulations related to offshore wind farm planning, construction, or operation. The document focuses on the impact of ambient and vessel noise on baleen whale communication in a national marine sanctuary, which is an environmental consideration for offshore wind farm development. The key regulatory entity identified is NOAA, which has jurisdiction over national marine sanctuaries."
+"44",53,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Acoustic masking in marine ecosystems: intuitions, analysis, and implication"",
+    ""document_number"": ""395"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monitoring and protecting right whales in an urbanized ocean"",
+      ""scope"": ""Offshore wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clark et al. (2007)"",
+      ""related_domains"": ""Environmental, Safety""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Characterization of click characteristics of northern bottlenose whales and Sowerby's beaked whales"",
+      ""scope"": ""Offshore wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clarke et al. (2019)"",
+      ""related_domains"": ""Technical, Environmental""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assessing the effects of pile-driving on harbour porpoises at the first offshore wind farm in Germany"",
+      ""scope"": ""Offshore wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Dähne et al. (2013)"",
+      ""related_domains"": ""Environmental, Safety""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Harvard University Press"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Publisher of research on right whale conservation""
+    },
+    {
+      ""entity_name"": ""Journal of the Acoustical Society of America"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Publisher of research on marine mammal acoustics""
+    },
+    {
+      ""entity_name"": ""Environmental Research Letters"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Publisher of research on environmental impacts of offshore wind farms""
+    }
+  ]
+}"
+"44",54,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Bubble curtains attenuate noise from offshore wind farm construction and reduce temporary habitat loss for harbour porpoises"",
+    ""document_number"": ""10.3354/meps12257"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Bubble curtains can attenuate noise from offshore wind farm construction and reduce temporary habitat loss for harbour porpoises"",
+      ""scope"": ""Offshore wind farm construction"",
+      ""source"": ""Dähne et al. (2017)"",
+      ""related_domains"": ""Environmental, Technical""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}
+
+The analyzed document does not contain any explicit regulatory entities or specific regulatory constraints. However, it does provide technical information about the use of bubble curtains to attenuate noise and reduce habitat loss during offshore wind farm construction, which could be considered an environmental regulatory constraint."
+"44",55,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Using multipath reflections to obtain dive depths of beaked whales from a towed hydrophone array"",
+    ""document_number"": ""142, 1078–1087"",
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+The analyzed document does not contain any information related to regulatory entities or regulatory constraints for offshore wind farm planning, construction, or operation. The document appears to be a scientific paper focused on using hydrophone arrays to study beaked whale behavior, which is not directly relevant to the requested information."
+"44",56,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there is no information directly related to offshore wind farm regulations or requirements. The document appears to be focused on characterizing marine soundscapes and comparing echolocation clicks of different whale species. There are no mentions of regulatory entities or specific regulatory constraints for wind farm planning, construction, or operation. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Characterizing marine soundscapes"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",57,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be focused on the detection of marine mammal vocalizations using passive acoustic monitoring techniques. There are no regulatory entities or constraints mentioned that are relevant to the given task. Therefore, the output in the requested JSON format would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Detection probability of Cuvier's beaked whale clicks from a glider and a deep-water float"",
+    ""document_number"": ""144:1849"",
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",58,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there does not appear to be any information related to regulatory entities or regulatory constraints for offshore wind farm planning, construction, and operation. The document appears to be focused on the use of passive acoustic methods for tracking the 3D movements of small cetaceans around marine structures, and does not contain any information relevant to the requested task.
+
+Therefore, the output in the requested JSON format would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Passive acoustic methods for tracking the 3D movements of small cetaceans around marine structures"",
+    ""document_number"": ""10.1371/journal.pone.0229058"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",59,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Tracking technologies for quantifying marine mammal interactions with tidal turbines: pitfalls and possibilities"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Quantifying loss of acoustic communication space for right whales in and around a U.S. National Marine Sanctuary"",
+      ""scope"": ""U.S. National Marine Sanctuary"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Hatch et al. (2012)"",
+      ""related_domains"": ""Environmental""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monitoring long-term soundscape trends in U.S. waters"",
+      ""scope"": ""U.S. waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Haver et al. (2018)"",
+      ""related_domains"": ""Environmental""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Implications of future development in an offshore wind energy site for endangered Atlantic sturgeon"",
+      ""scope"": ""New York wind energy area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Ingram et al. (2019)"",
+      ""related_domains"": ""Environmental""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Monitoring long-term soundscape trends in U.S. waters""
+    },
+    {
+      ""entity_name"": ""National Park Service (NPS)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Monitoring long-term soundscape trends in U.S. waters""
+    }
+  ]
+}"
+"44",60,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information directly related to offshore wind farm regulations or requirements. The document appears to be focused on the International Quiet Ocean Experiment and the acoustic monitoring of marine mammals. There are no regulatory entities or constraints mentioned that would be applicable to the planning, construction, or operation of offshore wind farms. Therefore, the structured output is as follows:
+
+{
+  ""document_metadata"": {
+    ""title"": ""IQOE Inventory of Existing Standards for Observations of Sound in the Ocean. Draft."",
+    ""document_number"": ""Version 06 April 2018"",
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",61,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be focused on autonomous acoustic sailboats and humpback whale acoustic repertoire. There are no regulatory entities or constraints mentioned that are relevant to the requested task. Therefore, the output is:
+
+{
+  ""document_metadata"": {
+    ""title"": ""AAS endurance: an autonomous acoustic sailboat for marine mammal research; Western North Atlantic humpback whale fall and spring acoustic repertoire: insight into onset and cessation of singing behavior; Near real-time marine mammal monitoring from gliders: practical challenges, system development, and management implications"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",62,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""A Framework for Studying the Effects of Offshore Wind Development on Marine Mammals and Turtles"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Studying the effects of offshore wind development on marine mammals and turtles"",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Massachusetts Clean Energy Center and the Bureau of Ocean Energy Management"",
+      ""related_domains"": ""Environmental""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Massachusetts Clean Energy Center"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""Sponsor of the study on offshore wind development impacts""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Sponsor of the study on offshore wind development impacts""
+    }
+  ]
+}
+
+The analyzed document provides a framework for studying the effects of offshore wind development on marine mammals and turtles. It does not contain any specific regulatory constraints or requirements, but it identifies two regulatory entities involved in the study: the Massachusetts Clean Energy Center and the Bureau of Ocean Energy Management."
+"44",63,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be focused on the analysis of whale vocalizations and the use of acoustic detectors. There are no regulatory entities or regulatory constraints mentioned that are relevant to the given task. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Automatic detectors for lowfrequency vocalizations of Omura's whales, Balaenoptera omurai : a performance comparison"",
+    ""document_number"": ""147, 3078–3090"",
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",64,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""An overview of fixed passive acoustic observation methods for cetaceans"",
+    ""document_number"": ""10.1121/1.1593066"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monitoring fisheries resources at offshore wind farms"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Methratta (2020)"",
+      ""related_domains"": ""Environmental""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Detecting marine mammals with an adaptive sub-sampling recorder"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Miksis-Olds et al. (2010)"",
+      ""related_domains"": ""Environmental""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Passive acoustic monitoring of biological and anthropogenic sounds at America's first offshore wind farm"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Mooney et al. (2013)"",
+      ""related_domains"": ""Environmental""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ICES"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Monitoring fisheries resources at offshore wind farms""
+    }
+  ]
+}"
+"44",65,"claude","claude-3-haiku-20240307",False,"Unfortunately, the given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be a collection of scientific papers focused on the acoustics and presence of various whale species. There are no regulatory entities or constraints mentioned that are relevant to the requested task. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Acoustically detected year-round presence of right whales in an urbanized migration corridor"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",66,"claude","claude-3-haiku-20240307",False,"Based on the provided document, here is the structured output in the requested JSON format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Real-time passive acoustic monitoring results of the 2018 Pacific region international survey of marine megafauna off Western Canada"",
+    ""document_number"": ""10.1121/1.5136717"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monitoring of marine megafauna to understand the potential impacts of offshore wind energy development"",
+      ""scope"": ""Offshore wind energy development in the Pacific region off Western Canada"",
+      ""source"": ""Norris et al. (2019)"",
+      ""related_domains"": [""Environmental""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New York State Energy Research and Development Authority (NYSERDA)"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""Organizing a state-level workshop on the cumulative impacts of offshore wind energy on wildlife""
+    },
+    {
+      ""entity_name"": ""The White House, Office of the Press Secretary"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Announcing the Biden Administration's efforts to jumpstart offshore wind energy projects""
+    }
+  ]
+}
+
+The document does not contain any specific numerical regulatory requirements or standards related to offshore wind farm planning, construction, or operation. However, it does mention the need for monitoring of marine megafauna to understand the potential environmental impacts of offshore wind energy development in the Pacific region off Western Canada.
+
+The document also references two regulatory entities: the New York State Energy Research and Development Authority (NYSERDA), which is organizing a state-level workshop on the cumulative impacts of offshore wind energy on wildlife, and the White House Office of the Press Secretary, which announced the Biden Administration's efforts to jumpstart offshore wind energy projects."
+"44",67,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore wind energy development in the exclusive economic zone: legal and policy supports and impediments in Germany and the US"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Offshore wind energy development in the exclusive economic zone"",
+      ""scope"": ""Offshore wind farms in the exclusive economic zone"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Portman et al. (2009)"",
+      ""related_domains"": ""Jurisdictional""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Establishing standards for operational real-time systems for passive acoustic monitoring of offshore wind farms"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""POWER-US (2019)"",
+      ""related_domains"": ""Technical, Environmental""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}"
+"44",68,"claude","claude-3-haiku-20240307",False,"Based on the provided document, here is the extracted information in the requested JSON format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Van Parijs et al. NOAA and BOEM PAM Recommendations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Good Practice Guide for Underwater Noise Measurement"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Robinson et al. (2014)"",
+      ""related_domains"": ""Environmental, Technical""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Listening to fish: applications of passive acoustics to fisheries science"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Rountree et al. (2006)"",
+      ""related_domains"": ""Environmental, Fisheries""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Harbour porpoises (Phocoena phocoena) and wind farms: a case study in the Dutch North Sea"",
+      ""scope"": ""Offshore wind farms in the Dutch North Sea"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Scheidat et al. (2011)"",
+      ""related_domains"": ""Environmental, Marine Mammals""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority""
+    }
+  ]
+}"
+"44",69,"claude","claude-3-haiku-20240307",False,"Unfortunately, the given document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be a collection of references related to the use of passive acoustic monitoring for marine mammal detection and research. There are no regulatory entities or constraints mentioned that would be relevant to the requested analysis. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""N/A"",
+    ""document_number"": ""N/A"",
+    ""type_of_wind_farm"": ""N/A""
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",70,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there does not appear to be any information directly related to offshore wind farm planning, construction, or operation. The document appears to be focused on the use of passive acoustic monitoring for detecting the presence of marine mammals, such as beaked whales and humpback whales. There are no regulatory entities or regulatory constraints mentioned that are relevant to the given task. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Effects of duty-cycled passive acoustic recordings on detecting the presence of beaked whales in the northwest Atlantic"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",71,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there does not appear to be any information directly related to regulatory entities or constraints for offshore wind farm planning, construction, and operation. The document appears to be focused on passive acoustic monitoring of marine mammals, which is not directly relevant to the requested information. Therefore, the output is as follows:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Achieving consensus and convergence on a towed array passive acoustic monitoring standard for marine mammal monitoring"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",72,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there is no information directly related to offshore wind farm planning, construction, or operation. The document appears to be focused on the acoustic behavior of polar pinnipeds and the use of passive acoustic monitoring for marine animal conservation. There are no regulatory entities or constraints mentioned that are relevant to the given task. Therefore, the output is:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Insights into the acoustic behaviour of polar pinnipeds–current knowledge and emerging techniques of study"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",73,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to regulatory entities or regulatory constraints for offshore wind farm planning, construction, and operation. The document appears to be a list of references related to passive acoustic monitoring of marine life, but does not mention any wind farm regulations or requirements. Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Passive Acoustic Monitoring References"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+This document does not seem to contain the type of information needed to build a regulatory ontology and knowledge graph for offshore wind farm development. The references are focused on marine acoustics and do not cover wind farm regulations."
+"44",74,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there is no information directly related to offshore wind farm planning, construction, or operation regulations. The document appears to be a research paper discussing the monitoring of biological diversity and does not contain any regulatory entities or constraints relevant to the requested task. Therefore, the output is:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Monitoring of biological diversity in space and time"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"44",75,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to regulatory entities or regulatory constraints for offshore wind farm planning, construction, and operation. The document appears to be a frontpage for the Frontiers in Marine Science journal and does not provide any technical or regulatory details. Therefore, I cannot extract the requested information in the specified JSON format. If you have a different document that contains relevant regulatory information, please provide that, and I will be happy to analyze it."

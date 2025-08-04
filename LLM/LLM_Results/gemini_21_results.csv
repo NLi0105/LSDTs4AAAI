@@ -1,0 +1,3080 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+21,1,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,2,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,3,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,4,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,5,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,6,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,7,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,8,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,9,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,10,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,11,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,12,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,13,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,14,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,15,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Developers of offshore wind facilities must develop Facility Design Reports."",
+      ""scope"": ""Offshore wind facilities in U.S. federal Outer Continental Shelf (OCS) waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Code of Federal Regulations, 30 CFR 585.700"",
+      ""related_domains"": [""design"", ""reporting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Developers of offshore wind facilities must develop Construction and Operations Plans."",
+      ""scope"": ""Offshore wind facilities in U.S. federal Outer Continental Shelf (OCS) waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Code of Federal Regulations, 30 CFR 585.600"",
+      ""related_domains"": [""construction"", ""operations"", ""planning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    }
+  ]
+}
+```"
+21,16,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,17,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In case of conflict between requirements of this guideline and a referenced code, the requirements of the code with the latest revision date shall prevail."",
+      ""scope"": ""General"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""This guideline"",
+      ""related_domains"": [""general requirements"", ""standards compliance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,18,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Project certification of wind power plants is addressed."",
+      ""scope"": ""Wind power plants"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-SE-0190"",
+      ""related_domains"": [""certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Certification of meteorological masts is required."",
+      ""scope"": ""Meteorological masts"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-SE-0420"",
+      ""related_domains"": [""certification"", ""meteorological data""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Standards for marine operations and marine warranty are defined."",
+      ""scope"": ""Marine operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-ST-N001"",
+      ""related_domains"": [""marine operations"", ""safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Standards for transport and installation of wind power plants are specified."",
+      ""scope"": ""Transport and installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-ST-0054"",
+      ""related_domains"": [""installation"", ""transport""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design requirements for floating wind turbine structures are outlined."",
+      ""scope"": ""Floating wind turbine structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-ST-0119"",
+      ""related_domains"": [""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Requirements for support structures for wind turbines are provided."",
+      ""scope"": ""Support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-ST-0126"",
+      ""related_domains"": [""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Standards for offshore substations are defined."",
+      ""scope"": ""Offshore substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-ST-0145"",
+      ""related_domains"": [""electrical infrastructure""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Loads and site conditions for wind turbines are specified."",
+      ""scope"": ""Wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-ST-0437"",
+      ""related_domains"": [""site conditions"", ""structural loads""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design standards for offshore wind farms are provided."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""TAP 670aa"",
+      ""related_domains"": [""design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,19,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Wind Energy Association (AWEA) Offshore Wind Standards Subcommittee"",
+      ""jurisdiction"": ""US"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,20,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,21,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,22,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,23,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,24,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,25,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,26,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,27,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,28,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,29,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,30,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,31,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,32,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,33,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,34,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 20"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Site specific conditions representative of the offshore wind facility site shall therefore be taken into account in the design."",
+      ""scope"": ""Design of wind turbine structure and other components of an offshore wind facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+      ""related_domains"": [""structural integrity"", ""design requirements""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""To ensure the appropriate level of safety and reliability, site specific conditions representative of the offshore wind facility site shall therefore be taken into account in the design."",
+      ""scope"": ""Design of wind turbine structure and other components of an offshore wind facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+      ""related_domains"": [""safety"", ""design requirements""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,35,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Developers of offshore wind facilities in federal waters on the OCS are required to submit relevant information to support evaluation of the plans and designs for the facility."",
+      ""scope"": ""Offshore wind facilities in federal waters on the OCS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585"",
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A Site Assessment Plan (SAP) or Construction and Operations Plan (COP) shall include information regarding meteorological and oceanographic hazards to support BOEM’s National Environmental Protection Act (NEPA) review process."",
+      ""scope"": ""Site Assessment Plan (SAP) and Construction and Operations Plan (COP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.611 and 585.627"",
+      ""related_domains"": [""environmental impact assessment"", ""meteorological data"", ""oceanographic data""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The SAP or COP shall include a description of conditions that could destabilize planned activities or facilities."",
+      ""scope"": ""Site Assessment Plan (SAP) and Construction and Operations Plan (COP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM guidance (https://www.boem.gov/COP Guidelines/)"",
+      ""related_domains"": [""environmental impact assessment"", ""stability analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A summary of the environmental data used in the design or analysis of the facility should be provided including information on: 1. Extreme weather, 2. Seafloor conditions, 3. Waves, wind, current, tides, temperature, snow and ice effects, marine growth, and water depth."",
+      ""scope"": ""Facility Design Report (FDR)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.701"",
+      ""related_domains"": [""structural design"", ""environmental data"", ""meteorological data"", ""oceanographic data""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    }
+  ]
+}
+```"
+21,36,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 21"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""the SAP and COP shall include information regarding meteorological and oceanographic hazards"",
+      ""scope"": ""Planning phase documentation (SAP and COP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean data"", ""hazard assessment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Likely Federal - USA (inferred from context, not explicitly stated)"",
+      ""role"": ""Guidance development (supplementing regulations for SAP and COP)""
+    }
+  ]
+}
+```"
+21,37,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,38,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""MEASNET"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,39,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,40,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,41,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,42,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""include information on tides, tidal streams and currents; weather, including visibility; and ice conditions to support assessment of navigational risks associated with an offshore wind facility"",
+      ""scope"": ""Offshore wind facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NVIC 02-07"",
+      ""related_domains"": [""navigational safety"", ""metocean conditions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""a 50-year recurrence period is applied for turbine foundation design"",
+      ""scope"": ""Turbine foundation design"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""DNVGL-ST-0437"",
+      ""related_domains"": [""structural integrity"", ""foundation design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""a 100-year recurrence period is applied for offshore substation design"",
+      ""scope"": ""Offshore substation design"",
+      ""numerical_value"": 100,
+      ""unit"": ""years"",
+      ""source"": ""DNVGL-ST-0145"",
+      ""related_domains"": [""structural integrity"", ""substation design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""a 500-year recurrence period is applied for robustness check at sites with possible tropical cyclones"",
+      ""scope"": ""Offshore wind facility at sites with possible tropical cyclones"",
+      ""numerical_value"": 500,
+      ""unit"": ""years"",
+      ""source"": ""API RP 2A-WSD 22. Edition and IEC 61400-3-1"",
+      ""related_domains"": [""structural integrity"", ""robustness check"", ""extreme weather conditions""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""a 500-year recurrence period is applied for accidental limit states"",
+      ""scope"": ""Accidental limit states"",
+      ""numerical_value"": 500,
+      ""unit"": ""years"",
+      ""source"": ""DNVGL-ST-0119"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,43,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 25"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Site-specific metocean data shall be established containing information associated with wind conditions, marine conditions, and the correlation of wind and wave statistics."",
+      ""scope"": ""Offshore wind facilities design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""meteorological data"", ""oceanographic data"", ""wind resource assessment"", ""wave resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The correlation of wind and wave statistics shall be established for normal and extreme conditions."",
+      ""scope"": ""Offshore wind facilities design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean data analysis"", ""structural loading"", ""wind resource assessment"", ""wave resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Correlation of wind and waves shall also consider their respective directions."",
+      ""scope"": ""Offshore wind facilities design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean data analysis"", ""structural loading"", ""wind resource assessment"", ""wave resource assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,44,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 26"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In an offshore wind facility consisting of several wind turbines the metocean conditions and the water depth vary from turbine to turbine. If the metocean design conditions are determined for only one or a few locations (typically located at the facility’s corners), it should be ensured that the metocean parameters at these locations are conservative for design of the remaining turbine positions."",
+      ""scope"": ""Offshore wind turbine design, Metocean conditions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean engineering"", ""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Consideration shall be given to metocean conditions for any cable routes associated with an offshore wind facility."",
+      ""scope"": ""Offshore wind farm cable routes"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable design"", ""metocean engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For design, the wind climate is represented by the long-term 10-minute mean wind speed U 10 and the standard deviation σ U of the wind speed."",
+      ""scope"": ""Wind turbine design"",
+      ""numerical_value"": 10,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""wind resource assessment"", ""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Various gust events are necessary for design, for example the extreme coherent gust with a time scale of 10.5 seconds for power production, the extreme operating gust with a time scale of 10.0 seconds for occurrence of fault during power production as well as for start-up and shut-down of the wind turbines, as defined in DNVGL-ST-0437 and IEC 61400-1, and extreme gusts with 3 second time scale for various recurrence periods, e.g., 50 years."",
+      ""scope"": ""Wind turbine design, Gust loads"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-ST-0437 and IEC 61400-1"",
+      ""related_domains"": [""structural design"", ""power production"", ""safety systems""]
+    }
+
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,45,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,46,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 27"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The data period underlying extreme value estimates should preferably be 10 years or more."",
+      ""scope"": ""Extreme value estimates for wind data"",
+      ""numerical_value"": 10,
+      ""unit"": ""years"",
+      ""source"": ""DNV GL Standard DNVGL-ST-0437"",
+      ""related_domains"": [""wind resource assessment"", ""structural design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""DNV GL"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,47,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.2.2.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If hindcast is used, the hindcast model shall be validated against measured data to ensure that the hindcast results comply with available measured data."",
+      ""scope"": ""Wind resource assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""wind resource assessment"", ""modelling and simulation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For the purposes of assessment of ambient turbulence, if measurements of mean wind speed standard deviation conditioned on 10-minute mean wind speed are not available, measurements from similar sites may be utilized. It is important that the sites have similar characteristics relating to parameters important for turbulence, for example regarding distance to land, as turbulence over land is higher than turbulence over sea, and wave climate, as this affects the surface roughness."",
+      ""scope"": ""Turbulence assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""wind resource assessment"", ""turbulence modelling""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Simultaneous observations of metocean data (wind, waves, current, water level) may be obtained to establish correlations."",
+      ""scope"": ""Metocean data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean data"", ""site assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,48,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""An appropriate interval of wind speed bin and wind direction sectors used...should be chosen. As an example, 2 m/s or less for wind speed bins and 30° or less for wind direction sectors is consistent with DNVGL-ST-0437 and IEC 61400-3."",
+      ""scope"": ""Wind resource assessment and data analysis"",
+      ""numerical_value"": 2,
+      ""unit"": ""m/s"",
+      ""source"": ""DNVGL-ST-0437 and IEC 61400-3"",
+      ""related_domains"": [""wind resource assessment"", ""data analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""An appropriate interval of wind speed bin and wind direction sectors used...should be chosen. As an example, 2 m/s or less for wind speed bins and 30° or less for wind direction sectors is consistent with DNVGL-ST-0437 and IEC 61400-3."",
+      ""scope"": ""Wind resource assessment and data analysis"",
+      ""numerical_value"": 30,
+      ""unit"": ""°"",
+      ""source"": ""DNVGL-ST-0437 and IEC 61400-3"",
+      ""related_domains"": [""wind resource assessment"", ""data analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All parameters, except air density, should be available as functions of wind direction, given as 10-minute averages."",
+      ""scope"": ""Wind resource data reporting"",
+      ""numerical_value"": 10,
+      ""unit"": ""minutes"",
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""data analysis"", ""wind resource assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,49,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Where site-specific extreme average wind speeds are available only for averaging periods longer than 10 minutes, conversion factors shall be used to estimate the extreme 10-minute wind speed."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": 10,
+      ""unit"": ""minutes"",
+      ""source"": ""Section 5.1 of DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""wind resource assessment"", ""structural design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,50,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,51,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 30"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Sea currents shall be assessed taking account of components associated with tidal, storm surge, wind generated, and wave induced surf currents, where these are relevant to the wind turbine site."",
+      ""scope"": ""Offshore wind turbine site assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""site assessment"", ""hydrodynamic loads"", ""scouring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A deterministic design wave shall be specified by its height H, period T and direction θ."",
+      ""scope"": ""Design wave specification"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""wave modelling"", ""structural design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,52,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 31"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The following components of sea current velocity shall be taken into account when relevant:\n\n  - Sub-surface currents generated by tides, storm surge, and atmospheric pressure variations, etc.\n\n  - Wind generated, near surface currents\n\n  - Near shore, wave induced surf currents running parallel to the coast: In the case where an offshore\nwind turbine is to be sited near a coastal breaking wave zone, consideration shall be given to the\nsurf currents generated by the shear forces of the breaking waves; see Section 5.3."",
+      ""scope"": ""Offshore wind turbine design and hydrodynamic loading calculations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+      ""related_domains"": [""hydrodynamic loading"", ""sea current velocity"", ""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The total current velocity is the vector sum of these components."",
+      ""scope"": ""Offshore wind turbine design and hydrodynamic loading calculations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+      ""related_domains"": [""hydrodynamic loading"", ""sea current velocity"", ""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wave induced water particle velocities and current velocities shall be added vectorially."",
+      ""scope"": ""Offshore wind turbine design and hydrodynamic loading calculations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+      ""related_domains"": [""hydrodynamic loading"", ""wave-current interaction"", ""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The variation of the current with the water depth shall be considered when relevant. This is done by applying an appropriate current speed profile, either decided by measurements or from literature."",
+      ""scope"": ""Offshore wind turbine design and hydrodynamic loading calculations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+      ""related_domains"": [""hydrodynamic loading"", ""sea current velocity profile"", ""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For the calculation of the hydrodynamic loading of an offshore wind turbine, the variation in water level (if significant) at the site shall be taken into account."",
+      ""scope"": ""Offshore wind turbine design and hydrodynamic loading calculations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+      ""related_domains"": [""hydrodynamic loading"", ""water level variation"", ""structural design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,53,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 32"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The mean and fluctuation in water level at the facility site shall be assessed in order to determine the following parameters relative to MLLW:\n  - MSL\n  - HAT and LAT\n  - Highest still water level (HSWL) including extreme positive storm surge and tide level (HAT or MHHW)\n  - Lowest still water level (LSWL) including extreme negative storm surge and tide level (LAT or MLLW)."",
+      ""scope"": ""Water level assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+      ""related_domains"": [""metocean conditions"", ""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""These parameters shall be determined from the site-specific metocean data."",
+      ""scope"": ""Metocean data requirements"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+      ""related_domains"": [""data acquisition"", ""site assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The correlation between water level data and wind data shall be accounted for in design when relevant."",
+      ""scope"": ""Design considerations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+      ""related_domains"": [""structural design"", ""wind loading""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA's Center for Operational Oceanographic Products and Services (CO-OPS)"",
+      ""jurisdiction"": ""U.S. waters"",
+      ""role"": ""Provides tidal datums definitions""
+    }
+  ]
+}
+```"
+21,54,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Site-specific measured marine data over sufficiently long periods with minimal or no gaps should be applied."",
+      ""scope"": ""Offshore wind farm design and assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""data acquisition"", ""marine environment"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The data period underlying extreme value estimates should preferably be 10 years or more."",
+      ""scope"": ""Extreme value analysis for offshore wind farm design"",
+      ""numerical_value"": 10,
+      ""unit"": ""years"",
+      ""source"": ""DNVGL-ST-0437"",
+      ""related_domains"": [""extreme value analysis"", ""structural integrity"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The chosen measurement period shall include all load-relevant aspects. These are, in particular: Seasonal and diurnal effects; Thermal effects."",
+      ""scope"": ""Load calculations for offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural loading"", ""thermal analysis"", ""environmental conditions""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,55,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 33"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""When no site-specific marine data are available and data from adjacent locations are to be capitalized on instead, proper transformation of such other data shall be performed to account for possible differences due to, for example, sea bed morphology."",
+      ""scope"": ""Offshore wind turbine design, Marine data assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean data analysis"", ""site assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If hindcast is used, the hindcast model shall be validated and if necessary calibrated against measured data to ensure that the hindcast results comply with available measured data."",
+      ""scope"": ""Offshore wind turbine design, Marine data assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean data analysis"", ""model validation"", ""site assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The measurement period used for calibration shall not also be used for validation."",
+      ""scope"": ""Offshore wind turbine design, Marine data assessment, Hindcast model validation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean data analysis"", ""model validation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,56,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The range of associated wave periods to each of these individual maximum wave heights shall be considered."",
+      ""scope"": ""Design calculations for offshore wind facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""load calculations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design calculations shall be based on values of the associated wave period which result in the highest loads or load effects in the structure."",
+      ""scope"": ""Design calculations for offshore wind facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""load calculations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,57,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 34"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Load calculations shall be undertaken based on the water levels which result in the highest loads acting on an offshore wind turbine."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""structural integrity"", ""load calculations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The correlation between wave data and wind data shall be accounted for in design."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""structural integrity"", ""meteorological data analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Consideration of mean wind and wave directions shall be made."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""structural integrity"", ""meteorological data analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind and wave directionality have significant impact on floating structures behaviour and shall, thus, be considered in the analysis."",
+      ""scope"": ""Floating offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""structural integrity"", ""hydrodynamics"", ""floating structures""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,58,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 35"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Simultaneous observations of wave and wind data in terms of simultaneous values of *H* *S* and *U* *10* shall be obtained and directionality of wind and waves shall be simultaneously recorded."",
+      ""scope"": ""Data collection for wind and wave conditions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean data"", ""site assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The significant wave height, peak spectral period and direction for each normal sea state shall be selected, together with the associated mean wind speed, based on the long-term joint probability distribution of metocean parameters appropriate to the anticipated site."",
+      ""scope"": ""Data analysis for normal sea states"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean data"", ""site assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The extreme event of conditional wind and waves with a 50-year recurrence period is often referred to as the Severe Sea State (SSS) model, (DNVGL-ST-437 and IEC 61400-3). These sea states are used in combination with normal wind conditions for calculation of the ultimate loading of an offshore wind turbine during power production, by associating a severe sea state with each mean wind speed in the range corresponding to power production."",
+      ""scope"": ""Load calculations for offshore wind turbines"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""DNVGL-ST-437 and IEC 61400-3"",
+      ""related_domains"": [""structural integrity"", ""load calculations"", ""extreme events""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,59,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.2.5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The load effect from the combination of the significant wave height and the 10-minute mean wind speed *U* *10* has a return period of 50 years."",
+      ""scope"": ""Design criteria for metocean data"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""metocean engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The extreme values of wind speed under tropical cyclone conditions are based on the 1-minute mean wind speed at 10m above mean sea level."",
+      ""scope"": ""Design criteria for wind speed under tropical cyclone conditions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean engineering"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Gust factors shall be estimated from a relation or spectra formulation, with the estimated 1-minute extreme wind speed (TAP 670aa)."",
+      ""scope"": ""Gust factor estimation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""TAP 670aa"",
+      ""related_domains"": [""metocean engineering"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The monthly extreme value analysis shall assess the seasonal variability in terms of severity and also in terms of directionality if prevailing tracks occur and change during the year."",
+      ""scope"": ""Extreme value analysis"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The methodology to assess the directionality shall be chosen by considering characteristics of the location of the facility, especially the presence of islands and coast."",
+      ""scope"": ""Directionality assessment methodology"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean engineering"", ""site assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The extreme 10-minute average wind speed at hub height with specified recurrence periods (for example 50-year, 100-year, 500-year, and 1,000-year return periods) should be estimated."",
+      ""scope"": ""Wind speed estimation at hub height"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean engineering"", ""structural integrity""]
+    }
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,60,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 36"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Site specific studies shall estimate the extreme current over the water column under cyclonic conditions."",
+      ""scope"": ""Offshore wind facility site, current estimation under cyclonic conditions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""hydrodynamic modelling"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,61,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 37"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The vertical reference level shall be decided and referred to in a consistent manner."",
+      ""scope"": ""Design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""design"", ""survey""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The horizontal and vertical accuracy of applied surveys shall be included in the design."",
+      ""scope"": ""Design of offshore structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""design"", ""survey""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The stability of the seabed shall be assessed."",
+      ""scope"": ""Offshore wind farm design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""geotechnical engineering"", ""site assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""It shall be determined whether the bathymetry at the site is stable or if it changes during the lifetime of the offshore wind asset."",
+      ""scope"": ""Offshore wind farm design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""geotechnical engineering"", ""site assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,62,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The influence of breaking waves shall be assessed during the design of an offshore wind turbine."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""hydrodynamic loading""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The influence of sea ice shall be assessed during the design of the support structure of an offshore wind turbine that will be installed at a site where sea ice is expected to occur."",
+      ""scope"": ""Offshore wind turbine support structure design in locations with sea ice"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""ice loading""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The designer shall describe in the design documentation the sea ice properties assumed."",
+      ""scope"": ""Offshore wind turbine support structure design documentation in locations with sea ice"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""documentation"", ""ice loading""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,63,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 38"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For the design of offshore wind turbines, loads caused by ice accretion from sea spray, snow, rain, and air humidity shall be considered where relevant."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""icing loads""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The thickness and density of ice and snow accretion and its dependence on height above sea level shall be assessed, based on applicable recommendations, local experience, and existing measurements."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""icing loads"", ""meteorological data""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Marine growth shall be factored into the design of the support structure."",
+      ""scope"": ""Offshore wind turbine support structure design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""marine environment"", ""hydrodynamic loads""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,64,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 39"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The thickness of marine growth and its dependence on depth below sea level shall be assessed, based on applicable recommendations, local experience, and existing measurements."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""maintenance""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Due to the uncertainties involved in assumptions regarding marine growth, a strategy for inspection and possible removal of marine growth should be planned as part of the support structure design."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""maintenance"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The frequency, inspection method and growth removal criteria shall be based on the impact of marine growth on the structural reliability of an offshore wind turbine, and the extent of experience with marine growth under the specific conditions prevailing at the site."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""maintenance"", ""inspection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,65,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.2.8 - 2.2.9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The site-specific metocean data shall include information on all metocean parameters relevant for design."",
+      ""scope"": ""Offshore wind farm design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean data"", ""design requirements""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,66,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10039663-HOU-01, Issue: D, Status: FINAL, Page 40"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If the metocean design conditions are only determined for one or a few locations, it should be ensured that the metocean parameters at these locations are conservative for design of the remaining turbine positions."",
+      ""scope"": ""Metocean design conditions for offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean engineering"", ""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If site-specific measurements are used, the results should generally be correlated with data from a nearby location for which long-term measurements exist, unless the results can otherwise be shown to be conservative."",
+      ""scope"": ""Site-specific metocean data for offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean data analysis"", ""data validation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The monitoring period for the site-specific measurements should be sufficient to ensure reliable statistics for the individual parameters."",
+      ""scope"": ""Site-specific metocean measurements for offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""data acquisition"", ""statistical analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,67,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,68,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Pages 41-42"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The installation phase needs to be described in the Fabrication and Installation Report submitted to BOEM."",
+      ""scope"": ""Installation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""reporting"", ""installation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+21,69,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.3.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Safe operating limits will be pre-determined and written into construction contracts/charters"",
+      ""scope"": ""Construction phase, crane operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""crane operations"", ""contractual obligations"", ""safety management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Construction and Operations Plans require developers to describe safety, prevention, and pollution control features or practices that will be used."",
+      ""scope"": ""Construction and Operation Plans"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety management"", ""pollution control"", ""emergency preparedness""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,70,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 43"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""arrangements should be made for receiving weather forecasts at regular intervals before, and during, the marine operations. Such weather forecasts should be from recognized sources and be project specific. Weather forecast procedures should consider the nature and duration of the planned operation."",
+      ""scope"": ""Offshore wind farm installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""weather forecasting"", ""marine operations"", ""safety procedures""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""metocean conditions should be continuously measured and recorded, as a minimum including wind, wave, water level, and current conditions"",
+      ""scope"": ""Offshore wind farm installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean monitoring"", ""data acquisition"", ""real-time monitoring""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,71,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 44"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The data arising from the monitoring during the operational phase shall provide the information needed to analyze the performance of the offshore wind facility and to analyze specific meteorological or oceanographic events (leading to damage or failure for example)."",
+      ""scope"": ""Operational phase monitoring data"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""performance analysis"", ""incident analysis"", ""meteorological data analysis"", ""oceanographic data analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Revision of Metocean data should be performed to confirm or revise criteria and fatigue life estimations."",
+      ""scope"": ""Operational phase data analysis"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean data"", ""fatigue life estimation"", ""design criteria""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Periodic monitoring and scheduled maintenance of wind turbines, substation, power cables, and control station shall be planned by considering the duration and environmental limitations of each task, and weather"",
+      ""scope"": ""Operation and Maintenance"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""maintenance planning"", ""environmental limitations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""DNV GL"",
+      ""jurisdiction"": null, 
+      ""role"": ""Guidance provider (referencing DNVGL-ST-N001 for weather forecasts)""
+    }
+  ]
+}
+```"
+21,72,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 45"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""In areas within tropical cyclone basins, receiving tropical cyclone warnings is necessary, to be obtained from the relevant government agency and updated every 3 to 6 hours."",
+      ""scope"": ""Offshore wind farms in tropical cyclone basins"",
+      ""numerical_value"": 3,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""weather monitoring"", ""emergency preparedness"", ""personnel safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""For scheduling of maintenance operations involving personnel working on turbines at height, expected lightning occurrence shall be considered and lightning forecast obtained as necessary."",
+      ""scope"": ""Maintenance operations on offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""lightning protection"", ""personnel safety"", ""maintenance procedures""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,73,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10039663-HOU-01, Issue: D, Status: FINAL, Page 46-47"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""DNV GL"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,74,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,75,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 48"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Appropriate actions should be taken to notify mariners and properly mark any devices deployed"",
+      ""scope"": ""Offshore wind farm instrumentation deployment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""maritime regulations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,76,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 49"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind speeds should be sampled at 1 Hz and 10-minute records of average, maximum, minimum, and standard deviation should be stored."",
+      ""scope"": ""Wind speed data acquisition"",
+      ""numerical_value"": 1,
+      ""unit"": ""Hz"",
+      ""source"": null,
+      ""related_domains"": [""data acquisition"", ""wind resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind gusts should also be recorded and shall be defined by a 3-second maximum wind speed [IEC 61400-1:2005"",
+      ""scope"": ""Wind gust data acquisition"",
+      ""numerical_value"": 3,
+      ""unit"": ""seconds"",
+      ""source"": ""IEC 61400-1:2005"",
+      ""related_domains"": [""data acquisition"", ""wind resource assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,77,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The cup anemometers should be calibrated at a MEASNET-accredited facility before being installed."",
+      ""scope"": ""Wind resource assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MEASNET “Site Evaluation of site specific wind conditions” (ESSWC)"",
+      ""related_domains"": [""wind data collection"", ""instrumentation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For the campaign to be IEC compliant, the primary and control anemometers shall also be calibrated in the same measurement campaign."",
+      ""scope"": ""Wind resource assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-12-1:2017 (implied)"",
+      ""related_domains"": [""wind data collection"", ""instrumentation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A cup or sonic anemometer shall be used to measure horizontal wind speeds."",
+      ""scope"": ""Wind resource assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-12-1:2017"",
+      ""related_domains"": [""wind data collection"", ""instrumentation""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cup anemometers should be replaced biannually as their calibration expires after two years."",
+      ""scope"": ""Wind resource assessment"",
+      ""numerical_value"": 2,
+      ""unit"": ""years"",
+      ""source"": ""MEASNET “Site Evaluation of site specific wind conditions” (ESSWC) (implied)"",
+      ""related_domains"": [""wind data collection"", ""instrumentation"", ""maintenance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""MEASNET"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body for wind measurement""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,78,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,79,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,80,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,81,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In addition to manufacturer calibrations, a lidar device shall be validated before deployment at a stand-alone offshore location."",
+      ""scope"": ""Offshore wind farm, Lidar equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""measurement and instrumentation"", ""data quality""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,82,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,83,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 53"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Only FLDs that have reached a “Commercial” maturity stage, such as Scenarios E, F, and G in Table 3-1 below, should be used without undergoing a validation period with a trusted reference measurement system."",
+      ""scope"": ""Floating LiDAR (FLD) measurements for wind data acquisition in offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OWA roadmap for the commercial acceptance of floating LIDAR technology (CTC819)"",
+      ""related_domains"": [""wind resource assessment"", ""data acquisition"", ""measurement accuracy""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,84,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,85,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,86,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The preferred primary wind speed measurement is from a hub-height MEASNET-calibrated cup anemometer [IEC 61400-12-1, MEASNET ESSWC]."",
+      ""scope"": ""Wind speed measurement"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-12-1, MEASNET ESSWC"",
+      ""related_domains"": [""wind resource assessment"", ""data acquisition""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""MEASNET"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body for wind measurement""
+    }
+  ]
+}
+```"
+21,87,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,88,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,89,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 57"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""all wind, temperature, pressure, and humidity measurements should be completed at or near hub height, if possible, as well as at lower heights"",
+      ""scope"": ""Met-mast instrumentation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""meteorological data collection"", ""wind resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A simple met-mast should include the following: 2x anemometers at hub height"",
+      ""scope"": ""Met-mast instrumentation"",
+      ""numerical_value"": 2,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""wind resource assessment"", ""anemometry""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A simple met-mast should include the following: 2x vanes at or near hub height"",
+      ""scope"": ""Met-mast instrumentation"",
+      ""numerical_value"": 2,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""wind resource assessment"", ""wind direction measurement""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A simple met-mast should include the following: 2x temperature sensors near or at hub height"",
+      ""scope"": ""Met-mast instrumentation"",
+      ""numerical_value"": 2,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""meteorological data collection"", ""temperature measurement""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A simple met-mast should include the following: 2x barometric pressure sensors near or at hub height"",
+      ""scope"": ""Met-mast instrumentation"",
+      ""numerical_value"": 2,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""meteorological data collection"", ""pressure measurement""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A simple met-mast should include the following: 2x anemometers at mid-blade"",
+      ""scope"": ""Met-mast instrumentation"",
+      ""numerical_value"": 2,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""wind resource assessment"", ""anemometry""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A simple met-mast should include the following: 2x anemometers at blade tip"",
+      ""scope"": ""Met-mast instrumentation"",
+      ""numerical_value"": 2,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""wind resource assessment"", ""anemometry""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,90,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 58"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The configuration should meet the requirements outlined in Annex G of IEC 61400-12 Ed. 2 and MEASNET ESSWC document for met-mast equipment."",
+      ""scope"": ""Met mast equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-12 Ed. 2 and MEASNET ESSWC"",
+      ""related_domains"": [""met mast design"", ""data acquisition""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""DNVGL-SE-0420 specifies requirements for certification of meteorological masts"",
+      ""scope"": ""Meteorological masts"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-SE-0420"",
+      ""related_domains"": [""certification"", ""mast design"", ""manufacturing"", ""transportation/installation"", ""commissioning"", ""in-service""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,91,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,92,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 59"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The instrumentation suite utilized shall achieve the goals of a wind resource assessment and fulfill requirements of industry standards and best practices [IEC 61400-12-1, MEASNET ESSWC]."",
+      ""scope"": ""Offshore wind measurement campaign"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-12-1, MEASNET ESSWC"",
+      ""related_domains"": [""wind resource assessment"", ""instrumentation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""An offshore wind measurement campaign at minimum should include measurements of horizontal wind speed and wind direction from blade tip to at least hub height, 3-second maximum wind gust at hub height, and measurements of temperature and pressure at ideally hub height."",
+      ""scope"": ""Offshore wind measurement campaign"",
+      ""numerical_value"": 3,
+      ""unit"": ""seconds"",
+      ""source"": null,
+      ""related_domains"": [""wind resource assessment"", ""instrumentation"", ""meteorological data""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,93,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,94,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 60"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Measurements of wind conditions (and other meteorological data) should be performed in accordance with IEC 61400-12-1 and should follow MEASNET ESSWC procedures."",
+      ""scope"": ""Wind condition measurements"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-12-1, MEASNET ESSWC"",
+      ""related_domains"": [""resource assessment"", ""data acquisition""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In situations where other measurements are used that are not performed in accordance with IEC 61400-12-1 and MEASNET ESSWC (e.g. in case of historical measurements by NOAA or other organizations), the quality of such measurements shall be considered in the analysis and interpretation of such data."",
+      ""scope"": ""Wind condition measurements using non-standard data sources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-12-1, MEASNET ESSWC"",
+      ""related_domains"": [""resource assessment"", ""data quality"", ""data analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,95,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,96,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,97,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,98,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,99,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,100,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,101,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 64"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The requirements for data collection are set out in ISO 19901-1:2015"",
+      ""scope"": ""Wave data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 19901-1:2015"",
+      ""related_domains"": [""data acquisition"", ""measurement systems""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,102,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,103,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,104,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,105,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 67"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Ocean currents should be measured at fixed depths (or bins), and include at least three depths in shallow waters: near-surface, mid-depth, and near-bottom."",
+      ""scope"": ""Ocean current measurement in shallow waters"",
+      ""numerical_value"": 3,
+      ""unit"": ""depths"",
+      ""source"": ""ISO 19901-1:2015"",
+      ""related_domains"": [""site assessment"", ""environmental monitoring"", ""resource assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,106,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For future floating wind facility applications, where measurements in deeper waters will be required, the following depths should be considered in addition to near-surface and near-bottom: 50 m, 100 m, 150 m, 200 m, 300 m, and every 200 m thereafter to 3 m above the seabed."",
+      ""scope"": ""Floating wind facility applications in deeper waters, current measurements"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 19901-1:2015"",
+      ""related_domains"": [""resource assessment"", ""metocean data collection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The mean speed and direction of ocean currents should be recorded at least once per hour for a duration of at least 10-20 minutes, or more often if possible."",
+      ""scope"": ""Ocean current measurement"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""resource assessment"", ""metocean data collection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Water levels offshore should be measured with a resolution and instrument accuracy of ±1 cm."",
+      ""scope"": ""Offshore water level measurement"",
+      ""numerical_value"": 1,
+      ""unit"": ""cm"",
+      ""source"": null,
+      ""related_domains"": [""metocean data collection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,107,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 68"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Air density shall be derived from measurement of air temperature, air pressure, and relative humidity."",
+      ""scope"": ""Air density measurement"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""meteorological data"", ""resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""As an alternative to the humidity measurement, an assumed value of 50% relative humidity may be used if humidity is not measured."",
+      ""scope"": ""Air density measurement"",
+      ""numerical_value"": 50,
+      ""unit"": ""%"",
+      ""source"": null,
+      ""related_domains"": [""meteorological data"", ""resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The air density shall be calculated according to Equation (3-1)"",
+      ""scope"": ""Air density calculation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""meteorological data"", ""resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The air temperature and humidity sensor shall be mounted within the upper 10 m of the measurement mast or at least at 10 m height."",
+      ""scope"": ""Sensor placement"",
+      ""numerical_value"": 10,
+      ""unit"": ""m"",
+      ""source"": null,
+      ""related_domains"": [""meteorological data"", ""data acquisition""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Air pressure measurements shall be always corrected to the appropriate hub height according to ISO 2533."",
+      ""scope"": ""Air pressure measurement"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 2533"",
+      ""related_domains"": [""meteorological data"", ""data acquisition""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The measurement period should cover at least 12 complete months in order to appropriately assess seasonal variations."",
+      ""scope"": ""Measurement period"",
+      ""numerical_value"": 12,
+      ""unit"": ""months"",
+      ""source"": null,
+      ""related_domains"": [""meteorological data"", ""long-term monitoring""]
+    }
+
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,108,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 69"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Air temperature, air pressure, humidity, and precipitation may be sampled at a slower rate than 1 Hz, but at least once per minute."",
+      ""scope"": ""Meteorological data acquisition"",
+      ""numerical_value"": 1,
+      ""unit"": ""Hz"",
+      ""source"": null,
+      ""related_domains"": [""data acquisition"", ""meteorological monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The data acquisition system shall store either sampled data or statistics of data sets as follows:\n  - Mean value\n  - Standard deviation\n  - Maximum value\n  - Minimum value"",
+      ""scope"": ""Meteorological data acquisition"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""data acquisition"", ""meteorological monitoring"", ""data analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Selected data sets shall be based on 10-minute periods derived from contiguous measured data."",
+      ""scope"": ""Meteorological data analysis"",
+      ""numerical_value"": 10,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""data analysis"", ""meteorological monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""MEASNET"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""WMO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,109,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 70"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If a CTD is used, the data should be stored at least for every 50kPa increase in pressure."",
+      ""scope"": ""Sea-water temperature, density, and salinity data collection"",
+      ""numerical_value"": 50,
+      ""unit"": ""kPa"",
+      ""source"": null,
+      ""related_domains"": [""metocean data collection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The requirements for data collection are set out in ISO 19901-1:2015 (Annex A.11, Table A.8, in turn based on Annex 1.B, pp 19-24, Chapter 1, of WMO-No. 8:2008)"",
+      ""scope"": ""Sea-water temperature and salinity data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 19901-1:2015, WMO-No. 8:2008"",
+      ""related_domains"": [""metocean data collection"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,110,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,111,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nPage 71"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""only a high-quality database, checked for accuracy against in-situ measurements and having undergone strict quality control by the provider, should be used."",
+      ""scope"": ""Data usage for wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""data quality"", ""measurement accuracy""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,112,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,113,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 73"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The data acquisition system should be able to store all recorded data between site inspections."",
+      ""scope"": ""Data acquisition system"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""data management"", ""monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""It should also have the ability to be remotely operated or accessed to modify programming, synchronize the clock, or download data."",
+      ""scope"": ""Data acquisition system"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""data management"", ""remote operation"", ""monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Documentation shall include commissioning reports, inspection and maintenance logs, and decommissioning reports."",
+      ""scope"": ""Project documentation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""documentation"", ""reporting"", ""maintenance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,114,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 74"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Report for a Metocean Study involving collection of metocean data through in-situ measurements should as a minimum (in addition to any data results reported) contain: Specification of the requirements set out at the beginning of the metocean measurement campaign."",
+      ""scope"": ""Metocean data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean data"", ""measurement campaign""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Report for a Metocean Study [...] should as a minimum [...] contain: Choice of instrument selection to fulfill the requirements, including explanation of the choice and comparison with other options available."",
+      ""scope"": ""Metocean data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""instrument selection"", ""measurement campaign""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Report for a Metocean Study [...] should as a minimum [...] contain: Details of the instrumentation, including as a minimum the provider, key data facts of each instrument, calibration, expected performance."",
+      ""scope"": ""Metocean data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""instrumentation details"", ""measurement campaign""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Report for a Metocean Study [...] should as a minimum [...] contain: Instrumentation deployment report, including details and photos of the vessel and operation."",
+      ""scope"": ""Metocean data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""instrument deployment"", ""measurement campaign""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Report for a Metocean Study [...] should as a minimum [...] contain: Maintenance record of the instrumentation as appropriate."",
+      ""scope"": ""Metocean data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""instrument maintenance"", ""measurement campaign""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Report for a Metocean Study [...] should as a minimum [...] contain: Instrumentation recovery report, including details and photos of the vessel and operation and any observed failures or damage to the instrument."",
+      ""scope"": ""Metocean data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""instrument recovery"", ""measurement campaign""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Report for a Metocean Study [...] should as a minimum [...] contain: Measured dataset details, including data return achieved and overall success of data collection campaign."",
+      ""scope"": ""Metocean data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""data reporting"", ""measurement campaign""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Report for a Metocean Study [...] should as a minimum [...] contain: Any post-processing or quality control procedures undertaken after data collection."",
+      ""scope"": ""Metocean data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""data quality"", ""measurement campaign""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Report for a Metocean Study [...] should as a minimum [...] contain: Any other information not mentioned above relevant to the end-user of the datasets."",
+      ""scope"": ""Metocean data collection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""data reporting"", ""measurement campaign""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,115,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The models shall be calibrated and compared with measurements to verify/justify choice of parametrizations, grid scale and/or domain sizes."",
+      ""scope"": ""Numerical modeling for metocean studies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""metocean studies"", ""model validation"", ""data analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,116,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,117,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Page 75"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""WMO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,118,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,119,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,120,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,121,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,122,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 78"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use the highest possible spatial and temporal resolution."",
+      ""scope"": ""Mesoscale atmospheric modeling for offshore wind sites"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""meteorological modeling"", ""resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use a 1-3 km horizontal grid increment for mesoscale modeling."",
+      ""scope"": ""Mesoscale atmospheric modeling for offshore wind sites"",
+      ""numerical_value"": null, 
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""meteorological modeling"", ""resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide output from mesoscale models with high temporal frequency, preferably with hourly or finer outputs (e.g., 10 minutes)."",
+      ""scope"": ""Mesoscale atmospheric modeling for offshore wind sites"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""meteorological modeling"", ""resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Suppliers should clearly specify the spatial and temporal resolution used for the modeling."",
+      ""scope"": ""Mesoscale atmospheric modeling data reporting for offshore wind sites"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""meteorological modeling"", ""data reporting"", ""resource assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,123,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,124,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,125,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,126,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 80"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Have spatial resolution of less than 5 km"",
+      ""scope"": ""Wave model for detailed design criteria estimations"",
+      ""numerical_value"": 5,
+      ""unit"": ""km"",
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL"",
+      ""related_domains"": [""wave modelling"", ""design criteria""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use reliable wind forcing, for example from mesoscale modelling"",
+      ""scope"": ""Wave model for detailed design criteria estimations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL"",
+      ""related_domains"": [""wave modelling"", ""wind data"", ""design criteria""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Take into account water level variation"",
+      ""scope"": ""Wave model for detailed design criteria estimations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL"",
+      ""related_domains"": [""wave modelling"", ""hydrodynamics"", ""design criteria""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If large eddies or velocities are expected in the area, also take current into account"",
+      ""scope"": ""Wave model for detailed design criteria estimations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL"",
+      ""related_domains"": [""wave modelling"", ""hydrodynamics"", ""ocean currents"", ""design criteria""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wave measurements are necessary to calibrate the model and/or correct the output times series at the location of interest."",
+      ""scope"": ""Wave model validation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL"",
+      ""related_domains"": [""wave measurement"", ""model calibration"", ""data validation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,127,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,128,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,129,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,130,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,131,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,132,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 84"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In areas with bed forms such as sand dunes or banks, the resolution of the HD model shall be sufficiently detailed to describe the local variations."",
+      ""scope"": ""Hydrodynamic modelling for areas with bed forms like sand dunes or banks"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""hydrodynamic modelling"", ""site assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,133,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 85"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The seabed bathymetry and the numerical resolution within the local hindcast model shall be sufficiently detailed to correctly describe the local ocean conditions."",
+      ""scope"": ""Offshore wind farm design, wave hindcast model"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""oceanographic modelling"", ""hydrodynamics"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Sand bars and large gradients shall be correctly represented in input of the model to assess their impact on wave fields."",
+      ""scope"": ""Offshore wind farm design, wave hindcast model, seabed bathymetry input data"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""oceanographic modelling"", ""hydrodynamics"", ""geotechnical engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If local seabed variations may influence the ocean conditions within the wind farm, the grid resolution in the hindcast model shall be sufficiently fine to capture these variations, otherwise alternative conservative choices shall be made."",
+      ""scope"": ""Offshore wind farm design, wave hindcast model, grid resolution"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""oceanographic modelling"", ""hydrodynamics"", ""numerical analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If few grid points are in the wind facility area, design criteria shall be derived at the most severe location."",
+      ""scope"": ""Offshore wind farm design, wave hindcast model, grid resolution, design criteria"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""oceanographic modelling"", ""hydrodynamics"", ""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In areas with strong current, the current should be included also in the wave hindcast model."",
+      ""scope"": ""Offshore wind farm design, wave hindcast model, areas with strong currents"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""oceanographic modelling"", ""hydrodynamics""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In areas with large tidal variations, or shallow water sites, the water level variations should be included in the hindcast model."",
+      ""scope"": ""Offshore wind farm design, wave hindcast model, areas with large tidal variations or shallow water sites"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""oceanographic modelling"", ""hydrodynamics""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,134,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For wind facilities located in bathymetrically dynamic areas, for example in areas with sand dunes, a Morphodynamic Desk Study shall be completed determining possible long-term seabed variations."",
+      ""scope"": ""Wind facilities in bathymetrically dynamic areas (e.g., areas with sand dunes)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""seabed stability"",
+        ""geotechnical engineering"",
+        ""site assessment""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The study should be based on long-term extrapolation of measured bathymetries."",
+      ""scope"": ""Morphodynamic Desk Study"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""hydrographic survey"",
+        ""data analysis"",
+        ""seabed modeling""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,135,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,136,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,137,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,138,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,139,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,140,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,141,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,142,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,143,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,144,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 92-93"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A report for a metocean study involving numerical modelling should as a minimum contain the following (if relevant): Details of the model used, including an explanation of the physics included and any simplifying"",
+      ""scope"": ""Metocean studies for offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D"",
+      ""related_domains"": [""metocean studies"", ""numerical modelling"", ""reporting requirements""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,145,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,146,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10039663-HOU-01, Issue: D, Status: FINAL, Page 95"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""DNVGL"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,147,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The long-term distributions of *U* *10* and σ U for extreme average wind speeds should preferably be based on statistical data for the same averaging period for the wind speed as the averaging period, which is used for the determination of loads."",
+      ""scope"": ""Extreme average wind speed calculations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural loading"", ""wind resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For the extreme wind speeds, where site-specific extreme average wind speeds are available only for averaging periods longer than 10 minutes, conversion factors shall be used to estimate the extreme 10-minute wind speed."",
+      ""scope"": ""Extreme 10-minute wind speed estimation"",
+      ""numerical_value"": 10,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""wind resource assessment"", ""data analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The conversion factors given in Table 5-1 are from IEC 61400-3"",
+      ""scope"": ""Extreme wind speed conversion factors"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""wind resource assessment"", ""data analysis"", ""standards compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,148,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 96"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Extreme wind speed conversion factors for different averaging periods relative to the extreme 10-min average wind speed shall be applied as follows: 1 hour average: 0.95, 3 hour average: 0.90."",
+      ""scope"": ""Wind resource assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""wind resource assessment"", ""design loads""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,149,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 97"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The wind shear exponent may be decided based on measurements of wind speed in various heights, with a period down to one or two years (to capture seasonal variations)."",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": 1,
+      ""unit"": ""year"",
+      ""source"": null,
+      ""related_domains"": [""wind resource assessment"", ""turbine design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""αw is compiled for normal and extreme offshore wind conditions in IEC 61400-3, and specified as 0.14 for normal wind conditions and 0.11 for extreme wind conditions, for load calculations."",
+      ""scope"": ""Offshore wind turbine load calculations"",
+      ""numerical_value"": 0.14,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""structural integrity"", ""turbine design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The offshore mean wind speed for averaging periods equal or below 1 hour is given by the Fröya Profile."",
+      ""scope"": ""Offshore wind resource assessment"",
+      ""numerical_value"": 1,
+      ""unit"": ""hour"",
+      ""source"": ""API RP 2A-WSD 22 [nd] Edition 2014 and DNVGL-RP-C205"",
+      ""related_domains"": [""wind resource assessment"", ""meteorological data analysis""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""DNVGL"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,150,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""DNVGL"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,151,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The value of the turbulence intensity and standard deviation shall be determined using appropriate statistical techniques applied to measured data."",
+      ""scope"": ""Turbulence intensity measurement"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""meteorological data"", ""wind resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Where topographical (shoreline) or other local effects may influence the turbulence intensity, these effects shall be represented in the data."",
+      ""scope"": ""Turbulence intensity measurement, Shoreline effects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""meteorological data"", ""wind resource assessment"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The characteristics of the anemometer, sampling rate, and averaging time used to obtain measured data shall be taken into account when evaluating the turbulence intensity."",
+      ""scope"": ""Turbulence intensity measurement"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""meteorological data"", ""wind resource assessment"", ""instrumentation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,152,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The turbulence in a wind facility with turbines in operation is affected by: the ambient turbulence (i.e., turbulence without influence of wind turbines); the operating turbine induced turbulence (in the IEC system this turbulence is denoted “the maximum center wake turbulence”) that depends on: the spacing of the turbines (farm layout); the rotor diameter; how much the wind is slowed down over the rotor plane as expressed by the thrust-curve of the turbine."",
+      ""scope"": ""Turbine operation within a wind facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1"",
+      ""related_domains"": [""turbulence assessment"", ""wake effects"", ""turbine spacing"", ""rotor diameter"", ""thrust curve""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+21,153,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 99"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""all processes that have a dominant and significant influence on waves shall be considered in the physics modelling for any offshore project."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""physics modelling"", ""wave analysis"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In a wind facility, the maximum center wake may be larger than the extreme turbulence with no effect from the neighboring wind turbines. In this case, the maximum center wake turbulence shall be applied."",
+      ""scope"": ""Wind farm turbulence modelling"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""turbulence modelling"", ""wake effects"", ""wind farm layout""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,154,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,155,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,156,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,157,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,158,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,159,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,160,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,161,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,162,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,163,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,164,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,165,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,166,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 113"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""DNVGL-ST 0437 limits the influence of wind generated currents to the first 50 m"",
+      ""scope"": ""Consideration of wind-generated currents in design"",
+      ""numerical_value"": 50,
+      ""unit"": ""m"",
+      ""source"": ""DNVGL-ST 0437"",
+      ""related_domains"": [""hydrodynamic modelling"", ""structural design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""IEC61400-3 limits this influence to the first 20 m"",
+      ""scope"": ""Consideration of wind-generated currents in design"",
+      ""numerical_value"": 20,
+      ""unit"": ""m"",
+      ""source"": ""IEC61400-3"",
+      ""related_domains"": [""hydrodynamic modelling"", ""structural design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,167,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,168,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,169,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 115"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Both negative and positive storm surges should be considered in the design, particularly for those minimum support structures, such as monopiles and tripods."",
+      ""scope"": ""Design of minimum support structures (monopiles and tripods) for offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""loads analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The wave theory employed in the design should reflect the effect of water depth."",
+      ""scope"": ""Design of offshore wind turbine structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""hydrodynamic analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,170,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,171,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,172,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,173,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\nPage 119"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Offshore wind turbines shall be designed for the combined ULS (Ultimate Limit State, defined for various recurrence periods) loads from waves, current, and wind."",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""structural integrity"", ""load calculations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""It is allowed to include, if documented, the joint probabilities between parameters so that combined ULS loads, (including possible dynamic effect), will have the required return period."",
+      ""scope"": ""Offshore wind turbine ULS load calculations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01 (referencing Section 5.6.2 for extreme joint correlations)"",
+      ""related_domains"": [""structural integrity"", ""load calculations"", ""probabilistic analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For the FLS (Fatigue Limit State) design it is important that input for load simulations reflects the actual structure and site conditions."",
+      ""scope"": ""Offshore wind turbine FLS design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""structural integrity"", ""fatigue analysis"", ""load simulations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For FLS design load calculations the joint probability can be determined from long time hindcast simulations and/or long-term measurements of at least the wind speed, wind direction, wave height, wave period, and wave direction."",
+      ""scope"": ""Offshore wind turbine FLS design load calculations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""load calculations"", ""data analysis"", ""metocean data""]
+    }
+
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,174,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Extreme conditions are rare events generating peak values of single Metocean parameter conditions (extreme wave) or joint conditions (extreme wind and associated wave) that shall be considered in any design of an offshore structure."",
+      ""scope"": ""Design of offshore structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""metocean conditions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For design purposes, the conditions shall be derived per directional sectors, as a minimum."",
+      ""scope"": ""Design of offshore structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""metocean conditions""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,175,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,176,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,177,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,178,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,179,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,180,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The sites which are selected in the pool shall be part of a homogeneous region, in terms of water depth, fetch limitation, and orientation of major storm track."",
+      ""scope"": ""Site selection for grid point pooling in extreme value analysis for cyclone conditions."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""meteorological modeling"", ""site assessment"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The sites shall also be spaced far enough (75 km) to reduce statistical dependency."",
+      ""scope"": ""Site selection for grid point pooling in extreme value analysis for cyclone conditions."",
+      ""numerical_value"": 75,
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""meteorological modeling"", ""site assessment"", ""risk assessment"", ""statistical analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,181,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,182,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL\nwww.dnvgl.com\n\nPage 127"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+21,183,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,184,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+21,185,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 129"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Test reports shall be prepared by accredited testing laboratories and meet the requirements of ISO 17025 and relevant standards for the specific testing."",
+      ""scope"": ""Metocean Study report"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 17025"",
+      ""related_domains"": [""metocean data analysis"", ""reporting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A Metocean Study report containing the results of metocean data analysis and interpretation should as a minimum include: Description of the data used, clearly identifying the sources (whether from in-situ measurements, numerical modelling, satellite, etc.), the data provider, the quality control and checks undertaken."",
+      ""scope"": ""Metocean Study report"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean data analysis"", ""data quality"", ""reporting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A Metocean Study report should include: A qualitative and quantitative assessment of the datasets including as a minimum length, resolution in time and space, data gaps, quality flags, and overall confidence in the data."",
+      ""scope"": ""Metocean Study report"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean data analysis"", ""data quality"", ""reporting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""When multiple datasets are used to arrive at design criteria, results should clearly state which dataset has been used for which analysis, and any adjustments/uplift/calibration being made."",
+      ""scope"": ""Metocean Study report, Design Criteria"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean data analysis"", ""data quality"", ""reporting"", ""design criteria""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A Metocean Study report should include: Details of analysis methods, clearly stating any assumptions made and any shortcomings of the methods used which may affect the accuracy of the results."",
+      ""scope"": ""Metocean Study report"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean data analysis"", ""reporting"", ""analysis methodology""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+21,186,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10039663-HOU-01, Issue: D, Status: FINAL, Page 130"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Where statistical fits and extrapolations to extreme return periods are undertaken, results should clearly state details of the distributions used and goodness of fit parameters (or equivalent assessment of quality of data fit)."",
+      ""scope"": ""Metocean data analysis"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean analysis"", ""statistical modeling""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Metocean design criteria being reported should clearly include their units of measure, averaging intervals, height or depth of reported value, and the relevant season or direction as applicable."",
+      ""scope"": ""Metocean data reporting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean data reporting"", ""design criteria""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""An overall statement on the suitability and applicability of the reported metocean values (post-analysis) for application to a wind facility project, including any refinements that may need to be made in the future to increase confidence."",
+      ""scope"": ""Metocean data analysis and reporting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL – Document No.: 10039663-HOU-01"",
+      ""related_domains"": [""metocean analysis"", ""project suitability assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"

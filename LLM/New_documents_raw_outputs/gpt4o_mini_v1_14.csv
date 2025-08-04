@@ -1,0 +1,110 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"14","openai","gpt-4o-mini",149607,145841,1,1,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Deepwater Wind – North Lease BOEM Site Assessment Plan"",
+    ""project_name"": ""Deepwater Wind North Lease"",
+    ""project_location"": ""Offshore Rhode Island and Massachusetts""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""AXYS Floating Light Detection and Ranging 6M buoy"",
+      ""component_acronym"": ""FLiDAR 6M"",
+      ""description"": ""A stand-alone offshore meteorological data collection system."",
+      ""source_section_number"": ""1.0""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The Met Buoy will be located at approximately 41° 05’ 16” N and 71° 13’ 22” W."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""1.0"",
+      ""geographic_scope"": ""Met Buoy Installation Area"",
+      ""context_quote"": ""The Met Buoy will be located at or about 41° 05’ 16” N 71° 13’ 22” W.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The operational life of the Met Buoy is anticipated to be 6 years."",
+      ""value"": 6,
+      ""unit"": ""years"",
+      ""source_section_number"": ""3.2"",
+      ""geographic_scope"": ""Met Buoy Installation Area"",
+      ""context_quote"": ""The operational life of the Met Buoy is anticipated to be 6 years.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Installation activities will be conducted over a 2 to 4-day period, barring weather delays."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""4.0"",
+      ""geographic_scope"": ""Met Buoy Installation Area"",
+      ""context_quote"": ""Installation of the Met Buoy is planned over a 2 to 4-day installation period, barring weather delays.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""The Met Buoy will be decommissioned following the completion of SAP activities."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""6.0"",
+      ""geographic_scope"": ""Met Buoy Installation Area"",
+      ""context_quote"": ""Upon completion of SAP activities, the Met Buoy will be decommissioned.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Safety Standard"",
+      ""description"": ""All installation personnel will attend a health, safety, and environmental briefing prior to work."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Met Buoy Installation Area"",
+      ""context_quote"": ""All personnel participating in the installation will attend a health, safety, and environmental (HSE) briefing prior to commencing work.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Regulatory authority overseeing offshore energy development and site assessment activities."",
+      ""source_section_number"": ""1.0""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""entity_acronym"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Consultation regarding endangered species and essential fish habitat."",
+      ""source_section_number"": ""1.0""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""United States Coast Guard"",
+      ""entity_acronym"": ""USCG"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for navigation safety and approval of private aids to navigation."",
+      ""source_section_number"": ""1.0""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Regulatory authority overseeing safety and environmental enforcement for offshore operations."",
+      ""source_section_number"": ""1.0""
+    }
+  ]
+}
+```"

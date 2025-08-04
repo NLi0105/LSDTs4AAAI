@@ -1,0 +1,369 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"30",1,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Information for Offshore Wind Developers"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""It is necessary to determine if there are known occurrences of any state or federally-listed species within the impact area of the project site."",
+      ""scope"": ""Impact area of the project site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 26 - 306 of the Regulations of Connecticut State Agencies"",
+      ""related_domains"": [""environmental impact assessment"", ""biodiversity protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Connecticut Department of Energy & Environmental Protection"",
+      ""jurisdiction"": ""Connecticut - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"30",2,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy Permitting Factsheet"",
+    ""document_number"": ""Page 1 of 5"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""consultation with DEEP’s NDDB staff will be required to agree upon impact-avoidance and protection measures."",
+      ""scope"": ""Project site in a documented area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Connecticut Department of Energy and Environmental Protection (DEEP)"",
+      ""related_domains"": [""environmental impact assessment"", ""species protection""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""this letter must be included with filings for other state permit applications or general permit registrations."",
+      ""scope"": ""Filings for state permit applications"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Connecticut Department of Energy and Environmental Protection (DEEP)"",
+      ""related_domains"": [""permitting process"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""it typically takes NDDB staff four to six weeks to review and issue NDDB letters; however, if further survey work is needed, the process can take longer."",
+      ""scope"": ""Review process for NDDB letters"",
+      ""numerical_value"": ""6"",
+      ""unit"": ""weeks"",
+      ""source"": ""Connecticut Department of Energy and Environmental Protection (DEEP)"",
+      ""related_domains"": [""project timeline"", ""regulatory review""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Connecticut Department of Energy and Environmental Protection (DEEP)"",
+      ""jurisdiction"": ""State of Connecticut"",
+      ""role"": ""Environmental oversight and permitting authority""
+    }
+  ]
+}
+```"
+"30",3,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction Stormwater General Permit"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Projects between one and five acres can comply with the Construction Stormwater General Permit by adhering to local land use requirements for erosion and sedimentation control."",
+      ""scope"": ""Construction phase, projects between one and five acres"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DEEP General Permit for the Discharge of Stormwater and Dewatering Wastewaters from Construction Activities"",
+      ""related_domains"": [""erosion control"", ""land use management""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Eligible construction projects involving five or more acres of land disturbance and any project requiring Connecticut Siting Council approval must register for coverage under DEEP’s Construction Stormwater General Permit."",
+      ""scope"": ""Construction phase, projects five acres or more"",
+      ""numerical_value"": 5,
+      ""unit"": ""acres"",
+      ""source"": ""DEEP General Permit for the Discharge of Stormwater and Dewatering Wastewaters from Construction Activities"",
+      ""related_domains"": [""permitting"", ""land disturbance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The typical processing time for the Construction Stormwater General Permit registration is between 60 and 90 days."",
+      ""scope"": ""Registration process for Construction Stormwater General Permit"",
+      ""numerical_value"": 90,
+      ""unit"": ""days"",
+      ""source"": ""DEEP General Permit for the Discharge of Stormwater and Dewatering Wastewaters from Construction Activities"",
+      ""related_domains"": [""permitting"", ""project approval""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Wind turbine manufacturing activities may require coverage under DEEP’s General Permit for the Discharge of Stormwater Associated with Industrial Activity if the activity generates a point source stormwater discharge."",
+      ""scope"": ""Manufacturing phase, wind turbine production"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DEEP General Permit for the Discharge of Stormwater Associated with Industrial Activity"",
+      ""related_domains"": [""industrial activity"", ""stormwater management""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Industrial Stormwater General Permit requires registration by the operator of the facility, development and implementation of a Stormwater Pollution Prevention Plan, and stormwater discharge monitoring."",
+      ""scope"": ""Manufacturing phase, wind turbine production"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DEEP General Permit for the Discharge of Stormwater Associated with Industrial Activity"",
+      ""related_domains"": [""stormwater management"", ""pollution prevention""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The processing time for a registration under the Industrial Stormwater General Permit is between 60 and 90 days."",
+      ""scope"": ""Registration process for Industrial Stormwater General Permit"",
+      ""numerical_value"": 90,
+      ""unit"": ""days"",
+      ""source"": ""DEEP General Permit for the Discharge of Stormwater Associated with Industrial Activity"",
+      ""related_domains"": [""permitting"", ""project approval""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Connecticut Department of Energy and Environmental Protection (DEEP)"",
+      ""jurisdiction"": ""State of Connecticut - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Connecticut Siting Council"",
+      ""jurisdiction"": ""State of Connecticut - USA"",
+      ""role"": ""Approval authority for certain projects""
+    }
+  ]
+}
+```"
+"30",4,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy Permitting Factsheet"",
+    ""document_number"": ""Page 2 of 5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""An applicant can elect to apply for an individual permit rather than seek coverage under a Stormwater General Permit."",
+      ""scope"": ""Construction activities associated with stormwater discharge"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Pollutant Discharge Elimination System (NPDES) program and Connecticut’s Water Pollution Control Act"",
+      ""related_domains"": [""water quality management"", ""environmental compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Commissioner can determine that a discharge associated with a construction activity or a stormwater discharge associated with an industrial activity requires an individual permit."",
+      ""scope"": ""Construction activities or industrial activities with significant receptors or natural resources adjacent to the site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Pollutant Discharge Elimination System (NPDES) program and Connecticut’s Water Pollution Control Act"",
+      ""related_domains"": [""water quality management"", ""environmental compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Commissioner"",
+      ""jurisdiction"": ""Connecticut"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"30",5,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A permit from the U.S. Army Corps of Engineers (USACE) is required if siting wind energy operations results in a direct discharge of fill material to wetlands or watercourses that meet the definition of waters of the United States."",
+      ""scope"": ""Wetlands or watercourses in the United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Army Corps of Engineers (USACE)"",
+      ""related_domains"": [""environmental impact assessment"", ""wetland protection""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Coverage may be provided by the USACE Section 404 General Permit, or an Individual USACE permit may be required, depending on the disturbance."",
+      ""scope"": ""Wetlands or watercourses in the United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Army Corps of Engineers (USACE)"",
+      ""related_domains"": [""environmental impact assessment"", ""wetland protection""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Such activities require a Section 401 Water Quality Certification (WQC) from DEEP."",
+      ""scope"": ""Activities impacting wetlands or watercourses"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Connecticut Department of Energy and Environmental Protection (DEEP)"",
+      ""related_domains"": [""water quality"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Coastal projects that impact tidal wetlands will require additional review and permitting in accordance with CGS Section 22a - 32 and RCSA Sections 22a - 30 - 1 to 22a - 30 - 10, inclusive."",
+      ""scope"": ""Tidal wetlands in Connecticut"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Connecticut General Statutes (CGS) and Regulations of Connecticut State Agencies (RCSA)"",
+      ""related_domains"": [""wetland protection"", ""coastal management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers (USACE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority for wetland and watercourse impacts""
+    },
+    {
+      ""entity_name"": ""Connecticut Department of Energy and Environmental Protection (DEEP)"",
+      ""jurisdiction"": ""State - Connecticut"",
+      ""role"": ""Environmental oversight and permitting authority""
+    }
+  ]
+}
+```"
+"30",6,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 3 of 5"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Wind energy projects on state property or that receive state funding, including grants or loans, that are located in a floodplain will require a Flood Management Certification from DEEP or an exemption from such certification requirements."",
+      ""scope"": ""Floodplain areas on state property or receiving state funding"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Connecticut Department of Energy and Environmental Protection (DEEP)"",
+      ""related_domains"": [""flood management"", ""environmental compliance""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Public Act 82 requires that residential and community structures in areas subject to coastal flooding be elevated two feet above the base flood elevation to account for projected sea level rise."",
+      ""scope"": ""Residential and community structures in the 100-year coastal flood zone"",
+      ""numerical_value"": 2,
+      ""unit"": ""feet"",
+      ""source"": ""Public Act 18-82, An Act Concerning Climate Change and Resiliency"",
+      ""related_domains"": [""flood management"", ""climate resilience""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Connecticut Department of Energy and Environmental Protection (DEEP)"",
+      ""jurisdiction"": ""State of Connecticut"",
+      ""role"": ""Permitting authority for flood management certification""
+    }
+  ]
+}
+```"
+"30",7,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Coastal Management and Brownfields Regulations"",
+    ""document_number"": ""Section VI and VII"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Municipalities will be required to perform a coastal site plan review (CSPR) to ensure that the activity is consistent with the policies of the Connecticut Coastal Management Act."",
+      ""scope"": ""Coastal boundary activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Connecticut Coastal Management Act [CGS Sections 22a - 90 – 22a - 110]"",
+      ""related_domains"": [""coastal management"", ""land use planning""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Compliance with the Remediation Standard Regulations, RCSA Sections 22a-133k-1 to 22a-133k-3, is required."",
+      ""scope"": ""Remediation of contaminated sites"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Remediation Standard Regulations, RCSA Sections 22a-133k-1 to 22a-133k-3"",
+      ""related_domains"": [""environmental remediation"", ""pollution control""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Connecticut Department of Energy and Environmental Protection (DEEP)"",
+      ""jurisdiction"": ""State of Connecticut"",
+      ""role"": ""Environmental oversight and remediation program management""
+    }
+  ]
+}
+```"
+"30",8,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy Permitting Factsheet"",
+    ""document_number"": ""Page 4 of 5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Siting Council regulations require a Marine Habitat Conservation Plan developed in conjunction with US Fish and Wildlife Service and DEEP for facilities with a generating capacity of more than 65 MW."",
+      ""scope"": ""Facilities with a generating capacity of more than 65 MW"",
+      ""numerical_value"": 65,
+      ""unit"": ""MW"",
+      ""source"": ""Connecticut Siting Council regulations"",
+      ""related_domains"": [""marine habitat conservation"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Connecticut Siting Council"",
+      ""jurisdiction"": ""Connecticut"",
+      ""role"": ""Advisory consultation and regulation oversight for offshore wind energy operations""
+    },
+    {
+      ""entity_name"": ""US Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and consultation""
+    },
+    {
+      ""entity_name"": ""Connecticut Department of Energy and Environmental Protection (DEEP)"",
+      ""jurisdiction"": ""Connecticut"",
+      ""role"": ""Permit authority and environmental oversight""
+    }
+  ]
+}"
+"30",9,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy Permitting Factsheet"",
+    ""document_number"": ""5"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Energy and Environmental Protection (DEEP)"",
+      ""jurisdiction"": ""Connecticut - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"

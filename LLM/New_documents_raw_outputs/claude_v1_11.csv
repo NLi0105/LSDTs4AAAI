@@ -1,0 +1,223 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"11","claude","claude-3-haiku-20240307",635754,510940,70,67,False,"{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""project_name"": ""Sunrise Wind Offshore Wind Project"",
+    ""project_location"": ""Offshore Rhode Island and Massachusetts""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Up to 94 wind turbine generators within 102 potential positions"",
+      ""source_section_number"": ""2.0""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Converter Station"",
+      ""component_acronym"": ""OCS-DC"",
+      ""description"": ""One offshore converter station with a piled jacket foundation"",
+      ""source_section_number"": ""2.0""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Inter-Array Cables"",
+      ""component_acronym"": ""IAC"",
+      ""description"": ""Up to 180 miles of inter-array cables connecting the WTGs and OCS-DC"",
+      ""source_section_number"": ""2.2.2""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Offshore Export Cable"",
+      ""component_acronym"": ""SRWEC"",
+      ""description"": ""One 320-kilovolt DC export cable bundle, up to 106 miles long"",
+      ""source_section_number"": ""2.2.2""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Project Vessels"",
+      ""description"": ""Vessels used for construction, installation, and maintenance activities"",
+      ""source_section_number"": ""2.2.1.1""
+    },
+    {
+      ""component_id"": ""COMP-06"",
+      ""component_name"": ""Onshore Transmission Cable"",
+      ""description"": ""Up to 17.5 miles of onshore transmission cable"",
+      ""source_section_number"": ""2.2.2""
+    },
+    {
+      ""component_id"": ""COMP-07"",
+      ""component_name"": ""Onshore Converter Station"",
+      ""component_acronym"": ""OnCS-DC"",
+      ""description"": ""Onshore converter station with a disturbance footprint of up to 7 acres"",
+      ""source_section_number"": ""2.2.2""
+    },
+    {
+      ""component_id"": ""COMP-08"",
+      ""component_name"": ""Temporary Pile-Supported Trestle"",
+      ""description"": ""Temporary pile-supported pier extending approximately 240 feet offshore"",
+      ""source_section_number"": ""2.2.2""
+    },
+    {
+      ""component_id"": ""COMP-09"",
+      ""component_name"": ""Horizontal Directional Drilling"",
+      ""component_acronym"": ""HDD"",
+      ""description"": ""Horizontal directional drilling for cable landfall and Intracoastal Waterway crossing"",
+      ""source_section_number"": ""2.2.2""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 94 wind turbine generators within 102 potential positions"",
+      ""value"": 94,
+      ""unit"": ""turbines"",
+      ""source_section_number"": ""2.0"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""The proposed Project would allow Sunrise Wind to construct, operate, maintain, and eventually decommission a wind energy facility with an operating capacity ranging between 924 megawatts (MW) and 1,034 MW in scale. The Project would include up to 94 wind turbine generators (WTGs) at 102 potential locations, one Offshore Converter Station (OCS-DC), offshore export cable routes, onshore cable landfall sites, onshore cable routes, and onshore substation locations.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTG spacing of 1.15 miles (1 nautical mile, 1.8 kilometers) in an east-west/north-south grid"",
+      ""value"": 1.15,
+      ""unit"": ""miles"",
+      ""source_section_number"": ""2.0"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""Turbines would be sited in a uniform east-west/north-south grid with 1.15 by 1.15-mile (mi) (1 by 1-nautical mile [nm]; 1.85 by 1.85 kilometer [km]) spacing.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTG rotor height up to 787 feet (240 meters) above mean sea level"",
+      ""value"": 787,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.0"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""Turbines would be sited in a uniform east-west/north-south grid with 1.15 by 1.15-mile (mi) (1 by 1-nautical mile [nm]; 1.85 by 1.85 kilometer [km]) spacing. Sunrise Wind would maintain diagonal lanes between 0.7 and 0.9 mi (0.6 to 0.8 nm; 1.1 and 1.5 km) wide when micrositing foundations. Sunrise Wind would mount the WTGs on monopile foundations. The WTG foundations as proposed in the COP would be 39 ft (12 m) in diameter at the seabed and 23 ft (7 m) in diameter at the sea surface (Sunrise Wind 2022). A monopile foundation typically consists of a single steel tubular section, with several sections of rolled steel plate welded together. For a WTG monopile foundation, a Transition Piece (TP) may be fitted over the top of the monopile and secured via a bolted connection. Secondary structures on each WTG monopile foundation would include a boat landing or alternative means of safe access, a crane, and other ancillary components. The OCS-DC would be placed on an up to four-legged piled jacket foundation. A piled jacket foundation is formed of a steel lattice construction (comprising tubular steel members and welded joints) secured to the seafloor by means of hollow steel pin piles attached to the jacket. Schematic drawings and renderings of the conceptual monopile foundation with secondary structure after installation and the piled jacket foundations are included in COP Section 3.3.5 (Sunrise Wind 2022). When required, scour protection would be placed around foundations to stabilize the seabed near the foundations as well as the foundations themselves.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTG monopile foundations up to 39 feet (12 meters) in diameter at the seabed"",
+      ""value"": 39,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.0"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""Sunrise Wind would mount the WTGs on monopile foundations. The WTG foundations as proposed in the COP would be 39 ft (12 m) in diameter at the seabed and 23 ft (7 m) in diameter at the sea surface (Sunrise Wind 2022).""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTG monopile foundations up to 23 feet (7 meters) in diameter at the sea surface"",
+      ""value"": 23,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.0"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""Sunrise Wind would mount the WTGs on monopile foundations. The WTG foundations as proposed in the COP would be 39 ft (12 m) in diameter at the seabed and 23 ft (7 m) in diameter at the sea surface (Sunrise Wind 2022).""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""OCS-DC foundation is a piled jacket structure with up to four legs"",
+      ""value"": 4,
+      ""unit"": ""legs"",
+      ""source_section_number"": ""2.0"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""The OCS-DC would be placed on an up to four-legged piled jacket foundation. A piled jacket foundation is formed of a steel lattice construction (comprising tubular steel members and welded joints) secured to the seafloor by means of hollow steel pin piles attached to the jacket.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Maximum total installed inter-array cable length of 180 miles (290 kilometers)"",
+      ""value"": 180,
+      ""unit"": ""miles"",
+      ""source_section_number"": ""2.2.2"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""The maximum total installed array cable length is 180 miles (289.7 km).""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Offshore export cable length up to 106 miles (170 kilometers)"",
+      ""value"": 106,
+      ""unit"": ""miles"",
+      ""source_section_number"": ""2.2.2"",
+      ""geographic_scope"": ""Offshore Export Cable Route (SRWEC)"",
+      ""context_quote"": ""The approximately 106 mi (170 km) SRWEC would occur within a surveyed corridor ranging in width from 1,312 to 2,625 ft (400 to 800 m), depending on water depth.""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Offshore export cable target burial depth of 3 to 7 feet (1 to 2 meters)"",
+      ""value"": 3,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.2.2"",
+      ""geographic_scope"": ""Offshore Export Cable Route (SRWEC)"",
+      ""context_quote"": ""The SRWEC would consist of one cable bundle comprised of two cables. The cable would have a target burial depth of 3 to 7 ft (1 to 2 m) but would be dependent upon an assessment of seabed conditions, seabed mobility, the risk of interaction with external hazards, and a site-specific cable burial risk assessment.""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-06"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Onshore transmission cable length up to 17.5 miles (28.2 kilometers)"",
+      ""value"": 17.5,
+      ""unit"": ""miles"",
+      ""source_section_number"": ""2.2.2"",
+      ""geographic_scope"": ""Onshore Transmission Cable"",
+      ""context_quote"": ""The interior transmission cable includes an OnCS-DC with a disturbance footprint of up to 7 ac (2.8 ha) and an operational footprint of 6 acres (2.4 ha). Benthic habitat types identified in the interior coastal component of the Project area include: - Tidal marsh (5 acres) - Summer flounder HAPC""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-08"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Temporary pile-supported trestle extending approximately 240 feet (73 meters) offshore and 16 feet (4.9 meters) wide"",
+      ""value"": 240,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.2.2"",
+      ""geographic_scope"": ""Temporary Pile-Supported Trestle"",
+      ""context_quote"": ""To allow for the transportation of equipment and materials from Long Island to the construction site on Fire Island, a temporary pile-supported pier would be constructed on the inshore side of Fire Island. The pier would extend approximately 240 feet (73 m) offshore and be approximately 16-feet (4.9-m) wide.""
+    },
+    {
+      ""constraint_id"": ""C-012"",
+      ""linked_component_id"": ""COMP-08"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 24 production piles for the temporary pile-supported trestle, either 14 x 14-inch (36.5 x 36.5 cm) H-shaped or 16-inch (40.6-cm) diameter round steel"",
+      ""value"": 24,
+      ""unit"": ""piles"",
+      ""source_section_number"": ""2.2.2"",
+      ""geographic_scope"": ""Temporary Pile-Supported Trestle"",
+      ""context_quote"": ""The precise pier design and type of piles have not yet been determined, but it is anticipated that up to 24 production piles would be used. Production piles would be either a 14 x 14-inch (36.5 x 36.5 cm) H-shaped pile or a 16-inch (40.6-cm) diameter round steel pile.""
+    },
+    {
+      ""constraint_id"": ""C-013"",
+      ""linked_component_id"": ""COMP-08"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 24 temporary piles for the temporary pile-supported trestle, either 14 x 14-inch (36.5 x 36.5 cm) H-shaped or 16-inch (40.6-cm) diameter round steel"",
+      ""value"": 24,
+      ""unit"": ""piles"",
+      ""source_section_number"": ""2.2.2"",
+      ""geographic_scope"": ""Temporary Pile-Supported Trestle"",
+      ""context_quote"": ""In addition, up to 24 temporary piles (of the same size as the production piles) may be used to support the installation of the production piles and may be installed and removed during construction activities.""
+    },
+    {
+      ""constraint_id"": ""C-014"",
+      ""linked_component_id"": ""COMP-09"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to two horizontal directional drill (HDD) cables with a target burial depth of 5 to 75 feet (1.5 to 25 meters)"",
+      ""value"": 2,
+      ""unit"": ""cables"",
+      ""source_section_number"": ""2.2.2"",
+      ""geographic_scope"": ""Horizontal Directional Drilling (HDD)"",
+      ""context_quote"": ""There would be a total of 6 HDD cable ducts with a target burial depth of 5 to 75 ft (1.5 to 25 m). The ducts would have a maximum length of 0.9 mi"

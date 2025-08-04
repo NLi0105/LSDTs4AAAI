@@ -1,0 +1,155 @@
+GENUINE REGULATORY CONSTRAINTS EXTRACTION REPORT
+============================================================
+
+📊 EXECUTIVE SUMMARY:
+  Original Constraints: 29254
+  Regulatory Constraints: 6797
+  High Confidence (≥0.8): 5046
+  Filter Efficiency: 23.2%
+  Generated: 2025-07-01 09:16:02
+
+📋 OUTPUT COLUMNS:
+  Columns included: model_name, document_number, type_of_wind_farm, chunk_number, document_id, constraint_type, requirement, scope, numerical_value, unit, source, related_domains
+
+🎯 FILTERING METHODOLOGY:
+  • Regulatory keyword detection
+  • Non-regulatory pattern exclusion
+  • Confidence scoring based on linguistic features
+  • Minimum confidence threshold: 0.5
+  • Columns filtered: removed all columns after 'related_domains'
+
+📋 TOP 20 REGULATORY CONSTRAINTS:
+------------------------------------------------------------
+
+ 1. CONFIDENCE: 1.000
+    Type: Jurisdictional
+    Requirement: Within 2 years following termination of a lease or grant, you must remove or dispose of all facilities, installations, and other devices permanently or temporarily attached to the seabed on the OCS in accordance with your Plan approved by BOEM....
+    Analysis: Contains 4 mandatory verb(s); Contains 1 regulatory phrase(s); Contains 1 regulatory context(s); Contains 1 numerical constraint(s)
+    Source: § 285.433...
+
+ 2. CONFIDENCE: 1.000
+    Type: Technical
+    Requirement: Within 5 years of the commissioning of the first WTG and every 5 years thereafter for the operational life of the Project, the Lessee must provide BOEM with a review of best available scientific and commercial data on technologies and methods that have been implemented or are being studied to reduce...
+    Analysis: Contains 2 mandatory verb(s); Contains 1 regulatory phrase(s); Contains 1 regulatory context(s); Contains 1 numerical constraint(s); Uses regulatory sentence structure
+    Source: nan...
+    Numerical Value: 5 years
+
+ 3. CONFIDENCE: 1.000
+    Type: Environmental
+    Requirement: The Compensatory Mitigation Plan must provide compensatory mitigation actions to fully offset the impact of the incidental take of piping plover, red knot, and roseate tern....
+    Analysis: Contains 2 mandatory verb(s); Contains 1 constraint type(s); Uses regulatory sentence structure
+    Source: nan...
+
+ 4. CONFIDENCE: 1.000
+    Type: Spatial
+    Requirement: The Lessee must prepare and implement an Anchoring Plan(s) for all areas where anchoring or buoy placement occurs and jack-up barges are used during construction and operations/maintenance within 1,640 ft (500 m) of habitats, resources, and submerged infrastructure that are sensitive, including sens...
+    Analysis: Contains 1 mandatory verb(s); Contains 3 regulatory phrase(s); Contains 1 constraint type(s); Contains 4 regulatory context(s); Contains 1 numerical constraint(s)
+    Source: nan...
+    Numerical Value: 500 m
+
+ 5. CONFIDENCE: 1.000
+    Type: Spatial
+    Requirement: The Lessee must provide to all construction and support vessels the locations where anchoring or buoy placement must be avoided to the extent technically and/or economically practicable or feasible, including sensitive benthic habitats, boulders greater than or equal to 0.5 m, ASLFs, known and poten...
+    Analysis: Contains 2 mandatory verb(s); Contains 2 regulatory phrase(s); Contains 2 regulatory context(s); Uses regulatory sentence structure
+    Source: nan...
+    Numerical Value: 0.5 m
+
+ 6. CONFIDENCE: 1.000
+    Type: Technical
+    Requirement: The Lessee must provide the proposed Anchoring Plan to BOEM and BSEE, for the agencies’ 60-day review (in coordination with NMFS GARFO-HESD), at least 120 days before anchoring activities or at least 120 days before construction begins for export and interarray cables, whichever is earlier....
+    Analysis: Contains 2 mandatory verb(s); Contains 1 regulatory phrase(s); Contains 2 regulatory context(s); Contains 1 numerical constraint(s); Uses regulatory sentence structure
+    Source: nan...
+    Numerical Value: 120 days
+
+ 7. CONFIDENCE: 1.000
+    Type: Technical
+    Requirement: The report must include a summary of the micrositing activities for WTGs, inter-array cables, and the export cables and demonstrate (i.e., figures of as-built locations overlaid on multibeam echosounder backscatter survey data) how impacts to complex habitats and benthic features were avoided and/or...
+    Analysis: Contains 2 mandatory verb(s); Contains 1 regulatory phrase(s); Contains 2 constraint type(s); Contains 1 regulatory context(s); Contains 1 descriptive phrase(s) (penalty)
+    Source: nan...
+
+ 8. CONFIDENCE: 1.000
+    Type: Technical
+    Requirement: The Lessee must submit the report within 60 days of completion of all WTG and cable installations....
+    Analysis: Contains 2 mandatory verb(s); Contains 1 regulatory phrase(s); Contains 1 regulatory context(s); Contains 1 numerical constraint(s)
+    Source: nan...
+    Numerical Value: 60 days
+
+ 9. CONFIDENCE: 1.000
+    Type: Environmental
+    Requirement: The plan(s) must provide for relocation of boulders as closely as practicable to the original location, in areas of soft bottom that are immediately adjacent to existing similar habitat from which the boulder originated....
+    Analysis: Contains 2 mandatory verb(s); Contains 1 constraint type(s); Contains 1 regulatory context(s); Uses regulatory sentence structure
+    Source: nan...
+
+10. CONFIDENCE: 1.000
+    Type: Technical
+    Requirement: The plan must include a summary and detailed description of locations along the cable routes and wind turbine areas where surface and subsurface boulders greater than 0.5 m in diameter have been found....
+    Analysis: Contains 1 mandatory verb(s); Contains 1 regulatory phrase(s); Contains 1 constraint type(s); Contains 2 regulatory context(s); Contains 1 numerical constraint(s); Contains 1 descriptive phrase(s) (penalty)
+    Source: nan...
+    Numerical Value: 0.5 m
+
+11. CONFIDENCE: 1.000
+    Type: Technical
+    Requirement: The plan must include a comprehensive list and shapefile of locations of boulders that would be relocated (latitude, longitude), boulder dimensions (m), buffer radius (m), areas of active (within last 5 years) fishing (latitude, longitude), areas where boulders greater than 2 m in diameter are antic...
+    Analysis: Contains 1 mandatory verb(s); Contains 2 regulatory phrase(s); Contains 2 constraint type(s); Contains 1 regulatory context(s); Contains 1 numerical constraint(s); Contains 2 descriptive phrase(s) (penalty)
+    Source: nan...
+    Numerical Value: 2 m
+
+12. CONFIDENCE: 1.000
+    Type: Jurisdictional
+    Requirement: The Lessee must provide USCG, NOAA, and the local harbormaster with a comprehensive list and shapefile of positions and areas to which boulders greater than 2 m would be relocated (latitude, longitude) at least 60 days prior to boulder relocation activities....
+    Analysis: Contains 2 mandatory verb(s); Contains 2 regulatory phrase(s); Contains 1 constraint type(s); Contains 1 numerical constraint(s); Uses regulatory sentence structure; Contains 1 descriptive phrase(s) (penalty)
+    Source: nan...
+    Numerical Value: 2 m
+
+13. CONFIDENCE: 1.000
+    Type: Technical
+    Requirement: The Lessee must provide a Boulder Relocation Report to BSEE, BOEM, NMFS GARFO-HESD, and the approved CVA....
+    Analysis: Contains 3 mandatory verb(s); Uses regulatory sentence structure
+    Source: nan...
+
+14. CONFIDENCE: 1.000
+    Type: Technical
+    Requirement: The Lessee must submit the report within 60 days of completion of the boulder relocation activities and prior to or with the relevant FIR....
+    Analysis: Contains 2 mandatory verb(s); Contains 1 regulatory phrase(s); Contains 1 numerical constraint(s)
+    Source: nan...
+    Numerical Value: 60 days
+
+15. CONFIDENCE: 1.000
+    Type: Technical
+    Requirement: The Lessee must also provide BOEM and BSEE a comprehensive list and shapefile of boulder locations to which boulders were relocated (latitude, longitude), boulder dimensions (m), any safety distances or zones to limit boulder relocation near third-party assets (m), and areas of active (within last 5...
+    Analysis: Contains 2 mandatory verb(s); Contains 1 regulatory phrase(s); Contains 3 constraint type(s); Contains 2 regulatory context(s)
+    Source: nan...
+    Numerical Value: 5 years
+
+16. CONFIDENCE: 1.000
+    Type: Jurisdictional
+    Requirement: The Lessee must submit the Scour and Cable Protection Plan(s) to BOEM and BSEE for a 60-day review (in coordination with NMFS GARFO-HESD), at least 120 days prior to placement of scour and cable protection....
+    Analysis: Contains 2 mandatory verb(s); Contains 1 regulatory phrase(s); Contains 1 constraint type(s); Contains 1 regulatory context(s); Contains 1 numerical constraint(s)
+    Source: nan...
+    Numerical Value: 60 days
+
+17. CONFIDENCE: 1.000
+    Type: Jurisdictional
+    Requirement: The final version of the Scour and Cable Protection Plan(s) must be provided to BSEE, NMFS, and USACE....
+    Analysis: Contains 2 mandatory verb(s); Contains 1 constraint type(s); Contains 1 regulatory context(s); Uses regulatory sentence structure
+    Source: nan...
+
+18. CONFIDENCE: 1.000
+    Type: Jurisdictional
+    Requirement: The Lessee must submit the Berm Remediation Plan to BOEM and BSEE for a 60-day review (in coordination with NMFS) within 90 days of completion of the post-construction survey where the change was detected....
+    Analysis: Contains 2 mandatory verb(s); Contains 1 regulatory phrase(s); Contains 1 regulatory context(s); Contains 1 numerical constraint(s)
+    Source: nan...
+    Numerical Value: 60 days
+
+19. CONFIDENCE: 1.000
+    Type: Jurisdictional
+    Requirement: The Lessee must submit the Berm Remediation Plan to BOEM and BSEE for a 60-day review (in coordination with NMFS) within 90 days of completion of the post-construction survey where the change was detected....
+    Analysis: Contains 2 mandatory verb(s); Contains 1 regulatory phrase(s); Contains 1 regulatory context(s); Contains 1 numerical constraint(s)
+    Source: nan...
+    Numerical Value: 90 days
+
+20. CONFIDENCE: 1.000
+    Type: Jurisdictional
+    Requirement: The Lessee must submit all required documents related to protected species in accordance with Term and Condition 10 of the June 18, 2024, NMFS BiOp....
+    Analysis: Contains 5 mandatory verb(s)
+    Source: NMFS BiOp, Term and Condition 10, June 18, 2024...

@@ -1,0 +1,214 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"24",1,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"24",2,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"24",3,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"24",4,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Independent System Operators (ISOs)"",
+      ""jurisdiction"": ""Regional - USA"",
+      ""role"": ""Wholesale power market operators; develop capacity and ancillary service rules; manage payments for energy, capacity, and ancillary services for grid reliability and stability.""
+    },
+    {
+      ""entity_name"": ""ISO-NE"",
+      ""jurisdiction"": ""New England - USA"",
+      ""role"": ""Wholesale power market operator for New England; manages capacity payments and sets rules for grid reliability and stability within its market.""
+    }
+  ]
+}
+```"
+"24",5,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""P RATT ’ S E NERGY L AW R EPORT"",
+    ""document_number"": ""179"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Energy Regulatory Committee"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Market regulation""
+    },
+    {
+      ""entity_name"": ""ISO-NE"",
+      ""jurisdiction"": ""Regional - USA (New England)"",
+      ""role"": ""Market operator""
+    }
+  ]
+}
+```"
+"24",6,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""PJM’s current capacity market construct was invalidated and requires a substantial redesign."",
+      ""scope"": ""PJM’s capacity market"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal Energy Regulatory Commission's Calpine decision (June 2018)"",
+      ""related_domains"": [
+        ""energy market regulation"",
+        ""capacity market design"",
+        ""wholesale electricity markets""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ISO-NE"",
+      ""jurisdiction"": ""Northeast US wholesale electricity market"",
+      ""role"": ""Wholesale electricity market operator""
+    },
+    {
+      ""entity_name"": ""New York-ISO"",
+      ""jurisdiction"": ""New York wholesale electricity market"",
+      ""role"": ""Wholesale electricity market operator""
+    },
+    {
+      ""entity_name"": ""PJM"",
+      ""jurisdiction"": ""Mid-Atlantic US wholesale electricity market"",
+      ""role"": ""Wholesale electricity market operator""
+    },
+    {
+      ""entity_name"": ""Federal Energy Regulatory Commission"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Energy market regulator""
+    }
+  ]
+}
+```"
+"24",7,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"24",8,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Federal Commercial Leasing Process"",
+    ""document_number"": ""181"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""a lessee must submit, such as the SAP or the critical COP."",
+      ""scope"": ""Leasing and development process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [
+        ""planning"",
+        ""environmental review"",
+        ""project development""
+      ]
+    },
+    {
+      ""type"": ""Financial"",
+      ""requirement"": ""BOEM requires the lessee to post financial assurance various stages of the leasing and development process: prior to lease issuance, following submission of the SAP (if needed); and prior to COP approval."",
+      ""scope"": ""Leasing and development process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [
+        ""financial management"",
+        ""risk management""
+      ]
+    },
+    {
+      ""type"": ""Financial"",
+      ""requirement"": ""BOEM also charges commercial rental payments during the term of the lease; a smaller per acre amount until commercial operation begins, at which point operating fees are calculated according to a formula that assesses nameplate capacity, anticipated capacity factor, and neighboring state’s average wholesale electric power price."",
+      ""scope"": ""Lease term; commercial operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [
+        ""financial management"",
+        ""lease agreements"""
+"24",9,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"24",10,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""O UTLOOK FOR U.S. O FFSHORE W IND"",
+    ""document_number"": ""182"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The federal government has jurisdiction over activities beyond three geographical miles out to the edge of the continental shelf."",
+      ""scope"": ""Outer Continental Shelf (OCS) beyond state waters"",
+      ""numerical_value"": 3,
+      ""unit"": ""geographical miles"",
+      ""source"": ""Outer Continental Shelf Lands Act (OCSLA)"",
+      ""related_domains"": [
+        ""jurisdiction"",
+        ""spatial planning"",
+        ""offshore development""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""States do not have direct authority over activities in this area [beyond three geographical miles out to the edge of the continental shelf] but gain the ability to review activities through the Federal Consistency provision of the Coastal"",
+      ""scope"": ""Outer Continental Shelf (OCS) beyond three geographical miles"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Lands Act (OCSLA), Federal Consistency provision of the Coastal"",
+      ""related_domains"": [
+        ""jurisdiction"",
+        ""state review"",
+        ""federal-state coordination""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Government"",
+      ""jurisdiction"": ""Outer Continental Shelf (OCS) beyond state waters (beyond three geographical miles out to the edge of the continental shelf)"",
+      ""role"": ""Establishes authority for natural resources; has jurisdiction over activities""
+    },
+    {
+      ""entity_name"": ""States"",
+      ""jurisdiction"": ""Within state waters (up to"
+"24",11,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"24",12,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""183"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""State approval is necessary for BOEM’s permitting process through a consistency determination with the Coastal Zone Management Act (CZMA) program."",
+      ""scope"": ""Offshore wind projects requiring BOEM permits"",
+      ""numerical_value"": null,"
+"24",13,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"24",14,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"24",15,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"24",16,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"24",17,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Any wind development with a turbine"
+"24",18,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"24",19,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"

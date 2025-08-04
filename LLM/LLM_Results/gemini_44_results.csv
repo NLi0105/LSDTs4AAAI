@@ -1,0 +1,543 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+44,1,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,2,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""PAM during offshore wind construction and operation may be required by the National Oceanic and Atmospheric Administration and Bureau of Ocean Energy Management through project-related permits and approvals issued pursuant to relevant statutes and regulations."",
+      ""scope"": ""Offshore wind construction and operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Oceanic and Atmospheric Administration and Bureau of Ocean Energy Management permits and approvals pursuant to relevant statutes and regulations"",
+      ""related_domains"": [""passive acoustic monitoring"", ""environmental impact assessment"", ""marine species protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and approval authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and approval authority""
+    }
+  ]
+}
+```"
+44,3,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,4,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulation of potential effects of offshore wind energy on protected marine species""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Issuance of leases and approval of Construction and Operations Plans (COPs)""
+    }
+  ]
+}
+```"
+44,5,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,6,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Project-specific PAM Plans, developed by project proponents and approved by Federal agencies, should include descriptions of equipment, procedures (deployment, retrieval, detection, and analyses), ISO data quality standards and protocols that will be used for monitoring and mitigation."",
+      ""scope"": ""Passive Acoustic Monitoring (PAM) plans for offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""acoustic monitoring"", ""data quality""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM specifications for inclusion in a PAM Plan will need to be developed in consultation with NOAA and other permitting agencies, such as BOEM."",
+      ""scope"": ""Passive Acoustic Monitoring (PAM) plans for offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""acoustic monitoring"", ""permitting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""To design a PAM Plan, the following six topics need to be included and addressed: species of interest, PAM system types, PAM recording technologies, PAM study design, PAM system requirements, and PAM data archiving and reporting."",
+      ""scope"": ""Passive Acoustic Monitoring (PAM) plans for offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""acoustic monitoring"", ""data management"", ""reporting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation on PAM specifications, permitting""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting agency""
+    }
+  ]
+}
+```"
+44,7,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,8,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,9,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,10,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,11,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,12,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,13,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,14,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,15,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,16,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,17,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,18,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,19,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,20,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,21,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,22,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Mitigation requirements""
+    },
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Mitigation requirements""
+    }
+  ]
+}
+```"
+44,23,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,24,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,25,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Acoustical Society of America (ASA)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American National Standards Institute (ANSI)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+44,26,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,27,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,28,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,29,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,30,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Rules for defining which acoustic information triggers this decision [delaying, ceasing, or proceeding with pile driving when a protected species is confirmed acoustically within a relevant impact zone] should be established in advance and in concert with visual monitoring."",
+      ""scope"": ""Construction phase, pile driving activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""acoustic impact mitigation"", ""construction monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A thorough decision-making and communication process when a detection [of a species] is made is needed to ensure that vessels are alerted and slow down."",
+      ""scope"": ""Vessel operations during construction and operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""vessel strike mitigation"", ""collision avoidance"", ""marine mammal protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+44,31,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Slow Zones are established when North Atlantic right whales are detected both visually (i.e., Dynamic Management Area) and acoustically (i.e., Acoustic Slow Zone)."",
+      ""scope"": ""Areas where North Atlantic right whales are detected"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA"",
+      ""related_domains"": [""marine mammal protection"", ""vessel speed restriction"", ""environmental impact mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A Dynamic Management Area is triggered when 3 or more North Atlantic right whales are sighted within 3–5 miles of one another."",
+      ""scope"": ""Areas where North Atlantic right whales are sighted"",
+      ""numerical_value"": 3,
+      ""unit"": ""whales"",
+      ""source"": ""NOAA"",
+      ""related_domains"": [""marine mammal protection"", ""vessel speed restriction"", ""environmental impact mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An Acoustic Slow Zone is established when three or more upcall detections from an acoustic system occur within an evaluation period (e.g., 15 min)"",
+      ""scope"": ""Areas where North Atlantic right whale upcalls are acoustically detected"",
+      ""numerical_value"": 3,
+      ""unit"": ""detections"",
+      ""source"": ""NOAA"",
+      ""related_domains"": [""marine mammal protection"", ""vessel speed restriction"", ""environmental impact mitigation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""To trigger an Acoustic Slow Zone, an acoustic system must meet the following criteria: (1) evaluation of the system has been published in the peer-reviewed literature, (2) false detection rate is 10% or lower over daily time scales, and (3) missed detection rate is 50% or lower over daily time scales."",
+      ""scope"": ""Acoustic detection systems for North Atlantic right whales"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA NEFSC"",
+      ""related_domains"": [""acoustic monitoring"", ""marine mammal detection"", ""data quality""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Once triggered, Slow Zones are set up as a rectangular area encompassing a circle of 15 (for Dynamic Management Areas) or 20 (for Acoustic Slow Zones) nautical miles around the core sightings (Dynamic Management Area) or recorder location at the time of detection (Acoustic Slow Zone)."",
+      ""scope"": ""Slow Zones for North Atlantic right whales"",
+      ""numerical_value"": 15,
+      ""unit"": ""nautical miles"",
+      ""source"": ""NOAA"",
+      ""related_domains"": [""vessel speed restriction"", ""navigation"", ""marine mammal protection""]
+
+    },
+        {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Once triggered, Slow Zones are set up as a rectangular area encompassing a circle of 15 (for Dynamic Management Areas) or 20 (for Acoustic Slow Zones) nautical miles around the core sightings (Dynamic Management Area) or recorder location at the time of detection (Acoustic Slow Zone)."",
+      ""scope"": ""Slow Zones for North Atlantic right whales"",
+      ""numerical_value"": 20,
+      ""unit"": ""nautical miles"",
+      ""source"": ""NOAA"",
+      ""related_domains"": [""vessel speed restriction"", ""navigation"", ""marine mammal protection""]
+
+    },
+    {
+      ""type"": ""Temporal"",
+      ""requirement"": ""The Slow Zone lasts for 15 days and can be extended with additional sightings or acoustic detections."",
+      ""scope"": ""Slow Zones for North Atlantic right whales"",
+      ""numerical_value"": 15,
+      ""unit"": ""days"",
+      ""source"": ""NOAA"",
+      ""related_domains"": [""vessel speed restriction"", ""navigation"", ""marine mammal protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and regulation""
+    },
+    {
+      ""entity_name"": ""NOAA NEFSC"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Technical expertise and guidance on acoustic detection systems""
+    }
+  ]
+}
+```"
+44,32,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,33,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The hydrophones and related hardware need to be calibrated (every 3 to 5 years) and their performance systematically measured and optimized within frequency bandwidths of interest for the particular activity, species, and environment."",
+      ""scope"": ""PAM technologies"",
+      ""numerical_value"": 3,
+      ""unit"": ""years"",
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Calibration data, and relevant settings and sensitivities should be noted for all hardware used in recording/monitoring to ensure consistency among measurements for particular hardware and software."",
+      ""scope"": ""PAM technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""data management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Array synchronization information (where relevant) should also be documented."",
+      ""scope"": ""PAM technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""data management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""This information should be permanently associated with the recordings as metadata."",
+      ""scope"": ""PAM technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""data management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All hardware should be tested and optimized for low self-noise, including the mooring system."",
+      ""scope"": ""PAM technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In addition to calibration, the system should be fully tested to ensure adequate sensitivity in the area where it will be deployed and with the type of signals it would receive."",
+      ""scope"": ""PAM technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""If this cannot be done at the project site, the system should be fully tested in a comparable location (i.e., an area exhibiting similar depth, temperature, substrate, current, acoustic propagation, and ambient noise, with relevant sound sources)."",
+      ""scope"": ""PAM technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The following specifications should be measured and reported on."",
+      ""scope"": ""PAM technologies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""reporting""]
+    }
+
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+44,34,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,35,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,36,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,37,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,38,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,39,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,40,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Metrics for the coincidental recording of ambient noise should be included in PAM Plans and include factors anticipated to be associated with offshore wind development such as vessel traffic and operational noise."",
+      ""scope"": ""Offshore wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+44,41,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,42,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM metadata are required criteria for archiving at NCEI."",
+      ""scope"": ""Acoustic sound recordings"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA’s National Center for Environmental Information (NCEI)"",
+      ""related_domains"": [""environmental impact assessment"", ""acoustic monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA’s National Center for Environmental Information (NCEI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Archiving and data management""
+    }
+  ]
+}
+```"
+44,43,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All confirmed passive acoustic detections of target species/species, whether from archival or real-time data, must be archived in a publicly accessible location."",
+      ""scope"": ""United States East Coast"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""passive acoustic monitoring"",
+        ""marine mammal protection"",
+        ""data transparency""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For the United States East Coast, all species detection data and ambient noise metrics should be reported to the Northeast Passive Acoustic Reporting System via [nmfs.pacmdata@noaa.gov.](mailto:nmfs.pacmdata@noaa.gov)"",
+      ""scope"": ""United States East Coast"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""passive acoustic monitoring"",
+        ""marine mammal protection"",
+        ""data reporting""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""When real-time PAM is used during construction for mitigation purposes, a subset of the information required on species detections is expected to be provided and uploaded no later than 24 after the detection."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [
+        ""passive acoustic monitoring"",
+        ""marine mammal mitigation"",
+        ""real-time monitoring"",
+        ""data reporting""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Full acoustic detection data, metadata, and GPS data records must be submitted within 48 h via the formatted spreadsheets."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": 48,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [
+        ""passive acoustic monitoring"",
+        ""marine mammal mitigation"",
+        ""data reporting""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""When PAM is used for long-term monitoring, all data (detection data, metadata, GPS data, and ambient noise data) should be provided via the formatted spreadsheets and uploaded within 90 days of the retrieval of the recorder or data collection."",
+      ""scope"": ""Long-term monitoring"",
+      ""numerical_value"": 90,
+      ""unit"": ""days"",
+      ""source"": null,
+      ""related_domains"": [
+        ""passive acoustic monitoring"",
+        ""marine mammal monitoring"",
+        ""data reporting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+44,44,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,45,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,46,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,47,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,48,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,49,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,50,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,51,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,52,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,53,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,54,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,55,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,56,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,57,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,58,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,59,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,60,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,61,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,62,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,63,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,64,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,65,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,66,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,67,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,68,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,69,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,70,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,71,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,72,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,73,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,74,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+44,75,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND

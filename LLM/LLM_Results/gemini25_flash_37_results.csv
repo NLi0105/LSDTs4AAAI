@@ -1,0 +1,1116 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"37",1,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""FACT SHEET and STATEMENT OF BASIS Outer Continental Shelf Preconstruction and Operating Air Permit"",
+    ""document_number"": ""OCS-R1-03"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""UNITED STATES ENVIRONMENTAL PROTECTION AGENCY"",
+      ""jurisdiction"": ""Federal - USA (Region 1, covering Massachusetts Wind Energy Area)"",
+      ""role"": ""Permitting authority (Air Permits), Regulatory oversight""
+    }
+  ]
+}
+```"
+"37",2,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",3,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",4,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",5,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",6,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",7,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",8,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Obtain a Clean Air Act (CAA) permit under Section 328 of the CAA for the construction and operation of an offshore windfarm, including export cables, on the Outer Continental Shelf (OCS)."",
+      ""scope"": ""Construction and operation of offshore windfarm on the OCS, including export cables."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Air Act (CAA) Section 328"",
+      ""related_domains"": [
+        ""air quality"",
+        ""environmental permitting"",
+        ""offshore construction"",
+        ""offshore operation""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Obtain a Title V operating permit."",
+      ""scope"": ""Operation of offshore windfarm."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""310 CMR 7.00, Appendix C"",
+      ""related_domains"": [
+        ""air quality"",
+        ""environmental permitting"",
+        ""offshore operation""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Permit must contain all applicable requirements under 40 C.F.R. part 55."",
+      ""scope"": ""Offshore windfarm permitting."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. part 55"",
+      ""related_domains"": [
+        ""environmental permitting"",
+        ""regulatory compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA) Region 1"",
+      ""jurisdiction"": ""Federal - USA (Region 1)"",
+      ""role"": ""Permitting authority; Environmental oversight""
+    }
+  ]
+}
+```"
+"37",9,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",10,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Construction and operations plans from wind energy developers must be submitted to and reviewed by the Bureau of Ocean Energy Management (BOEM) for approval or disapproval."",
+      ""scope"": ""Offshore wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [
+        ""permitting"",
+        ""project development"",
+        ""regulatory compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Application completeness determination; Permitting authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (Offshore)"",
+      ""role"": ""Review and approval/disapproval of construction and operations plans for offshore wind energy projects""
+    }
+  ]
+}
+```"
+"37",11,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",12,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"37",13,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",14,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Lines 5-6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Regional Administrator in Region 1"",
+      ""jurisdiction"": ""Federal - USA (Region 1)"",
+      ""role"": ""Delegated authority for Outer Continental Shelf Air Regulations; environmental oversight and permitting""
+    }
+  ]
+}
+```"
+"37",15,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section C"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The OCS permit applicant then follows the procedural requirements to obtain a federal permit as outlined in 40 C.F.R. part 124. The applicant submits an air permit application that provides the information to show that it will comply with all applicable federal requirements, including those requirements found in 40 C.F.R. part 55 (which, because of the consistency update, include certain state and local requirements incorporated by reference into federal law), and any other federal standard that may apply to the source."",
+      ""scope"": ""OCS permit applicants for offshore wind farms; air permit application process; construction and operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. part 124, 40 C.F.R. part 55, 310 CMR 4.00, 310 CMR 6.00, 310 CMR 7.00, 310 CMR 8.00"",
+      ""related_domains"": [
+        ""air quality control"",
+        ""permitting"",
+        ""environmental compliance""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The pollutant-emitting activities within the WDA are part of a single plan to construct and operate an offshore windfarm and can be viewed as a single facility that meets the definition of an OCS source in § 55.2."",
+      ""scope"": ""Wind Development Area (WDA) facility; offshore windfarm"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 55.2"",
+      ""related_domains"": [
+        ""regulatory classification"",
+        ""permitting"",
+        ""offshore development""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Environmental oversight; Standard setting body""
+    },
+    {
+      ""entity_name"": ""Commonwealth of Massachusetts"",
+      ""jurisdiction"": ""State - Massachusetts, USA"",
+      ""role"": ""State regulatory body (whose regulations are incorporated into federal law for OCS sources)""
+    }
+  ]
+}"
+"37",16,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",17,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The EPA aggregates the estimated 106 WTGs, ESP, and OCS vessels being constructed and/or operating within the WDA as"
+"37",18,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",19,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 13"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For the purposes of determining the potential emissions, the EPA has determined it is appropriate to use the center of"
+"37",20,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",21,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",22,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""14"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing authority""
+    }
+  ]
+}
+```"
+"37",23,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",24,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section IV"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"37",25,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""11Superscript 11."",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""permit that meets the CAA requirements"",
+      ""scope"": ""Offshore wind farm construction and permitting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""CAA (Clean Air Act)"",
+      ""related_domains"": [
+        ""environmental compliance"",
+        ""permitting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"37",26,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",27,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",28,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",29,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",30,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",31,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The emission units on the service fleet vessel are still subject to the permit’s NNSR offset requirements once the service fleet vessel is no longer meeting the criteria for an OCS source."",
+      ""scope"": ""Emission units on service fleet vessels that are no longer meeting the criteria for an OCS source."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Permit conditions (referencing NNSR offset requirements)"",
+      ""related_domains"
+"37",32,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 12/13, Figure 4 context"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A vessel temporarily attached to the seabed due to a safety issue, engine failure, or a storm at sea will not be considered an OCS source, as it is not considered to be erected on the seabed for the purposes of exploring, developing, or producing resources therefrom."",
+      ""scope"": ""Vessels temporarily attached to the seabed for safety or emergency reasons."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulatory interpretation of OCS source criteria (implied by 40 C"
+"37",33,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""23"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The emission units on the service fleet vessel are still subject to the permit’s NNSR offset requirements once the service fleet vessel is no longer meeting the criteria for an OCS source."",
+      ""scope"": ""Emission units on service fleet vessels"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA (implied by context and 'permit’s')"",
+      ""related_domains"": [
+        ""Air quality"",
+        ""Environmental regulation"",
+        ""Permitting""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""In the case of a safety issue, engine failure, or a storm at sea that requires a vessel to temporarily attach itself to the seabed, the vessel will not be considered an OCS source because the vessel during this time is not considered to be erected on the seabed for the purposes of exploring, developing, or producing resources therefrom."",
+      ""scope"": ""Vessels temporarily attached to the seabed due to safety issue, engine failure, or storm at sea"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA (implied by context)"",
+      ""related_domains"": [
+        ""Jurisdictional boundaries"",
+        ""Vessel operations"",
+        ""Regulatory applicability""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Environmental oversight, Jurisdictional determination""
+    }
+  ]
+}
+```"
+"37",34,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""24"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A construction and operation plan that allows for the construction and operation of WTGs and ESPs, and equipment on those platforms, must be submitted to and approved by BOEM to demonstrate the platforms are authorized under the OCSLA (43 U.S.C. § 1331 et seq.)."",
+      ""scope"": ""Construction and operation of WTGs and ESPs on the Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM; OCSLA (43 U.S.C. § 1331 et seq.)"",
+      ""related_domains"": [
+        ""permitting"",
+        ""regulatory compliance"",
+        ""offshore development""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Permitting authority; Regulatory oversight for construction and operation plans""
+    }
+  ]
+}
+```"
+"37",35,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",36,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",37,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""16-26"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Engines on a vessel are considered stationary sources and not nonroad engines when the engines are operating while the vessel meets the definition of an OCS source."",
+      ""scope"": ""Vessels operating while meeting the definition of an OCS source (e.g., for offshore wind projects like Vineyard Wind OCS Project)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA determination"",
+      ""related_domains"": [
+        ""environmental regulation"",
+        ""air emissions"",
+        ""source classification"",
+        ""vessel operations""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA (Environmental Protection Agency)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory interpretation/determination; Environmental oversight""
+    }
+  ]
+}
+```"
+"37",38,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All air polluting devices located on a wind turbine generator or the electrical service platform are stationary sources."",
+      ""scope"": ""Wind turbine generator, electrical service platform"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Air Act (CAA)"
+"37",39,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",40,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",41,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",42,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",43,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",44,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Technology review""
+    }
+  ]
+}
+```"
+"37",45,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",46,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",47,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",48,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""32"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"37",49,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",50,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",51,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",52,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",53,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",54,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",55,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 36, Sections 27-28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Foreign flagged vessels that meet the definition of a “crew and supply vessel” in the CA SIP would be required to replace Tier 0 and Tier 1 engines with engines at least meeting the Tier 2 standards in 40 C.F.R. part 94."",
+      ""scope"": ""Foreign flagged vessels defined as 'crew and supply vessel' operating under the CA SIP (California State Implementation Plan)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""CA SIP, 40 C.F.R. part 94"",
+      ""related_domains"": [
+        ""vessel operations"",
+        ""air quality"",
+        ""engine emissions"",
+        ""environmental compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""International Maritime Organization"",
+      ""jurisdiction"": ""International"",
+      ""role"":"
+"37",56,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",57,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",58,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",59,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""modeling for sources subject to a comprehensive plan approval"",
+      ""scope"": ""construction phase of the OECLA; sources subject to a comprehensive plan approval"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""310 CMR 7.02"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""air quality"",
+        ""permitting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Permitting authority""
+    }
+  ]
+}
+```"
+"37",60,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Sections a, b, c"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""emissions must not impact any area where the applicable increment is known to be violated."",
+      ""scope"": ""temporary source (construction emissions for WDA facility and OECLA)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 52.21(i)(3)"",
+      ""related_domains"": [
+        ""air quality"",
+        ""environmental impact assessment"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""the emissions must not impact any Class I area."",
+      ""scope"": ""temporary source (construction emissions for WDA facility and OECLA)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 52.21(i)(3)"",
+      ""related_domains"": [
+        ""air quality"",
+        ""environmental impact assessment"",
+        ""permitting"",
+        ""protected areas""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Environmental oversight; Standard setting body""
+    },
+    {
+      ""entity_name"": ""Commonwealth of Massachusetts"",
+      ""jurisdiction"": ""State - Massachusetts, USA"",
+      ""role"": ""Environmental oversight; Consultation body""
+    }
+  ]
+}
+```"
+"37",61,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""39-40"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A Guideline specifies a two-tier screening approach for long-range transport assessments related to air quality impacts from construction emissions at Class I areas."",
+      ""scope"": ""Air quality impacts related to construction emissions for the WDA facility and OECLA at Class I areas; long-range transport assessments."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""The Guideline"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""air quality modeling"",
+        ""construction emissions""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection (MassDEP)"",
+      ""jurisdiction"": ""Massachusetts, USA"",
+      ""role"": ""Environmental oversight; Permitting authority""
+    }
+  ]
+}
+```"
+"37",62,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",63,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",64,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",65,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""42"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"37",66,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""31Superscript 41"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Ambient air impacts for pollutants emitted from construction of the WDA facility must be below significance levels at distances relevant to Class I areas, as established by Class I area Significance Impact Levels (SILs)."",
+      ""scope"": ""Construction period impacts from the WDA facility at Class I areas."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Class I area Significance Impact Levels (SILs)"",
+      ""related_domains"": [
+        ""air quality"",
+        ""environmental impact assessment"",
+        ""construction phase""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, Assessment and approval""
+    }
+  ]
+}
+```"
+"37",67,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",68,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",69,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",70,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",71,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",72,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",73,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",74,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""b. Compliance with the NAAQS"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Compliance with the NAAQS (National Ambient Air Quality Standards) for all pollutants (1-hour NO2, 24-hour PM10, and 24-hour PM2.5) must be demonstrated."",
+      ""scope"": ""WDA facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NAAQS"",
+      ""related_domains"": [
+        ""air quality"",
+        ""environmental impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""When using results from refined modeling for NAAQS compliance, background concentrations including impacts from nearby sources must be combined with impacts to identify total ambient concentrations for comparison with the NAAQS."",
+      ""scope"": ""refined modeling for NAAQS compliance"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA Guideline (implied)"",
+      ""related_domains"": [
+        ""air quality modeling"",
+        ""environmental impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All refined modeling for NAAQS compliance must be performed in accordance with the Guideline and in consultation with the EPA."",
+      ""scope"": ""refined modeling for NAAQS compliance"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""the Guideline (EPA's Guideline on Air Quality Models)"",
+      ""related_domains"": [
+        ""air quality modeling"",
+        ""environmental impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Assessment of impacts for NO2 must be post-processed with the ARM2 equation tier 2 screening method in a manner consistent with the Guideline."",
+      ""scope"": ""NO2 impacts assessment"",
+      ""numerical_value"": null,"
+"37",75,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",76,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""33Superscript 33"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The impact of the facility must not exceed the Class II PSD Increment for 24-hour PM10."",
+      ""scope"": ""WDA Facility"",
+      ""numerical_value"": 30.0,
+      ""unit"": ""µg/m3"",
+      ""source"": ""PSD regulations at 40 C.F.R. 52.21"",
+      ""related_domains"": [
+        ""air quality"",
+        ""environmental impact assessment"",
+        ""emissions""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The impact of the facility must not exceed"
+"37",77,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section d"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Assess air quality impacts and impairment to visibility, soils, and vegetation due to operational period emissions of the WDA facility and general commercial, residential, industrial and other growth associated with the operational period of the WDA facility."",
+      ""scope"": ""Operational period of the WDA facility (Vineyard Wind offshore project)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. 52.21(o)"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""air quality"",
+        ""visibility"",
+        ""soil protection"",
+        ""vegetation protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; evaluation of environmental impact analyses""
+    },
+    {
+      ""entity_name"": ""Forest Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Land management; determination regarding air quality related values (AQRV)""
+    }
+  ]
+}
+```"
+"37",78,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",79,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",80,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",81,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""51"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The WDA facility's potential emissions of NO x and VOC above 50 tpy during the construction phase require NNSR permitting."",
+      ""scope"": ""WDA facility, construction phase"",
+      ""numerical_value"": 50,
+      ""unit"":"
+"37",82,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",83,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",84,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",85,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",86,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",87,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If VW were to obtain offsets from another state, an analysis similar to the one contained within this document for areas within Massachusetts would need to be performed and submitted to the EPA and concurred upon prior to relying on those offsets for compliance with offset obligations."",
+      ""scope"": ""VW (project developer) seeking offsets from another state for compliance with offset obligations related to the WDA facility and OECLA."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""air quality"",
+        ""emissions offsets""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""VW is required to document the Tier standard the engine’s manufacturer certified each engine to meet."",
+      ""scope"": ""Engines on third-party vessels"
+"37",88,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""38, 55"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],"
+"37",89,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",90,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",91,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",92,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""40"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""defined vessel categories to meet 40 C.F.R. part 94 Tier 2 standards."",
+      ""scope"": ""Vessels operating under the jurisdiction of the CA SIP (California State Implementation Plan)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""CA SIP; 40 C.F.R. part 94"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""air quality"",
+        ""vessel operations"",
+        ""technical standards""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"37",93,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",94,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""58-59"",
+    ""type_of_wind_farm"": ""Offshore""
+  },"
+"37",95,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",96,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""41"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""the use of fuels with a flashpoint lower than 60°C is not allowed."",
+      ""scope"": ""Vessels and equipment used in offshore wind farm construction and operation"",
+      ""numerical_value"": 60,
+      ""unit"": ""°C"",
+      ""source"": ""International Convention on the Safety of Life at Sea"",
+      ""related_domains"": [
+        ""maritime safety"",
+        ""fuel management"",
+        ""fire safety""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"37",97,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",98,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",99,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",100,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",101,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",102,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""63"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": """
+"37",103,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A. Endangered Species Act, Magnuson-Stevens Fishery Conservation and Management Act, and National Historic Preservation Act"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""the EPA must ensure that any action authorized, funded, or carried out by the EPA is not likely to jeopardize the continued existence of any federally listed endangered species or threatened species or result in the destruction or adverse modification of such species"
+"37",104,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",105,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",106,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",107,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""46-49"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The EPA must (1) consider the environmental justice issues, on a case by case basis, connected with the issuance of federal permits (particularly when permitting projects for major sources that may involve activities with significant public health or environmental impacts on already overburdened communities); and (2) focus on whether the federal permitting action would have disproportionately high and adverse human health or environmental effects on minority or low income populations."",
+      ""scope"": ""Issuance of federal permits for major sources with significant public health or environmental impacts on overburden"
+"37",108,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",109,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",110,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",111,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"37",112,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""54Superscript 54"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Commonwealth of Massachusetts"",
+      ""jurisdiction"": ""State - Massachusetts, USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"37",113,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""52-68"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Executive Office of Energy and Environmental Affairs"",
+      ""jurisdiction"": ""State - Massachusetts, USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"37",114,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",115,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",116,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section XIII"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Each federal agency must work to ensure that public documents, notices, and hearings relating to human health or the environment are concise, understandable, and readily accessible to the public."",
+      ""scope"": ""Federal agencies involved in environmental permitting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 5-5(c) of EO 12898 (Public Participation and Access to Information)"",
+      ""related_domains"": [
+        ""public participation"",
+        ""environmental justice"",
+        ""permitting process""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any facility with the potential to emit 50 tons per year of NOx is required to have a Title V operating permit."",
+      ""scope"": ""Facilities during operational phase with NOx emissions potential over 50 tons per year"",
+      ""numerical_value"": 50,
+      ""unit"": ""tons per year"",
+      ""source"": ""310 C.M.R. 7.00, Appendix C, section (2)(a)"",
+      ""related_domains"": [
+        ""air quality"",
+        ""emissions control"",
+        ""permitting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Environmental oversight""
+    }
+  ]
+}
+```"
+"37",117,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""56"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Government-to-government consultation must be offered to each of the tribes."",
+      ""scope"": ""Projects requiring federal action impacting tribal interests"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA’s August 10, 2018 letter"",
+      ""related_domains"": [
+        ""tribal consultation"",
+        ""environmental permitting"",
+        ""cultural resource management""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Consultation authority""
+    },
+    {
+      ""entity_name"": ""Tribal Nations"",
+      ""jurisdiction"": ""Sovereign Nations - USA"",
+      ""role"": ""Consultation party; Cultural resource protection""
+    }
+  ]
+}
+```"
+"37",118,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"37",119,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""71-72"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    }
+  ]
+}
+```"

@@ -1,0 +1,49 @@
+// *****************************************************************
+// *************** GeoSpatial rules ********************************
+// *****************************************************************
+
+@prefix Turbine: <http://www.cee.umd.edu/Energy/Turbine#>.
+@prefix WindFarm: <http://www.cee.umd.edu/Energy/WindFarm#>.
+@prefix MSP: <http://www.cee.umd.edu/Energy/MSP#>.
+@prefix SeaDepth: <http://www.cee.umd.edu/Energy/MSP/SeaDepth#>.
+@prefix Substation: <http://www.cee.umd.edu/Energy/Substation#>.
+@prefix ECC: <http://www.cee.umd.edu/Energy/MSP/ECC#>.
+@prefix Restricted: <http://www.cee.umd.edu/Energy/MSP/Restricted#>.
+@prefix WindLease: <http://www.cee.umd.edu/Energy/MSP/WindLease#>.
+@prefix EFH: <http://www.cee.umd.edu/Energy/MSP/EFH#>.
+@prefix NOAA: <http://www.cee.umd.edu/Energy/MSP/NOAA#>.
+@prefix WindSpeed: <http://www.cee.umd.edu/Energy/MSP/WindSpeed#>.
+@prefix Coral: <http://www.cee.umd.edu/Energy/MSP/Coral#>.
+@prefix Cable: <http://www.cee.umd.edu/Energy/MSP/Cable#>.
+@prefix Regulation: <http://www.cee.umd.edu/Energy/Regulation#>.
+@prefix Hurricane: <http://www.cee.umd.edu/Energy/Event/WeatherEvent/Hurricane#>.
+@prefix Event: <http://www.cee.umd.edu/Energy/Event/>.
+
+
+[rule1---YawToHurricaneWindDirection-Turbines:
+(?t Turbine:hasCutOutWindSpeed ?cows)
+(?t Turbine:hasTurbineStatus ?ts)
+(?h Hurricane:hasWindSpeed ?ws)
+(?h Hurricane:hasDurationAboveCutOut ?duration)
+greaterThan(?duration, 0.1)
+(?e Event:hasStatus "Active")
+greaterThan(?ws, ?cows)
+changeTo(?t Turbine:hasTurbineStatus "Shut down" ?newStatus)
+changeTo(?t Turbine:hasPitchAngle "90.0"^^xsd:double ?newPitch)
+->
+(?t Turbine:hasTurbineStatus ?newStatus)
+(?t Turbine:hasPitchAngle ?newPitch)]
+
+
+[rule2---YawToHurricaneWindDirection-Turbines:
+(?t Turbine:hasYawAngle ?y)
+(?h Hurricane:hasWindDirection ?hwd)
+(?h Hurricane:hasDurationAboveCutOut ?duration)
+(?h Hurricane:hasWindDirection ?hwd)
+greaterThan(?duration, 0.1)
+(?e Event:hasStatus "Active")
+changeTo(?t Turbine:hasYawAngle ?hwd ?newStatus)
+->
+(?t Turbine:hasYawAngle ?newStatus)]
+
+

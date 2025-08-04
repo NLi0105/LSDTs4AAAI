@@ -1,0 +1,1835 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+27,1,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the provided document and extract the relevant regulatory information according to the specified format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Construction and operation limited to 100 wind turbine generators (WTGs) and up to 2 Offshore Substations (OSSs)"",
+      ""scope"": ""BOEM Renewable Energy Lease Area OCS-A 0486 in the Rhode Island-Massachusetts Wind Energy Area"",
+      ""numerical_value"": ""100, 2"",
+      ""unit"": ""WTGs, OSSs"",
+      ""source"": ""EPA Permit OCS-R1-05"",
+      ""related_domains"": [""technical"", ""construction""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Must comply with applicable state and federal air pollution control rules and regulations"",
+      ""scope"": ""Project-wide"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Air Act Section 328"",
+      ""related_domains"": [""environmental"", ""air quality""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Environmental Protection Agency Region 1"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Permitting authority for OCS air quality permits""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Lease area management authority""
+    }
+  ]
+}
+
+Note: This document appears to be primarily a cover page and introduction to an air permit. While it establishes some basic constraints and identifies key regulatory entities, the full set of technical requirements and specific regulations would likely be found in the subsequent pages of the permit (which are not included in the provided excerpt)."
+27,2,claude,claude-3-5-sonnet-20241022,False,"I'll analyze this document, which appears to be a list of acronyms and abbreviations related to environmental and regulatory matters for offshore wind development.
+
+{
+  ""document_metadata"": {
+    ""title"": ""Environmental and Regulatory Acronyms List"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Best Available Control Technology (BACT) implementation required"",
+      ""scope"": ""Air emissions control systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Air Act"",
+      ""related_domains"": [""environmental"", ""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lowest Achievable Emission Rate (LAER) standards must be met"",
+      ""scope"": ""Air emissions in non-attainment areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Air Act - NNSR Program"",
+      ""related_domains"": [""environmental"", ""air quality"", ""emissions""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Primary regulatory authority for offshore wind development in federal waters""
+    },
+    {
+      ""entity_name"": ""United States Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Environmental regulation and enforcement""
+    },
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection (MassDEP)"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""State-level environmental regulation and enforcement""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Marine resource protection and regulation""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (FWS)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Wildlife protection and endangered species regulation""
+    }
+  ]
+}
+
+Note: This document is primarily a glossary of acronyms rather than a full regulatory document. The regulatory constraints identified are inferred from the presence of regulatory programs (BACT, LAER) that are known to impose specific requirements. The regulatory entities listed are those that have clear jurisdiction over offshore wind farm development based on their statutory authority. Many of the technical abbreviations (like KV, MW, etc.) and environmental parameters (CO2, NOx, etc.) suggest monitoring and compliance requirements, but without the full regulatory context, specific numerical limits or requirements cannot be definitively stated."
+27,3,claude,claude-3-5-sonnet-20241022,False,"Based on the provided document, which appears to be a list of acronyms and abbreviations, I can provide a limited structured analysis focusing on the relevant regulatory elements mentioned:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Acronyms and Abbreviations List"",
+    ""document_number"": ""Page 2 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Prevention of Significant Deterioration requirements"",
+      ""scope"": ""Air quality management for wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""PSD Program"",
+      ""related_domains"": [""environmental"", ""air quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Particulate Matter emissions control"",
+      ""scope"": ""Air quality management"",
+      ""numerical_value"": [""10"", ""2.5""],
+      ""unit"": ""microns"",
+      ""source"": ""Air Quality Standards"",
+      ""related_domains"": [""environmental"", ""air quality""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Outer Continental Shelf Lands Act"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Primary regulatory framework for offshore development""
+    }
+  ]
+}
+
+Note: This document appears to be primarily a list of acronyms and abbreviations rather than a complete regulatory document. The extracted information is limited to the regulatory frameworks and environmental standards that are referenced in the abbreviations. Many of the acronyms suggest this is related to an offshore wind project (SRWF - Sunrise Windfarm, WDA - Wind Development Area, WTG - Wind Turbine Generator), but the document itself doesn't contain detailed regulatory requirements or constraints. A more complete analysis would require the full regulatory document these abbreviations reference."
+27,4,claude,claude-3-5-sonnet-20241022,False,"After analyzing the provided document, I can only see a table of contents without any specific regulatory content. While the document appears to be a regulatory or permit-related document (given sections like ""Emission Limits,"" ""Operating Requirements,"" and ""Testing Requirements""), without the actual content of these sections, I cannot extract specific regulatory constraints or entities.
+
+Therefore, I will return a structured response with null values:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Unknown (Table of Contents Only)"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+Note: While the document structure suggests it contains important regulatory information (particularly in Sections IV through X which cover emission limits, operating requirements, testing requirements, etc.), without access to the actual content of these sections, I cannot provide specific regulatory constraints or identify regulatory entities. The table of contents alone does not provide enough detailed information to populate the requested structured data format.
+
+If you could provide the content of any of these sections, particularly Sections IV (Emission Limits), VI (Operating Requirements), or VII (Testing Requirements), I would be able to extract specific regulatory constraints and entities."
+27,5,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information in the requested format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Project must undergo Prevention of Significant Deterioration (PSD) review for NO2, CO, PM10, PM2.5, and GHG emissions"",
+      ""scope"": ""Revolution Wind Project in BOEM Lease Area OCS-A 0486"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NSR/PSD Regulations"",
+      ""related_domains"": [""environmental"", ""air quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Project must implement Best Available Control Technology (BACT) for NO2, CO, PM10, PM2.5, and GHG emissions"",
+      ""scope"": ""Revolution Wind Project facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""PSD Regulations"",
+      ""related_domains"": [""environmental"", ""air quality"", ""technical""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Project must implement Lowest Achievable Emission Rate (LAER) for NOx and VOC emissions"",
+      ""scope"": ""Revolution Wind Project facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Nonattainment NSR Regulations"",
+      ""related_domains"": [""environmental"", ""air quality""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Lease area management and oversight""
+    },
+    {
+      ""entity_name"": ""Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Air quality permitting authority (implied through NSR/PSD requirements)""
+    },
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""Minor source permitting authority (implied through state BACT requirements)""
+    }
+  ]
+}
+
+Note: The document primarily focuses on air quality permitting requirements and regulatory frameworks. While it mentions project specifications (such as 100 WTGs and 704-880 MW capacity), these are descriptive rather than regulatory requirements and thus are not included in the regulatory constraints section."
+27,6,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information according to the specified format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Must apply BACT (Best Available Control Technology) to all new emission units for NO2, CO, PM10, PM2.5, and GHG emissions"",
+      ""scope"": ""All new emission units in the Revolution Wind project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OCS-R1-05"",
+      ""related_domains"": [""environmental"", ""air quality"", ""emissions control""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Must apply LAER (Lowest Achievable Emission Rate) to all new emission units for NOX and VOC emissions"",
+      ""scope"": ""All new emission units in the Revolution Wind project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OCS-R1-05"",
+      ""related_domains"": [""environmental"", ""air quality"", ""emissions control""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Must apply State BACT requirements for SO2 emissions according to Massachusetts regulations"",
+      ""scope"": ""All new emission units in the Revolution Wind project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Massachusetts regulations"",
+      ""related_domains"": [""environmental"", ""air quality"", ""emissions control""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Massachusetts Environmental Authority"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""Regulator for SO2 emissions requirements""
+    }
+  ]
+}
+
+Note: The document primarily focuses on air quality and emissions requirements for the Revolution Wind project. While it mentions equipment types (CI-ICE engines, GIS systems), these are presented as informational descriptions rather than regulatory requirements, so they are not included in the regulatory constraints section."
+27,7,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the provided document and extract the relevant regulatory information according to the specified format.
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""OSS/OCS Installation & Auxiliary Generator specifications"",
+      ""scope"": ""Offshore Substation (OSS) and Offshore Converter Station (OCS)"",
+      ""numerical_value"": ""597"",
+      ""unit"": ""kW"",
+      ""source"": ""OCS-R1-05 EUG 1"",
+      ""related_domains"": [""technical"", ""equipment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Marine vessels must consider two types of engines as affected units when operating as OCS sources: propulsion engines and auxiliary engines"",
+      ""scope"": ""Marine vessels operating as OCS sources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OCS-R1-05 EUG 2"",
+      ""related_domains"": [""technical"", ""equipment"", ""marine operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Outer Continental Shelf"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Permitting authority for offshore wind construction and operation""
+    }
+  ]
+}
+
+Note: The document primarily contains technical specifications for various engines and generators used in offshore wind farm construction and operation. While these specifications represent requirements, they appear to be project-specific rather than general regulatory constraints. The only clear regulatory framework referenced is the Outer Continental Shelf permitting system. The document is part of a preconstruction air permit, suggesting environmental regulatory oversight, but specific air quality regulations are not detailed in the provided excerpt."
+27,8,claude,claude-3-5-sonnet-20241022,False,"After analyzing the provided document, I can provide the following structured analysis:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Vessel Specifications for Offshore Wind Installation"",
+    ""document_number"": ""Page 6 of 29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Main engine power ratings for heavy lift installation vessels"",
+      ""scope"": ""Installation vessels for monopile and turbine installation"",
+      ""numerical_value"": [""26,640"", ""34,560""],
+      ""unit"": ""kW"",
+      ""source"": ""Technical specification document"",
+      ""related_domains"": [""vessel specifications"", ""installation equipment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Auxiliary engine power requirements for installation vessels"",
+      ""scope"": ""Support and installation vessels"",
+      ""numerical_value"": [""1,100"", ""4"", ""746""],
+      ""unit"": ""kW"",
+      ""source"": ""Technical specification document"",
+      ""related_domains"": [""vessel specifications"", ""auxiliary systems""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+
+Note: While this document contains detailed technical specifications for various vessels used in offshore wind farm construction, it does not explicitly state regulatory requirements or mention regulatory bodies. The information provided appears to be a technical specification sheet listing vessel types and their power ratings. The values included in the regulatory constraints section represent typical technical specifications rather than strict regulatory requirements, unless these power ratings are mandated by a regulatory body (which is not specified in the document).
+
+The document primarily focuses on:
+1. Vessel specifications for different installation phases
+2. Power ratings for main and auxiliary engines
+3. Various types of support vessels needed for offshore wind farm installation
+
+No explicit regulatory entities or strict regulatory constraints are mentioned in the document. The information is more descriptive of technical capabilities rather than regulatory requirements."
+27,9,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the provided document and structure the relevant information:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Vessel power rating specifications for various offshore operations"",
+      ""scope"": ""Marine vessels used in offshore wind farm construction and cable laying"",
+      ""numerical_value"": {
+        ""main_engine_range"": ""400-12780"",
+        ""auxiliary_engine_range"": ""45-3026""
+      },
+      ""unit"": ""kW"",
+      ""source"": ""OCS-R1-05 Permit Requirements"",
+      ""related_domains"": [""technical"", ""environmental"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Outer Continental Shelf (OCS)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Permitting authority for offshore wind construction activities""
+    }
+  ]
+}
+
+Notes on the analysis:
+1. This document appears to be part of a larger air permit (page 7 of 29) focusing on vessel specifications for offshore wind farm construction.
+2. The main regulatory content relates to technical specifications for various vessels used in offshore wind farm construction and cable laying operations.
+3. The document primarily contains technical specifications rather than explicit regulatory requirements, but these specifications are part of a preconstruction air permit, indicating they are regulatory constraints.
+4. The presence of an OCS permit number suggests federal jurisdiction over the offshore wind project.
+5. While the document contains detailed vessel specifications, it doesn't include explicit environmental or safety regulations beyond the implicit requirements for vessel power ratings.
+
+The document is primarily technical in nature, focusing on vessel specifications rather than containing extensive regulatory requirements. The main regulatory aspect is that these specifications are part of a preconstruction air permit, suggesting these are approved vessel configurations for the project."
+27,10,claude,claude-3-5-sonnet-20241022,False,"Based on the provided document, I'll analyze and structure the relevant regulatory information:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""WTGs must not utilize SF6 within the switchgears at the base of the turbine"",
+      ""scope"": ""Wind Turbine Generators (WTGs)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Permit OCS-R1-05"",
+      ""related_domains"": [""technical"", ""environmental""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Medium and high-voltage gas insulated switchgears (GIS) on the OSS must apply BACT for SF6"",
+      ""scope"": ""Offshore Substation (OSS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Permit OCS-R1-05"",
+      ""related_domains"": [""technical"", ""environmental""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Specified voltage ratings for switchgears on OSS"",
+      ""scope"": ""Offshore Substation (OSS)"",
+      ""numerical_value"": [""66"", ""220-400""],
+      ""unit"": ""kV"",
+      ""source"": ""Permit OCS-R1-05"",
+      ""related_domains"": [""technical""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Outer Continental Shelf"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Permitting Authority""
+    }
+  ]
+}
+
+Note: The document primarily contains technical specifications for vessels and equipment rather than explicit regulatory requirements. The main regulatory constraints identified relate to the SF6 gas requirements in switchgears and their technical specifications. The document appears to be part of a larger permit but the excerpt provided focuses mainly on equipment specifications rather than regulatory requirements."
+27,11,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the provided document and extract the relevant regulatory information according to the specified format.
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Marine engines must comply with definitions and classifications as specified in 40 C.F.R. § 1042.901 for Categories 1, 2, and 3"",
+      ""scope"": ""Marine vessels used in offshore wind farm construction and operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 1042.901"",
+      ""related_domains"": [""environmental"", ""technical"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Continuous Emission Reduction Credit (CERC) must be equivalent to 1 ton per year of pollutant (NOX or VOC)"",
+      ""scope"": ""Emissions management for offshore wind construction and operation"",
+      ""numerical_value"": ""1"",
+      ""unit"": ""ton per year"",
+      ""source"": ""310 CMR 7.00, Appendix B"",
+      ""related_domains"": [""environmental"", ""emissions""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Primary regulatory authority for air quality and emissions standards""
+    },
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""State-level environmental regulations incorporated into federal requirements through 40 C.F.R. Part 55""
+    }
+  ]
+}
+
+Note: This document primarily contains definitions rather than explicit regulatory requirements. The extracted constraints are derived from references to regulatory standards and requirements embedded within the definitions. The document appears to be part of a larger permit document, with this section specifically focused on defining terms used throughout the permit."
+27,12,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response following instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Once provided with such a document, I can extract and structure the relevant information according to the specified JSON format.
+
+Please provide the document content you would like me to analyze, and I will extract the regulatory entities and constraints following the given format and instructions."
+27,13,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information according to the specified format.
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels operating within an ECA must use specific ECA Marine Fuel (diesel, distillate, or residual fuel)"",
+      ""scope"": ""Emission Control Area (ECA) marine operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Annex VI"",
+      ""related_domains"": [""environmental"", ""marine operations""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Opacity limits defined by Ringelmann Chart standards"",
+      ""scope"": ""All emission sources"",
+      ""numerical_value"": [""20"", ""40""],
+      ""unit"": ""percent opacity"",
+      ""source"": ""Ringelmann Chart reference"",
+      ""related_domains"": [""environmental"", ""air quality""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Marine engines must meet specific installation and integration requirements for auxiliary systems"",
+      ""scope"": ""Marine vessels and equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OCS-R1-05"",
+      ""related_domains"": [""technical"", ""marine operations"", ""equipment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Air permit approval and SIP oversight""
+    },
+    {
+      ""entity_name"": ""California Air Resources Board"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""Vessel emissions regulation (referenced in 17 C.C.R. Section 93118.5)""
+    }
+  ]
+}
+
+Note: This document primarily focuses on air quality and marine vessel regulations related to the offshore wind farm's preconstruction permit. The extracted constraints focus on emission controls, fuel requirements, and marine engine specifications that would affect the construction and operation phases of the offshore wind project."
+27,14,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response following instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Once provided with such a document, I can extract and structure the relevant information according to the specified JSON format.
+
+Please provide the document content you would like me to analyze, and I will extract the regulatory entities and constraints following the given format and instructions."
+27,15,claude,claude-3-5-sonnet-20241022,False,"Based on the provided document, I'll analyze and structure the regulatory information for the Revolution Wind offshore project:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels must comply with North American Emission Control Area requirements under MARPOL Annex VI"",
+      ""scope"": ""North American Emission Control Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MARPOL Annex VI Regulation 14.3.2"",
+      ""related_domains"": [""environmental"", ""maritime operations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""WTG must interconnect with Electrical Service Platform via 66 kV submarine cable system and transform to 220 kV for transmission"",
+      ""scope"": ""Offshore electrical infrastructure"",
+      ""numerical_value"": [""66"", ""220""],
+      ""unit"": ""kV"",
+      ""source"": ""OCS-R1-05 Permit"",
+      ""related_domains"": [""electrical infrastructure"", ""technical specifications""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""OCS Source Vessels must be permanently or temporarily attached to seabed and used for resource exploration, development, or production"",
+      ""scope"": ""Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Lands Act (43 U.S.C. §1331)"",
+      ""related_domains"": [""maritime operations"", ""vessel requirements""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Outer Continental Shelf Lands Act Authority"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulation of offshore activities and vessel operations on the OCS""
+    },
+    {
+      ""entity_name"": ""MARPOL"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Maritime pollution control and vessel emissions regulation""
+    }
+  ]
+}
+
+Note: The document primarily contains definitions and technical specifications rather than extensive regulatory requirements. The extracted constraints focus on emission control areas, electrical specifications, and vessel requirements that constitute actual regulatory obligations. Some technical descriptions have been omitted as they don't constitute specific regulatory requirements."
+27,16,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response following instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Once provided with such a document, I can extract and structure the relevant information according to the specified JSON format and categorization rules.
+
+Please provide the document content you would like me to analyze, and I will extract the regulatory entities and constraints following the given format and instructions."
+27,17,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information according to the specified format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Vessels must use ultra-low sulfur diesel (ULSD) that meets standards in 40 C.F.R. §1090.305"",
+      ""scope"": ""All vessels operating in the wind development area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. §1090.305"",
+      ""related_domains"": [""environmental"", ""technical""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Wind Development Area must be located in federal waters within BOEM Lease Area OCS-A 0486"",
+      ""scope"": ""Wind Development Area"",
+      ""numerical_value"": ""98"",
+      ""unit"": ""square nautical miles"",
+      ""source"": ""BOEM"",
+      ""related_domains"": [""jurisdictional"", ""spatial""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Approval authority for facility representative delegation and environmental permits""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Lease authority for offshore wind development areas""
+    }
+  ]
+}
+
+Note: The document primarily contains definitions and descriptions rather than explicit regulatory requirements. I've included the few clear regulatory constraints related to ULSD fuel requirements and spatial requirements for the wind development area. The document appears to be part of a larger permit document, and these definitions likely support more detailed requirements in other sections."
+27,18,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response according to instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null, 
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Please provide a document with relevant content and I will extract and structure the information according to the specified JSON format and requirements."
+27,19,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the provided document and extract the relevant regulatory information in the requested format.
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Smoke emissions must not exceed No. 1 on the Ringelmann Chart for more than 6 minutes per hour, and never exceed No. 2"",
+      ""scope"": ""All OCS Sources"",
+      ""numerical_value"": ""6"",
+      ""unit"": ""minutes per hour"",
+      ""source"": ""310 CMR 7.06(1)(a)"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Contaminant opacity must not exceed 20% for more than 2 minutes per hour, and never exceed 40%"",
+      ""scope"": ""All OCS Sources"",
+      ""numerical_value"": ""20, 40"",
+      ""unit"": ""percent opacity"",
+      ""source"": ""310 CMR 7.06(1)(b)"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Diesel-fueled compression ignition engines with displacement <30L per cylinder must use fuel with maximum sulfur content of 15 ppm"",
+      ""scope"": ""Engines subject to Subpart IIII"",
+      ""numerical_value"": ""15"",
+      ""unit"": ""ppm sulfur"",
+      ""source"": ""40 C.F.R. 60.4207(b)"",
+      ""related_domains"": [""fuel specifications"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Diesel-fueled compression ignition engines with displacement ≥30L per cylinder must use fuel with maximum sulfur content of 1000 ppm"",
+      ""scope"": ""Engines subject to Subpart IIII"",
+      ""numerical_value"": ""1000"",
+      ""unit"": ""ppm sulfur"",
+      ""source"": ""40 C.F.R. 60.4207(d)"",
+      ""related_domains"": [""fuel specifications"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""NOx and VOC emissions must be monitored within 25 NM of facility centroid including OSS, WTG engines, and service vessels"",
+      ""scope"": ""Facility-wide including vessels within 25 NM"",
+      ""numerical_value"": ""25"",
+      ""unit"": ""nautical miles"",
+      ""source"": ""40 C.F.R. Part 55, 40 C.F.R. Part 124"",
+      ""related_domains"": [""emissions"", ""air quality""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Environmental regulations enforcement and permitting""
+    },
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""State-level air quality regulation enforcement (based on CMR references)""
+    }
+  ]
+}"
+27,20,claude,claude-3-5-sonnet-20241022,False,"Based on the provided document fragment, I can extract the following structured information:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Environmental Emissions Monitoring Document"",
+    ""document_number"": ""211 X"",
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Daily rolling 365-day total emissions calculation required for NOX and VOC from specified emission sources, starting from Operational Phase Start Date"",
+      ""scope"": ""Operational emissions monitoring"",
+      ""numerical_value"": {
+        ""VOC"": ""6""
+      },
+      ""unit"": null,
+      ""source"": ""Page 13 of 29"",
+      ""related_domains"": [""environmental"", ""operational""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Permittee"",
+      ""jurisdiction"": null,
+      ""role"": ""Responsible party for emissions calculations and compliance""
+    }
+  ]
+}
+
+Note: While this document contains regulatory information about emissions monitoring, it appears to be a fragment of a larger environmental permit document. The context doesn't specifically indicate this is for a wind farm, though the requirements could apply to one. Many fields are marked null due to insufficient context in the provided fragment. The numerical value of 6 for VOC is included but its unit of measurement is not specified in the excerpt."
+27,21,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and structure the relevant regulatory information:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05 Condition No. VI (A)(5)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For diesel engines operating between 0%-20% load, must use guaranteed emission factors from manufacturer specifications or engine-specific test data for lower load intervals"",
+      ""scope"": ""Outer Continental Shelf wind farm operations"",
+      ""numerical_value"": ""0-20"",
+      ""unit"": ""percent engine load"",
+      ""source"": ""OCS-R1-05 Permit Condition"",
+      ""related_domains"": [""environmental"", ""emissions"", ""equipment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""NOx and VOC emissions must be calculated using brake specific emission factor, usage hours, power available, and load factor"",
+      ""scope"": ""OCS sources and support vessels"",
+      ""numerical_value"": ""100"",
+      ""unit"": ""percent load (when actual data unavailable)"",
+      ""source"": ""Port Emissions Inventory Guidance (EPA-420-b-22-011, April 2022)"",
+      ""related_domains"": [""air quality"", ""emissions monitoring"", ""compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Emissions guidance and standards authority""
+    },
+    {
+      ""entity_name"": ""Revolution Wind, LLC"",
+      ""jurisdiction"": ""Project-specific"",
+      ""role"": ""Permit holder and compliance entity""
+    }
+  ]
+}
+
+Note: The document primarily focuses on technical requirements for emissions calculations and monitoring for offshore wind farm operations. The main regulatory aspects relate to air quality compliance and emissions monitoring methodology."
+27,22,claude,claude-3-5-sonnet-20241022,False,"After analyzing the provided document fragment, I can provide the following structured output:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Outer Continental Shelf"",
+      ""jurisdiction"": ""federal"",
+      ""role"": ""Permitting authority for offshore wind development""
+    }
+  ]
+}
+
+Notes on the analysis:
+1. The document appears to be a preconstruction air permit for an offshore wind project (Revolution Wind, LLC).
+2. While this is clearly a regulatory document, the provided fragment is too limited to extract specific regulatory constraints - it only shows a partial equation for Power Used without context.
+3. The document number (OCS-R1-05) and reference to Outer Continental Shelf indicates federal jurisdiction over offshore wind development.
+4. Without more context from the full document, I cannot reliably extract specific regulatory constraints or requirements.
+5. The document appears to be related to air quality permitting, but the fragment doesn't provide enough detail to specify requirements.
+
+The majority of fields are left empty as the document fragment is too limited to make definitive regulatory extractions while maintaining accuracy and avoiding speculation."
+27,23,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information in the requested format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Emission Calculation and Standards Documentation"",
+    ""document_number"": ""EPA-420-B-22-011"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For OCS sources, emission factors must be derived from EPA Certificate of Conformity (COC) compliant with 40 C.F.R. Part 60, NSPS IIII, Tier Marine Engine Standards at 40 C.F.R. Part 1042, or Nonroad Engine Standards at 40 C.F.R. Part 1039"",
+      ""scope"": ""Offshore Continental Shelf (OCS) sources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 60, Part 1042, Part 1039"",
+      ""related_domains"": [""environmental"", ""technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For vessels servicing OCS sources within 25 NM, emissions must be calculated using EIAPP or IAPP certificate factors issued by EPA"",
+      ""scope"": ""Vessels within 25 nautical miles of OCS source"",
+      ""numerical_value"": ""25"",
+      ""unit"": ""Nautical Miles"",
+      ""source"": ""EPA Port Emissions Inventory Guidance (EPA-420-B-22-011)"",
+      ""related_domains"": [""environmental"", ""technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""NOx and HC combined emission limits must be split using 0.976 multiplier for NOx and 0.024 for HC/THC"",
+      ""scope"": ""OCS sources and associated vessels"",
+      ""numerical_value"": [""0.976"", ""0.024""],
+      ""unit"": ""multiplier"",
+      ""source"": ""EPA emission calculation standards"",
+      ""related_domains"": [""environmental"", ""technical""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Primary regulatory authority for emission standards and certification""
+    },
+    {
+      ""entity_name"": ""International Maritime Organization (IMO)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Issues EIAPP and IAPP certificates for marine vessels""
+    }
+  ]
+}
+
+Note: This document specifically focuses on emission calculations and standards for offshore continental shelf (OCS) sources and associated vessels. While it's part of offshore wind farm regulation, it specifically addresses the environmental compliance aspects related to emissions from engines and vessels."
+27,24,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response according to instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null, 
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Please provide a document with relevant content and I will extract and structure the information according to the specified JSON format and requirements."
+27,25,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the provided document and extract the relevant regulatory information:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""OCS Generator Engine(s) must comply with EPA Tier Marine Engine Standards (Tier 3 or 4) emission standards based on engine size and displacement"",
+      ""scope"": ""OSS and WTG generator engines"",
+      ""numerical_value"": null,
+      ""unit"": ""g/kW-hr"",
+      ""source"": ""40 C.F.R. Part 1042, 40 C.F.R. Part 1039, 40 C.F.R. Part 60 Subpart IIII"",
+      ""related_domains"": [""emissions"", ""equipment specifications""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Daily emissions must be calculated and incorporated into 365-day total for NOX and VOC emissions compliance with facility-wide emissions cap"",
+      ""scope"": ""Entire facility operations"",
+      ""numerical_value"": null,
+      ""unit"": ""tons"",
+      ""source"": ""OCS-R1-05 Section IV(A)(5)"",
+      ""related_domains"": [""air quality"", ""emissions monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Operation must follow Good Combustion and Operating Practices (GCOP) Plan including combustion optimization practices, energy consumption reduction practices, and LAER/BACT design implementations"",
+      ""scope"": ""All OCS generator engines and marine vessels operating as OCS sources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""operations"", ""equipment maintenance"", ""emissions control""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Emissions standards regulation and enforcement""
+    },
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""State-level environmental regulations (referenced by 310 CMR)""
+    }
+  ]
+}"
+27,26,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response following instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Once provided with such a document, I can extract and structure the relevant information according to the specified JSON format.
+
+Please provide the document content you would like me to analyze, and I will extract the regulatory entities and constraints following the given format and instructions."
+27,27,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information in the requested format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Marine Engines on the Charybdis Vessel must be EPA certified to Marine Tier 3 (Category 3 Marine Engines) NOX, HC, and CO emission standards"",
+      ""scope"": ""Charybdis Vessel operations as OCS source"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 1042"",
+      ""related_domains"": [""environmental"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Marine Engines on Eco Edison Vessel must meet either Tier 3 (for engines below 600 kW) or Tier 4 (for engines at or above 600 kW) emission standards"",
+      ""scope"": ""Eco Edison Vessel operations as OCS source"",
+      ""numerical_value"": ""600"",
+      ""unit"": ""kW"",
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII"",
+      ""related_domains"": [""environmental"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Primary Crew Transfer Vessel engines must meet either Tier 3 (for engines below 600 kW) or Tier 4 (for engines at or above 600 kW) emission standards"",
+      ""scope"": ""Primary Crew Transfer Vessel operations as OCS source"",
+      ""numerical_value"": ""600"",
+      ""unit"": ""kW"",
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII"",
+      ""related_domains"": [""environmental"", ""emissions""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Emissions standards certification and enforcement""
+    },
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""State-level environmental regulation (referenced by 310 CMR 7.00)""
+    }
+  ]
+}
+
+Note: The document primarily focuses on marine engine emission standards and certification requirements for vessels operating as OCS (Outer Continental Shelf) sources in offshore wind farm construction and operation. The main regulatory constraints revolve around EPA Tier 3 and Tier 4 emission standards for different vessel types and engine sizes."
+27,28,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response according to instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null, 
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Please provide a document with relevant content and I will extract and structure the information according to the specified JSON format and requirements."
+27,29,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information in the requested format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All applicable engines on vessels must be certified to the highest applicable EPA Tier Marine Engine Standards (Tier 3 or 4, depending on engine size)"",
+      ""scope"": ""U.S.-flagged vessels operating as OCS sources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 1042"",
+      ""related_domains"": [""environmental"", ""technical"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Minimum compliance with EPA Tier 2 marine engine emission standards"",
+      ""scope"": ""All applicable engines in the Wind Development Area"",
+      ""numerical_value"": null,
+      ""unit"": ""g/kW-hr"",
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII, 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""environmental"", ""technical"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Lower tier engines may be used if higher tier vessels are not available within two hours of deployment time or if total emissions would be greater with higher tier engines"",
+      ""scope"": ""Vessel engines in Wind Development Area"",
+      ""numerical_value"": ""2"",
+      ""unit"": ""hours"",
+      ""source"": ""OCS-R1-05 Section IV(C)(5)"",
+      ""related_domains"": [""environmental"", ""technical"", ""operational""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Emissions standards regulation and enforcement""
+    },
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""State-level environmental regulation (referenced by 310 CMR)""
+    }
+  ]
+}"
+27,30,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response following instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Once provided with such a document, I can extract and structure the relevant information according to the specified JSON format and categorization rules.
+
+Please provide the document content you would like me to analyze, and I will extract the regulatory entities and constraints following the given format and instructions."
+27,31,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and structure the relevant regulatory information:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All applicable engines must comply with emission standards equal to or cleaner than EPA Tier 1 marine engine emission standards"",
+      ""scope"": ""Marine vessels operating as OCS source"",
+      ""numerical_value"": null,
+      ""unit"": ""g/kW-hr"",
+      ""source"": ""40 C.F.R. Part 60 Subpart IIII, 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""environmental"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Engines must be certified to meet MARPOL Annex VI Tier III NOx emission standards, with specific exceptions for Tier II or Tier I usage"",
+      ""scope"": ""U.S.-flagged or foreign-flagged vessels within ECA"",
+      ""numerical_value"": null,
+      ""unit"": ""g/kW-hr"",
+      ""source"": ""40 C.F.R. Part 1043, 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""environmental"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Must install sealed leak detection systems with alarms on MV and HV GIS equipment on the OSS"",
+      ""scope"": ""Offshore Substation (OSS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 52.21"",
+      ""related_domains"": [""safety"", ""technical""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Leak detection repairs must be completed within 5 days of discovery"",
+      ""scope"": ""Offshore Substation (OSS)"",
+      ""numerical_value"": 5,
+      ""unit"": ""days"",
+      ""source"": ""40 C.F.R. Part 52.21"",
+      ""related_domains"": [""safety"", ""maintenance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Emissions standards regulation and enforcement""
+    },
+    {
+      ""entity_name"": ""International Maritime Organization (IMO)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""MARPOL Annex VI standards regulation""
+    },
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""State-level environmental regulation (310 CMR)""
+    }
+  ]
+}"
+27,32,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and structure the relevant information according to the requested format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Leak rate of SF6 shall not exceed 0.5% per year from the MV and HV SWGs on the OSS"",
+      ""scope"": ""Offshore Substation (OSS)"",
+      ""numerical_value"": ""0.5"",
+      ""unit"": ""percent per year"",
+      ""source"": ""40 C.F.R. Part 52.21"",
+      ""related_domains"": [""environmental"", ""technical"", ""equipment maintenance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Emissions of sulfur hexafluoride (SF6) emissions from GIS must remain below 1.0% maximum annual leak rate"",
+      ""scope"": ""Gas Insulated Switchgear (GIS)"",
+      ""numerical_value"": ""1.0"",
+      ""unit"": ""percent per year"",
+      ""source"": ""310 CMR 7.72(4)(a)"",
+      ""related_domains"": [""environmental"", ""technical"", ""equipment maintenance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Must comply with manufacturer-recommended maintenance procedures or industry best practices for reducing SF6 leakage"",
+      ""scope"": ""SF6 containing equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""310 CMR 7.72 (4)(b)"",
+      ""related_domains"": [""technical"", ""maintenance"", ""environmental""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Annual reporting of SF6 emissions from GIS equipment using specified equation in 40 C.F.R. §98.303"",
+      ""scope"": ""Massachusetts-located GIS equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""310 CMR 7.72 (6)"",
+      ""related_domains"": [""environmental"", ""reporting"", ""compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Code of Federal Regulations"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Regulatory authority for air permits and emissions""
+    },
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""State-level environmental regulation enforcement (indicated by CMR references)""
+    }
+  ]
+}"
+27,33,claude,claude-3-5-sonnet-20241022,False,"After analyzing the provided document, I notice that while it contains technical specifications related to SF6 gas inventory and equipment capacity calculations, it does not contain specific regulations directly related to wind farm planning, construction, or operation. The document appears to be part of a larger technical specification about SF6 gas management in electrical equipment, which could be relevant to any electrical infrastructure, not specifically wind farms.
+
+Therefore, following the instruction to return null values when no wind farm-specific regulations are found, here is the structured output:
+
+{
+  ""document_metadata"": {
+    ""title"": ""SF6 Equipment Capacity Calculations"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+Additional Note:
+While the document contains technical information about SF6 gas management in electrical equipment (which could be present in wind farm substations), it does not specifically regulate wind farm development or operation. The formulas and definitions provided are general equipment specifications rather than wind farm-specific regulatory requirements. Therefore, following the instruction to only include strict regulations related to wind farm development, I have not included these general equipment specifications in the output."
+27,34,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the provided document and structure the relevant regulatory information:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Obtain minimum NOx and VOC CERCs (Certified Emission Reduction Credits) prior to Operational Phase"",
+      ""scope"": ""Outer Continental Shelf Operations"",
+      ""numerical_value"": [""265.86"", ""6.43""],
+      ""unit"": [""tons per year NOx"", ""tons per year VOC""],
+      ""source"": ""40 C.F.R. § 55.5(d), 310 CMR 7.00 Appendix A, 310 CMR 7.0 Appendix B"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Install, operate, and maintain all engines to achieve emissions standards over entire engine life"",
+      ""scope"": ""OCS Generator Engine(s) on OSS(s) and/or WTG(s) and Marine Engines on Vessels"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. §60.4206"",
+      ""related_domains"": [""equipment"", ""emissions"", ""maintenance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Approval authority for CERC compliance demonstrations""
+    },
+    {
+      ""entity_name"": ""Commonwealth of Massachusetts"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""Authority for emissions trading bank regulations and CERC certification""
+    }
+  ]
+}
+
+Note: The document primarily focuses on air quality permits and emission requirements for offshore wind operations, with specific emphasis on NOx and VOC emission reduction credits and engine operation standards. The main regulatory framework involves both federal (EPA) and state (Massachusetts) oversight of air quality compliance."
+27,35,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response following instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Once provided with such a document, I can extract and structure the relevant information according to the specified JSON format and categorization rules.
+
+Please provide the document you would like me to analyze, and I will extract the regulatory entities and constraints following the given format and instructions."
+27,36,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and structure the relevant information according to the requested format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Install and operate engines certified by manufacturer to meet emission standards in 40 C.F.R. § 60.4204(b) or § 60.4205(b)"",
+      ""scope"": ""All engines on OCS source vessels"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 60.4211(c)"",
+      ""related_domains"": [""environmental"", ""technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Install, operate, and maintain engines according to manufacturer's emission-related written instructions"",
+      ""scope"": ""All engines on OCS source vessels"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 60.4211(a)(1)"",
+      ""related_domains"": [""environmental"", ""technical""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Conduct visible emission test for 30 consecutive minutes using EPA test method 22 when vessel is operating as OCS source, once per operating day"",
+      ""scope"": ""Main WTG Installation Vessel engines"",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": ""40 C.F.R. Part 52.21"",
+      ""related_domains"": [""environmental"", ""testing""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Conduct EPA method 9 test within 14 days if visible emissions are observed for more than 3 consecutive minutes during method 22 test"",
+      ""scope"": ""Main WTG Installation Vessel engines"",
+      ""numerical_value"": 14,
+      ""unit"": ""days"",
+      ""source"": ""40 C.F.R. Part 52.21"",
+      ""related_domains"": [""environmental"", ""testing""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Primary regulatory authority for air emissions and testing requirements""
+    },
+    {
+      ""entity_name"": ""Revolution Wind, LLC"",
+      ""jurisdiction"": ""Project-specific"",
+      ""role"": ""Permit holder and responsible party""
+    }
+  ]
+}"
+27,37,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response following instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Once provided with such a document, I can extract and structure the relevant information according to the specified JSON format and categorization rules.
+
+Please provide the document content you would like me to analyze, and I will extract the regulatory entities and constraints following the given format and instructions."
+27,38,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information according to the specified format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Maintain records of NOx and VOC emissions for each operating day"",
+      ""scope"": ""Outer Continental Shelf operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section IV(A)(5)(i)"",
+      ""related_domains"": [""environmental"", ""operational""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Maintain daily rolling 365-day total of NOx and VOC emissions"",
+      ""scope"": ""Outer Continental Shelf operations"",
+      ""numerical_value"": ""365"",
+      ""unit"": ""days"",
+      ""source"": ""Section IV(A)(5)(ii)"",
+      ""related_domains"": [""environmental"", ""operational""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Record keeping of fuel consumption, supplier information, and sulfur content for all engines operating on OCS sources"",
+      ""scope"": ""All OCS vessels and engines"",
+      ""numerical_value"": ""5"",
+      ""unit"": ""years of records retention"",
+      ""source"": ""40 C.F.R. Part 55, 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""environmental"", ""operational"", ""technical""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Fuel sampling must follow ASTM D4057-88 'Standard Practice for Manual Sampling of Petroleum and Petroleum Products'"",
+      ""scope"": ""All OCS vessels and engines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D4057-88"",
+      ""related_domains"": [""technical"", ""operational""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""Environmental compliance oversight and emissions reporting""
+    },
+    {
+      ""entity_name"": ""U.S. Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""OCS air permit authority (implied through CFR references)""
+    }
+  ]
+}
+
+Note: The document primarily focuses on recordkeeping requirements related to air emissions and fuel usage for offshore wind farm operations. The requirements are mainly environmental and technical in nature, with specific focus on tracking and documenting emissions and fuel characteristics."
+27,39,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response following instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Please provide a document with relevant content and I will extract and structure the information according to the specified format."
+27,40,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and structure the relevant regulatory information:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Must maintain records of make, model, horsepower, engine displacement, and manufacturing date for all engines on OSS, WTGs, and vessels within 25 NM of facility"",
+      ""scope"": ""All vessels and equipment within 25 NM of OCS facility centroid"",
+      ""numerical_value"": ""25"",
+      ""unit"": ""Nautical Miles"",
+      ""source"": ""OCS-R1-05 Section 6"",
+      ""related_domains"": [""technical"", ""documentation"", ""emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Must maintain EPA certificates of conformity or manufacturer certifications showing tier standards for OCS Generator Engines"",
+      ""scope"": ""All OSS and WTG generator engines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OCS-R1-05 Section IV(B)(1)"",
+      ""related_domains"": [""emissions"", ""certification""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels operating as OCS sources must meet minimum Tier II standards for tugboats, towboats, push boats, crew and supply vessels, dredges, and barges"",
+      ""scope"": ""Service vessels operating as OCS sources"",
+      ""numerical_value"": ""2"",
+      ""unit"": ""Tier Standard"",
+      ""source"": ""OCS-R1-05 Section IV(C)(5)"",
+      ""related_domains"": [""emissions"", ""vessel requirements""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""U.S.-flagged vessels must meet minimum Tier I standards when operating as OCS sources"",
+      ""scope"": ""U.S.-flagged vessels"",
+      ""numerical_value"": ""1"",
+      ""unit"": ""Tier Standard"",
+      ""source"": ""OCS-R1-05 Section IV(C)(6)"",
+      ""related_domains"": [""emissions"", ""vessel requirements""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Issuing authority for Certificates of Conformity and emission standards enforcement""
+    },
+    {
+      ""entity_name"": ""International Maritime Organization (IMO)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Authority for EIAPP and IAPP certificates and Annex VI NOx standards""
+    }
+  ]
+}
+
+Note: The document primarily focuses on air quality and emissions-related requirements for vessels and equipment operating at or near offshore wind facilities. The requirements mainly concern documentation of compliance with various tier standards and emission regulations."
+27,41,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response according to instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Please provide a document with relevant content and I will extract and structure the information according to the specified format."
+27,42,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information in the requested format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Notification required at least 30 days but no more than 90 days prior to locating the first OCS source within the WDA"",
+      ""scope"": ""Wind Development Area (WDA)"",
+      ""numerical_value"": ""30-90"",
+      ""unit"": ""days"",
+      ""source"": ""40 C.F.R. Part 55, 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""administrative"", ""construction""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Written notification required at least 30 days prior to installing/operating an engine on each WTG and ESP, including engine specifications"",
+      ""scope"": ""Wind Turbine Generators and ESP"",
+      ""numerical_value"": ""30"",
+      ""unit"": ""days"",
+      ""source"": ""40 C.F.R. Part 55, 40 C.F.R. Part 52.21, 310 CMR 7.00 Appendix A"",
+      ""related_domains"": [""equipment"", ""construction""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Maintain records of SF6 user emissions including inventory changes, acquisitions, disbursements, and nameplate capacity changes"",
+      ""scope"": ""Project-wide"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section IV(D)(6)"",
+      ""related_domains"": [""emissions"", ""environmental compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Primary regulatory authority for air permits and compliance monitoring""
+    },
+    {
+      ""entity_name"": ""Massachusetts Department of Environmental Protection"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""State-level environmental regulations (referenced through 310 CMR)""
+    }
+  ]
+}
+
+Note: The document contains several regulatory requirements related to notifications, record-keeping, and compliance monitoring for an offshore wind facility. The main regulatory frameworks referenced are the Code of Federal Regulations (CFR) Parts 55 and 52.21, and Massachusetts regulations (310 CMR). The document focuses primarily on air permits and environmental compliance requirements."
+27,43,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response according to instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null, 
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Please provide a document with relevant content and I will extract and structure the information according to the specified JSON format and requirements."
+27,44,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information in the requested format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Must comply with New Source Performance Standards for Stationary Compression Ignition Internal Combustion Engines"",
+      ""scope"": ""Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. 60 Subpart IIII"",
+      ""related_domains"": [""air quality"", ""emissions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Must comply with National Emissions Standards for Hazardous Air Pollutants for Stationary Reciprocating Internal Combustion Engines"",
+      ""scope"": ""Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 63 Subpart ZZZZ"",
+      ""related_domains"": [""air quality"", ""emissions"", ""safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Annual reporting of Source Registration/Emission Statement Form by May 1"",
+      ""scope"": ""Project-wide"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""310 CMR 7.12"",
+      ""related_domains"": [""reporting"", ""compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Construction must commence within 18 months of permit effective date"",
+      ""scope"": ""Project-wide"",
+      ""numerical_value"": 18,
+      ""unit"": ""months"",
+      ""source"": ""40 C.F.R. § 55.6(b)(4)"",
+      ""related_domains"": [""construction"", ""timeline""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Permit issuing and enforcement authority""
+    },
+    {
+      ""entity_name"": ""MassDEP"",
+      ""jurisdiction"": ""State"",
+      ""role"": ""State-level environmental oversight and reporting authority""
+    }
+  ]
+}
+
+Note: The document contains several regulatory requirements related to air quality permits and construction timelines for an offshore wind project. The main regulatory bodies mentioned are the EPA at the federal level and MassDEP at the state level. The document primarily focuses on air quality compliance and permit validity conditions."
+27,45,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response according to instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null, 
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Please provide a document with relevant content and I will extract and structure the information according to the requested format."
+27,46,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information in the requested format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Notify all owners, operators, contractors, and subsequent owners/operators associated with emissions of the permit conditions"",
+      ""scope"": ""OCS source activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. § 55.6(a)(4)(iv)"",
+      ""related_domains"": [""administrative"", ""environmental""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Submit Emission Reduction Plan within 30 days if requested by EPA"",
+      ""scope"": ""OCS source activities"",
+      ""numerical_value"": ""30"",
+      ""unit"": ""days"",
+      ""source"": ""310 CMR 8.08(1) – (6)"",
+      ""related_domains"": [""environmental"", ""administrative""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Shutdown coordination required with BOEM, BSEE, and Coast Guard, with initiation no later than 24 hours after EPA consultation"",
+      ""scope"": ""Equipment operation cessation"",
+      ""numerical_value"": ""24"",
+      ""unit"": ""hours"",
+      ""source"": ""40 C.F.R. §§ 55.9(c)"",
+      ""related_domains"": [""safety"", ""operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Primary permitting and enforcement authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Coordination authority for safety shutdowns""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Coordination authority for safety shutdowns""
+    },
+    {
+      ""entity_name"": ""United States Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Coordination authority for safety shutdowns""
+    }
+  ]
+}
+
+Note: The document contains additional regulatory references (such as Clean Air Act sections and CFR parts), but I've focused on extracting the specific, actionable regulatory constraints and primary regulatory entities with direct oversight roles. The document appears to be primarily focused on air quality permitting requirements for offshore wind facilities on the Outer Continental Shelf."
+27,47,claude,claude-3-5-sonnet-20241022,False,"I notice that the provided document appears to be empty (just contains ""-----""). Without any actual content to analyze, I will return a null response following instruction #2:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+To properly analyze regulatory and technical information, I would need a document containing actual content about offshore wind farm regulations, standards, or requirements. Once provided with such a document, I can extract and structure the relevant information according to the specified JSON format and categorization rules.
+
+Please provide the document content you would like me to analyze, and I will extract the regulatory entities and constraints following the given format and instructions."
+27,48,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information according to the specified format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Must notify succeeding owner and operator of permit existence and conditions before ownership change or within 14 days after change"",
+      ""scope"": ""Outer Continental Shelf"",
+      ""numerical_value"": ""14"",
+      ""unit"": ""days"",
+      ""source"": ""OCS-R1-05 Section XII"",
+      ""related_domains"": [""administrative"", ""compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Submit permit application fee for major comprehensive plan approval for OCS permit"",
+      ""scope"": ""Outer Continental Shelf"",
+      ""numerical_value"": ""24305"",
+      ""unit"": ""USD"",
+      ""source"": ""40 C.F.R. § 55.10(1)– (3), 310 CMR 4.10(2)(c)(4)"",
+      ""related_domains"": [""administrative"", ""financial""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Submit application fees to EPA within 60 days from receipt of written notice"",
+      ""scope"": ""Outer Continental Shelf"",
+      ""numerical_value"": ""60"",
+      ""unit"": ""days"",
+      ""source"": ""OCS-R1-05 Section XIV"",
+      ""related_domains"": [""administrative"", ""financial""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Permitting authority and fee collection""
+    },
+    {
+      ""entity_name"": ""EPA Fees and Collections Branch"",
+      ""jurisdiction"": ""Federal"",
+      ""role"": ""Fee collection and processing""
+    }
+  ]
+}
+
+The document primarily contains administrative requirements related to permit transfer, compliance verification, and fee payment procedures for an offshore wind facility on the Outer Continental Shelf. The main regulatory body identified is the EPA, which has authority over the permitting process and fee collection."
+27,49,claude,claude-3-5-sonnet-20241022,False,"I'll analyze the document and extract the relevant regulatory information according to the specified format:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit"",
+    ""document_number"": ""OCS-R1-05"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Payment of OCS Air Permit Fee under 40 C.F.R. Part 55 with supporting documentation"",
+      ""scope"": ""Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 C.F.R. Part 55"",
+      ""related_domains"": [""administrative"", ""compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Prompt reporting of permit deviations must be submitted electronically to the Air Compliance Clerk"",
+      ""scope"": ""Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA Region 1"",
+      ""related_domains"": [""compliance"", ""reporting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. EPA Region 1"",
+      ""jurisdiction"": ""federal"",
+      ""role"": ""Permitting and enforcement authority""
+    },
+    {
+      ""entity_name"": ""Air Permits, Toxics, and Indoor Programs Branch"",
+      ""jurisdiction"": ""federal"",
+      ""role"": ""Air permit fee administration""
+    },
+    {
+      ""entity_name"": ""Enforcement and Compliance Assurance Division"",
+      ""jurisdiction"": ""federal"",
+      ""role"": ""Enforcement and compliance oversight""
+    }
+  ]
+}
+
+Note: This document appears to be primarily focused on administrative requirements related to air permits and reporting procedures. While it is part of offshore wind farm regulation, it specifically deals with air permit compliance and reporting requirements rather than construction or operational standards."

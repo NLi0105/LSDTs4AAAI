@@ -1,0 +1,320 @@
+PROPERTIES EXTRACTED FROM ONTOLOGY
+==================================================
+
+
+RESTRICTED CLASS:
+-----------------
+    1. hasGeometry
+    2. hasRestrictedAgency
+    3. hasRestrictedType
+    4. hasState
+
+EXPORTCABLE CLASS:
+------------------
+    1. hasCableType
+    2. hasDeveloper
+    3. hasDiameter
+    4. hasElectricCurrent
+    5. hasGeometry
+    6. hasLeaseNumber
+    7. hasLength
+    8. hasMaxKilovolt
+    9. hasMinKilovolt
+   10. hasProjectName
+   11. hasStatus
+
+TURBINE CLASS:
+--------------
+    1. hasAerodynamicAEP
+    2. hasAirfoilSeries
+    3. hasAvailability
+    4. hasBladeCost
+    5. hasBladeMass
+    6. hasBladePrebend
+    7. hasCOE
+    8. hasCapacityFactor
+    9. hasControl
+   10. hasCutInWindSpeed
+   11. hasCutOutWindSpeed
+   12. hasDownTime
+   13. hasDriveTrain
+   14. hasElectricalAEP
+   15. hasGearboxRatio
+   16. hasGenEfficiency
+   17. hasGeometry
+   18. hasHubDiameter
+   19. hasHubHeight
+   20. hasHubOverhang
+   21. hasICC
+   22. hasInclination
+   23. hasMaxRotorSpeed
+   24. hasMaxVtip
+   25. hasMinRotorSpeed
+   26. hasNacelleMass
+   27. hasNacelleUptiltAngle
+   28. hasNumberOfBlades
+   29. hasPitchAngle
+   30. hasPowerOutput
+   31. hasRatedAerodynamicPower
+   32. hasRatedElectricalPower
+   33. hasRatedWindSpeed
+   34. hasRotorConeAngle
+   35. hasRotorDiameter
+   36. hasRotorOrientation
+   37. hasRotorSolidity
+   38. hasShaftTiltAngle
+   39. hasTowerCost
+   40. hasTowerMass
+   41. hasTurbineID
+   42. hasTurbineModel
+   43. hasTurbinePositionX
+   44. hasTurbinePositionY
+   45. hasTurbineStatus
+   46. hasTurbineType
+   47. hasWindClass
+   48. hasWindZone\u003E
+   49. hasYawAngle
+
+TASK CLASS:
+-----------
+    1. hasCost
+    2. hasEndDate
+    3. hasImpactType
+    4. hasInput
+    5. hasInstallationMethod
+    6. hasMetric
+    7. hasOutput
+    8. hasPowerProduction
+    9. hasStartDate
+   10. hasTaskName
+   11. hasTurbineDismantling
+   12. hasTurbineModel
+   13. hasWindSpeed
+
+WINDSPEED CLASS:
+----------------
+    1. hasGeometry
+    2. hasMaxWindSpeed
+    3. hasMinWindSpeed
+    4. hasWindID
+
+WINDFARM CLASS:
+---------------
+    1. hasAEP
+    2. hasFarmPowerOutput
+    3. hasGeometry
+    4. hasGeospatial
+    5. hasLocation
+    6. hasNumberOfTurbines
+    7. hasNumberOfTurbinesPerRow
+    8. hasSite
+    9. hasTurbine
+   10. hasTurbineSpacing
+   11. hasWindFarmID
+   12. hasWindFarmStatus
+   13. hasWindResource
+
+INTERCONNECTION CLASS:
+----------------------
+    1. hasDeveloper
+    2. hasElectricCapacity
+    3. hasFacilityName
+    4. hasGeometry
+    5. hasInjectedMegawatt
+    6. hasLeaseNumber
+    7. hasProjectName
+    8. hasStatus
+
+SUBSTATION CLASS:
+-----------------
+    1. hasCapacity
+    2. hasCoolingSystem
+    3. hasFoundation
+    4. hasGeometry
+    5. hasLoad
+    6. hasLoadFactor
+    7. hasLoss
+    8. hasLossFactor
+    9. hasNumOfTransformers
+   10. hasOperationalStatus
+   11. hasPower
+   12. hasPowerFactor
+   13. hasProtectionSystem
+   14. hasSubstationID
+   15. hasType
+   16. hasVoltage
+
+CABLE CLASS:
+------------
+    1. hasCableType
+    2. hasDeveloper
+    3. hasGeometry
+    4. hasLeaseNumber
+    5. hasLength
+    6. hasMaxDiameter
+    7. hasMaxKilovolt
+    8. hasMinDiameter
+    9. hasMinKilovolt
+   10. hasProjectName
+   11. hasStatus
+
+SEADEPTH CLASS:
+---------------
+    1. hasArea
+    2. hasAvgDepth
+    3. hasDepthRange
+    4. hasGeometry
+    5. hasMaxDepth
+    6. hasMinDepth
+    7. hasSCG
+
+NOAA CLASS:
+-----------
+    1. hasConsFocus
+    2. hasGeometry
+    3. hasMgmtAgency
+    4. hasPermanence
+    5. hasSiteID
+    6. hasSiteName
+    7. hasState
+    8. hasYearEstablished
+
+ECC CLASS:
+----------
+    1. hasArea
+    2. hasDeveloper
+    3. hasGeometry
+    4. hasLeaseID
+    5. hasProjectName
+
+OCSW CLASS:
+-----------
+    1. hasAgency
+    2. hasArea
+    3. hasDateEstablished
+    4. hasGeometry
+    5. hasLeaseType
+    6. hasOCSID
+    7. hasOCSName
+
+HURRICANE CLASS:
+----------------
+    1. hasArrivalTime
+    2. hasHurricaneID
+    3. hasHurricaneName
+    4. hasMaxWindSpeed
+    5. hasWindDirection
+
+REGULATION CLASS:
+-----------------
+    1. hasImpactAreaURI
+    2. hasRegulationDescription
+    3. hasRegulationName
+    4. hasRegulationType
+    5. hasRemedy
+    6. hasSeverity
+
+WINDLEASE CLASS:
+----------------
+    1. hasCompany
+    2. hasGeometry
+    3. hasLeaseDate
+    4. hasLeaseDoc
+    5. hasLeaseDocUrl
+    6. hasLeaseID
+    7. hasLeaseNumber
+    8. hasLeaseTerm
+    9. hasLeaseType
+   10. hasLocation
+   11. hasResource
+   12. hasState
+
+LIFECYCLE CLASS:
+----------------
+    1. hasStage
+    2. hasStageName
+    3. hasTask
+
+EVENT CLASS:
+------------
+    1. hasEndTime
+    2. hasEventType
+    3. hasStartTime
+    4. hasStatus
+
+EFH CLASS:
+----------
+    1. hasFishSpecies
+    2. hasGeometry
+    3. hasRegion
+
+LANDING CLASS:
+--------------
+    1. hasDeveloper
+    2. hasGeometry
+    3. hasLandingSite
+    4. hasLeaseNumber
+    5. hasProjectName
+    6. hasStatus
+
+WINDRESOURCE CLASS:
+-------------------
+    1. hasGeometry
+    2. hasPrecipitation
+    3. hasRelativeHumidity2M
+    4. hasSpecificHumidity2M
+    5. hasSurfacePressure
+    6. hasTemperature2M
+    7. hasWindResourceID
+    8. hasWindSpeed10M
+    9. hasWindSpeed50M
+
+GEOSPATIAL CLASS:
+-----------------
+    1. hasAspect
+    2. hasDistanceToGrid
+    3. hasDistanceToPopulationCenter
+    4. hasDistanceToRailway
+    5. hasDistanceToRoad
+    6. hasDistanceToSubstation
+    7. hasElevation
+    8. hasGeospatialID
+    9. hasLandUse
+   10. hasLatitude
+   11. hasLongitude
+   12. hasPopulationDensity
+   13. hasProtectedAreas
+   14. hasRoughness
+   15. hasSlope
+   16. hasSoilType
+   17. hasWaterBodies
+   18. hasWildlife
+   19. hasWindDirection
+   20. hasWindPowerDensity
+   21. hasWindSpeed
+
+OCS CLASS:
+----------
+    1. hasAreaName
+    2. hasGeometry
+    3. hasOCSID
+    4. hasRegion
+
+POWERLINE CLASS:
+----------------
+    1. hasCapacity
+    2. hasGeometry
+    3. hasMaterial
+    4. hasPowerLineID
+    5. hasStatus
+    6. hasVoltage
+
+TIME CLASS:
+-----------
+    1. hasCurrentTime
+
+CORAL CLASS:
+------------
+    1. hasCoralID
+    2. hasGeometry
+    3. hasZone

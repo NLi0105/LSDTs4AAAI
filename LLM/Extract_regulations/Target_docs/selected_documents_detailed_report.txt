@@ -1,0 +1,288 @@
+DETAILED ANALYSIS REPORT FOR SELECTED DOCUMENTS
+============================================================
+
+DOCUMENT 40
+------------------------------
+Constraint Count: 169
+Page Count: 28
+Constraints per Page: 6.036
+Model Name: deepseek-chat
+Document Number: DOC-2023-001
+Type of Wind Farm: Offshore
+PDF Path: /Users/li/Library/CloudStorage/OneDrive-UniversityofMaryland/PhD research/Python/LLM/Documents/40.pdf
+
+Constraint Types (169 total):
+  - Environmental: 71
+  - Safety: 52
+  - Technical: 44
+  - Reporting: 2
+
+Top 10 Constraints by Relevance Score:
+  1. [Environmental] All turbines must maintain a minimum clearance of 1 km from marine protected areas.
+     Score: 0.185, Value: 1 km
+     Source: Marine Spatial Planning Directive 2022
+     Scope: North Sea offshore wind projects
+
+  2. [Safety] All LOA Holder's vessels, regardless of size, must immediately reduce speed to 10 kn or less for at least 24 hours when a North Atlantic right whale is sighted at any distance by any project-related personnel or acoustically detected by any project-related PAM system. Each subsequent observation or acoustic detection in the Project area shall trigger an additional 24-hour period.
+     Score: 0.149, Value: 10 knots
+     Source: nan
+     Scope: Project area
+
+  3. [Safety] All LOA Holder's vessels, regardless of size, must immediately reduce speed to 10 kn or less for at least 24 hours when a North Atlantic right whale is sighted at any distance by any project-related personnel or acoustically detected by any project-related PAM system.
+     Score: 0.143, Value: 10.0 kn
+     Source: nan
+     Scope: Project area, operational phase
+
+  4. [Environmental] All LOA Holder's vessels, regardless of size, must immediately reduce speed to 10 kn or less for at least 24 hours when a North Atlantic right whale is sighted at any distance by any project-related personnel or acoustically detected by any project-related PAM system.
+     Score: 0.143, Value: 10.0 kn
+     Source: nan
+     Scope: Transit within the project area
+
+  5. [Environmental] must provide the initial results of the SFV measurements to NMFS Office of Protected Resources in an interim report after each foundation installation event and each UXO/MEC detonation event as soon as they are available and prior to a subsequent detonation or foundation installation, but no later than 48 hours after each completed foundation installation event and 48 hours after a detonation.
+     Score: 0.134, Value: 48.0 hours
+     Source: 50 CFR 217.265(g)(8)
+     Scope: Offshore wind farm construction (foundation installation and UXO/MEC detonation)
+
+  6. [Technical] Hammer energies must not exceed 4,000 kilojoules for monopile installation.
+     Score: 0.130, Value: 4000.0 kilojoules
+     Source: 50 CFR 217.264(c)(5)
+     Scope: Monopile installation
+
+  7. [Technical] must provide the initial results of the SFV measurements to NMFS Office of Protected Resources in an interim report after each foundation installation event and each UXO/MEC detonation event as soon as they are available and prior to a subsequent detonation or foundation installation, but no later than 48 hours after each completed foundation installation event and 48 hours after a detonation.
+     Score: 0.130, Value: 48.0 hours
+     Source: 50 CFR 217.265(g)(8)
+     Scope: Foundation installation and UXO/MEC detonation events
+
+  8. [Environmental] If a North Atlantic right whale is observed at any time by PSOs or project personnel, LOA Holder must submit a summary report to NMFS within 24 hours.
+     Score: 0.129, Value: 24.0 hours
+     Source: 50 CFR 217.265(g)(13)(ii)
+     Scope: All project activities involving PSOs or project personnel
+
+  9. [Technical] The SFV Plan must describe how LOA Holder would ensure that the first three monopile foundation installation sites selected for SFV measurements are representative of the rest of the monopile installation sites.
+     Score: 0.125, Value: 3.0 sites
+     Source: NMFS Office of Protected Resources
+     Scope: Monopile foundation installation sites
+
+  10. [Environmental] PSOs must monitor the clearance zone for the presence of marine mammals for 30 minutes before, throughout the installation of the sheet piles (and casing pipe, if installed), and for 30 minutes after all vibratory pile driving activities have ceased.
+     Score: 0.125, Value: 30 minutes
+     Source: Offshore Wind Farm Regulations
+     Scope: Offshore wind farm construction
+
+
+============================================================
+
+DOCUMENT 26
+------------------------------
+Constraint Count: 322
+Page Count: 177
+Constraints per Page: 1.819
+Model Name: gemini-1.5-pro
+Document Number: Page 17 of 93
+Type of Wind Farm: Offshore
+PDF Path: /Users/li/Library/CloudStorage/OneDrive-UniversityofMaryland/PhD research/Python/LLM/Documents/26.pdf
+
+Constraint Types (322 total):
+  - Technical: 130
+  - Environmental: 73
+  - Safety: 66
+  - Jurisdictional: 26
+  - Spatial: 22
+  - Financial: 3
+  - Reporting: 2
+
+Top 10 Constraints by Relevance Score:
+  1. [Technical] The use of cable protection measures must not exceed 10 percent of the total export and inter-array cable length, excluding cable crossings and approaches to foundations.
+     Score: 0.190, Value: 10 percent
+     Source: Section 2.15.1
+     Scope: Cable protection measures
+
+  2. [Spatial] The Lessee may construct and install on the Outer Continental Shelf (OCS) up to 114 wind turbine generators (WTGs), up to 4 offshore substations (OSSs), up to 1 permanent meteorological (met) tower, interarray and interlink cables, and up to 4 export cables within an export cable corridor of up to 35 km (21.7 mi) in length on the OCS.
+     Score: 0.188, Value: 114 wind turbine generators
+     Source: Record of Decision (ROD)
+     Scope: Outer Continental Shelf (OCS)
+
+  3. [Technical] In areas where the final cable burial depth is less than 1.0 m below seabed, excluding cable crossings and within the vicinity of WTG/OSS foundations where cables are enclosed within a cable protection system, the Lessee must install secondary protection such as concrete mattresses, rock bags, or rock placement and must adhere to the scour and cable protection measures in Section 5.3.7.
+     Score: 0.184, Value: 1.0 m
+     Source: Section 2.15
+     Scope: Cable burial depth and protection
+
+  4. [Technical] The Lessee may construct and install on the Outer Continental Shelf (OCS) up to 114 wind turbine generators (WTGs), up to 4 offshore substations (OSSs), up to 1 permanent meteorological (met) tower, interarray and interlink cables, and up to 4 export cables within an export cable corridor of up to 35 km (21.7 mi) in length on the OCS.
+     Score: 0.182, Value: 114 WTGs
+     Source: Record of Decision (ROD)
+     Scope: Outer Continental Shelf (OCS)
+
+  5. [Technical] The Lessee must submit a 48-hour notification to BSEE through TIMSWeb prior to the start of each of the following construction activities occurring on the OCS: met tower installation, seabed preparation activities such as boulder relocation and pre-lay grapnel runs, export cable installation, inter-array cable installation, WTG and OSS foundation installation, WTG tower and nacelle installation, OSS topside installation, and cable and scour protection installation.
+     Score: 0.172, Value: 48 hours
+     Source: nan
+     Scope: Construction phase, Offshore wind farm components (Met tower, seabed, cables, foundations, WTG, OSS)
+
+  6. [Technical] The use of cable protection measures must not exceed 10 percent of the total export and inter-array cable length, excluding cable crossings and approaches to foundations.
+     Score: 0.170, Value: 10 percent
+     Source: Section 2.15.1
+     Scope: Export and inter-array cables
+
+  7. [Technical] The Lessee must carry out an initial foundation scour inspection within 6 months of completing the installation of each foundation location.
+     Score: 0.168, Value: 6 months
+     Source: nan
+     Scope: Foundation scour inspection
+
+  8. [Technical] US Wind requested an easement width greater than 200 ft to safely accommodate installation of up to four export cables, as well as spacing of the cables at least three times the water depth to allow for maintenance, repair, and replacement of the export cables as needed.
+     Score: 0.161, Value: 200 ft
+     Source: 30 C.F.R. § 585.622(b)
+     Scope: Export cable installation
+
+  9. [Technical] The Lessee must comply with cable burial conditions described in the COP by demonstrating proper burial depth of the installed submarine cables along at least 90 percent of the total export cable length on the OCS and 90 percent of the inter-array cable length, excluding cable crossings and approaches to foundations.
+     Score: 0.159, Value: 90 percent
+     Source: COP
+     Scope: Export and inter-array cables on the OCS
+
+  10. [Safety] Within 45 days following approval of the COP, the Lessee must provide DON with the names of each entity and person having beneficial ownership or control of 5 percent or more of the Lessee and the project operator, all material vendors and manufacturers who will regularly visit the project, who supply or manufacture equipment used on the project, control equipment used on the project, or have access to associated data systems.
+     Score: 0.150, Value: 5 percent
+     Source: nan
+     Scope: Project stakeholders, vendors, and manufacturers
+
+
+============================================================
+
+DOCUMENT 34
+------------------------------
+Constraint Count: 47
+Page Count: 17
+Constraints per Page: 2.765
+Model Name: gpt-4o-mini
+Document Number: nan
+Type of Wind Farm: Offshore
+PDF Path: /Users/li/Library/CloudStorage/OneDrive-UniversityofMaryland/PhD research/Python/LLM/Documents/34.pdf
+
+Constraint Types (47 total):
+  - Environmental: 23
+  - Safety: 11
+  - Technical: 9
+  - Jurisdictional: 2
+  - Spatial: 2
+
+Top 10 Constraints by Relevance Score:
+  1. [Technical] The Lessee must submit to the Lessor within 90 days after installation of the facility a narrative report that contains a summary of the fabrication and deployment process.
+     Score: 0.140, Value: 90.0 days
+     Source: nan
+     Scope: Installation phase
+
+  2. [Environmental] The Lessee must ensure that vessel operators comply with 10 knot (18.5 km/hr) or less speed restrictions in the following circumstances: All vessels 19.8 m (65 ft) in length or greater, traveling and operating within the project area and between the staging area/port and the project area from November 1 through April 30.
+     Score: 0.139, Value: 10.0 knots
+     Source: Section 1.2.2.2 of the conditions
+     Scope: Vessels 19.8m or greater within the project area and between the staging area/port and the project area from November 1 through April 30
+
+  3. [Jurisdictional] The Lessee must notify the Lessor within 24 hours of discovery.
+     Score: 0.129, Value: 24.0 hours
+     Source: Outer Continental Shelf Lands Act (30 CFR § 585.802(b))
+     Scope: Project area
+
+  4. [Environmental] The Lessee must ensure all vessels maintain a separation distance of 50 meters (164 ft) or greater from any sighted sea turtle.
+     Score: 0.121, Value: 50.0 meters
+     Source: nan
+     Scope: Marine environment around the wind farm site.
+
+  5. [Jurisdictional] The Lessee must notify the Lessor in writing via report to BOEM within 72 hours of its discovery.
+     Score: 0.119, Value: 72.0 hours
+     Source: Outer Continental Shelf Lands Act (30 CFR § 585.802(b))
+     Scope: Project area
+
+  6. [Spatial] The 7 km (22,966 ft) exclusion zone must be monitored from two locations.
+     Score: 0.119, Value: 7.0 km
+     Source: nan
+     Scope: Pile driving activities
+
+  7. [Environmental] At least two PSOs on simultaneous watch must be based at or near the sound source and will be responsible for monitoring out to 1,000 m (3,281 ft) from the sound source.
+     Score: 0.114, Value: 1000.0 m
+     Source: nan
+     Scope: Pile driving activities
+
+  8. [Safety] The Lessee must ensure that vessel operators comply with 10 knot (18.5 km/hr) or less speed restrictions in the following circumstances: 1) All vessels operating in any Dynamic Management Area (DMA); 2) All vessels 19.8 m (65 ft) in length or greater, traveling and operating within the project area and between the staging area/port and the project area from November 1 through April 30; 3) When mother/calf pairs, pods, or large assemblages of cetaceans are observed near any vessel.
+     Score: 0.112, Value: 10.0 knots
+     Source: Section 1.2.2
+     Scope: All vessels conducting activities authorized under the SAP
+
+  9. [Environmental] The Lessee must ensure that vessel operators comply with 10 knot (18.5 km/hr) or less speed restrictions in the following circumstances: All vessels operating in any Dynamic Management Area (DMA).
+     Score: 0.111, Value: 10.0 knots
+     Source: Section 1.2.2.1 of the conditions
+     Scope: All vessels operating in a DMA
+
+  10. [Safety] The Lessee must ensure that vessel operators comply with 10 knot (18.5 km/hr) or less speed restrictions in the following circumstances: All vessels 19.8 m (65 ft) in length or greater, traveling and operating within the project area and between the staging area/port and the project area from November 1 through April 30.
+     Score: 0.111, Value: 10.0 knots
+     Source: nan
+     Scope: Operational phase
+
+
+============================================================
+
+DOCUMENT 29
+------------------------------
+Constraint Count: 81
+Page Count: 193
+Constraints per Page: 0.420
+Model Name: gemini-1.5-pro
+Document Number: 3-63
+Type of Wind Farm: Offshore
+PDF Path: /Users/li/Library/CloudStorage/OneDrive-UniversityofMaryland/PhD research/Python/LLM/Documents/29.pdf
+
+Constraint Types (81 total):
+  - Environmental: 30
+  - Safety: 30
+  - Technical: 14
+  - Jurisdictional: 4
+  - Spatial: 3
+
+Top 10 Constraints by Relevance Score:
+  1. [Environmental] If multiple piles are being driven, the field verification method may be used to modify the exclusion zone. Any new exclusion zone radius must be based on the most conservative measurement (i.e. the largest safety zone configuration) of the 160 dB zone. This zone must be used for all subsequent pile driving and be periodically re-evaluated based on the regular sound monitoring.
+     Score: 0.150, Value: 160.0 dB
+     Source: nan
+     Scope: Pile driving activities during construction
+
+  2. [Spatial] No construction within 15 nautical miles of designated marine protected areas.
+     Score: 0.146, Value: 15 nautical miles
+     Source: National Marine Fisheries Service (NMFS)
+     Scope: All U.S. offshore wind lease areas
+
+  3. [Environmental] All turbine foundations must maintain a minimum clearance of 500m from identified coral reef areas
+     Score: 0.134, Value: 500 meters
+     Source: North Sea Environmental Protection Directive 2021
+     Scope: North Sea marine protected areas
+
+  4. [Safety] Any new exclusion zone radius must be based on the most conservative measurement (i.e. the largest safety zone configuration) of the 160 dB zone.
+     Score: 0.131, Value: 7.0 km
+     Source: BOEM in consultation with NMFS
+     Scope: Pile driving operations
+
+  5. [Environmental] A 'soft start' must be implemented at the beginning of each pile installation in order to provide additional protection to marine mammals and sea turtles near the project area.
+     Score: 0.126, Value: 20.0 minutes
+     Source: nan
+     Scope: In-water pile driving activities
+
+  6. [Technical] The soft start procedure must not be less than 20 minutes.
+     Score: 0.120, Value: 20.0 minutes
+     Source: nan
+     Scope: Pile installation activities
+
+  7. [Safety] If a marine mammal or sea turtle is sighted in the exclusion zone prior to the re-start of pile driving, then the exclusion zone must be cleared of all marine mammals and sea turtles for 60 minutes following the sighting.
+     Score: 0.111, Value: 60.0 minutes
+     Source: nan
+     Scope: Pile driving operations
+
+  8. [Environmental] If the injury or death [of a protected species] was caused by a collision with the lessee's vessel, the lessee must notify BOEM within 24 hours of the strike.
+     Score: 0.110, Value: 24.0 hours
+     Source: nan
+     Scope: Vessel strikes of protected species.
+
+  9. [Environmental] All turbine foundations must maintain a minimum clearance of 25 meters from the seabed to allow for marine life passage
+     Score: 0.110, Value: 25 meters
+     Source: Marine Protection Act §12.4
+     Scope: Turbine foundations in North Atlantic development zones
+
+  10. [Jurisdictional] All OCS sources located within 25 nm of States’ seaward boundaries must satisfy the same air permitting requirements as would be applicable if the source were located in the corresponding onshore area.
+     Score: 0.110, Value: 25.0 nm
+     Source: 40 CFR Part 55
+     Scope: Outer Continental Shelf (OCS) sources within 25 nautical miles of state boundaries
+
+
+============================================================
+

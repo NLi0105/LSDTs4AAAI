@@ -1,0 +1,428 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"43",1,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",2,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",3,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",4,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""ii"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""MPA Center"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Management and coordination of Marine Protected Areas""
+    },
+    {
+      ""entity_name"": ""MPA Federal Advisory Committee"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Advisory body on Marine Protected Areas policy and implementation""
+    }
+  ]
+}
+```"
+"43",5,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Regional Fishery Management Councils"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Collaboration in the development of a National System of Marine Protected Areas; marine resource management""
+    }
+  ]
+}
+```"
+"43",6,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",7,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Framework for the National System of Marine Protected Areas"",
+    ""document_number"": ""2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Coordination of marine protected areas programs""
+    },
+    {
+      ""entity_name"": ""Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Coordination of marine protected areas programs""
+    },
+    {
+      ""entity_name"": ""National Marine Protected Areas Center"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Management and coordination of national marine protected areas system""
+    }
+  ]
+}
+```"
+"43",8,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Commerce (DOC)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Lead agency directed to develop the National System of Marine Protected Areas""
+    },
+    {
+      ""entity_name"": ""Department of the Interior (DOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Lead agency directed to develop the National System of Marine Protected Areas""
+    },
+    {
+      ""entity_name"": ""Department of Defense"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consulting agency for the development of the National System of Marine Protected Areas""
+    },
+    {
+      ""entity_name"": ""Department of State"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consulting agency for the development of the National System of Marine Protected Areas""
+    },
+    {
+      ""entity_name"": ""United States Agency for International Development"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consulting agency for the development of the National System of Marine Protected Areas""
+    },
+    {
+      ""entity_name"": ""Department of Transportation"","
+"43",9,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",10,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",11,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",12,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",13,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",14,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",15,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",16,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",17,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",18,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",19,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",20,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",21,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",22,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",23,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",24,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",25,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""federal agencies"
+"43",26,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",27,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",28,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",29,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Framework for the National System of Marine Protected Areas"",
+    ""document_number"": ""Page 18, Section E"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""federal agencies to \""avoid harm\"" to the natural and cultural resources protected by MPAs that become part of the national system."",
+      ""scope"": ""Natural and cultural resources within US Marine Protected Areas (MPAs) that are part of the national system."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 5 of the Order"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""cultural heritage protection"",
+        ""marine spatial planning""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"43",30,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",31,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",32,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",33,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",34,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",35,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section VII"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""MPA Center"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Responsible for tracking, reporting, and evaluating the National System of Marine Protected Areas, including progress, priorities, and plans, and posting data online biennially.""
+    },
+    {
+      ""entity_name"": ""Programs Workgroup"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Collaborates with the MPA Center and participating MPA sites and programs to comprehensively track overall national system priorities and activities for Marine Protected Areas.""
+    }
+  ]
+}
+```"
+"43",36,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",37,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",38,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",39,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",40,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""26"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The creation of MPA networks must take into consideration other non-MPA areas that provide similar linkages."",
+      ""scope"": ""Creation of Marine Protected Area (MPA) networks"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Document definition of 'Ecological network'"",
+      ""related_domains"": [
+        ""marine spatial planning"",
+        ""environmental impact assessment"",
+        ""biodiversity conservation""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"43",41,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",42,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",43,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Must have existing laws or regulations that are designed and applied to afford the site with increased protection for part or all of the natural and submerged cultural resources therein for the purpose of maintaining or enhancing the long-term conservation of these resources, beyond any general protections that apply outside the site."",
+      ""scope"": ""Sites designated for 'Protection' (e.g., Marine Protected Areas, Natural Heritage sites)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Definition of 'Protection' within the document"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""cultural heritage protection"",
+        ""marine spatial planning"",
+        ""resource conservation""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Must be established by and currently subject to federal, state, local, or tribal law or regulation."",
+      ""scope"": ""Sites designated as 'Reserved'"",
+      """
+"43",44,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",45,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Framework for the National System of Marine Protected Areas"",
+    ""document_number"": ""Appendix C, Page 30"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Marine resource management; Consultation for offshore projects""
+    },
+    {
+      ""entity_name"": ""NOAA’s National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Marine life protection; Fisheries management; Consultation on environmental impacts"
+"43",46,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",47,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",48,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",49,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Appendix D"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""MPA Center"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight and facilitation of Marine Protected Area nomination and review process""
+    },
+    {
+      ""entity_name"": ""Managing entity(ies)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Nomination and information provision for Marine Protected Areas""
+    }
+  ]
+}
+```"
+"43",50,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",51,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",52,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",53,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",54,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""38"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal government programs"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Management of Marine Protected Areas (MPAs)""
+    },
+    {
+      ""entity_name"": ""State government programs"",
+      ""juris"
+"43",55,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",56,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",57,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Establishes and manages Marine Protected Areas (MPAs); rebuilds and maintains sustainable fisheries; conserves and restores healthy marine habitats; promotes recovery of protected species; reviews and approves fishery management actions; promulgates regulations for MPA boundaries and protective measures.""
+    ,
+    {
+      ""entity_name"": ""Regional Fishery Management Councils"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Provides stewardship of fishery resources through preparation, monitoring, and revision of fishery management plans; enables participation and advice on marine fisheries management.""
+    },
+    {
+      ""entity_name"": ""National Estuarine Research Reserve System"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Promotes stewardship of the nation"
+"43",58,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",59,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",60,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",61,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",62,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""avoid causing harm to MPAs through federally conducted, approved, or funded activities."",
+      ""scope"": ""Federally conducted, approved, or funded activities within the marine environment, specifically impacting Marine Protected Areas (MPAs)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Executive Order (issued by the President of the United States, based on various statutes including the Outer Continental Shelf Lands Act)"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""marine conservation"",
+        ""cultural heritage protection"",
+        ""project approval"",
+        ""offshore development""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""President of the United States"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Executive Authority; Order Issuance; Policy Setting""
+    }
+  ]
+}
+```"
+"43",63,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",64,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Sec. 4."",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Commerce"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Develops and manages national system of Marine Protected Areas (MPAs), coordinates, shares information, and provides guidance for MPA establishment and enhancement.""
+    },
+    {
+      ""entity_name"": ""Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Develops"
+"43",65,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",66,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",67,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"43",68,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",69,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",70,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",71,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",72,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"43",73,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""50"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Protected Areas Center"",
+      ""jurisdiction"": ""Federal, state, territorial, and tribal programs responsible for the health of the oceans (USA)"",
+      ""role"": ""Resource provider to programs responsible for ocean health; located within NOAA’s Office of National Marine Sanctuaries""
+    },
+    {
+      ""entity_name"": ""NOAA’s Office of National Marine Sanctuaries"",
+      ""jurisdiction"": ""National Marine Sanctuaries (USA)"",
+      ""role"": ""Administers National Marine Sanctuaries; hosts the National Marine Protected Areas Center""
+    },
+    {
+      ""entity_name"": ""Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Works with the National Marine Protected Areas Center on programs responsible for ocean health""
+    }
+  ]
+}
+```"

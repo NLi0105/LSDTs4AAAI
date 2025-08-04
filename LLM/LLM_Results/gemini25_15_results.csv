@@ -1,0 +1,113 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"15",1,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Guidelines for Providing Benthic Habitat Survey Information for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585"",
+    ""document_number"": ""1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Before the U.S. Department of the Interior, BOEM will approve the siting of a facility proposed for a renewable energy project on the Atlantic Outer Continental Shelf (OCS), a lessee must submit the results of its site characterization surveys to BOEM with its Site Assessment Plan (SAP), Construction and Operations Plan (COP), or General Activities Plan (GAP)."",
+      ""scope"": ""Renewable energy projects on the Atlantic Outer Continental Shelf (OCS) during SAP, COP, or GAP submittal."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR Part 585 Subpart F"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""site characterization"",
+        ""benthic habitat survey"",
+        ""permitting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and regulatory authority for renewable energy"
+"15",2,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"15",3,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"15",4,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"15",5,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""if these guidelines conflict with conditions in a lease or grant, the lessee or grantee must comply with the terms of their lease or grant."",
+      ""scope"": ""Lease or grant agreements"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Lease or grant"",
+      ""related_domains"": [
+        ""legal compliance"",
+        ""contractual obligations""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""USFWS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Park Service (NPS)"",
+      ""jurisdiction"": """
+"15",6,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"15",7,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"15",8,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"15",9,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"15",10,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"15",11,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"15",12,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"15",13,"gemini","gemini-2.5-pro",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"15",14,"gemini","gemini-2.5-pro",False,"NO_RELEVANT_DATA_FOUND"
+"15",15,"gemini","gemini-2.5-pro",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": """
+"15",16,"gemini","gemini-2.5-pro",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Appendix A. Resources for Benthic Habitat Information on the Atlantic OCS."",
+    ""document_number"": ""9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Department of the Interior, Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"

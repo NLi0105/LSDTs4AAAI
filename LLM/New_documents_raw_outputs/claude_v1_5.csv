@@ -1,0 +1,97 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"5","claude","claude-3-haiku-20240307",275217,128166,38,38,True,"{
+  ""document_metadata"": {
+    ""title"": ""United States offshore wind energy atlas: availability, potential, and economic insights based on wind speeds at different altitudes and thresholds and policy-informed exclusions"",
+    ""project_name"": ""United States Offshore Wind Energy Atlas"",
+    ""project_location"": ""United States coastal regions""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Offshore Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Offshore wind turbines used to generate electricity"",
+      ""source_section_number"": ""Introduction""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Transmission Infrastructure"",
+      ""description"": ""Electrical transmission lines and substations connecting offshore wind farms to the onshore grid"",
+      ""source_section_number"": ""Introduction""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Offshore Cable Trenching"",
+      ""description"": ""Burying offshore electrical cables in the seabed"",
+      ""source_section_number"": ""4.1.2""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Offshore Wind Farm Ports"",
+      ""description"": ""Ports used to support the construction, installation, and maintenance of offshore wind projects"",
+      ""source_section_number"": ""9""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Offshore Project Vessels"",
+      ""description"": ""Vessels used for the construction, installation, and maintenance of offshore wind projects"",
+      ""source_section_number"": ""4.1.2""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Offshore wind turbines must have a hub height of at least 100 meters above sea level"",
+      ""value"": 100,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""Introduction"",
+      ""geographic_scope"": ""All offshore wind turbine locations"",
+      ""context_quote"": ""This study uses Geographic Information System (GIS) mapping and open-source marine planning data. The atlas accounts for wind speed thresholds, bathymetry, ocean conditions, restrictions (including shipping lanes and military zones that can impede wind projects), regulations (including distance requirements from energy infrastructure, safety hazards, and marine protected areas), and modern wind turbine information (including size, spacing, and energy output).""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Offshore wind turbines must have a minimum wind speed threshold of 7 meters per second at 150 meters above sea level to be considered viable"",
+      ""value"": 7,
+      ""unit"": ""meters per second"",
+      ""source_section_number"": ""Introduction"",
+      ""geographic_scope"": ""All offshore wind turbine locations"",
+      ""context_quote"": ""The atlas accounts for wind speed thresholds, bathymetry, ocean conditions, restrictions (including shipping lanes and military zones that can impede wind projects), regulations (including distance requirements from energy infrastructure, safety hazards, and marine protected areas), and modern wind turbine information (including size, spacing, and energy output).""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Cable trenching is prohibited within 500 meters of identified historic shipwrecks"",
+      ""value"": 500,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""4.1.2"",
+      ""geographic_scope"": ""Areas within 500 meters of identified historic shipwrecks"",
+      ""context_quote"": ""Furthermore, trenching activities are prohibited within 500 meters of the identified historic shipwreck (No. 551B) at all times.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Project vessels must not exceed a speed of 10 knots within the Block Island Sound Transit Lane"",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""4.1.2"",
+      ""geographic_scope"": ""Block Island Sound Transit Lane"",
+      ""context_quote"": ""To protect sensitive habitats, vessel speeds for all project vessels shall not exceed 10 knots within the Block Island Sound Transit Lane.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for leasing offshore wind energy areas and overseeing the development process"",
+      ""source_section_number"": ""Introduction""
+    }
+  ]
+}"

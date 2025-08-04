@@ -1,0 +1,326 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"4","gemini","gemini-1.5-pro",1922182,1839866,19,18,False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Final Environmental Impact Statement"",
+    ""project_name"": ""Maryland Offshore Wind Project"",
+    ""project_location"": ""Offshore Maryland, Lease Area OCS-A 0490""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTGs"",
+      ""description"": ""Up to 121 wind turbine generators for energy production."",
+      ""source_section_number"": ""ES.2""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Substations"",
+      ""component_acronym"": ""OSSs"",
+      ""description"": ""Up to 4 offshore substations to collect and transmit power from WTGs."",
+      ""source_section_number"": ""ES.2""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Offshore Export Cables"",
+      ""component_acronym"": ""Offshore Export Cables"",
+      ""description"": ""Up to 4 offshore export cables to transmit power to shore."",
+      ""source_section_number"": ""ES.2""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Meteorological Tower"",
+      ""component_acronym"": ""Met Tower"",
+      ""description"": ""1 meteorological tower for environmental monitoring."",
+      ""source_section_number"": ""ES.2""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Inter-Array Cables"",
+      ""component_acronym"": ""Inter-array cables"",
+      ""description"": ""Cables connecting WTGs to OSSs."",
+      ""source_section_number"": ""2.1.2.1""
+    },
+    {
+      ""component_id"": ""COMP-06"",
+      ""component_name"": ""Substation Interconnector Cables"",
+      ""component_acronym"": ""Substation interconnector cables"",
+      ""description"": ""Cables connecting OSSs to each other."",
+      ""source_section_number"": ""2.1.2.1""
+    },
+    {
+      ""component_id"": ""COMP-07"",
+      ""component_name"": ""Inshore Export Cable"",
+      ""component_acronym"": ""Inshore Export Cable"",
+      ""description"": ""Cables connecting landfall to onshore substation."",
+      ""source_section_number"": ""ES.4.2""
+    },
+    {
+      ""component_id"": ""COMP-08"",
+      ""component_name"": ""Onshore Substations"",
+      ""component_acronym"": ""Onshore Substations"",
+      ""description"": ""Three new onshore substations to connect to the existing grid."",
+      ""source_section_number"": ""ES.4.2""
+    },
+    {
+      ""component_id"": ""COMP-09"",
+      ""component_name"": ""Onshore Export Cable Routes"",
+      ""component_acronym"": ""Onshore Export Cable Routes"",
+      ""description"": ""Terrestrial cable routes avoiding Indian River Bay."",
+      ""source_section_number"": ""ES.4.3""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 121 WTGs."",
+      ""value"": 121,
+      ""unit"": null,
+      ""source_section_number"": ""ES.2"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Project (full build-out) comprises as many as 121 wind turbine generators (WTGs)""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 4 OSSs."",
+      ""value"": 4,
+      ""unit"": null,
+      ""source_section_number"": ""ES.2"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""up to 4 offshore substations (OSSs)""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 4 offshore export cables."",
+      ""value"": 4,
+      ""unit"": null,
+      ""source_section_number"": ""ES.2"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""up to 4 offshore export cables""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""1 meteorological tower."",
+      ""value"": 1,
+      ""unit"": null,
+      ""source_section_number"": ""ES.2"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""and 1 meteorological tower (Met Tower)""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""1 nautical mile setback from the Delaware Bay TSS."",
+      ""value"": 1,
+      ""unit"": ""nautical mile"",
+      ""source_section_number"": ""2.1.2"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Proposed Action includes a 1 nautical mile (1.9 kilometer) setback from the traffic separation scheme (TSS) from Delaware Bay""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTGs spaced 0.77 nautical miles east-west and 1.02 nautical miles north-south."",
+      ""value"": 0.77,
+      ""unit"": ""nautical miles"",
+      ""source_section_number"": ""2.1.2.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""with an east-west spacing of 0.77 nautical miles (1.43 kilometers) and a north-south spacing of 1.02 nautical miles (1.89 kilometers).""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Landfall at 3R’s Beach."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""ES.4.2"",
+      ""geographic_scope"": ""3R’s Beach"",
+      ""context_quote"": ""Up to four offshore export cables (installed within one Offshore Export Cable Route) would transition to a landfall at 3R’s Beach via horizontal directional drilling (HDD).""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-07"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Inshore export cable route within Indian River Bay."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""ES.4.2"",
+      ""geographic_scope"": ""Indian River Bay"",
+      ""context_quote"": ""From the landfall, the cables would continue along the Inshore Export Cable Route within Indian River Bay""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-08"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Onshore substations adjacent to Indian River substation."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""ES.4.2"",
+      ""geographic_scope"": ""Area adjacent to Indian River substation"",
+      ""context_quote"": ""to connect to an onshore substation adjacent to the point of interconnection (POI) at the Indian River substation""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""No in-water work between March 1 and September 30 in Indian River Bay."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""2.1.2.1"",
+      ""geographic_scope"": ""Indian River Bay"",
+      ""context_quote"": ""no in-water work (e.g.; cable installation, HDDs, dredging) within Indian River Bay between March 1 and September 30""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""No HDD activities in the Atlantic to the beach landfall from April 15 through September 15."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""2.1.2.1"",
+      ""geographic_scope"": ""Atlantic Ocean to beach landfall"",
+      ""context_quote"": ""no HDD activities in the Atlantic to the beach landfall from April 15 through September 15""
+    },
+    {
+      ""constraint_id"": ""C-012"",
+      ""linked_component_id"": ""COMP-09"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Towers Beach landfall."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""ES.4.3"",
+      ""geographic_scope"": ""Towers Beach"",
+      ""context_quote"": ""Alternative C-1 includes the Towers Beach landfall""
+    },
+    {
+      ""constraint_id"": ""C-013"",
+      ""linked_component_id"": ""COMP-09"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Terrestrial Onshore Export Cable Route from Towers Beach to Indian River substation (Route 2)."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""ES.4.3"",
+      ""geographic_scope"": ""From Towers Beach to Indian River substation"",
+      ""context_quote"": ""and a terrestrial Onshore Export Cable Route from the Towers Beach landfall to the Indian River substation (POI) (Onshore Export Cable Route 2).""
+    },
+    {
+      ""constraint_id"": ""C-014"",
+      ""linked_component_id"": ""COMP-09"",
+      ""category"": ""Design Specification"",
+      ""description"": ""3R’s Beach landfall."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""ES.4.3"",
+      ""geographic_scope"": ""3R’s Beach"",
+      ""context_quote"": ""Alternative C-2 includes the 3R’s Beach landfall""
+    },
+    {
+      ""constraint_id"": ""C-015"",
+      ""linked_component_id"": ""COMP-09"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Terrestrial Onshore Export Cable Routes from 3R’s Beach landfall to Indian River substation (Routes 1a, 1b, and 1c)."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""ES.4.3"",
+      ""geographic_scope"": ""From 3R’s Beach landfall to Indian River substation"",
+      ""context_quote"": ""terrestrial Onshore Export Cable Routes from the 3R’s Beach landfall to the Indian River substation would be considered (i.e., Onshore Export Cable Routes 1a, 1b, and 1c).""
+    },
+    {
+      ""constraint_id"": ""C-016"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""No surface occupancy within 14 miles of shore."",
+      ""value"": 14,
+      ""unit"": ""miles"",
+      ""source_section_number"": ""ES.4.4"",
+      ""geographic_scope"": ""Within 14 miles of shore"",
+      ""context_quote"": ""no surface occupancy would occur within 14 miles (22.5 kilometers) of shore""
+    },
+    {
+      ""constraint_id"": ""C-017"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Micrositing of WTGs to avoid areas of concern."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""ES.4.5"",
+      ""geographic_scope"": ""Areas of concern"",
+      ""context_quote"": ""Micrositing the WTGs and cables may be necessary to avoid areas of concern (AOCs; i.e., sensitive benthic habitat).""
+    },
+    {
+      ""constraint_id"": ""C-018"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Realignment of offshore export cables to avoid areas of concern."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""ES.4.5"",
+      ""geographic_scope"": ""Areas of concern"",
+      ""context_quote"": ""realigning of the offshore export cables""
+    },
+    {
+      ""constraint_id"": ""C-019"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Relocation of Met Tower to avoid areas of concern."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""ES.4.5"",
+      ""geographic_scope"": ""Areas of concern"",
+      ""context_quote"": ""and relocation of the Met Tower""
+    },
+    {
+      ""constraint_id"": ""C-020"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Removal/realignment of inter-array cables to avoid areas of concern."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""ES.4.5"",
+      ""geographic_scope"": ""Areas of concern"",
+      ""context_quote"": ""removal/realignment of associated inter-array cables (if applicable)""
+    },
+    {
+      ""constraint_id"": ""C-021"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""All facilities must be removed 15 feet below the mudline."",
+      ""value"": 15,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.1.2.3"",
+      ""geographic_scope"": ""All facilities"",
+      ""context_quote"": ""All facilities would need to be removed 15 feet (4.6 meters) below the mudline""
+    },
+    {
+      ""constraint_id"": ""C-022"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Complete decommissioning within 2 years of lease termination."",
+      ""value"": 2,
+      ""unit"": ""years"",
+      ""source_section_number"": ""2.1.2.3"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""US Wind would have to achieve complete decommissioning within 2 years of termination of the lease""
+    },
+    {
+      ""constraint_id"": ""C-023"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Offshore export cables buried 3.3 to 9.8 feet deep, inter-array cables buried 3.3 to 6.6 feet deep, maximum burial depth 13.1 feet."",
+      ""value"": 3.3,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.1.2.1"",
+      ""geographic_scope"": ""Offshore export and inter-array cables"",
+      ""context_quote"": ""US Wind plans to bury offshore export cables 3.3 to 9.8 feet (1 to 3 meters) and inter-array cables 3.3 to 6.6 feet (1 to 2 meters) deep, but no more than 13"

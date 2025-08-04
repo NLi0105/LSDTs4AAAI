@@ -1,0 +1,732 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"34",1,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Conditions of Site Assessment Plan Approval Lease Number OCS-A 0490"",
+    ""document_number"": ""Lease Number OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"34",2,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure that vessel operators and crews maintain a vigilant watch for marine mammals and sea turtles and slow down or stop their vessel to avoid striking these protected species."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure that vessel operators comply with 10 knot (18.5 km/hr) or less speed restrictions in the following circumstances: All vessels operating in any Dynamic Management Area (DMA)."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 10,
+      ""unit"": ""knots"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure that vessel operators comply with 10 knot (18.5 km/hr) or less speed restrictions in the following circumstances: All vessels 19.8 m (65 ft) in length or greater, traveling and operating within the project area and between the staging area/port and the project area from November 1 through April 30."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 10,
+      ""unit"": ""knots"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure all vessels maintain a separation distance of 500 meters (1,640 ft) or greater from any sighted North Atlantic right whale."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"34",3,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"34",4,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""1.3.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If underway, any vessel must steer a course away from the North Atlantic right whale at 10 knots (18.5 km/h) or less until the 500 meter (1,640 ft) minimum separation distance has been established."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a North Atlantic right whale is sighted within 100 meters (328 ft) of an underway vessel, the vessel operator must immediately reduce speed and promptly shift the engine to neutral."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a vessel is stationary, the vessel operator must not engage engines until the North Atlantic right whale has moved beyond 100 meters (328 ft)."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure all vessels maintain a separation distance of 100 meters (328 ft) or greater from any sighted non-delphinoid cetacean."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If any non-delphinoid cetacean is sighted, the vessel underway must reduce speed and shift the engine to neutral, and must not engage the engines until the non-delphinoid cetacean has moved beyond 100 meters (328 ft)."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a vessel is stationary, the vessel must not engage engines until the non-delphinoid cetacean has moved beyond 100 meters (328 ft)."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure that vessels underway do not divert to approach any delphinoid cetacean and/or pinniped."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure that all vessels maintain a separation distance of 50 m (164 ft) or greater from any sighted delphinoid cetacean or pinniped."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 50,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a delphinoid cetacean and/or pinniped approaches any vessel underway, that vessel must avoid excessive speed or abrupt changes in direction to avoid injury to the delphinoid cetacean and/or pinniped."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"34",5,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"34",6,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""1.6 - 1.8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure all vessels maintain a separation distance of 50 meters (164 ft) or greater from any sighted sea turtle."",
+      ""scope"": ""Marine environment around the wind farm site."",
+      ""numerical_value"": 50,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure that all vessels conducting activity pursuant to the SAP comply with the pile driving and reporting requirements specified in Sections 1.8 and 1.9, except when the safety of the vessel or the safety of life at sea is in question."",
+      ""scope"": ""Pile driving activities for meteorological tower foundations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety regulations"", ""construction practices""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must not conduct pile driving for a meteorological foundation at any time when lighting or weather conditions prevent visual monitoring of the exclusion zones."",
+      ""scope"": ""Pile driving activities for meteorological tower foundations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety regulations"", ""construction practices""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If the driving of a pile commenced during daylight hours, then the Lessee may complete driving that pile after daylight hours."",
+      ""scope"": ""Pile driving activities for meteorological tower foundations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety regulations"", ""construction practices""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If the Lessee intends to conduct pile driving for a meteorological tower foundation at night or when visual observation is otherwise impaired, the Lessee must submit an alternative monitoring plan detailing the Lessee’s proposed alternative monitoring methodology to the Lessor for approval."",
+      ""scope"": ""Pile driving activities for meteorological tower foundations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety regulations"", ""monitoring practices""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that the exclusion zone for all pile driving for a meteorological tower foundation is monitored by NMFS-approved PSOs around the sound source."",
+      ""scope"": ""Pile driving activities for meteorological tower foundations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Marine Fisheries Service (NMFS)"",
+      ""related_domains"": [""marine wildlife protection"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"34",7,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"34",8,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""1.8.6 to 1.8.10"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""PSOs must not work for more than 12 hours in a 24-hour period."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": 12,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""worker safety"", ""marine operations""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that no pile driving activities occur within an active DMA as established by NMFS."",
+      ""scope"": ""Pile driving activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure the establishment of a default 7 km (22,966 ft) radius exclusion zone for marine mammals and sea turtles around each pile driving site."",
+      ""scope"": ""Pile driving activities"",
+      ""numerical_value"": 7,
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle conservation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Lessee must submit results to verify the cumulative sound exposure distance for PTS during pile driving activities."",
+      ""scope"": ""Pile driving activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""marine life impact""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"34",9,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"34",10,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""1.8.11"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure that visual monitoring of the exclusion zone begins no less than 60 minutes prior to the start of any pile driving operations and continues for at least 60 minutes after pile driving operations cease."",
+      ""scope"": ""Exclusion zone during pile driving operations"",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": ""Section 1.8.12"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure that pile driving operations do not begin until the PSO has reported the exclusion zone clear of all marine mammals and sea turtles for at least 60 minutes."",
+      ""scope"": ""Exclusion zone clearance before pile driving"",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": ""Section 1.8.12"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Lessee must implement a 'soft start' at the beginning of each pile installation."",
+      ""scope"": ""Pile installation activities"",
+      ""numerical_value"": 3,
+      ""unit"": ""strikes"",
+      ""source"": ""Section 1.8.13"",
+      ""related_domains"": [""marine mammal protection"", ""construction methods""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"34",11,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"34",12,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""1.8.14 - 1.9.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that any time a marine mammal or sea turtle is observed within the exclusion zone, the PSO will notify the Resident Engineer or other authorized individual, and call for a shutdown of pile driving activity."",
+      ""scope"": ""Exclusion zone during pile driving activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""construction regulation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Subsequent restart of the pile driving equipment may only occur following clearance of the exclusion zone of any marine mammal or sea turtle for at least 60 minutes."",
+      ""scope"": ""Exclusion zone during pile driving activities"",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""construction regulation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Lessee must ensure that restart of the pile driving activity commences only after clearance of the exclusion zone and implementation of soft start procedures."",
+      ""scope"": ""Pile driving activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""construction regulation"", ""sound management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must notify the Lessor and NMFS at least 24 hours prior to the initial commencement of pile driving activities, and again within 24 hours of the completion of all pile driving activities."",
+      ""scope"": ""Pre-commencement and completion of pile driving activities"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""safety regulation"", ""reporting requirements""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that the PSOs record all observations of protected species using standard marine mammal observer data collection protocols."",
+      ""scope"": ""Protected species observation during pile driving"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""data collection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"34",13,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"34",14,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that sightings of any injured or dead protected species (e.g., marine mammals, sea turtles, or sturgeon) are reported to the Lessor, NMFS, and NMFS Northeast Regional Stranding Hotline within 24 hours of sighting."",
+      ""scope"": ""All activities involving protected species during construction and operation phases."",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""marine biology"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must report any observed takes of listed marine mammals, sea turtles, or sturgeon resulting in injury or mortality within 24 hours to the Lessor and NMFS."",
+      ""scope"": ""All activities involving protected species during construction and operation phases."",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""marine biology"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must report any observations concerning any impacts on ESA-listed marine mammals, sea turtles, or sturgeon to the Lessor and NMFS’ Northeast Region Stranding Hotline within 48 hours."",
+      ""scope"": ""All activities involving protected species during construction and operation phases."",
+      ""numerical_value"": 48,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""marine biology"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Lessee must ensure that the results of acoustic monitoring of the first pile are submitted to the Lessor and NMFS within 24 hours of installation."",
+      ""scope"": ""Pile driving activities during construction phase."",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""construction monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Lessee must notify the Lessor and NMFS within 24 hours of receiving any acoustic monitoring results which indicate that any exclusion or monitoring zones do not cover the cumulative sound exposure distances for PTS during pile driving activities."",
+      ""scope"": ""Pile driving activities during construction phase."",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""construction monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Lessee must provide to the Lessor and NMFS a final technical report within 120 calendar days of completion of the pile driving and other construction activities."",
+      ""scope"": ""Final reporting after construction phase."",
+      ""numerical_value"": 120,
+      ""unit"": ""days"",
+      ""source"": null,
+      ""related_domains"": [""reporting"", ""construction monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Lessor"",
+      ""jurisdiction"": null,
+      ""role"": ""Contractual oversight""
+    }
+  ]
+}"
+"34",15,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"34",16,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must use only red flashing strobe-like lights be consistent with the Federal Aviation Administration requirements for meteorological towers."",
+      ""scope"": ""Meteorological tower lighting during construction and operation."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal Aviation Administration requirements"",
+      ""related_domains"": [""navigational safety"", ""avian protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Navigational safety lights for towers and buoys must be installed in compliance with the US Coast Guard (USCG) requirements."",
+      ""scope"": ""Towers and buoys lighting during construction and operation."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""US Coast Guard requirements"",
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must provide an annual report on November 1 of each year to the Lessor documenting any dead birds or bats found on vessels and structures during construction, operation, and decommissioning of the meteorological tower."",
+      ""scope"": ""Annual reporting during construction, operation, and decommissioning phases."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""avian protection"", ""bat protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Aviation Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body for aviation safety regulations.""
+    },
+    {
+      ""entity_name"": ""US Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency for navigational safety regulations.""
+    },
+    {
+      ""entity_name"": ""US Geological Survey Bird Band Laboratory"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight for bird and bat monitoring.""
+    }
+  ]
+}"
+"34",17,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"34",18,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Conditions for Cultural Resource Protection"",
+    ""document_number"": ""3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Lessee must not knowingly impact a potential archaeological resource without the Lessor’s prior approval."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Lands Act (30 CFR § 585.802(b))"",
+      ""related_domains"": [""cultural resource management"", ""archaeological preservation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""If while conducting site assessment activities, the Lessee discovers a potential archaeological resource, the Lessee must immediately halt seafloor/bottom-disturbing activities within the area of discovery."",
+      ""scope"": ""Area of discovery"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Lands Act (30 CFR § 585.802(b))"",
+      ""related_domains"": [""cultural resource management"", ""archaeological preservation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Lessee must notify the Lessor within 24 hours of discovery."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": ""Outer Continental Shelf Lands Act (30 CFR § 585.802(b))"",
+      ""related_domains"": [""cultural resource management"", ""archaeological preservation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Lessee must notify the Lessor in writing via report to BOEM within 72 hours of its discovery."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": 72,
+      ""unit"": ""hours"",
+      ""source"": ""Outer Continental Shelf Lands Act (30 CFR § 585.802(b))"",
+      ""related_domains"": [""cultural resource management"", ""archaeological preservation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Lessee must keep the location of the discovery confidential and take no action that may adversely affect the archaeological resource until the Lessor conducts an evaluation."",
+      ""scope"": ""Area of discovery"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Outer Continental Shelf Lands Act (30 CFR § 585.802(b))"",
+      ""related_domains"": [""cultural resource management"", ""archaeological preservation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""As part of the required annual self-inspection plan, the Lessee must conduct scour inspections of the base of the meteorological tower."",
+      ""scope"": ""Meteorological tower"",
+      ""numerical_value"": 12,
+      ""unit"": ""months"",
+      ""source"": ""30 CFR § 585.824"",
+      ""related_domains"": [""structural integrity"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"34",19,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must file an application (form CG-4143) with the commander of the USCG Fifth District to establish private aid to maritime navigation (PATON) for the meteorological tower."",
+      ""scope"": ""Meteorological tower, operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 CFR Part 67, Subpart 67.20 for Class A structures"",
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Lessee must submit to the Lessor within 90 days after installation of the facility a narrative report that contains a summary of the fabrication and deployment process."",
+      ""scope"": ""Installation phase"",
+      ""numerical_value"": 90,
+      ""unit"": ""days"",
+      ""source"": null,
+      ""related_domains"": [""fabrication process"", ""installation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Coast Guard (USCG) Fifth District"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority for maritime navigation aids""
+    }
+  ]
+}"
+"34",20,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""12"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Reporting Injured or Dead Protected Species"",
+      ""scope"": ""All reporting requirements related to protected species during site assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Fisheries Northeast Region"",
+      ""related_domains"": [""environmental impact assessment"", ""marine biology"", ""species protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Collected dead sea turtles and/or Atlantic Sturgeon must be reported via fax or email."",
+      ""scope"": ""Reporting of collected dead sea turtles and Atlantic Sturgeon"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Fisheries Northeast Region"",
+      ""related_domains"": [""environmental impact assessment"", ""marine biology"", ""species protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Fleet Forces (USFF) N46"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Site Assessment Plan approval authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight for renewable energy""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Protected species oversight and reporting""
+    }
+  ]
+}
+```"
+"34",21,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Required Data Elements for Protected Species Observer Reports"",
+    ""document_number"": ""Attachment 2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that the protected species observer record all observations of protected species using standard marine mammal observer data collection protocols."",
+      ""scope"": ""Visual surveys conducted by protected species observers during offshore operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine biology"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Photographs/Video should be taken of all injured or dead animals."",
+      ""scope"": ""Incident reporting for protected species injuries or mortalities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine biology"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"34",22,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"34",23,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"

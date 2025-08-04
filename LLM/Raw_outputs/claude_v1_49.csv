@@ -1,0 +1,233 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"49","claude","claude-3-haiku-20240307",635754,510940,70,67,False,"{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_id"": ""N/A"",
+    ""project_name"": ""Sunrise Wind Offshore Wind Project"",
+    ""project_location"": ""Offshore Rhode Island and Massachusetts, with a cable landing on Long Island, New York""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Up to 94 wind turbine generators within 102 potential locations"",
+      ""source_section_number"": ""2.0""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Converter Station"",
+      ""component_acronym"": ""OCS-DC"",
+      ""description"": ""One offshore converter station"",
+      ""source_section_number"": ""2.0""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Offshore Export Cables"",
+      ""component_acronym"": ""SRWEC"",
+      ""description"": ""Offshore export cable routes"",
+      ""source_section_number"": ""2.0""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Onshore Transmission Cable"",
+      ""description"": ""Onshore cable landfall sites and routes"",
+      ""source_section_number"": ""2.0""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Project Vessels"",
+      ""description"": ""Vessels used for construction, installation, and maintenance activities"",
+      ""source_section_number"": ""2.2.1.1""
+    },
+    {
+      ""component_id"": ""COMP-06"",
+      ""component_name"": ""Temporary Pile-Supported Trestle"",
+      ""description"": ""Temporary structure to support equipment and material transport from Long Island to Fire Island"",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-07"",
+      ""component_name"": ""Horizontal Directional Drilling"",
+      ""component_acronym"": ""HDD"",
+      ""description"": ""Trenchless installation method used for the onshore export cable landfall and Intracoastal Waterway crossing"",
+      ""source_section_number"": ""2.2.2""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 94 wind turbine generators will be installed within 102 potential positions"",
+      ""value"": 94,
+      ""unit"": ""turbines"",
+      ""source_section_number"": ""2.0"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""The proposed Project would allow Sunrise Wind to construct, operate, maintain, and eventually decommission a wind energy facility with an operating capacity ranging between 924 megawatts (MW) and 1,034 MW in scale. The Project would include up to 94 wind turbine generators (WTGs) at 102 potential locations, one Offshore Converter Station (OCS-DC), offshore export cable routes, onshore cable landfall sites, onshore cable routes, and onshore substation locations.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Wind turbine generators will have a maximum upper blade tip height of 787 feet (240 meters) above mean sea level"",
+      ""value"": 787,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.2.1"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""The WTGs would be sited in a uniform east-west/north-south grid with 1.15 by 1.15-mile (mi) (1 by 1-nautical mile [nm]; 1.85 by 1.85 kilometer [km]) spacing. Sunrise Wind would maintain diagonal lanes between 0.7 and 0.9 mi (0.6 to 0.8 nm; 1.1 and 1.5 km) wide when micrositing foundations. Sunrise Wind would mount the WTGs on monopile foundations. The WTG foundations as proposed in the COP would be 39 ft (12 m) in diameter at the seabed and 23 ft (7 m) in diameter at the sea surface (Sunrise Wind 2022). The upper blade tip height of the WTGs would be 787 ft (240 m) above mean sea level (AMSL).""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The offshore converter station (OCS-DC) will be placed on a four-legged piled jacket foundation"",
+      ""source_section_number"": ""2.2.1"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""The OCS-DC would be placed on an up to four-legged piled jacket foundation. A piled jacket foundation is formed of a steel lattice construction (comprising tubular steel members and welded joints) secured to the seafloor by means of hollow steel pin piles attached to the jacket.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The offshore export cable (SRWEC) will consist of one 320-kilovolt (kV) DC cable bundle buried to a target depth of 3 to 7 feet (1 to 2 meters)"",
+      ""value"": [3, 7],
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Offshore export cable route"",
+      ""context_quote"": ""The SRWEC would be located in federal and New York state waters and would be one 320-kilovolt (kV) DC export cable bundle buried to a target depth of 3 to 7 feet (ft) (1 to 2 meters [m]).""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The onshore transmission cable will be buried underground for up to 339 feet (4,080 meters)"",
+      ""value"": 339,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Onshore transmission cable route"",
+      ""context_quote"": ""The onshore portion of the SRWEC, up to 339 ft (4,080 m) would be buried underground.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-06"",
+      ""category"": ""Design Specification"",
+      ""description"": ""A temporary pile-supported pier will be constructed on the inshore side of Fire Island, extending approximately 240 feet (73 meters) offshore and 16 feet (4.9 meters) wide"",
+      ""value"": [240, 16],
+      ""unit"": [""feet"", ""feet""],
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Temporary pier location on Fire Island"",
+      ""context_quote"": ""To allow for the transportation of equipment and materials from Long Island to the construction site on Fire Island, a temporary pile-supported pier would be constructed on the inshore side of Fire Island. The pier would extend approximately 240 feet (73 m) offshore and be approximately 16-feet (4.9-m) wide.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-06"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The temporary pier will use up to 24 production piles and up to 24 temporary piles, either 14 x 14-inch (36.5 x 36.5 cm) H-shaped or 16-inch (40.6-cm) diameter round steel piles"",
+      ""value"": [24, 24],
+      ""unit"": [""piles"", ""piles""],
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Temporary pier location on Fire Island"",
+      ""context_quote"": ""The precise pier design and type of piles have not yet been determined, but it is anticipated that up to 24 production piles would be used. Production piles would be either a 14 x 14-inch (36.5 x 36.5 cm) H-shaped pile or a 16-inch (40.6-cm) diameter round steel pile. In addition, up to 24 temporary piles (of the same size as the production piles) may be used to support the installation of the production piles and may be installed and removed during construction activities.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-07"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to two horizontal directional drill (HDD) cables will be installed at the landfall site, each with a maximum length of 0.9 miles (1.5 kilometers) and a diameter of 3 feet (0.9 meters)"",
+      ""value"": [0.9, 3],
+      ""unit"": [""miles"", ""feet""],
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Landfall site at Smith Point County Park"",
+      ""context_quote"": ""There would be a total of 6 HDD cable ducts with a target burial depth of 5 to 75 ft (1.5 to 25 m). The ducts would have a maximum length of 0.9 mi (1.5 km) and a diameter of 3 ft (0.9 m).""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-07"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to six goal posts made of two vertical sheet piles and a horizontal cross beam may be installed to support the HDD casing pipes"",
+      ""value"": 6,
+      ""unit"": ""goal posts"",
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Landfall site at Smith Point County Park"",
+      ""context_quote"": ""Up to six goal posts may be installed to support installation of the casing pipe. Each goal post would be composed of two vertical sheet piles and a horizontal cross beam.""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-07"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 20 additional support sheet piles may be installed to help anchor the barge and support HDD construction activities"",
+      ""value"": 20,
+      ""unit"": ""sheet piles"",
+      ""source_section_number"": ""2.2"",
+      ""geographic_scope"": ""Landfall site at Smith Point County Park"",
+      ""context_quote"": ""In addition to the goal posts, up to 20 additional support sheet piles 100 feet (30 m) long, 2 feet (0.6 m) wide, and 1 inch thick may be installed to help anchor the barge and support construction activities.""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""A maximum of 33 vessels would be operating simultaneously during cable installation activities"",
+      ""value"": 33,
+      ""unit"": ""vessels"",
+      ""source_section_number"": ""2.2.2.1"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF) and export cable routes"",
+      ""context_quote"": ""During installation of array and SRWEC cable, Sunrise Wind anticipates a maximum of 33 vessels required for IAC installation and 38 vessels for the installation of the SRWEC.""
+    },
+    {
+      ""constraint_id"": ""C-012"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""A maximum of 13 wind turbine vessels would be deployed simultaneously during WTG foundation installation"",
+      ""value"": 13,
+      ""unit"": ""vessels"",
+      ""source_section_number"": ""2.2.1.1"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""During installation of the 94 WTG and the OCS-DC and associated foundations, 13 wind turbine vessels would be deployed simultaneously during foundation installation and 6 wind turbine vessels would be deployed simultaneously during structure installation.""
+    },
+    {
+      ""constraint_id"": ""C-013"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""A maximum of 6 wind turbine vessels would be deployed simultaneously during WTG structure installation"",
+      ""value"": 6,
+      ""unit"": ""vessels"",
+      ""source_section_number"": ""2.2.1.1"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""During installation of the 94 WTG and the OCS-DC and associated foundations, 13 wind turbine vessels would be deployed simultaneously during foundation installation and 6 wind turbine vessels would be deployed simultaneously during structure installation.""
+    },
+    {
+      ""constraint_id"": ""C-014"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""A maximum of 15 vessels would be used for OCS-DC installation"",
+      ""value"": 15,
+      ""unit"": ""vessels"",
+      ""source_section_number"": ""2.2.1.1"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""It is anticipated that 15 vessels would be required for OCS-DC installation.""
+    },
+    {
+      ""constraint_id"": ""C-015"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Pile driving for WTG monopile foundations will use a maximum hammer energy of 4,000 kilojoules"",
+      ""value"": 4000,
+      ""unit"": ""kilojoules"",
+      ""source_section_number"": ""2.2.1.2"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""Monopile foundations for WTGs will be up to 7/12 m in diameter and installed using an impact pile driver with a maximum hammer energy of up to 4,000 kilojoules (kJ).""
+    },
+    {
+      ""constraint_id"": ""C-016"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The OCS-DC jacket foundation will use pin piles up to 13 feet (4 meters) in diameter, installed using a maximum 4,000 kilojoule hammer"",
+      ""value"": [13, 4000],
+      ""unit"": [""feet"", ""kilojoules""],
+      ""source_section_number"": ""2.2.1.2"",
+      ""geographic_scope"": ""Sunrise Wind Farm (SRWF)"",
+      ""context_quote"": ""The pin piles used to secure the OCS–DC piled jacket foundation will be up to 13 ft (4 m) in diameter and installed using an impact pile driver with a maximum hammer energy of up to 4,000 kJ.""
+    },
+    {
+      ""constraint_id"": ""C-"

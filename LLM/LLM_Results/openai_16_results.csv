@@ -1,0 +1,2994 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"16",1,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Information Guidelines for a Renewable Energy Construction and Operations Plan (COP)"",
+    ""document_number"": ""Version 4.0"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",2,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Guidance on the information requirements for a Construction and Operations Plan (COP)"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A COP must be submitted six months prior to the completion of your site assessment term."",
+      ""scope"": ""Outer Continental Shelf (OCS) renewable energy activities"",
+      ""numerical_value"": 6,
+      ""unit"": ""months"",
+      ""source"": ""30 CFR 585.601"",
+      ""related_domains"": [""permitting"", ""project timeline""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""You must also take measures to prevent the unauthorized discharge of pollutants including marine trash and debris into the offshore environment."",
+      ""scope"": ""Offshore environment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.105"",
+      ""related_domains"": [""environmental protection"", ""pollution control""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A COP must demonstrate that the project is being conducted in a manner that conforms to responsible offshore development."",
+      ""scope"": ""Offshore development projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.621"",
+      ""related_domains"": [""project management"", ""best management practices""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Outer Continental Shelf (OCS) - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",3,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",4,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The information that must be submitted in a COP is specified in 30 CFR 585.626 (a) and (b)."",
+      ""scope"": ""Submission of a COP"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626"",
+      ""related_domains"": [""permitting"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Detailed information and certifications (as specified under 30 CFR 585.627) must be submitted to assist BOEM in complying with its NEPA obligations and other relevant laws."",
+      ""scope"": ""Submission of detailed information and certifications"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627"",
+      ""related_domains"": [""environmental assessment"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM will conduct a completeness review after the COP submittal to ensure that the required elements of your submittal are present."",
+      ""scope"": ""Completeness review of COP"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM review process"",
+      ""related_domains"": [""permitting"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM will protect privileged or confidential information, as described in 30 CFR 585.114."",
+      ""scope"": ""Protection of privileged or confidential information"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.114"",
+      ""related_domains"": [""information confidentiality"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The National Historic Preservation Act requires BOEM to withhold from public disclosure the location, character, or ownership of historic resources if the agency determines that the disclosure may risk harm to the historic resources."",
+      ""scope"": ""Protection of historic resources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Historic Preservation Act"",
+      ""related_domains"": [""cultural resource management"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"16",5,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP)"",
+    ""document_number"": ""Section E"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""You are required to provide BOEM with one paper copy and one electronic version of your COP and all supporting materials."",
+      ""scope"": ""Submission of Construction and Operations Plan (COP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.622"",
+      ""related_domains"": [""regulatory compliance"", ""permitting""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Prepare a submittal that either: (1) Contains a version stamped 'public copy' without proprietary information and an agency version stamped 'proprietary information'; or (2) Consists of a public copy with all proprietary information in an appendix that can be removed before the COP is made public."",
+      ""scope"": ""Handling of proprietary information in COP submissions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.622"",
+      ""related_domains"": [""information management"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM may request additional hardcopies if affected states require them for their Coastal Zone Management Act (CZMA) consistency review or concurrence."",
+      ""scope"": ""Submission of additional hardcopies for CZMA review"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.622"",
+      ""related_domains"": [""coastal management"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",6,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Contents of a Construction and Operations Plan (COP)"",
+    ""document_number"": ""6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The COP must include a description of all planned facilities, including onshore and support facilities, as well as anticipated project easement needs for the project."",
+      ""scope"": ""All planned facilities related to the project under a commercial lease."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626"",
+      ""related_domains"": [""project planning"", ""facility construction"", ""easement requirements""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If you plan to construct your project in phases, it should be clearly documented in your COP."",
+      ""scope"": ""Phased construction of the project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.238"",
+      ""related_domains"": [""project planning"", ""construction phases""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A COP survey plan should provide a general description of the environmental and physical condition of the lease area and the timeline of the surveys to be conducted on your lease."",
+      ""scope"": ""Lease area surveys."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 621, 626, and 627"",
+      ""related_domains"": [""environmental assessment"", ""survey planning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight and permitting authority for offshore energy projects.""
+    }
+  ]
+}"
+"16",7,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",8,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Your COP will be reviewed by BOEM to determine: (1) whether it contains all of the required categories of information necessary to have it considered complete, and (2) whether the information provided is of sufficient quality and quantity to conduct technical and environmental reviews."",
+      ""scope"": ""COP submission and review process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.628"",
+      ""related_domains"": [""environmental impact assessment"", ""technical review"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""To facilitate BOEM’s review of your Phase 1 project proposal, your initial COP submission should include all of the information necessary for BOEM to conduct thorough environmental and technical reviews of your Phase 1 project proposal."",
+      ""scope"": ""Initial COP submission for Phase 1 project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626 and 627"",
+      ""related_domains"": [""environmental impact assessment"", ""technical review"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Pursuant to 30 CFR 585.238, a leaseholder or an applicant may include in its COP a request to develop its commercial lease in phases."",
+      ""scope"": ""Phased development of commercial lease"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.238"",
+      ""related_domains"": [""project development"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority and environmental oversight""
+    }
+  ]
+}
+```"
+"16",9,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",10,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""You must submit the results and supporting data from survey investigations performed in support of the construction and operations activities you plan to conduct on your commercial lease."",
+      ""scope"": ""Commercial lease area, construction and operations phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(a)"",
+      ""related_domains"": [""environmental impact assessment"", ""site characterization"", ""data accuracy""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Your COP should describe resources, conditions, and activities that may be affected by your proposed activities."",
+      ""scope"": ""Commercial lease area, construction and operations phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(a)"",
+      ""related_domains"": [""environmental impact assessment"", ""site characterization""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""You may need to submit a revision to your COP for BOEM’s review and approval, per 30 CFR 585.634."",
+      ""scope"": ""Commercial lease area, subsequent phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.634"",
+      ""related_domains"": [""project development"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",11,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",12,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.626"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Your shallow hazards survey results and supporting data should provide information sufficient to determine the presence of surface and shallow subsurface geological features and conditions and their likely effects on your proposed construction, operations, and facilities."",
+      ""scope"": ""Proposed construction, operations, and facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(a)(1)"",
+      ""related_domains"": [""geological assessment"", ""construction planning"", ""operational safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Your geophysical survey data should include an integrated interpretation of shallow subsurface conditions based on a shallow hazards survey."",
+      ""scope"": ""Design and siting of your facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(a)(2)"",
+      ""related_domains"": [""geophysical assessment"", ""facility design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",13,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",14,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The biological survey results should report the presence/absence and distribution of biologically sensitive resources in the vicinity of your proposed activities and structures."",
+      ""scope"": ""Biologically sensitive resources in the vicinity of proposed offshore activities and structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s survey guidelines"",
+      ""related_domains"": [""environmental impact assessment"", ""marine biology""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Investigate the stratigraphic and geoengineering properties of the bottom sediment that may affect the foundations or anchoring systems of any structure permanently or temporarily attached to the seabed."",
+      ""scope"": ""Foundations or anchoring systems of offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""geotechnical engineering"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The recommended boring depth to be considered a 'deep boring' is at least 10 meters deeper than the design penetration of the foundation piles."",
+      ""scope"": ""Deep soil borings for offshore foundation design."",
+      ""numerical_value"": 10,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""geotechnical engineering"", ""foundation design""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Your historic property identification results, supporting data, and report should identify and describe any historic properties that may be potentially affected by your proposed activities, as defined by the NHPA (16 U.S.C 470 et. Seq)."",
+      ""scope"": ""Historic properties potentially affected by offshore activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NHPA (16 U.S.C 470 et. Seq)"",
+      ""related_domains"": [""cultural heritage"", ""archaeology""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",15,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",16,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""BOEM must receive the report in complete form; therefore, any changes to a lessee’s plan(s) that may occur after submittal of a report to BOEM... should be incorporated into a revised report."",
+      ""scope"": ""Report submission and revisions related to project plans."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM Guidelines for Providing Archaeological and Historic Property Information Pursuant to 30 CFR Part 585."",
+      ""related_domains"": [""archaeological resources"", ""environmental compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""You must prepare an overall site investigation report for your facility that integrates the findings of the shallow hazard, geological, and geotechnical surveys for a proposed project in accordance with 30 CFR 585.626(a)(6)."",
+      ""scope"": ""Overall site investigation report for the facility."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(a)(6)"",
+      ""related_domains"": [""geotechnical engineering"", ""site investigation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The report should include documentation of all investigations, surveys, in-situ and laboratory testing."",
+      ""scope"": ""Site investigation report."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""geotechnical engineering"", ""site investigation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""An analysis of the potential for: Scouring of the seabed; Hydraulic instability; The occurrence of sand waves; Instability of slopes at the facility location; Liquefaction or possible reduction of sediment strength due to increased pore pressures; Degradation of subsea permafrost layers; Cyclic loading; Lateral loading; Dynamic loading; Settlements and displacements; Plastic deformation and formation collapse mechanisms; and Sediment reactions on the facility foundations or anchoring systems."",
+      ""scope"": ""Site investigation report."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""geotechnical engineering"", ""site stability"", ""foundation design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Geotechnical recommendations and design criteria for facility foundations and anchoring systems."",
+      ""scope"": ""Facility foundations and anchoring systems."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""foundation design"", ""geotechnical engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Recommendations for mitigating geologic hazards."",
+      ""scope"": ""Geologic hazards related to the facility."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""geotechnical engineering"", ""hazard mitigation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and regulatory authority for offshore energy projects.""
+    }
+  ]
+}"
+"16",17,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.626(b)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A complete and detailed project description is the foundation for understanding the impacts your project will have and how it will interact with the environment."",
+      ""scope"": ""Project description for construction and operations activities under COP"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(b)"",
+      ""related_domains"": [""environmental impact assessment"", ""project planning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"16",18,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""12"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Designate an operator, if applicable, as required by 30 CFR 585.405."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.405"",
+      ""related_domains"": [""operational management"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"16",19,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""(b)(4), (b)(5), (b)(6)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The location plat must include the surface location and water depth for all proposed and existing structures, facilities, and appurtenances located both offshore and onshore, including all anchoring/mooring data."",
+      ""scope"": ""Offshore and onshore structures, facilities, and appurtenances"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(b)(5)"",
+      ""related_domains"": [""structural integrity"", ""marine spatial planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Describe each type of structure or facility proposed for installation with your project, using tables, if appropriate."",
+      ""scope"": ""Proposed structures and facilities for installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.629"",
+      ""related_domains"": [""project design"", ""construction standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",20,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",21,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""(b)(7)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Describe the location, design, and installation methods. Provide information on depths, testing, maintenance, repair, safety devices, exterior corrosion protection, inspection schedules, and decommissioning of all cables and transmission power lines, including those of project easements."",
+      ""scope"": ""Cables and power lines on project easements"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""safety standards"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Describe the safety and environmental protection features or measures that will be used."",
+      ""scope"": ""Deployment activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety management"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Report any National Pollutant Discharge Elimination System (NPDES) permit you expect to receive for your activities."",
+      ""scope"": ""Waste management during activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""waste management"", ""environmental compliance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",22,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",23,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""(b)(10) and (b)(11)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Provide a list of chemical products used (if stored volume exceeds United States Environmental Protection Agency (EPA) Reportable Quantities); the volume stored on location; their treatment, discharge, or disposal method and location; and any other necessary permit(s) pertaining to these chemical products."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""United States Environmental Protection Agency (EPA)"",
+      ""related_domains"": [""chemical management"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide an estimate of the frequency and duration of any vessels/vehicles/aircraft traffic you anticipate for your construction and operation of your project."",
+      ""scope"": ""Construction and operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine traffic management"", ""construction logistics""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"16",24,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",25,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""(b)(12) - (b)(15)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe the measures you will take to avoid, minimize, reduce, eliminate, and/or mitigate environmental impacts."",
+      ""scope"": ""All phases of construction and operation activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.633 (b) (2)"",
+      ""related_domains"": [""environmental impact assessment"", ""mitigation measures""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Identify all federal, state, and local application approvals or permits you will have to obtain to conduct your proposed construction and operation activities."",
+      ""scope"": ""Construction and operation activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 285.906-910"",
+      ""related_domains"": [""permitting"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""United States Fish and Wildlife Service (FWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration’s National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Federal Aviation Administration (FAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",26,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",27,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""(b)(16) and (b)(17)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""You should contact the USCG to discuss and clarify its expectation for the Navigational Safety Risk Assessment (NSRA) which you should prepare to satisfy the information requirements of 30 CFR 585.627(a)(8)."",
+      ""scope"": ""Navigational Safety Risk Assessment for offshore renewable energy installations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(8)"",
+      ""related_domains"": [""navigational safety"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""You should include information about any consultations you have had with the USCG in this section of the COP."",
+      ""scope"": ""Consultation requirements for offshore renewable energy installations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""consultation"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""You should contact the FAA to discuss any issues arising from your project that relate to airspace restrictions, lighting requirements, use patterns, and/or potential radar interference."",
+      ""scope"": ""Airspace and lighting requirements for offshore renewable energy installations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FAA Advisory Circular 70: Obstruction Marking and Lighting (FAA AC 70/7460-1K)"",
+      ""related_domains"": [""airspace management"", ""safety"", ""lighting requirements""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Review and advise on Navigational Safety Risk Assessment and mitigation measures""
+    },
+    {
+      ""entity_name"": ""Federal Aviation Administration (FAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Review airspace restrictions and lighting requirements related to offshore renewable energy installations""
+    }
+  ]
+}
+```"
+"16",28,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",29,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""(b)(18) - (b)(22)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Provide statements attesting to the fact that the activities and facilities as proposed in the COP are or will be covered by an appropriate bond or other approved security, as required by 30 CFR 585.515 and 30 CFR 585.516."",
+      ""scope"": ""Activities and facilities proposed in the COP."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.515 and 30 CFR 585.516"",
+      ""related_domains"": [""financial assurance"", ""environmental compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Report a reasonable schedule for all construction phases of your project that considers all relevant project factors such as vessel availability and delivery dates of equipment."",
+      ""scope"": ""Construction phases of the project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""project management"", ""construction scheduling""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""BOEM regulates air quality for OCS facilities in the areas of the Gulf of Mexico west of 87°30’W longitude and offshore of the North Slope Borough of Alaska; the U.S. Environmental Protection Agency (USEPA) has air quality jurisdiction everywhere else on the OCS."",
+      ""scope"": ""OCS facilities in specified geographic areas."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM, U.S. Environmental Protection Agency"",
+      ""related_domains"": [""air quality"", ""environmental regulation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service Office of Protected Species"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""U.S. Environmental Protection Agency (USEPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"16",30,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""18"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""You should provide a copy of the analysis that you prepare for the EPA, or other agency delegated by EPA for enforcement of the Clean Air Act, to BOEM subsequent to submittal to EPA."",
+      ""scope"": ""Renewable energy COP submissions to BOEM."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR § 585.700"",
+      ""related_domains"": [""air quality management"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The digital files should contain the formatted meteorological files used in modeling runs, along with the emission estimates and control measures that apply."",
+      ""scope"": ""Modeling runs for air emissions information."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""emission control"", ""meteorological analysis""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM may request additional data or information in order to assist BOEM in evaluating your COP."",
+      ""scope"": ""Project-specific and site-specific needs."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""regulatory compliance"", ""project evaluation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency for the Clean Air Act""
+    }
+  ]
+}
+```"
+"16",31,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Required Information to Accompany the COP"",
+    ""document_number"": ""1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""You must submit with your COP detailed information that describes resources, conditions, and activities that could be affected by your proposed project."",
+      ""scope"": ""Construction and operations activities on a commercial lease"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)"",
+      ""related_domains"": [""environmental impact assessment"", ""resource management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""You are required to submit an OSRP to Bureau of Safety and Environmental Enforcement (BSEE), in accordance with 30 CFR part 254."",
+      ""scope"": ""Oil spill response for offshore activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(c)"",
+      ""related_domains"": [""oil spill management"", ""environmental safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+"16",32,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Safety Management System (SMS)"",
+    ""document_number"": ""3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""You must submit your SMS to Bureau of Safety and Environmental Enforcement (BSEE), in accordance with section 285.810."",
+      ""scope"": ""All aspects of the project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(d)"",
+      ""related_domains"": [""safety management"", ""emergency response"", ""personnel training""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Your SMS must be fully functional when you begin activities described in your approved COP, in accordance with 30 CFR 285.811."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 285.811"",
+      ""related_domains"": [""safety management"", ""operational readiness""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""You must notify BOEM in writing before conducting any activities not described in detail in your approved COP."",
+      ""scope"": ""Activities not described in approved COP"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.634"",
+      ""related_domains"": [""permitting"", ""project modifications""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"16",33,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""21"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Submit one paper copy and one electronic version of the COP to the addressees indicated below."",
+      ""scope"": ""Project Location by State (Offshore)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.634"",
+      ""related_domains"": [""permitting"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+"16",34,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Bureau of Safety and Environmental Enforcement Electronic Submittals"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Oil Spill Response Plan"",
+      ""scope"": ""All offshore renewable energy operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""environmental impact assessment"", ""safety management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Safety Management System (Atlantic Coastal States, Pacific Coastal States and Hawaii)"",
+      ""scope"": ""All offshore renewable energy operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Safety and Environmental Enforcement"",
+      ""related_domains"": [""safety management"", ""operational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"16",35,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Reorganization of Title 30—Renewable Energy and Alternate Uses of Existing Facilities on the Outer Continental Shelf"",
+    ""document_number"": ""22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight for safety and environmental compliance in offshore energy projects""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority for renewable energy projects on the Outer Continental Shelf""
+    }
+  ]
+}
+```"
+"16",36,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""If you are issued a plan, permit, or other authorization from BOEM with a condition of approval or a lease with a stipulation requiring compliance with this guidance document or identified portions thereof, you must implement those portions or all aspects of this guidance document."",
+      ""scope"": ""Conditions of approval or lease stipulations from BOEM"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM guidance document"",
+      ""related_domains"": [""permitting"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The recommendation and guidance provisions may be made mandatory through a lease stipulation or condition of approval from BOEM."",
+      ""scope"": ""Lease stipulations or conditions of approval from BOEM"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM guidance document"",
+      ""related_domains"": [""permitting"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"16",37,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Establishment of an OCS Alternative Energy and Alternate Use Program, Record of Decision"",
+    ""document_number"": ""Dec. 2007"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A COP must demonstrate that the project is being conducted in a manner that conforms to responsible offshore development, to include the use of BMPs, in accordance with 30 CFR 585.621."",
+      ""scope"": ""Offshore development projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.621"",
+      ""related_domains"": [""environmental impact assessment"", ""offshore development"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"16",38,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Establishment of an OCS Alternative Energy and Alternate Use Program"",
+    ""document_number"": ""Record of Decision, attachment B (2007)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",39,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should avoid locating facilities near known sensitive seafloor habitats, such as coral reefs, hard-bottom areas, and chemosynthetic communities."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should avoid anchoring on sensitive seafloor habitats."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine habitat protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Lessees and grantees should employ appropriate shielding for underwater cables to control the intensity of electromagnetic fields."",
+      ""scope"": ""Underwater cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""electromagnetic field management"", ""cable installation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Lessees and grantees should reduce scouring action by ocean currents around foundations and to seafloor topography by taking all reasonable measures and should employ periodic routine inspections to ensure structural integrity."",
+      ""scope"": ""Foundations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""marine engineering""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should avoid the use of explosives when feasible to minimize impacts to fish and other benthic organisms."",
+      ""scope"": ""Construction activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine life protection"", ""construction impact""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should take all reasonable actions to minimize seabed disturbance and sediment dispersion during cable installation."",
+      ""scope"": ""Cable installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""sediment management"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should evaluate marine mammal use of the proposed project area and should design the project to minimize and mitigate the potential for mortality or disturbance."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels related to project planning, construction, and operation should travel at reduced speeds when assemblages of cetaceans are observed."",
+      ""scope"": ""Vessel operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine safety"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Lessees and grantees should minimize potential vessel impacts to marine mammals and turtles by having project-related vessels follow the NMFS Regional Viewing Guidelines while in transit."",
+      ""scope"": ""Vessel operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine safety"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should take efforts to minimize disruption and disturbance to marine life from sound emissions, such as pile driving, during construction activities."",
+      ""scope"": ""Construction activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise management"", ""marine life protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should avoid and minimize impacts to marine species and habitats in the project area by posting a qualified observer on site during construction activities."",
+      ""scope"": ""Construction activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine species protection"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",40,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",41,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should conduct pre-siting surveys (may use existing data) to identify important, sensitive, and unique marine habitats in the vicinity of the projects; they should then design the project to avoid, minimize, or otherwise mitigate adverse impacts to these habitats."",
+      ""scope"": ""Project vicinity"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine habitat protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should minimize construction activities in areas containing anadromous fish during migration periods."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""fish migration"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should minimize seafloor disturbance during construction and installation of the facility and associated infrastructure."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""seafloor integrity"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should minimize potential vessel impacts to marine mammals and sea turtles by having project-related vessels follow the NMFS Regional Viewing Guidelines while in transit."",
+      ""scope"": ""Vessel transit"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Regional Viewing Guidelines"",
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Operators should undergo training on applicable vessel guidelines."",
+      ""scope"": ""Vessel operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine safety"", ""training requirements""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should take efforts to minimize disruption and disturbance to marine life from sound emissions, such as pile driving, during construction activities."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise pollution"", ""marine life protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should locate cable landfalls and onshore facilities so as to avoid impacts to known nesting beaches."",
+      ""scope"": ""Cable landfalls and onshore facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""nesting beach protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The lessee should evaluate avian use in the project area and should design the project to minimize or mitigate the potential for bird strikes and habitat loss."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should take measures to reduce perching opportunities."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""avian protection"", ""habitat management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Lessees and grantees must comply with Federal Aviation Administration (FAA) and USCG requirements for lighting in accordance with BOEM’s 'Guidelines for Providing Information on Lighting and Marking of Structures Supporting Renewable Energy Development,' dated April 2021."",
+      ""scope"": ""Lighting of structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s Guidelines for Providing Information on Lighting and Marking of Structures Supporting Renewable Energy Development"",
+      ""related_domains"": [""aviation safety"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should plan site characterization surveys by using the lowest sound levels necessary to obtain the information needed."",
+      ""scope"": ""Site characterization surveys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic environment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",42,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",43,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should avoid hard-bottom habitats, including seagrass communities and kelp beds, where practicable, and should restore any damage to these communities."",
+      ""scope"": ""Construction and operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""habitat protection"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should implement turbidity reduction measures to minimize effects to hard-bottom habitats, including seagrass communities and kelp beds, from construction activities."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""water quality"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should minimize impacts to wetlands by maintaining buffers around wetlands, implementing BMPs from erosion and sediment control, and maintaining natural surface drainage patterns."",
+      ""scope"": ""Construction and operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""wetland protection"", ""erosion control""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Lessees and grantees should use submarine cables that have proper electrical shielding and bury the cables in the seafloor, when practicable."",
+      ""scope"": ""Construction and operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""electromagnetic fields"", ""cable installation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",44,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",45,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Lessees and grantees should meet FAA guidelines for sighting and lighting of facilities."",
+      ""scope"": ""Alternative energy facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FAA guidelines"",
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Lessees and grantees should place proper lighting and signage on applicable alternative energy structures to aid navigation per USCG circular NVIC 07-02 (USCG 2007) and must comply with any applicable USCG requirements."",
+      ""scope"": ""Alternative energy structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG circular NVIC 07-02 (USCG 2007)"",
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Lessees and grantees should conduct all necessary studies of potential interference of proposed wind turbine generators with commercial air traffic control radar systems, national defense radar systems, and weather radar systems; they also should identify possible solutions."",
+      ""scope"": ""Proposed wind turbine generators"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""aviation safety"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Visual"",
+      ""requirement"": ""Lessees and grantees must comply with FAA and USCG requirements for lighting in accordance with BOEM’s 'Guidelines for Providing Information on Lighting and Marking of Structures Supporting Renewable Energy Development,' dated April 2021."",
+      ""scope"": ""Wind energy facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s Guidelines for Providing Information on Lighting and Marking of Structures Supporting Renewable Energy Development"",
+      ""related_domains"": [""visual impact assessment"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Lessees and grantees should prepare waste management plans, hazardous material plans, and oil spill prevention plans, as appropriate, for the facility."",
+      ""scope"": ""Wind energy facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental management"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Aviation Administration (FAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""United States Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",46,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Elements of the Project Description"",
+    ""document_number"": ""28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The COP should provide a detailed description of the devices, systems, and each specific activity or class of activities that may cause environmental impacts from construction, operation, and decommissioning."",
+      ""scope"": ""Project Description"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626"",
+      ""related_domains"": [""environmental impact assessment"", ""construction"", ""operation"", ""decommissioning""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",47,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"16",48,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards & Environmental Loading for Offshore Wind Energy"",
+    ""document_number"": ""Attachment C"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""BOEM will accept a 'design-basis' approach whereby the applicant proposes which criteria and standards to apply, and then justifies why each particular criterion and standard is appropriate."",
+      ""scope"": ""Offshore wind energy installations in the United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(b)(6)"",
+      ""related_domains"": [""structural integrity"", ""design standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The International Electrotechnical Commission (IEC) standard 61400-3, 'Wind turbines – Part 3: Design Requirements for Offshore Wind Turbines,' is the recognized standard for development of the minimum design load cases."",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""design requirements"", ""load cases""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The designer should make sure the latest versions of the guidelines and standards are being used."",
+      ""scope"": ""Structural design of offshore wind facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""General guideline"",
+      ""related_domains"": [""design standards"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Petroleum Institute (API)"",
+      ""jurisdiction"": ""National - USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""Det Norske Veritas (DNV)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Bureau of Shipping (ABS)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"16",49,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",50,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""DNV – Offshore Substations for Wind Farms (DNV-OS-J201)"",
+    ""document_number"": ""IV/2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Rotor-Nacelle Assembly (RNA) installed on the Offshore Wind Turbine (OWT) should have a type certificate in accordance with IEC 61400-22 or other recognized standards."",
+      ""scope"": ""Offshore Wind Turbine components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-22"",
+      ""related_domains"": [""certification"", ""technical standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Commercial facilities should have a minimum design life equal to or greater than 20 years (plus allowance for construction, transportation and decommissioning), in accordance with IEC 61400-3, § 6.2."",
+      ""scope"": ""Commercial offshore wind facilities"",
+      ""numerical_value"": 20,
+      ""unit"": ""years"",
+      ""source"": ""IEC 61400-3, § 6.2"",
+      ""related_domains"": [""design life"", ""construction"", ""decommissioning""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Safety Class for all fixed renewable energy facilities should be in accordance with AWEA OCRP 2012, §5.5 Exposure Categories."",
+      ""scope"": ""Fixed renewable energy facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""AWEA OCRP 2012, §5.5"",
+      ""related_domains"": [""safety classification"", ""exposure categories""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Project design basis should include an accurate characterization of site-specific hazards such as hurricanes, ice loading, seismic activity, extreme met-ocean conditions, probability of impacts from floating vessels/objects, etc., as stipulated in IEC 61400-3, §5.2."",
+      ""scope"": ""Project design basis"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3, §5.2"",
+      ""related_domains"": [""environmental hazards"", ""site assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Special attention should be given to the accurate characterization of the hazards of tropical and extra-tropical cyclone effects, including the combined effect of wind, waves, and ocean currents."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""AWEA OCRP 2012, §5.9"",
+      ""related_domains"": [""environmental hazards"", ""cyclone effects""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Each offshore wind turbine should be designed for omnidirectional load conditions (with anticipated extreme yaw misalignment)."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""GL-Technical Note, Certification of Wind Turbines for Tropical Cyclone Conditions, §2.3.5.3"",
+      ""related_domains"": [""design standards"", ""load conditions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Foundation design should take into account long-term cyclic loading effects over the design life of the structure, including excessive rotation or deflection and degradation of soil stiffness."",
+      ""scope"": ""Foundation design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""foundation design"", ""cyclic loading""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""DNV"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""Germanischer Lloyd (GL)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Certification authority""
+    },
+    {
+      ""entity_name"": ""American Wind Energy Association (AWEA)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"16",51,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All structures should have adequate protection against corrosion to ensure sufficient strength is maintained over the design life of the structure, as stipulated in IEC 61400-3, Annex H."",
+      ""scope"": ""All offshore structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3, Annex H"",
+      ""related_domains"": [""structural integrity"", ""corrosion protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All offshore structures above the water surface should have lightning and fire protection, as stipulated in IEC 61400-24."",
+      ""scope"": ""Offshore structures above the water surface"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-24"",
+      ""related_domains"": [""safety"", ""fire protection"", ""lightning protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+"16",52,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy Technology Research Studies"",
+    ""document_number"": ""33"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Design Standards to Ensure Structural Safety/Reliability/Survivability of Offshore Wind Farms on the OCS"",
+      ""scope"": ""Offshore Wind Farms on the OCS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mitigation of Underwater Pile-Driving Noise During Offshore Construction"",
+      ""scope"": ""Offshore Construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""noise pollution""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",53,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Seabed Scour Considerations"",
+    ""document_number"": ""656"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Acceptable Burial Depths and Separation Distances"",
+      ""scope"": ""Offshore Electric Cable Burial for Wind Farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Standards and Guidance"",
+      ""related_domains"": [""cable installation"", ""marine engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design Guidelines for Station-Keeping Systems of Floating Wind Turbines"",
+      ""scope"": ""Floating Offshore Wind Turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Design Guidelines"",
+      ""related_domains"": [""structural integrity"", ""marine operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Regulating Worker Safety in Renewable Energy Operations on the OCS"",
+      ""scope"": ""U.S. Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulatory Framework"",
+      ""related_domains"": [""worker safety"", ""renewable energy operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""American Bureau of Shipping"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"16",54,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Environmental Loading"",
+    ""document_number"": ""II"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""You are strongly encouraged to meet with BOEM and discuss your approach for determining the appropriate worst-case met-ocean conditions prior to carrying out your site-specific met-ocean analysis."",
+      ""scope"": ""Offshore site-specific met-ocean analysis"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""met-ocean analysis"", ""design standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The API RP-2-MET standard provides met-ocean values for some regions of the OCS."",
+      ""scope"": ""Outer Continental Shelf (OCS) regions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP-2-MET"",
+      ""related_domains"": [""met-ocean values"", ""design standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",55,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Waste and Discharge Information"",
+    ""document_number"": ""585.626(b)(9)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Your COP should include both permitted operational wastes and any other identified wastes."",
+      ""scope"": ""Construction and operational phases of COP activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulatory requirement 585.626(b)(9)"",
+      ""related_domains"": [""waste management"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Refer also to U.S. Coast Guard regulations for bilge and ballast water treatment requirements for oil and grease as well as the EPA’s vessel NPDES permits."",
+      ""scope"": ""Vessels involved in offshore operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Coast Guard regulations, EPA’s vessel NPDES permits"",
+      ""related_domains"": [""water quality"", ""pollution control""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency for maritime regulations""
+    },
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and regulation""
+    }
+  ]
+}
+```"
+"16",56,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Information Guidance for NEPA and Other Relevant Laws"",
+    ""document_number"": ""Attachment E"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Your COP should include this information and a discussion of the impact-producing factors."",
+      ""scope"": ""Environmental resources and impacting factors related to the project area."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)"",
+      ""related_domains"": [""environmental impact assessment"", ""resource sensitivity""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Your COP also should include any environmental protection measures and monitoring activities you are proposing."",
+      ""scope"": ""Environmental protection measures related to the project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)"",
+      ""related_domains"": [""environmental protection"", ""monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mandatory mitigation measures and monitoring requirements may be identified in the course of environmental review."",
+      ""scope"": ""Environmental review process post-COP submission."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)"",
+      ""related_domains"": [""environmental review"", ""mitigation measures""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",57,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",58,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP) 30 CFR 585.627(a)(1) Hazards"",
+    ""document_number"": ""30 CFR 585.627(a)(1)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Survey should be conducted in accordance with BOEM's Guidelines for Providing Geophysical, Geotechnical, and Geohazard Information Pursuant to 30 CFR Part 585."",
+      ""scope"": ""Site-specific evaluation for construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM's Guidelines for Providing Geophysical, Geotechnical, and Geohazard Information Pursuant to 30 CFR Part 585"",
+      ""related_domains"": [""geophysical survey"", ""geotechnical assessment"", ""geohazard evaluation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Additional information may be needed to support the evaluation of hazards and physical impacts, including but not limited to: Stability analysis of seafloor morphology; Modeling of wave and current interaction with proposed structures; Modeling of proposed scour protection; and Modeling of disturbances associated with foundation installation, cable jetting and burial, and cable landfall."",
+      ""scope"": ""Construction and operation phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""hazard evaluation"", ""physical impact assessment"", ""marine engineering""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"16",59,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""38"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe any environmental protection measure of your project that is designed to minimize potential adverse effects on physical resources."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(1)"",
+      ""related_domains"": [""environmental impact assessment"", ""physical resource protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide reports and associated data in the format requested by BOEM and outlined in the Guidelines for Providing Geophysical, Geotechnical, and Geohazard Information Pursuant to 30 CFR Part 585."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR Part 585"",
+      ""related_domains"": [""geophysical surveys"", ""geotechnical assessments""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide succinct narratives by topic at a level of detail appropriate to the scale of the impacts that each category of proposed activities may cause."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR Part 585"",
+      ""related_domains"": [""impact assessment"", ""project documentation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide report(s) that present the methods used, results of, and conclusions reached by any numerical modeling performed or interpretation."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR Part 585"",
+      ""related_domains"": [""numerical modeling"", ""data reporting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Include data/information in tables where appropriate."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR Part 585"",
+      ""related_domains"": [""data presentation"", ""reporting standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Include maps where appropriate (e.g., a bathymetric map, isopach, storm tracks, bottom type, and in sedimentary and/or geologic cross sections)."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR Part 585"",
+      ""related_domains"": [""mapping"", ""geological surveys""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",60,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP) 30 CFR 585.627(a)(2) Water Quality"",
+    ""document_number"": ""30 CFR 585.627(a)(2)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If an NPDES permit is required by the EPA or if Water Quality Certification is required by the state(s) or ACOE, include a summary of the anticipated reporting and monitoring requirements."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPA, state(s), ACOE"",
+      ""related_domains"": [""water quality monitoring"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Additional information may be needed to support the evaluation of water quality impacts, including but not limited to: modeling of turbidity during foundation installation, cable jetting/burial, and cable landfall."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""water quality assessment"", ""construction impact""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe the general state of water quality in the area proposed for your project by reporting typical metrics for quality including the following: dissolved oxygen; chlorophyll; nutrient content; seasonal variations in algae or bacterial content; upwelling conditions; presence or absence of contaminants in water or sediment; turbidity or water visibility states and variation."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""water quality assessment"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers (ACOE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"16",61,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""40"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"16",62,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP)"",
+    ""document_number"": ""§ 585.627(a)(3)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Identify and describe coastal sandy and rocky intertidal, dune, wetland and marsh species and habitats that may be disturbed by proposed activities or reasonable extensions of your project."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM's Guidelines for Providing Benthic Habitat Survey Information for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585"",
+      ""related_domains"": [""environmental impact assessment"", ""biodiversity protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that disturb the sea bottom—indicate maximum area of sea bottom disturbed as a result of your activities and a description of the duration and intensity of disturbance."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that introduce sound into the environment—characterize the sound produced in both air and water."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine acoustics"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that result in changes to ambient lighting—report the type, duration, and intensity of lighting at your facilities during construction, operations, and conceptual decommissioning activities."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""light pollution""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that result in changes to ambient electromagnetic fields (EMF) including testing, operations, and decommissioning—report the type, duration, and intensity of EMF-producing activities at your facilities."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""electromagnetic fields""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that may displace biological resources—describe vessel traffic patterns through all phases and locations of proposed structures."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine traffic"", ""biodiversity protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that may result in direct injury or death of biological resources (e.g., turbine operations, support/construction vessel activities)."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""biodiversity protection"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe possible accidental events, such as materials or fuel spills and ship strikes."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""accident prevention"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",63,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""42"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe environmental protection measures that are proposed that are designed to minimize adverse effects on biological resources."",
+      ""scope"": ""Construction and Operation Phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""biological resources protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In lieu of direct observations, modeling of impact-producing factors on biological resources may be required."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""biological resources"", ""impact modeling""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe any research and/or monitoring activities you propose to undertake for construction and/or operations, as part of your COP proposal."",
+      ""scope"": ""Construction and Operation Phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""biological resources""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Provide a succinct narrative by topic with a level of detail that is proportionate to the scale of the activities you propose."",
+      ""scope"": ""Construction and Operation Phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental reporting"", ""biological resources""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",64,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""CONSTRUCTION AND OPERATIONS PLAN (COP) 30 CFR 585.627(b)(4) Threatened and Endangered Species*"",
+    ""document_number"": ""30 CFR 585.627(b)(4)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A survey should be conducted in accordance with BOEM's Guidelines for Providing Information on Marine Mammals and Sea Turtles for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585 Subpart F and the Guidelines for Providing Information on Fisheries Survey for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585."",
+      ""scope"": ""Atlantic Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM's Guidelines for Providing Information on Marine Mammals and Sea Turtles, 30 CFR Part 585"",
+      ""related_domains"": [""marine biology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that disturb the sea bottom—indicate approximate area of sea bottom disturbed as a result of your activities and a description of the duration and intensity of disturbance and how those disturbances are relevant to threatened and endangered species."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(b)(4)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that introduce sound into the environment—characterize the sound produced in both air and water and its potential effect on threatened and endangered species."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(b)(4)"",
+      ""related_domains"": [""acoustic impact"", ""marine biology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that result in changes to ambient lighting—report the type, duration, and intensity of lighting at your facilities."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(b)(4)"",
+      ""related_domains"": [""light pollution"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that result in changes to ambient electromagnetic fields (EMF) including testing, operations, and decommissioning."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(b)(4)"",
+      ""related_domains"": [""EMF impact"", ""marine biology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that may displace threatened and endangered species—describe vessel traffic patterns through all phases, locations of proposed structures."",
+      ""scope"": ""All Phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(b)(4)"",
+      ""related_domains"": [""marine traffic"", ""wildlife management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that may result in direct injury or death of threatened and endangered species (e.g., turbine operations, support/construction vessel activities)."",
+      ""scope"": ""Construction and Operation Phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(b)(4)"",
+      ""related_domains"": [""wildlife protection"", ""safety management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Accidental events—describe possible accidental events, such as materials or fuel spills and ship strikes."",
+      ""scope"": ""All Phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(b)(4)"",
+      ""related_domains"": [""spill response"", ""marine safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"16",65,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP)"",
+    ""document_number"": ""44"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""In lieu of direct observations, modeling of impact-producing factors and their potential effects on threatened and endangered species may include, but are not limited to, the following: 1) Sound dispersion models; 2) EMF models; 3) Materials and fuel spill modeling; 4) Collision hazard and risk modeling; and 5) Species distribution modeling."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(b)(4)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine biology"", ""species protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe environmental protection measures that are proposed as part of your project that are designed to minimize adverse effects on threatened and endangered species."",
+      ""scope"": ""Construction and Operation Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(b)(4)"",
+      ""related_domains"": [""environmental impact assessment"", ""species protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide reports and associated data in the format requested by BOEM and outlined in the Guidelines for Providing Information on Marine Mammals and Sea Turtles for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585 Subpart F."",
+      ""scope"": ""Construction and Operation Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(b)(4)"",
+      ""related_domains"": [""reporting standards"", ""marine biology""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"16",66,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""45"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"16",67,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP) 30 CFR 585.627(a)(5) Sensitive Biological Resources or Habitats"",
+    ""document_number"": ""30 CFR 585.627(a)(5)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Survey should be conducted in accordance with BOEM's Guidelines for Providing Information on Marine Mammals and Sea Turtles for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585 Subpart F and Guidelines for Providing Information on Fisheries Survey for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585."",
+      ""scope"": ""Construction and Operation Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM Guidelines for Providing Information on Marine Mammals and Sea Turtles, 30 CFR Part 585"",
+      ""related_domains"": [""marine biology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that disturb the sea bottom—indicate approximate area of sea bottom disturbed as a result of your activities, as well as a description of the duration and intensity of disturbance and how those disturbances are relevant to sensitive biological resources or habitats."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""marine ecology"", ""habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that introduce sound into the environment—characterize sound produced in both air and water by your activities and noise on sensitive biological resources or habitats."",
+      ""scope"": ""Construction and Operation Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""acoustic impact"", ""marine wildlife""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that result in changes to ambient lighting—report the type, duration, and intensity of lighting at your facilities."",
+      ""scope"": ""Construction and Operation Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""light pollution"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that result in changes to ambient electromagnetic fields (EMF) including testing, operations, and decommissioning—report the type, duration, and intensity of EMF-producing activities at your facilities."",
+      ""scope"": ""Construction, Operation, and Decommissioning Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""EMF impact"", ""marine biology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that may displace sensitive biological resources or alter habitats—describe vessel traffic patterns through all phases, locations of proposed structures, and locations of sensitive biological resources or habitats."",
+      ""scope"": ""Construction and Operation Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""marine traffic"", ""habitat alteration""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that may result in direct injury or death of sensitive biological resources (e.g., turbine operations, support/construction vessel activities)."",
+      ""scope"": ""Construction and Operation Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""wildlife protection"", ""construction impact""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and permitting authority""
+    }
+  ]
+}
+```"
+"16",68,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",69,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""CONSTRUCTION AND OPERATIONS PLAN (COP) 30 CFR 585.627(a)(5) Sensitive Biological Resources or Habitats"",
+    ""document_number"": ""30 CFR 585.627(a)(5)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""You may be required to conduct a biological survey if survey information from any available source shows that possible sensitive biological resources could be negatively affected by your proposed activities."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""environmental impact assessment"", ""biological survey""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""In lieu of direct observations, modeling of impact producing factors on sensitive biological resources or habitats may be required."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""environmental impact assessment"", ""modeling""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Provide reports and associated data in the format requested by BOEM and outlined in the Guidelines for Providing Information on Marine Mammals and Sea Turtles for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585 Subpart F."",
+      ""scope"": ""Construction and Operations Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""reporting"", ""marine mammal protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",70,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP)"",
+    ""document_number"": ""47"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Provide a succinct narrative by topic, targeted to a level-of-detail proportionate to the scale of the activities you propose."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""environmental impact assessment"", ""biological resources""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Include species and impact factor tables where appropriate."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""environmental impact assessment"", ""biological resources""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Include maps where appropriate."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(5)"",
+      ""related_domains"": [""environmental impact assessment"", ""biological resources""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",71,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""CONSTRUCTION AND OPERATIONS PLAN (COP) 30 CFR 585.627(a)(6) Archaeological Resources"",
+    ""document_number"": ""30 CFR 585.627(a)(6)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide a detailed description of the methods and results of surveys conducted to identify historic properties that may be affected within the geographic area or areas of your activities."",
+      ""scope"": ""The geographic area or areas of your activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(6)"",
+      ""related_domains"": [""archaeological resources"", ""historic preservation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A historic property identification survey should be conducted in accordance with BOEM's Guidelines for Providing Archaeological and Historic Property Information Pursuant to 30 CFR Part 585."",
+      ""scope"": ""Seabed portions of the OCS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM's Guidelines for Providing Archaeological and Historic Property Information Pursuant to 30 CFR Part 585"",
+      ""related_domains"": [""archaeological resources"", ""historic preservation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A historic property identification survey(s) should be conducted in a manner acceptable to the relevant State Historic Preservation Office(s) (SHPO)."",
+      ""scope"": ""State submerged lands, onshore viewshed, and onshore terrestrial areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(6)"",
+      ""related_domains"": [""archaeological resources"", ""historic preservation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""State Historic Preservation Office (SHPO)"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Regulatory oversight for historic properties""
+    }
+  ]
+}
+```"
+"16",72,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",73,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP) 30 CFR 585.627(a)(6) Archaeological Resources"",
+    ""document_number"": ""30 CFR 585.627(a)(6)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that disturb the sea bottom—indicate the nature, intensity, extent, and duration of disturbances to the sea bottom that may affect historic properties."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(6)"",
+      ""related_domains"": [""archaeological resources"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Activities that disturb the ground—indicate the nature, intensity, extent, and duration of disturbances to the ground that may affect historic properties."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(6)"",
+      ""related_domains"": [""archaeological resources"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe environmental protection measures that are proposed as part of your project that are designed to minimize potential effects to historic properties."",
+      ""scope"": ""Construction and Operations Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(6)"",
+      ""related_domains"": [""archaeological resources"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Provide reports and associated data in the format requested by BOEM and outlined in the Guidelines for Providing Archaeological and Historic Property Information Pursuant to 30 CFR Part 585."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(6)"",
+      ""related_domains"": [""archaeological resources"", ""reporting standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"16",74,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP) Archaeological Resources"",
+    ""document_number"": ""50"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""information on proposed anchoring locations (or radius of potential anchoring locations) and a detailed description of all ground tackle and mooring methods for construction and operation."",
+      ""scope"": ""Construction Phase and Operation Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(6)"",
+      ""related_domains"": [""construction methods"", ""mooring systems""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",75,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP) 30 CFR 585.627(a)(7) Social and Economic Resources"",
+    ""document_number"": ""30 CFR 585.627(a)(7)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If your operating facilities are visible from the shoreline, a Visual Impact Assessment (VIA) will likely be required as part of NEPA to evaluate vantages from: 1) Variable heights at and above the beach and shoreline; 2) Variable heights at and above known protected areas; 3) Variable heights at and above potential places or areas that are eligible for entry onto historic lists; 4) Land cover types or frequented locations along the coastal area that are not directly on the beach; 5) How seasonal sun angles, times of day, and meteorological conditions affect the above."",
+      ""scope"": ""Visible operating facilities from the shoreline during the operational phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEPA"",
+      ""related_domains"": [""visual impact assessment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",76,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP)"",
+    ""document_number"": ""52"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe the potential visual impacts to any coastal prehistoric or historic resources that are listed, eligible, or potentially eligible for listing on the National Register of Historic Places."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(7)"",
+      ""related_domains"": [""cultural heritage"", ""visual impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe environmental protection measures that are proposed as part of your project that are designed to minimize adverse effects on social and economic resources."",
+      ""scope"": ""Construction and Operation Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(7)"",
+      ""related_domains"": [""environmental protection"", ""social impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",77,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP) 30 CFR 585.627(a)(8) Coastal and Marine Uses"",
+    ""document_number"": ""30 CFR 585.627(a)(8)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Describe how the construction and operation of your facilities take account of, are able to co-occur with, or do not interfere with any other authorized use of the OCS."",
+      ""scope"": ""Construction and Operation Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(8)"",
+      ""related_domains"": [""navigational safety"", ""marine spatial planning""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A Navigational Safety Risk Assessment (NSRA) may be required pursuant to (regulation), and will be reviewed by the U.S. Coast Guard to evaluate the following: (1) the impact the offshore energy installation will have on other marine users; and (2) the potential for it to interfere with vessels, aircraft, or other authorized users of the air space and the sea surface, water column, or sea bottom."",
+      ""scope"": ""Construction and Operation Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Guidance on the Coast Guard’s roles and responsibilities for Offshore Renewable Energy Installations (OREI)"",
+      ""related_domains"": [""navigational safety"", ""marine operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Review and evaluate Navigational Safety Risk Assessments for offshore energy installations.""
+    }
+  ]
+}
+```"
+"16",78,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""54"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Describe environmental protection measures that are proposed that are designed to minimize adverse effects on other coastal and marine uses."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(8)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Provide an integrated map(s) and descriptions of extant coastal and marine use patterns defined by intensity and seasonality in your project area."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(8)"",
+      ""related_domains"": [""spatial planning"", ""marine spatial planning""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"16",79,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP) 30 CFR 585.627(a)(9) Consistency Certification"",
+    ""document_number"": ""56"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The applicant or lessee should ensure that the state(s) have a NOAA-approved CMP that includes the specific review of renewable energy activities on the OCS beyond their coastal zone in order to be applicable to a COP."",
+      ""scope"": ""Outer Continental Shelf (OCS) projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 930"",
+      ""related_domains"": [""coastal management"", ""renewable energy regulation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Construction and operation activities should be conducted in such a manner to comply with each applicable state’s approved CMP."",
+      ""scope"": ""Construction and operation phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 930"",
+      ""related_domains"": [""coastal management"", ""construction compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Consistency Certification needs to be completed before the COP may be approved."",
+      ""scope"": ""COP approval process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(9)"",
+      ""related_domains"": [""regulatory compliance"", ""project approval""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Conceptual decommissioning should demonstrate how activities will be conducted in order to comply with each applicable state’s CMP."",
+      ""scope"": ""Conceptual decommissioning phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 930"",
+      ""related_domains"": [""decommissioning"", ""coastal management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and coastal management approval""
+    },
+    {
+      ""entity_name"": ""State Coastal Management Programs (CMP)"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Review and certification of coastal consistency""
+    }
+  ]
+}"
+"16",80,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Construction and Operations Plan (COP)"",
+    ""document_number"": ""30 CFR 585.627"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The lessee must include one paper copy and one electronic copy of the consistency certification for the project to verify compliance with each applicable state’s approved CMP."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(9)"",
+      ""related_domains"": [""environmental compliance"", ""state management plans""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If the nature of your project presents new kinds of environmental impacts that are novel or imprecisely understood, BOEM may request the appropriate data or information in order to complete our environmental analysis."",
+      ""scope"": ""Construction Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)(10)"",
+      ""related_domains"": [""environmental impact assessment"", ""data collection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and permitting authority""
+    }
+  ]
+}
+```"
+"16",81,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Attachment F: Phased Development Site Characterization Data"",
+    ""document_number"": ""59"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For Atlantic Region, recommend following BOEM’s Guidelines for Providing Avian Survey Information for Renewable Energy Development on the Outer Continental Shelf Pursuant to 30 CFR Part 585."",
+      ""scope"": ""Atlantic Region, initial phase of development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s Guidelines for Providing Avian Survey Information for Renewable Energy Development on the Outer Continental Shelf Pursuant to 30 CFR Part 585"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For Atlantic Region, recommend following BOEM’s Guidelines for Providing Marine Mammal and Sea Turtle Survey Information for renewable energy activities on the OCS."",
+      ""scope"": ""Atlantic Region, initial phase of development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s Guidelines for Providing Marine Mammal and Sea Turtle Survey Information for renewable energy activities on the OCS"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Include desktop analysis for the fisheries resources that occur in the subsequent area in accordance with 30 CFR 585.626(a)(3)."",
+      ""scope"": ""subsequent area, fisheries resources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(a)(3)"",
+      ""related_domains"": [""fisheries management"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Include known sensitive benthic sites and essential fish habitat in accordance with 30 CFR 585.627(a); provide information on known sites potentially sensitive to impacts from the proposed phase development and essential fish habitat for the subsequent area."",
+      ""scope"": ""subsequent area, benthic habitats"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.627(a)"",
+      ""related_domains"": [""benthic habitat protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority and environmental oversight""
+    }
+  ]
+}"
+"16",82,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Recommend following BOEM’s Guidelines for Providing Archaeological and Historic Property Information Pursuant to 30 CFR Part 585 for all activities proposed under subsequent phases of development."",
+      ""scope"": ""All activities proposed under subsequent phases of development."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s Guidelines for Providing Archaeological and Historic Property Information Pursuant to 30 CFR Part 585"",
+      ""related_domains"": [""archaeological assessment"", ""cultural resources"", ""historic preservation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Provide data from desktop studies on offshore activities and hazard identification in accordance with 30 CFR 585.626 and 627."",
+      ""scope"": ""Subsequent area for offshore activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626 and 627"",
+      ""related_domains"": [""hazard identification"", ""environmental assessment"", ""marine safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"16",83,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",84,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Coordination Efforts Relating to Existing Telecommunications Cables"",
+    ""document_number"": ""Attachment G"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""there may be civil and criminal penalties associated with causing damage to existing telecommunications cables, as set forth in 47 U.S.C. §§ 21-33."",
+      ""scope"": ""Lease areas containing telecommunications cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""47 U.S.C. §§ 21-33"",
+      ""related_domains"": [""telecommunications"", ""legal compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""North American Submarine Cable Association (NASCA)"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Information provider and facilitator for telecommunications cable coordination""
+    }
+  ]
+}
+```"
+"16",85,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"16",86,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""62"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM will use the agreements and communications you provide, in addition to other relevant studies and information, during its review of your COP."",
+      ""scope"": ""Review of Construction and Operations Plan (COP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""permitting"", ""telecommunications"", ""submarine cable interactions""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Lessees familiarize themselves with these documents, or any updated versions of these documents, to inform discussions with active telecommunications cable owners and operators."",
+      ""scope"": ""Telecommunications cable interactions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ICPC Recommendations"",
+      ""related_domains"": [""telecommunications"", ""submarine cable security""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""International Cable Protection Committee (ICPC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}"
+"16",87,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Coordinate with the owner of the cable regarding any necessary removal of portions of the cable."",
+      ""scope"": ""Lease area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ICPC Recommendation #1, Management of Redundant and Out-of-Service Cables, Issue 12B, 6 May 2011"",
+      ""related_domains"": [""telecommunications"", ""infrastructure management""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Your COP must include a description of the out-of-service cable; any agreements relating to limitations of use, setbacks, or cable removal; and, if agreements could not be reached, a record of relevant communications and contact information for all relevant parties."",
+      ""scope"": ""Construction and operation phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""project planning"", ""stakeholder communication""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight and coordination for offshore energy projects""
+    }
+  ]
+}"

@@ -1,0 +1,540 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"44",1,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""NOAA and BOEM Minimum Recommendations for Use of Passive Acoustic Listening Systems in Offshore Wind Energy Development Monitoring and Mitigation Programs"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Maritime and Hydrographic Agency"",
+      ""jurisdiction"": ""Germany"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"44",2,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - U.S. waters"",
+      ""role"": ""Permitting authority; Approvals issuer (for offshore wind construction and operation, specifically regarding Passive Acoustic Monitoring)""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - U.S. waters"",
+      ""role"": ""Permitting authority; Approvals issuer (for offshore wind construction and operation, specifically regarding Passive Acoustic Monitoring)""
+    }
+  ]
+}
+```"
+"44",3,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",4,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",5,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",6,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",7,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 3, Van Parijs et al. NOAA and BOEM PAM Recommendations"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - United States (US waters, marine environment)"",
+      ""role"": ""Environmental oversight; provides recommendations and guidance related to marine mammals and acoustics for offshore energy development.""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - United States (US Outer Continental Shelf)"",
+      ""role"": ""Permitting authority for offshore energy development;"
+"44",8,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",9,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 4, Article 760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"44",10,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",11,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Volume 8 | Article 760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Scientific research; Provides recommendations (e.g., Passive Acoustic Monitoring)""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority for offshore energy; Environmental oversight; Provides recommendations (e.g., Passive Acoustic Monitoring)""
+    }
+  ]
+}
+```"
+"44",12,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",13,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",14,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6 | October 2021 | Volume 8 | Article 760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"":"
+"44",15,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",16,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",17,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",18,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Article 760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Standard setting body""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Environmental oversight""
+    }
+  ]
+}
+```"
+"44",19,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",20,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",21,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",22,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Volume 8 | Article 760840"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory body""
+    },
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory body""
+    }
+  ]
+}
+```"
+"44",23,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",24,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",25,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Acoustical Society of America (ASA)"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body"""
+"44",26,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Van Parijs et al. NOAA and BOEM PAM Recommendations"",
+    ""document_number"": ""Article 760840, Page 9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    ,
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"44",27,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",28,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""robust real-time monitoring needs to be established throughout the impacted area and the area directly in the vicinity."",
+      ""scope"": ""Impacted area and vicinity during construction/mitigation for marine mammals"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""marine mammal protection"",
+        ""noise mitigation"",
+        ""monitoring""
+      ]
+    },"
+"44",29,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",30,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",31,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",32,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",33,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",34,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The system needs to be designed, installed, and operated by those having expertise with the specific PAM technology, including placement in the water, attachment of cables to reduce strumming and noise, acoustic release, suitable anchorage for the conditions, software use, etc."",
+      ""scope"": ""PAM technology deployment and operation for wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""personnel qualification"",
+        ""PAM system deployment"",
+        ""environmental monitoring""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Knowledgeable and experienced personnel should operate the units in all situations."",
+      ""scope"": ""PAM system operation for wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""personnel qualification"",
+        ""PAM system operation"",
+        ""environmental monitoring""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If PAM technology used has not been used for the same purpose in other field efforts and does not have clear and detailed information available about its previous performance and reliability for PAM purposes, this information needs to be gathered and provided in publicly available documentation as part of the PAM Plan."",
+      ""scope"": ""PAM Plan documentation for wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""PAM Plan"",
+      ""related_domains"": [
+        ""documentation"",
+        ""environmental monitoring"",
+        ""PAM technology validation""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"44",35,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",36,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",37,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Van Parijs et al. NOAA and BOEM PAM Recommendations"",
+    ""document_number"": ""Van Parijs et al. NOAA and BOEM PAM Recommendations"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Established and publicly available protocols on how a species is determined present for the specific PAM system and software must be documented in the PAM Plan."",
+      ""scope"": ""PAM Plans for projects requiring acoustic monitoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA"
+"44",38,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",39,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Localization and methodology should be included in the PAM Plan to approximate locations of the animal or sound source for purposes of taking action."",
+      ""scope"": ""PAM Plan (Passive Acoustic Monitoring Plan) for animal or sound source localization"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""PAM Plan requirements (implied)"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""acoustic monitoring"",
+        ""wildlife protection""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Each array design requires careful documentation of the localization errors of the system."",
+      ""scope"": ""Array design for localization systems (e.g., for PAM)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Unspecified (implied technical standard or best practice)"",
+      ""related_domains"": [
+        ""technical documentation"",
+        ""system design"",
+        ""quality assurance"",
+        ""acoustic monitoring""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"44",40,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",41,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",42,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",43,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",44,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"":"
+"44",45,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Article 760840, Page 14"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Provides recommendations for marine resource protection""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority for offshore energy; Environmental oversight; Provides recommendations for offshore development""
+    }
+  ]
+}
+```"
+"44",46,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",47,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",48,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",49,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",50,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",51,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Permitting authority""
+    }
+  ]
+}
+```"
+"44",52,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Marine resource management; Scientific guidance""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Offshore energy permitting; Environmental review""
+    }
+  ]
+}
+```"
+"44",53,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",54,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"44",55,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""MSFD Technical Subgroup on Underwater Noise"",
+      ""jurisdiction"": ""European Seas / European Union"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"44",56,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",57,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",58,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",59,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",60,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"
+"44",61,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",62,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Massachusetts Clean Energy Center"",
+      ""jurisdiction"": ""State - Massachusetts, USA"",
+      ""role"": ""Funding and development promotion (commissioning reports related to clean energy development)""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA (Offshore)"",
+      ""role"": ""Environmental oversight; Management of offshore energy development (commissioning reports related to offshore wind impacts)""
+    }
+  ]
+}
+```"
+"44",63,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",64,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",65,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",66,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New York State Energy Research and Development Authority (NYSERDA)"",
+      ""jurisdiction"": ""New York State"",
+      ""role"": ""Energy Development and Research Facilitation; Policy Support""
+    },
+    {
+      ""entity_name"": ""The White House"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Policy Setting; Executive Branch Oversight""
+    }
+  ]
+}
+```"
+"44",67,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",68,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",69,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",70,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",71,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",72,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",73,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"44",74,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"44",75,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"

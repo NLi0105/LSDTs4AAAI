@@ -1,0 +1,263 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"25","claude","claude-3-haiku-20240307",679854,99702,12,7,False,"{
+  ""document_metadata"": {
+    ""title"": ""SouthCoast Wind Energy Project Construction and Operations Plan"",
+    ""project_name"": ""SouthCoast Wind Energy Project"",
+    ""project_location"": ""Offshore Massachusetts""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Offshore wind turbines that generate electricity"",
+      ""source_section_number"": ""3.1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Substation Platforms"",
+      ""component_acronym"": ""OSP"",
+      ""description"": ""Offshore platforms that collect and transmit electricity from the wind turbines"",
+      ""source_section_number"": ""3.1""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Offshore Export Cables"",
+      ""component_acronym"": ""OEC"",
+      ""description"": ""Cables that transmit electricity from the offshore substations to the onshore grid connection"",
+      ""source_section_number"": ""3.1""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Inter-Array Cables"",
+      ""component_acronym"": ""IAC"",
+      ""description"": ""Cables that connect the wind turbines to the offshore substations"",
+      ""source_section_number"": ""3.1""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Project Vessels"",
+      ""description"": ""Vessels used for construction, operations, and maintenance activities"",
+      ""source_section_number"": ""4.9""
+    },
+    {
+      ""component_id"": ""COMP-06"",
+      ""component_name"": ""Onshore Export Cable"",
+      ""description"": ""Cables that transmit electricity from the offshore export cable landfall to the onshore grid connection"",
+      ""source_section_number"": ""3.1""
+    },
+    {
+      ""component_id"": ""COMP-07"",
+      ""component_name"": ""HVDC Converter Stations"",
+      ""description"": ""Onshore facilities that convert the project's generated power to high voltage alternating current"",
+      ""source_section_number"": ""3.1""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will have up to 147 wind turbine generators"",
+      ""value"": 147,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Project would have a capacity of up to 2,400 MW and would consist of up to 147 WTGs in the Lease Area""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will have up to 5 offshore substation platforms"",
+      ""value"": 5,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Project would have a capacity of up to 2,400 MW and would consist of up to 5 OSPs and associated export cables.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will have up to 6 offshore export cables within a single export cable corridor"",
+      ""value"": 6,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Offshore Export Cable Corridor"",
+      ""context_quote"": ""From one (1) or more (no more than five (5)) OSPs within the lease area, up to six (6) offshore export cables (up to four (4) power cables and up to two (2) communications cables) within a single, 1,640 – 2,300-foot wide, offshore export cable corridor (OECC) will travel a total of 124 miles""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The offshore export cables will travel a total distance of 124 miles"",
+      ""value"": 124,
+      ""unit"": ""miles"",
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Offshore Export Cable Corridor"",
+      ""context_quote"": ""From one (1) or more (no more than five (5)) OSPs within the lease area, up to six (6) offshore export cables (up to four (4) power cables and up to two (2) communications cables) within a single, 1,640 – 2,300-foot wide, offshore export cable corridor (OECC) will travel a total of 124 miles""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The offshore export cable corridor will be 1,640 to 2,300 feet wide"",
+      ""value"": 1640,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Offshore Export Cable Corridor"",
+      ""context_quote"": ""From one (1) or more (no more than five (5)) OSPs within the lease area, up to six (6) offshore export cables (up to four (4) power cables and up to two (2) communications cables) within a single, 1,640 – 2,300-foot wide, offshore export cable corridor (OECC) will travel a total of 124 miles""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will have 250 miles of inter-array cables"",
+      ""value"": 250,
+      ""unit"": ""miles"",
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Project 1 will develop the northeastern portion of the lease area and will include up to 85 WTGs connected by 250 miles of IACs to one (1) OSP, and up to three (3) export cables (two (2) power cables and one (1) communications cable) within the OECC to Brayton Point.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The wind turbine generators will be arranged in a 1-by-1-nautical mile offset grid pattern"",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""SouthCoast Wind would space WTGs in a 1-by-1-nmi offset grid pattern (east–west-by-north–south- gridded layout).""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-06"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The onshore export cable will connect the offshore export cables to the existing grid connection point at Brayton Point"",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Onshore Cable Route"",
+      ""context_quote"": ""A new underground 354-kilovolt (kV) transmission line will be constructed to connect the converter station to the existing point of interconnection (POI), the National Grid substation at Brayton Point.""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-07"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to two HVDC converter stations will be constructed at the former Brayton Point Power Station site"",
+      ""value"": 2,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Brayton Point"",
+      ""context_quote"": ""At the site of the former Brayton Point Power Station, up to two high voltage direct current (HVDC) converter stations will be constructed to convert the project's generated power to High Voltage Alternating Current (HVAC).""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Six wind turbine generators (AZ-47, BA-47, BB-47, BC-47, BF-48, and BF-49) in the northeastern portion of the Lease Area will be eliminated to reduce potential impacts on foraging habitat and wildlife displacement"",
+      ""value"": 6,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Northeastern portion of Lease Area"",
+      ""context_quote"": ""Under Alternative D, six WTGs (AZ-47, BA-47, BB-47, BC-47, BF-48, and BF-49) would be eliminated in the northeastern portion of the Lease Area to reduce potential impacts on foraging habitat and potential displacement of wildlife from this habitat adjacent to Nantucket Shoals.""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Cable installation in the Sakonnet River will be avoided to minimize impacts on fisheries habitat"",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Sakonnet River"",
+      ""context_quote"": ""Routing the Brayton Point offshore export cable onshore to avoid the Sakonnet River could result in slight reductions in impacts on fishers that use the Sakonnet River but the difference in impact would be slight and the same overall moderate to major adverse impacts would result.""
+    },
+    {
+      ""constraint_id"": ""C-012"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The number of Falmouth offshore export cables will be reduced from five to three"",
+      ""value"": 3,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Falmouth Offshore Export Cable Route"",
+      ""context_quote"": ""Reducing the number of Falmouth offshore export cables to three would not meaningfully change the impacts on cables and pipelines because crossings would still be required at this, and other locations within the geographic analysis area.""
+    },
+    {
+      ""constraint_id"": ""C-013"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The Falmouth offshore export cables will use ±525kV HVDC cables instead of HVAC cables"",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Falmouth Offshore Export Cable Route"",
+      ""context_quote"": ""To minimize seabed disturbance in the Muskeget Channel, the Falmouth offshore export cable route would use ±525kV HVDC cables connected to an HVDC converter station, instead of HVAC cables connected to offshore substations, and would only use up to 3 offshore export cables, instead of up to 5 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-014"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will have a total capacity of up to 2,400 MW"",
+      ""value"": 2400,
+      ""unit"": ""MW"",
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Project would have a capacity of up to 2,400 MW and would consist of up to 147 WTGs in the Lease Area""
+    },
+    {
+      ""constraint_id"": ""C-015"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will be developed in two phases, with up to 85 wind turbine generators in each phase"",
+      ""value"": 85,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Project 1 will develop the northeastern portion of the lease area and will include up to 85 WTGs connected by 250 miles of IACs to one (1) OSP, and up to three (3) export cables (two (2) power cables and one (1) communications cable) within the OECC to Brayton Point. Project 2 would develop the remainder of the overall project in the southern portion of the lease area and include up to 85 WTGs connected by 250 miles of IACs to one (1) OSP, and up to three (3) export cables (two (2) power cables and one (1) communications cable) within the OECC to Brayton Point.""
+    },
+    {
+      ""constraint_id"": ""C-016"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The total combined number of wind turbine generators and offshore substation platforms across both project phases will not exceed 149"",
+      ""value"": 149,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""As previously stated, the total combined number of WTG and OSP foundations across Project 1 and Project 2 will not exceed 149.""
+    },
+    {
+      ""constraint_id"": ""C-017"",
+      ""linked_component_id"": ""COMP-01, COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Scour and cable protection will consist of rock berms, bioactive concrete mattress placement, rock placement, and/or fronded mattresses"",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Scour and cable protection will consist of rock berms, bioactive concrete mattress placement, rock placement, and/or fronded mattresses.""
+    },
+    {
+      ""constraint_id"": ""C-018"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Project vessels must not travel faster than 10 knots while in the Block Island Sound Transit Lane"",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""4.9"",
+      ""geographic_scope"": ""Block Island Sound Transit Lane"",
+      ""context_quote"": ""To protect sensitive habitats, vessel speeds for all project vessels shall not exceed 10 knots within the Block Island Sound Transit Lane.""
+    },
+    {
+      ""constraint_id"": ""C-019"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Regulatory Requirement"",
+      ""description"": ""Cable trenching is prohibited within 500 meters of the identified historic shipwreck (No. 551B)"",
+      ""value"": 500,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""4.9"",
+      """

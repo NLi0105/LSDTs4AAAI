@@ -1,0 +1,3140 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"40",1,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1 Project Offshore of New Jersey"",
+    ""document_number"": ""50 CFR Part 217 Subpart AA"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Regulations in this subpart apply to activities associated with the Ocean Wind 1 project."",
+      ""scope"": ""Ocean Wind 1 project offshore of New Jersey"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""marine mammal protection"", ""construction activities""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",2,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1"",
+    ""document_number"": ""50 CFR 217.260(c)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Impact pile driving of wind turbine generator (WTGs) and offshore substation (OSSs) foundations; vibratory pile driving (install and subsequently remove) of cofferdams and goal posts; high-resolution geophysical (HRG) site characterization surveys; unexploded ordnances or munitions and explosives of concern (UXOs/MECs) detonation."",
+      ""scope"": ""Construction phase, wind turbine foundations and offshore substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.260(c)"",
+      ""related_domains"": [""marine mammal protection"", ""construction activities"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"40",3,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.263"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The incidental take of marine mammals by the activities listed in paragraphs (a) and (b) of this section is limited to the following species."",
+      ""scope"": ""BOEM Lease Area OCS-A 0498, export cable routes, and sea-to-shore transition points in New Jersey."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.262(d)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Take by mortality or serious injury of any marine mammal species is not authorized."",
+      ""scope"": ""All activities under the LOA."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.262(d)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""By Level B harassment associated with the acoustic disturbance of marine mammals by impact pile driving (WTG and OSS foundation installation), vibratory pile driving (cofferdam and goal post installation and removal), UXO/MEC detonations, and HRG site characterization surveys."",
+      ""scope"": ""Construction activities related to wind turbine generators and offshore substation foundations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.262(d)"",
+      ""related_domains"": [""acoustic impact"", ""construction methods""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""By Level A harassment associated with the acoustic disturbance of marine mammals by impact pile driving of WTG and OSS foundations and UXO/MEC detonations."",
+      ""scope"": ""Construction activities related to wind turbine generators and offshore substation foundations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.262(d)"",
+      ""related_domains"": [""acoustic impact"", ""construction methods""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority for offshore renewable energy development.""
+    }
+  ]
+}
+```"
+"40",4,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""217.264"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""LOA Holder must implement the mitigation measures contained in this section and any LOA issued under §§ 217.266 and 217.267."",
+      ""scope"": ""Activities identified in § 217.260(c) within the area described in § 217.260(b)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR § 217.264"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A copy of any issued LOA must be in the possession of LOA Holder and its designees, all vessel operators, visual protected species observers (PSOs), passive acoustic monitoring (PAM) operators, pile driver operators, and any other relevant designees operating under the authority of the issued LOA."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR § 217.264"",
+      ""related_domains"": [""safety compliance"", ""marine operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must conduct training for construction, survey, and vessel personnel and the marine."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR § 217.264"",
+      ""related_domains"": [""safety compliance"", ""marine operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",5,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(a)(3)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A description of the training program must be provided to NMFS at least 60 days prior to the initial training before in-water activities begin."",
+      ""scope"": ""In-water activities"",
+      ""numerical_value"": 60,
+      ""unit"": ""days"",
+      ""source"": ""50 CFR 217.264(a)(3)"",
+      ""related_domains"": [""marine mammal monitoring"", ""safety training""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Prior to and when conducting any in-water activities and vessel operations, LOA Holder personnel and contractors must use available sources of information on North Atlantic right whale presence in or near the Project Area."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(a)(3)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The marine mammal monitoring team must monitor these systems no less than every 4 hours."",
+      ""scope"": ""Monitoring systems"",
+      ""numerical_value"": 4,
+      ""unit"": ""hours"",
+      ""source"": ""50 CFR 217.264(a)(3)"",
+      ""related_domains"": [""marine mammal monitoring"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For any UXO/MEC detonation, these systems must be monitored for 24 hours and immediately prior to blasting."",
+      ""scope"": ""UXO/MEC detonation"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": ""50 CFR 217.264(a)(3)"",
+      ""related_domains"": [""explosive safety"", ""marine mammal monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",6,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For North Atlantic right whales, any visual or acoustic detection must trigger a delay to the commencement of pile driving, UXO/MEC detonation, and HRG surveys."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""construction activities""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If a large whale is sighted or acoustically detected that cannot be confirmed as a non North Atlantic right whale, it must be treated as if it were a North Atlantic right whale for purposes of mitigation."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""mitigation measures""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a delay to commencing an activity is called for by the Lead PSO or PAM operator, LOA Holder must take the required mitigative action."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety protocols"", ""operational procedures""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a shutdown of an activity is called for by the Lead PSO or PAM operator, LOA Holder must take the required mitigative action unless shutdown would result in imminent risk of injury or loss of life to an individual, pile refusal, or pile instability."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety protocols"", ""operational procedures""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",7,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(a)(11)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The activity must not commence or resume until the animal(s) has been confirmed to have left and is on a path away from the Level B harassment zone or after 15 minutes for small odontocetes and pinnipeds, and 30 minutes for all other species with no further sightings;"",
+      ""scope"": ""Construction phase, Level B harassment zone"",
+      ""numerical_value"": 15,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR 217.264(a)(10)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a marine mammal is on a path towards or comes within 10 meters (m) (32.8 feet) of equipment, LOA Holder must cease operations until the marine mammal has moved more than 10 m on a path away from the activity to avoid direct interaction with equipment;"",
+      ""scope"": ""In-water construction activities"",
+      ""numerical_value"": 10,
+      ""unit"": ""meters"",
+      ""source"": ""50 CFR 217.264(a)(10)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All vessels must be equipped with a properly installed, operational Automatic Identification System (AIS) device and LOA Holder must report all Maritime Mobile Service Identify (MMSI) numbers to NMFS Office of Protected Resources;"",
+      ""scope"": ""Vessel operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(a)(10)"",
+      ""related_domains"": [""navigational safety"", ""vessel compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""By accepting the issued LOA, LOA Holder consents to on-site observation and inspections by Federal agency personnel (including NOAA personnel) during activities described in this subpart, for the purposes of evaluating the implementation and effectiveness of measures contained within the LOA and this subpart;"",
+      ""scope"": ""All activities under the LOA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(a)(11)"",
+      ""related_domains"": [""regulatory compliance"", ""federal oversight""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",8,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must comply with the following vessel strike avoidance measures, unless an emergency situation presents a threat to the health, safety, or life of a person."",
+      ""scope"": ""Specified geographical region during project activities involving vessels."",
+      ""numerical_value"": 10,
+      ""unit"": ""kn"",
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Prior to the start of the Project's activities involving vessels, LOA Holder must receive a protected species training that covers, at a minimum, identification of marine mammals that have the potential to occur where vessels would be operating."",
+      ""scope"": ""Training requirement for personnel involved in project activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder's vessels, regardless of their vessel's size, must maintain a vigilant watch for all marine mammals."",
+      ""scope"": ""Operational phase of the project involving vessels."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""marine mammal protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS Office of Law Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+"40",9,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(b)(5)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All LOA Holder's vessels must transit at 10 kn or less within any active North Atlantic right whale."",
+      ""scope"": ""Active North Atlantic right whale areas during vessel transit."",
+      ""numerical_value"": 10,
+      ""unit"": ""kn"",
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",10,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All LOA Holder's vessels, regardless of size, must immediately reduce speed to 10 kn or less for at least 24 hours when a North Atlantic right whale is sighted at any distance by any project-related personnel or acoustically detected by any project-related PAM system."",
+      ""scope"": ""Project area, operational phase"",
+      ""numerical_value"": 10,
+      ""unit"": ""kn"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a North Atlantic right whale is reported via any of the monitoring systems within 10 kilometers of a transiting vessel(s), that vessel must operate at 10 knots or less for 24 hours following the reported detection."",
+      ""scope"": ""10 kilometers around transiting vessels, operational phase"",
+      ""numerical_value"": 10,
+      ""unit"": ""kn"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder's vessels, regardless of size, must immediately reduce speed to 10 kn or less when any large whale (other than a North Atlantic right whale) is observed within 500 meters of an underway vessel."",
+      ""scope"": ""500 meters around underway vessels, operational phase"",
+      ""numerical_value"": 500,
+      ""unit"": ""m"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If LOA Holder's vessel(s) are traveling at speeds greater than 10 kn in a transit corridor from a port to the Lease Area, in addition to the required dedicated visual observer, LOA Holder must monitor the transit corridor in real-time with PAM prior to and during transits."",
+      ""scope"": ""Transit corridor from port to Lease Area, operational phase"",
+      ""numerical_value"": 10,
+      ""unit"": ""kn"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a North Atlantic right whale is detected via visual observation or PAM within or approaching the transit corridor, all crew transfer vessels must travel at 10 kn or less for 24 hours following the detection."",
+      ""scope"": ""Transit corridor, operational phase"",
+      ""numerical_value"": 10,
+      ""unit"": ""kn"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder's vessels must maintain a minimum separation distance of 500 m from North Atlantic right whales."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 500,
+      ""unit"": ""m"",
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",11,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a North Atlantic right whale is sighted within 500 m of an underway vessel, that vessel must reduce speed and shift the engine to neutral."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder's vessels must maintain a minimum separation distance of 100 m from sperm whales and non-North Atlantic right whale baleen whales."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder's vessels must maintain a minimum separation distance of 50 m from all delphinoid cetaceans and pinnipeds."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 50,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""When a marine mammal(s) is sighted while LOA Holder's vessel(s) is transiting, the vessel must take action as necessary to avoid violating the relevant separation distances."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",12,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(b)(12)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder's vessels underway must not divert or alter course to approach any marine mammal."",
+      ""scope"": ""Vessels operating in marine environments during construction activities."",
+      ""numerical_value"": 10,
+      ""unit"": ""kn"",
+      ""source"": ""50 CFR 217.264(b)(13)"",
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a plan is not submitted or approved by NMFS prior to vessel operations, all project vessels transiting, year round, must travel at speeds of 10-kn or less."",
+      ""scope"": ""Vessels operating in marine environments during construction activities."",
+      ""numerical_value"": 10,
+      ""unit"": ""kn"",
+      ""source"": ""50 CFR 217.264(b)(16)"",
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",13,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""50 CFR 217.264(c)(5) page 7 of 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Impact pile driving must not occur January 1 through April 30."",
+      ""scope"": ""Monopile and pin pile installation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264"",
+      ""related_domains"": [""construction safety"", ""marine operations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Monopiles must be no larger than 11 m in diameter."",
+      ""scope"": ""Monopile installation"",
+      ""numerical_value"": 11,
+      ""unit"": ""meters"",
+      ""source"": ""50 CFR 217.264"",
+      ""related_domains"": [""structural integrity"", ""engineering standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Hammer energies must not exceed 4,000 kilojoules for monopile installation."",
+      ""scope"": ""Monopile installation"",
+      ""numerical_value"": 4000,
+      ""unit"": ""kilojoules"",
+      ""source"": ""50 CFR 217.264"",
+      ""related_domains"": [""engineering standards"", ""construction safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""No more than two monopiles may be installed per day."",
+      ""scope"": ""Monopile installation"",
+      ""numerical_value"": 2,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264"",
+      ""related_domains"": [""construction scheduling"", ""project management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Pin piles must be no larger than 5 m in diameter."",
+      ""scope"": ""Pin pile installation"",
+      ""numerical_value"": 5,
+      ""unit"": ""meters"",
+      ""source"": ""50 CFR 217.264"",
+      ""related_domains"": [""structural integrity"", ""engineering standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Hammer energies must not exceed 2,500 kJ for pin pile installation."",
+      ""scope"": ""Pin pile installation"",
+      ""numerical_value"": 2500,
+      ""unit"": ""kilojoules"",
+      ""source"": ""50 CFR 217.264"",
+      ""related_domains"": [""engineering standards"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Impact pile driving must only be initiated during daylight hours in May and November."",
+      ""scope"": ""Impact pile driving in May and November"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264"",
+      ""related_domains"": [""construction safety"", ""marine operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must utilize a soft-start protocol for each impact pile driving event."",
+      ""scope"": ""Impact pile driving"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264"",
+      ""related_domains"": [""construction safety"", ""marine operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and approval authority""
+    }
+  ]
+}
+```"
+"40",14,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(c)(6)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Soft-start must occur at the beginning of impact driving and at any time following a cessation of impact pile driving of 30 minutes or longer."",
+      ""scope"": ""Impact pile driving phase"",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR 217.264(c)(6)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Impact pile driving must be delayed until the animal has been visually observed exiting the clearance zone or until a specific time period has elapsed with no further sightings."",
+      ""scope"": ""Impact pile driving phase"",
+      ""numerical_value"": 15,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR 217.264(c)(7)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The clearance zone may only be declared clear if no North Atlantic right whale acoustic or visual detections have occurred within the clearance zone during the 60-minute monitoring period."",
+      ""scope"": ""Impact pile driving phase"",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR 217.264(c)(8)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must deploy at least two functional noise abatement systems that reduce noise levels to the modeled harassment isopleths, assuming 10-dB attenuation, during all impact pile driving."",
+      ""scope"": ""Impact pile driving phase"",
+      ""numerical_value"": 10,
+      ""unit"": ""dB"",
+      ""source"": ""50 CFR 217.264(c)(9)"",
+      ""related_domains"": [""noise control"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Any bubble curtain(s) must distribute air bubbles using an air flow rate of at least 0.5 m[3]/(minute*m)."",
+      ""scope"": ""Impact pile driving phase"",
+      ""numerical_value"": 0.5,
+      ""unit"": ""m[3]/(minute*m)"",
+      ""source"": ""50 CFR 217.264(c)(9)(ii)"",
+      ""related_domains"": [""noise control"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",15,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The lowest bubble ring must be in contact with the seafloor for the full circumference of the ring, and the weights attached to the bottom ring must ensure 100-percent seafloor contact."",
+      ""scope"": ""Bubble curtain installation during construction phase."",
+      ""numerical_value"": 100,
+      ""unit"": ""percent"",
+      ""source"": null,
+      ""related_domains"": [""noise mitigation"", ""marine construction""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""No parts of the ring or other objects may prevent full seafloor contact with a bubble curtain ring."",
+      ""scope"": ""Bubble curtain installation during construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise mitigation"", ""marine construction""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Construction contractors must train personnel in the proper balancing of airflow to the bubble curtain ring."",
+      ""scope"": ""Bubble curtain installation during construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise mitigation"", ""marine construction""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must provide NMFS Office of Protected Resources with a bubble curtain performance test and maintenance report to review within 72 hours after each pile using a bubble curtain is installed."",
+      ""scope"": ""Bubble curtain installation during construction phase."",
+      ""numerical_value"": 72,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""regulatory compliance"", ""marine construction""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Corrections to the bubble ring(s) to meet the performance standards must occur prior to impact pile driving of monopiles."",
+      ""scope"": ""Bubble curtain installation prior to pile driving."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise mitigation"", ""marine construction""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must utilize NMFS-approved PAM systems."",
+      ""scope"": ""PAM system deployment during construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""noise mitigation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The PAM system components must not be placed closer than 1 km to the pile being driven."",
+      ""scope"": ""PAM system deployment during construction phase."",
+      ""numerical_value"": 1,
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""noise mitigation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The PAM system must be able to detect a vocalization of North Atlantic right whales up to 10 km."",
+      ""scope"": ""PAM system detection capability."",
+      ""numerical_value"": 10,
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""noise mitigation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",16,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(c)(12)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a marine mammal is detected (visually or acoustically) entering or within the respective shutdown zone after pile driving has begun, the PSO or PAM operator must call for a shutdown of pile driving and LOA Holder must stop pile driving immediately."",
+      ""scope"": ""Pile driving operations during construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(c)(12)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If pile driving is not shutdown in one of these situations, LOA Holder must reduce hammer energy to the lowest level practicable and the reason(s) for not shutting down must be documented and reported to NMFS Office of Protected Resources."",
+      ""scope"": ""Pile driving operations during construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(c)(12)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder may request NMFS approval to use alternative technology (e.g., drones) in lieu of one or two of the dedicated PSO vessels that provide similar marine mammal detection capabilities."",
+      ""scope"": ""Marine mammal detection during construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(c)(12)"",
+      ""related_domains"": [""marine mammal protection"", ""technology standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and enforcement agency regarding marine mammal protection.""
+    }
+  ]
+}
+```"
+"40",17,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If pile driving has been shut down due to the presence of a North Atlantic right whale, pile driving may not restart until the North Atlantic right whale has neither been visually or acoustically detected for 30 minutes."",
+      ""scope"": ""Pile driving activities related to offshore wind farm construction."",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""construction regulations""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If pile driving has been shut down due to the presence of a marine mammal other than a North Atlantic right whale, pile driving must not restart until either the marine mammal(s) has voluntarily left the specific clearance zones and has been visually or acoustically confirmed beyond that clearance zone, or, when specific time periods have elapsed with no further sightings or acoustic detections have occurred."",
+      ""scope"": ""Pile driving activities related to offshore wind farm construction."",
+      ""numerical_value"": 15,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""construction regulations""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""In cases where these criteria are not met, pile driving may restart only if necessary to maintain pile stability at which time LOA Holder must use the lowest hammer energy practicable to maintain stability."",
+      ""scope"": ""Pile driving activities related to offshore wind farm construction."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""construction regulations"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must conduct sound field verification (SFV) measurements during pile driving activities associated with the installation of, at minimum, the first three monopile foundations."",
+      ""scope"": ""Pile driving activities related to offshore wind farm construction."",
+      ""numerical_value"": 3,
+      ""unit"": ""piles"",
+      ""source"": null,
+      ""related_domains"": [""noise regulation"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""SFV measurements must continue until at least three consecutive piles demonstrate noise levels are at or below those modeled, assuming 10 decibels (dB) of attenuation."",
+      ""scope"": ""Pile driving activities related to offshore wind farm construction."",
+      ""numerical_value"": 10,
+      ""unit"": ""dB"",
+      ""source"": null,
+      ""related_domains"": [""noise regulation"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Subsequent SFV measurements are also required should larger piles be installed or if additional piles are driven that may produce louder sound fields than those previously measured."",
+      ""scope"": ""Pile driving activities related to offshore wind farm construction."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise regulation"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",18,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(c)(15)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The SFV measurement systems must have a sensitivity appropriate for the expected sound levels from pile driving received at the nominal ranges throughout the installation of the pile."",
+      ""scope"": ""Pile driving phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(c)(15)(iii)"",
+      ""related_domains"": [""acoustic monitoring"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The frequency range of SFV measurement systems must cover the range of at least 20 hertz (Hz) to 20 kilohertz (kHz)."",
+      ""scope"": ""Pile driving phase"",
+      ""numerical_value"": 20,
+      ""unit"": ""Hz"",
+      ""source"": ""50 CFR 217.264(c)(15)(iii)"",
+      ""related_domains"": [""acoustic monitoring"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The dynamic range of the SFV measurement system must be sufficient such that at each location, and the signals avoid poor signal-to-noise ratios for low amplitude signals and avoid clipping, nonlinearity, and saturation for high amplitude signals."",
+      ""scope"": ""Pile driving phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(c)(15)(iii)"",
+      ""related_domains"": [""acoustic monitoring"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All hydrophones used in SFV measurements systems are required to have undergone a full calibration."",
+      ""scope"": ""Pile driving phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(c)(15)(iv)"",
+      ""related_domains"": [""acoustic monitoring"", ""marine mammal protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",19,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must not exceed modeled distances to NMFS marine mammal Level A harassment and Level B harassment thresholds, assuming 10-dB attenuation, for foundation installation."",
+      ""scope"": ""Foundation installation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS"",
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If any of the interim SFV measurement reports submitted for the first three monopiles indicate the modeled distances to NMFS marine mammal Level A harassment and Level B harassment thresholds assuming 10-dB attenuation, then LOA Holder must implement additional sound attenuation measures on all subsequent foundations."",
+      ""scope"": ""Foundation installation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS"",
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must submit 48-hour interim reports after each foundation is measured."",
+      ""scope"": ""Foundation installation phase"",
+      ""numerical_value"": 48,
+      ""unit"": ""hours"",
+      ""source"": ""§ 217.265(g)"",
+      ""related_domains"": [""reporting requirements"", ""monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"40",20,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(c)(15)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must optimize the sound attenuation systems to meet noise levels modeled, assuming 10-dB attenuation, within three piles or else foundation installation activities must cease."",
+      ""scope"": ""Foundation installation activities"",
+      ""numerical_value"": 10,
+      ""unit"": ""dB"",
+      ""source"": ""50 CFR 217.264(c)(15)(vii)"",
+      ""related_domains"": [""noise regulation"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If acoustic measurements indicate that ranges to isopleths corresponding to the Level A harassment and Level B harassment thresholds are less than the ranges predicted by modeling, LOA Holder may request to NMFS Office of Protected Resources a modification of the clearance and shutdown zones."",
+      ""scope"": ""Clearance and shutdown zones"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(c)(15)(viii)"",
+      ""related_domains"": [""marine mammal protection"", ""construction regulation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must conduct SFV measurements upon commencement of turbine operations to estimate turbine operational source levels."",
+      ""scope"": ""Turbine operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(c)(15)(ix)"",
+      ""related_domains"": [""operational monitoring"", ""marine mammal protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"40",21,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""(c)(15)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must submit a SFV Plan to NMFS Office of Protected Resources for review and approval at least 180 days prior to planned start of foundation installation activities and abide by the Plan if approved."",
+      ""scope"": ""Foundation installation activities"",
+      ""numerical_value"": 180,
+      ""unit"": ""days"",
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal monitoring"", ""sound attenuation"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The SFV Plan must describe how LOA Holder would ensure that the first three monopile foundation installation sites selected for SFV measurements are representative of the rest of the monopile installation sites."",
+      ""scope"": ""Monopile foundation installation sites"",
+      ""numerical_value"": 3,
+      ""unit"": ""sites"",
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal monitoring"", ""sound attenuation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In the case that these sites/scenarios are not determined to be representative of all other pile installation sites, LOA Holder must include information in the SFV Plan on how additional sites/scenarios would be selected for SFV measurements."",
+      ""scope"": ""Selection of additional sites for SFV measurements"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal monitoring"", ""sound attenuation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The SFV Plan must also include methodology for collecting, analyzing, and preparing SFV measurement data for submission to NMFS Office of Protected Resources."",
+      ""scope"": ""SFV measurement data preparation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal monitoring"", ""data analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""SFV for pile driving may not occur until NMFS approves the SFV Plan for this activity."",
+      ""scope"": ""Pile driving activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal monitoring"", ""sound attenuation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS Office of Protected Resources"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",22,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must submit a Passive Acoustic Monitoring Plan (PAM Plan) to NMFS Office of Protected Resources for review and approval at least 180 days prior to the planned start of foundation installation activities (impact pile driving) and abide by the Plan if approved."",
+      ""scope"": ""Foundation installation activities (impact pile driving)"",
+      ""numerical_value"": 180,
+      ""unit"": ""days"",
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""environmental impact assessment"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""No pile installation can occur if LOA Holder's PAM Plan does not receive approval from NMFS Office of Protected Resources and NMFS Greater Atlantic Regional Fisheries Office Protected Resources Division."",
+      ""scope"": ""Pile installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""environmental impact assessment"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Installation and removal of cofferdams and goal posts must not occur during nighttime hours (defined as the hours between 1.5 hours prior to civil sunset and 1 hour after civil sunrise)."",
+      ""scope"": ""Cofferdams and goal posts installation and removal"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""construction safety"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS Office of Protected Resources"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NMFS Greater Atlantic Regional Fisheries Office Protected Resources Division"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",23,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(d)(4)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must stop vibratory pile driving immediately unless shutdown is not practicable due to imminent risk of injury or loss of life to an individual or if there is a risk of damage to the vessel that would create a risk of injury or loss of life for individuals or if the lead engineer determines there is refusal or instability."",
+      ""scope"": ""Vibratory pile driving associated with cofferdam and casing pipe installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(d)(5)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""At least two on-duty PSOs must monitor for marine mammals at least 30 minutes before, during, and 30 minutes after vibratory pile driving associated with cofferdam and casing pipe installation."",
+      ""scope"": ""Vibratory pile driving associated with cofferdam and casing pipe installation"",
+      ""numerical_value"": 2,
+      ""unit"": ""PSOs"",
+      ""source"": ""50 CFR 217.264(d)(4)"",
+      ""related_domains"": [""marine mammal protection"", ""construction monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All installation and removal of sheet piles for cofferdams and casing pipes for goal posts must only occur for up to 12 hours for each cofferdam and up to 1 hour daily for each goal post."",
+      ""scope"": ""Installation and removal of cofferdams and goal posts"",
+      ""numerical_value"": 12,
+      ""unit"": ""hours"",
+      ""source"": ""50 CFR 217.264(d)(2)"",
+      ""related_domains"": [""construction scheduling"", ""project management""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""LOA Holder must establish and implement clearance zones for the installation and removal of cofferdams and goal posts using visual monitoring."",
+      ""scope"": ""Installation and removal of cofferdams and goal posts"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(d)(3)"",
+      ""related_domains"": [""construction safety"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",24,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder may only resort to high-order removal (i.e., detonation) if all other means of removal are impracticable."",
+      ""scope"": ""UXO/MEC removal operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""explosive safety"", ""marine operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder may detonate a maximum of 10 UXO/MECs, of varying sizes but no larger than 1,000 pounds (lbs; 454 kilograms (kg)) charge weight (i.e., E12), over the effective period of this rulemaking and LOA."",
+      ""scope"": ""UXO/MEC detonation operations"",
+      ""numerical_value"": 10,
+      ""unit"": ""units"",
+      ""source"": null,
+      ""related_domains"": [""explosive safety"", ""marine operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must not detonate UXO/MECs from November 1 through April 31, annually."",
+      ""scope"": ""UXO/MEC detonation operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""explosive safety"", ""marine operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""UXO/MEC detonations must only occur during daylight hours."",
+      ""scope"": ""UXO/MEC detonation operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""explosive safety"", ""marine operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""No more than one detonation may occur within a 24-hour period."",
+      ""scope"": ""UXO/MEC detonation operations"",
+      ""numerical_value"": 1,
+      ""unit"": ""detonation"",
+      ""source"": null,
+      ""related_domains"": [""explosive safety"", ""marine operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must establish and implement clearance zones for UXO/MEC detonation using both visual and acoustic monitoring."",
+      ""scope"": ""UXO/MEC detonation operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""explosive safety"", ""marine operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If the clearance zone is larger than 5 km, at least one dedicated PSO vessel (with at least three on-duty PSOs) and an aerial platform (with at least two on-duty PSOs) must be used."",
+      ""scope"": ""UXO/MEC detonation operations"",
+      ""numerical_value"": 5,
+      ""unit"": ""km"",
+      ""source"": null,
+      ""related_domains"": [""explosive safety"", ""marine operations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must utilize NMFS-approved PAM systems."",
+      ""scope"": ""UXO/MEC detonation operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""marine operations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must deploy at least a double big bubble curtain during all UXO/MEC detonations."",
+      ""scope"": ""UXO/MEC detonation operations"",
+      ""numerical_value"": 0.5,
+      ""unit"": ""m [3]/(minute*m)"",
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""marine operations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",25,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(e)(9)(iv)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Construction contractors must train personnel in the proper balancing of airflow to the bubble curtain ring."",
+      ""scope"": ""Construction phase, bubble curtain ring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(e)(9)(iv)"",
+      ""related_domains"": [""marine mammal protection"", ""construction practices""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must provide NMFS Office of Protected Resources with a bubble curtain performance test and maintenance report to review within 72 hours after each UO/MEC is detonated."",
+      ""scope"": ""Construction phase, bubble curtain performance"",
+      ""numerical_value"": 72,
+      ""unit"": ""hours"",
+      ""source"": ""50 CFR 217.264(e)(9)(iv)"",
+      ""related_domains"": [""marine mammal protection"", ""construction practices""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Corrections to the bubble ring(s) to meet the performance standards in this paragraph (e)(9) must occur prior to UXO/MEC detonation."",
+      ""scope"": ""Construction phase, bubble curtain ring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(e)(9)(v)"",
+      ""related_domains"": [""marine mammal protection"", ""construction practices""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must conduct SFV during all UXO/MEC detonations as described in paragraph (c)(15) of this section and deploy a pressure transducer."",
+      ""scope"": ""Construction phase, UXO/MEC detonations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(e)(10)"",
+      ""related_domains"": [""safety protocols"", ""explosive safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Clearance zones must be fully visible for at least 60 minutes and all marine mammal(s) must be."",
+      ""scope"": ""Construction phase, UXO/MEC detonations"",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR 217.264(e)(11)"",
+      ""related_domains"": [""safety protocols"", ""marine mammal protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"40",26,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Detonation may only commence if all marine mammals have been confirmed to have voluntarily left the clearance zones and been visually confirmed to be beyond the clearance zone, or when 60 minutes have elapsed without any redetections for whales (including the North Atlantic right whale) or 15 minutes have elapsed without any redetections of delphinids, harbor porpoises, or seals."",
+      ""scope"": ""Clearance zone during UXO/MEC detonations"",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal protection"", ""safety protocols""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must not exceed modeled distances to NMFS marine mammal Level A harassment and Level B harassment thresholds, assuming 10-dB attenuation, for UXO/MEC detonations."",
+      ""scope"": ""UXO/MEC detonations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""acoustic monitoring"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If any of the interim SFV measurement reports submitted for any UXO/MEC detonations indicate the modeled distances to NMFS marine mammal Level A harassment and Level B harassment thresholds assuming 10-dB attenuation for future detonations will be exceeded, then LOA Holder must implement additional sound attenuation measures on all subsequent UXO/MEC detonations."",
+      ""scope"": ""Subsequent UXO/MEC detonations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""acoustic monitoring"", ""marine mammal protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must also increase clearance zone sizes to those identified by NMFS until SFV measurements on UXO/MECs demonstrate distances to harassment thresholds will be met or will be less than those modeled."",
+      ""scope"": ""Clearance zone for UXO/MEC detonations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal protection"", ""safety protocols""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and regulation of marine mammal protection""
+    }
+  ]
+}
+```"
+"40",27,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(e)(12)(ii)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must submit a SFV Plan for UXO/MEC detonation to NMFS Office of Protected Resources for review and approval at least 180 days prior to planned start of UXO/MEC detonation activities and abide by the Plan if approved."",
+      ""scope"": ""UXO/MEC detonation activities"",
+      ""numerical_value"": 180,
+      ""unit"": ""days"",
+      ""source"": ""50 CFR 217.264(e)(12)(ii)"",
+      ""related_domains"": [""marine mammal protection"", ""explosive ordnance disposal"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""SFV for UXO/MEC detonation cannot occur until NMFS approves the SFV Plan for this activity."",
+      ""scope"": ""UXO/MEC detonation activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(e)(12)(ii)"",
+      ""related_domains"": [""marine mammal protection"", ""explosive ordnance disposal""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must submit a UXO/MEC Marine Mammal Monitoring Plan to NMFS Office of Protected Resources."",
+      ""scope"": ""UXO/MEC activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(e)(12)(iii)"",
+      ""related_domains"": [""marine mammal protection"", ""monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",28,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must obtain both NMFS Office of Protected Resources and NMFS Greater Atlantic Regional Fisheries Office Protected Resources Division's concurrence with this Plan prior to the start of any UXO/MEC detonations."",
+      ""scope"": ""UXO/MEC detonation activities"",
+      ""numerical_value"": 180,
+      ""unit"": ""days"",
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal protection"", ""explosive safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Plan must include a description of all monitoring equipment and PAM and PSO protocols (including number and location of PSOs) for all UXO/MEC detonations."",
+      ""scope"": ""UXO/MEC detonation activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""monitoring protocols"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The PAM Plan must include a description of all proposed PAM equipment, address how the proposed passive acoustic monitoring must follow standardized measurement, processing methods, reporting metrics, and metadata standards for offshore wind."",
+      ""scope"": ""UXO/MEC detonation activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""passive acoustic monitoring"", ""standardization""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""No UXO/MEC detonations can occur without NMFS' approval of the Plan."",
+      ""scope"": ""UXO/MEC detonation activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""explosive safety"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS) Office of Protected Resources"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NMFS Greater Atlantic Regional Fisheries Office Protected Resources Division"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",29,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(f)(6)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must establish and implement clearance and shutdown zones for HRG surveys using visual monitoring."",
+      ""scope"": ""Survey activities using acoustic sources."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(f)(1)"",
+      ""related_domains"": [""marine mammal protection"", ""survey safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must utilize PSO(s), as described in § 217.265(f)."",
+      ""scope"": ""Survey activities using acoustic sources."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(f)(2)"",
+      ""related_domains"": [""marine mammal protection"", ""survey safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""LOA Holder must abide by the relevant Project Design Criteria (PDCs 4, 5, and 7) of the programmatic consultation completed by NMFS' Greater Atlantic Regional Fisheries Office."",
+      ""scope"": ""Project design and environmental compliance."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(f)(3)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine life protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""SBPs must be deactivated when not acquiring data or preparing to acquire data, except as necessary for testing."",
+      ""scope"": ""Operation of acoustic sources."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(f)(4)"",
+      ""related_domains"": [""acoustic monitoring"", ""technical operation""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder is required to ramp-up acoustic sources prior to commencing full power and ensure visual clearance zones are fully visible."",
+      ""scope"": ""Survey activities using acoustic sources."",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR 217.264(f)(5)"",
+      ""related_domains"": [""marine mammal protection"", ""survey safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and compliance regarding marine mammals.""
+    }
+  ]
+}
+```"
+"40",30,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Prior to a ramp-up procedure starting or activating acoustic sources, the acoustic source operator must notify a designated PSO of the planned start of ramp-up as agreed upon with the Lead PSO."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""During this 30-minute pre-start clearance period, the entire applicable clearance zones must be visible."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A PSO conducting pre-start clearance observations must be notified again immediately prior to reinitiating ramp-up procedures."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The LOA Holder must implement a 30-minute clearance period of the clearance zones immediately prior to the commencing of the survey."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a marine mammal is observed within a clearance zone during the clearance period, ramp-up or acoustic surveys may not begin until the animal(s) has been observed voluntarily exiting its respective clearance zone or until a specific time period has elapsed with no further sighting."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 15,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The specific time period is 15 minutes for small odontocetes and pinnipeds, and 30 minutes for all other species."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",31,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""50 CFR 217.264(f)(13)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Shutdown is required if a delphinid that belongs to a genus other than those specified in this paragraph is detected in the shutdown zone."",
+      ""scope"": ""Shutdown zone during survey operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.264(f)(12)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If an acoustic source has been shut down due to the presence of a marine mammal, the use of an acoustic source may not commence or resume until the animal(s) has been confirmed to have left the Level B harassment zone or until a full 15 minutes (for small odontocetes and seals) or 30 minutes (for all other marine mammals) have elapsed with no further sighting."",
+      ""scope"": ""Level B harassment zone during survey operations"",
+      ""numerical_value"": 15,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR 217.264(f)(13)"",
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",32,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(f)(14)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must immediately shut down any acoustic source if a marine mammal is sighted entering or within its respective shutdown zones."",
+      ""scope"": ""Shutdown zones related to acoustic sources during construction activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Shutdown is required if a delphinid that belongs to a genus other than those specified in paragraph (f)(12) of this section is detected in the shutdown zone."",
+      ""scope"": ""Shutdown zones related to delphinid detection during construction activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If an acoustic source is shut down for a period longer than 30 minutes, all clearance and ramp-up procedures must be initiated."",
+      ""scope"": ""Operational procedures following acoustic source shutdown."",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""acoustic monitoring"", ""construction procedures""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Gear must not be deployed if there is a risk of interaction with marine mammals."",
+      ""scope"": ""Fishery monitoring surveys during construction activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""marine mammal protection"", ""fisheries monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Gear may be deployed after 15 minutes of no marine mammal sightings within 1 nautical mile of the sampling station."",
+      ""scope"": ""Fishery monitoring surveys during construction activities."",
+      ""numerical_value"": 15,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""marine mammal protection"", ""fisheries monitoring""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",33,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""50 CFR 217.264(g)(9)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If marine mammals are sighted within 1 nmi of the planned location and 15 minutes before gear deployment, then LOA Holder and/or its cooperating institutions, contracted vessels, or commercially hired captains must move the vessel away from the marine mammal to a different section of the sampling area."",
+      ""scope"": ""Sampling area during gear deployment"",
+      ""numerical_value"": 1,
+      ""unit"": ""nmi"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a marine mammal is deemed to be at risk of interaction after the gear is deployed or set, all gear must be immediately removed from the water."",
+      ""scope"": ""Operational phase during gear deployment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""safety protocols""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All fisheries monitoring gear must be fully cleaned and repaired (if damaged) before each use/deployment."",
+      ""scope"": ""Pre-deployment phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""fisheries management"", ""equipment maintenance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder's fixed gear must comply with the Atlantic Large Whale Take Reduction Plan regulations."",
+      ""scope"": ""Fisheries monitoring surveys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 229.32"",
+      ""related_domains"": [""marine mammal protection"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Trawl tows must be limited to a maximum of a 20-minute trawl time at 3.0 kn."",
+      ""scope"": ""Operational phase during trawl surveys"",
+      ""numerical_value"": 20,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""fisheries management"", ""operational efficiency""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""During trawl surveys, vessel crew must open the codend of the trawl net close to the deck in order to avoid injury to animals that may be caught in the gear."",
+      ""scope"": ""Operational phase during trawl surveys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""safety protocols""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"40",34,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.264(g)(10)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Baited remote underwater video (BRUV) sampling must limit soak duration to 60 minutes or less."",
+      ""scope"": ""In-water survey gear usage during construction."",
+      ""numerical_value"": 60,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""marine mammal protection"", ""survey methodology""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Each chevron trap must have a vertical buoy line and must limit soak duration to 90 minutes or less."",
+      ""scope"": ""In-water survey gear usage during construction."",
+      ""numerical_value"": 90,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""marine mammal protection"", ""survey methodology""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All fishery survey-related lines must include the breaking strength of all lines being less than 1,700 pounds (lbs)."",
+      ""scope"": ""In-water survey gear usage during construction."",
+      ""numerical_value"": 1700,
+      ""unit"": ""lbs"",
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""marine mammal protection"", ""survey methodology""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Buoy lines must utilize weak links. Weak links must break cleanly leaving behind the bitter end of the line."",
+      ""scope"": ""In-water survey gear usage during construction."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""marine mammal protection"", ""survey methodology""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All in-water survey gear, including buoys, must be properly labeled with the scientific permit number or identification as LOA Holder's research gear."",
+      ""scope"": ""In-water survey gear usage during construction."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR Part 217 Subpart AA"",
+      ""related_domains"": [""marine mammal protection"", ""survey methodology""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",35,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""§ 217.265"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must use independent, NMFS-approved PSOs and PAM operators."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All PSOs and PAM operators must have successfully attained a bachelor's degree from an accredited college or university with a major in one of the natural sciences."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 30,
+      ""unit"": ""semester hours"",
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine biology"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Requests for such a waiver must be submitted to NMFS Office of Protected Resources and must include written justification containing alternative experience."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PSOs must have visual acuity in both eyes (with correction of vision being permissible) sufficient."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",36,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.265(a)(4)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All PSOs must be trained in northwestern Atlantic Ocean marine mammal identification and behaviors and must be able to conduct field observations and collect data according to assigned protocols."",
+      ""scope"": ""Northwestern Atlantic Ocean, Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(a)(4)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""PSOs and PAM operators must successfully complete a relevant training course within the last 5 years, including obtaining a certificate of course completion."",
+      ""scope"": ""General, applicable to PSOs and PAM operators"",
+      ""numerical_value"": 5,
+      ""unit"": ""years"",
+      ""source"": ""50 CFR 217.265(a)(5)"",
+      ""related_domains"": [""training requirements"", ""marine mammal observation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"40",37,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Lead PSO or PAM operators must be unconditionally approved and have a minimum of 90 days in a northwestern Atlantic Ocean offshore environment performing the role."",
+      ""scope"": ""Northwestern Atlantic Ocean offshore environment, PSO and PAM operator roles."",
+      ""numerical_value"": 90,
+      ""unit"": ""days"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""offshore operations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must submit NMFS previously approved PSOs and PAM operators to NMFS Office of Protected Resources for review and confirmation of their approval for specific roles at least 30 days prior to commencement of the activities requiring PSOs/PAM operators."",
+      ""scope"": ""Activities requiring PSOs/PAM operators."",
+      ""numerical_value"": 30,
+      ""unit"": ""days"",
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""permitting"", ""marine mammal monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must submit NMFS previously approved PSOs and PAM operators to NMFS Office of Protected Resources for review and confirmation of their approval for specific roles 15 days prior to when new PSOs/PAM operators are required after activities have commenced."",
+      ""scope"": ""Activities requiring PSOs/PAM operators."",
+      ""numerical_value"": 15,
+      ""unit"": ""days"",
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""permitting"", ""marine mammal monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and approval of PSOs and PAM operators.""
+    }
+  ]
+}
+```"
+"40",38,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.265(a)(11)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM operators are responsible for obtaining NMFS approval."",
+      ""scope"": ""PAM operator approval process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(a)(11)"",
+      ""related_domains"": [""marine mammal protection"", ""operational compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",39,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM operators must demonstrate that they have prior experience with real-time acoustic detection systems and/or have completed specialized training for operating PAM systems and detecting and identifying Atlantic Ocean marine mammals sounds."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""acoustic detection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM operators must be able to distinguish between whether a marine mammal or other species sound is detected, possibly detected, not detected and similar terminology must be used across companies/projects."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""acoustic detection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM operators need to have demonstrated experience in using localization techniques for sounds."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""acoustic detection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM operators must have the qualifications and relevant experience/training to safely deploy and retrieve equipment and program the software, as necessary."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""equipment handling"", ""marine mammal monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM operators must be able to test software and hardware functionality prior to operation."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""software testing"", ""marine mammal monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM operators must have evaluated their acoustic detection software using the PAM Atlantic baleen whale annotated data set available at National Centers for Environmental Information (NCEI) and provide evaluation/performance metric."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Centers for Environmental Information (NCEI)"",
+      ""related_domains"": [""software evaluation"", ""marine mammal monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM operators must be able to review and classify acoustic detections in real-time (prioritizing North Atlantic right whales and noting detection of other cetaceans) during the real-time monitoring periods."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""acoustic detection""]
+    },
+    {
+      ""type"": ""Regulatory"",
+      ""requirement"": ""PSOs may work as PAM operators and vice versa, pending NMFS-approval; however, they may only perform one role at any one time and must not exceed work time restrictions, which must be tallied cumulatively."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS"",
+      ""related_domains"": [""workforce management"", ""marine mammal monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",40,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.265(b)(4)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""PSOs must monitor for marine mammals prior to, during, and following impact pile driving, vibratory pile driving, UXO/MEC detonation activities, and HRG surveys."",
+      ""scope"": ""Construction phase, specifically during impact pile driving, vibratory pile driving, UXO/MEC detonation activities, and HRG surveys."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(b)(1)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""For foundation installation and UXO/MEC detonation, PSOs must visually clear the entire minimum visibility zone for a full 30 minutes immediately prior to commencing activities."",
+      ""scope"": ""Foundation installation and UXO/MEC detonation activities."",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": ""50 CFR 217.265(b)(2)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All PSOs must be located at the best vantage point(s) on any platform to obtain 360-degree visual coverage of the entire clearance and shutdown zones."",
+      ""scope"": ""Construction phase, specifically during activities requiring PSO monitoring."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(b)(3)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",41,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The PAM operator must monitor to and past the clearance zone for large whales."",
+      ""scope"": ""Clearance and shutdown zones during construction activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All on-duty PSOs must remain in real-time contact with the on-duty PAM operator(s)."",
+      ""scope"": ""Operational phase during construction activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal observation"", ""communication protocols""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""PAM operators must immediately communicate all acoustic detections of marine mammals to PSOs."",
+      ""scope"": ""Operational phase during construction activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal observation"", ""communication protocols""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The PAM operator must inform the Lead PSO(s) on duty of animal detections approaching or within applicable ranges of interest."",
+      ""scope"": ""Operational phase during construction activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal observation"", ""mitigation procedures""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PSOs must use high magnification (25x) binoculars, standard handheld (7x) binoculars."",
+      ""scope"": ""Operational phase during construction activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal observation"", ""monitoring equipment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"40",42,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""PSOs and PAM operators must not exceed 4 consecutive watch hours on duty at any time, must have a 2-hour (minimum) break between watches, and must not exceed a combined watch schedule of more than 12 hours in a 24-hour period."",
+      ""scope"": ""Monitoring during WTG and OSS foundation installation and UXO/MEC detonations"",
+      ""numerical_value"": 4,
+      ""unit"": ""hours"",
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal monitoring"", ""worker safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PSOs on the pile driving and detonation-dedicated PSO vessel must be equipped with functional Big Eye binoculars."",
+      ""scope"": ""Foundation installation and UXO/MEC detonations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal monitoring"", ""technical specifications""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM operators must have a computer station equipped with a data collection software system available wherever they are stationed."",
+      ""scope"": ""Monitoring during WTG and OSS foundation installation and UXO/MEC detonations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal monitoring"", ""technical specifications""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""During periods of low visibility, PSOs must use alternative technology (i.e., infrared or thermal cameras) to monitor the clearance and shutdown zones as approved by NMFS."",
+      ""scope"": ""Monitoring during WTG and OSS foundation installation and UXO/MEC detonations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal monitoring"", ""technical specifications""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and approval of monitoring systems""
+    }
+  ]
+}
+```"
+"40",43,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.265(c)(3)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""At least three on-duty PSOs must be stationed and observing from the activity platform during impact pile driving or UXO/MEC detonation."",
+      ""scope"": ""Impact pile driving and UXO/MEC detonation activities."",
+      ""numerical_value"": 3,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(c)(2)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The PAM operator must review all detections from the previous 24-hour period immediately prior to pile driving and UXO/MEC detonation activities."",
+      ""scope"": ""Prior to pile driving or UXO/MEC detonation activities."",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": ""50 CFR 217.265(c)(3)"",
+      ""related_domains"": [""marine mammal monitoring"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""At least two PSOs must be on active duty during all activities related to the installation and removal of cofferdams and goal posts."",
+      ""scope"": ""Installation and removal of cofferdams and goal posts."",
+      ""numerical_value"": 2,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(d)(1)"",
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and permitting authority for marine mammal protection.""
+    }
+  ]
+}
+```"
+"40",44,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""PSOs must monitor the clearance zone for the presence of marine mammals for 30 minutes before, throughout the installation of the sheet piles (and casing pipe, if installed), and for 30 minutes after all vibratory pile driving activities have ceased."",
+      ""scope"": ""Installation of sheet piles and casing pipe during construction phase."",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Sheet pile or casing pipe installation must only commence when visual clearance zones are fully visible and clear of marine mammals, as determined by the Lead PSO, for at least 30 minutes immediately prior to initiation of vibratory pile driving."",
+      ""scope"": ""Installation of sheet piles and casing pipe during construction phase."",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Between four and six PSOs must be present on every 24-hour survey vessel and two to three PSOs must be present on every 12-hour survey vessel."",
+      ""scope"": ""HRG surveys using acoustic sources."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""survey operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""At least one PSO must be on active duty monitoring during HRG surveys conducted during daylight and at least two PSOs must be on active duty monitoring during HRG surveys conducted at night."",
+      ""scope"": ""HRG surveys conducted during daylight and night."",
+      ""numerical_value"": 1,
+      ""unit"": ""PSO"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""survey operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""PSOs on HRG vessels must begin monitoring 30 minutes prior to activating acoustic sources, during the use of these acoustic sources, and for 30 minutes after use of these acoustic sources has ceased."",
+      ""scope"": ""HRG surveys using acoustic sources."",
+      ""numerical_value"": 30,
+      ""unit"": ""minutes"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""acoustic source management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Any observations of marine mammals must be communicated to PSOs on all nearby survey vessels during concurrent HRG surveys."",
+      ""scope"": ""HRG surveys using acoustic sources."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""communication protocols""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""During daylight hours when survey equipment is not operating, LOA Holder must ensure that visual PSOs conduct observations for comparison of sighting rates and behavior with and without use of the specified acoustic sources."",
+      ""scope"": ""HRG surveys during daylight hours."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""behavioral studies""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",45,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.265(g)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Marine mammal monitoring must be conducted within 1 nmi from the planned survey location by the trained captain and/or a member of the scientific crew for 15 minutes prior to deploying gear, throughout gear deployment and use, and for 15 minutes after haul back."",
+      ""scope"": ""1 nautical mile from the planned survey location during fishery surveys."",
+      ""numerical_value"": 1,
+      ""unit"": ""nmi"",
+      ""source"": ""50 CFR 217.265(f)(2)"",
+      ""related_domains"": [""marine mammal protection"", ""fisheries monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must use a standardized reporting system during the effective period of the LOA."",
+      ""scope"": ""Reporting of data collected related to the Project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(g)(2)"",
+      ""related_domains"": [""data management"", ""reporting standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All data collected related to the Project must be recorded using industry-standard software that is installed on field laptops and/or tablets."",
+      ""scope"": ""Data collection and reporting for the Project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(g)(2)"",
+      ""related_domains"": [""data management"", ""software standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All reports must be submitted to NMFS Office of Protected Resources, dates must be in MM/DD/YYYY format, and location information must be provided in Decimal Degrees and with the coordinate system information."",
+      ""scope"": ""Submission of reports related to the Project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(g)(2)"",
+      ""related_domains"": [""reporting standards"", ""data accuracy""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and regulatory authority for marine mammal protection.""
+    }
+  ]
+}
+```"
+"40",46,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All marine mammal sightings, regardless of distance from the construction activity, must be reported."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal monitoring"", ""construction activities""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The description of any mitigation-related action implemented, or mitigation-related actions called for but not implemented, in response to the sighting must be reported."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal protection"", ""construction activities""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"40",47,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.265(g)(4)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""LOA Holder must compile and submit weekly reports during foundation installation to NMFS Office of Protected Resources that document the daily start and stop of all pile driving associated with the Project; the start and stop of associated observation periods by PSOs; details on the deployment of PSOs; a record of all detections of marine mammals (acoustic and visual); any mitigation actions (or if mitigation actions could not be taken, provide reasons why); and details on the noise attenuation system(s) used and its performance."",
+      ""scope"": ""Foundation installation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(g)(4)"",
+      ""related_domains"": [""marine mammal protection"", ""construction monitoring"", ""noise management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Weekly reports are due on Wednesday for the previous week (Sunday to Saturday) and must include the information required under this section."",
+      ""scope"": ""Reporting schedule for foundation installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(g)(4)"",
+      ""related_domains"": [""reporting requirements"", ""construction monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The weekly report must also identify which turbines become operational and when (a map must be provided)."",
+      ""scope"": ""Operational phase of turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(g)(4)"",
+      ""related_domains"": [""operational reporting"", ""construction monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS) Office of Protected Resources"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",48,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monthly reports are due on the 15th of the month for the previous month."",
+      ""scope"": ""Project activities and marine mammal detections during construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS North Atlantic Right Whale Passive Acoustic Reporting System"",
+      ""related_domains"": [""marine mammal protection"", ""reporting requirements""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Full PAM detection data and metadata must also be submitted monthly on the 15th of every month for the previous month."",
+      ""scope"": ""Passive Acoustic Monitoring data related to marine mammals."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS North Atlantic Right Whale Passive Acoustic Reporting System"",
+      ""related_domains"": [""marine mammal protection"", ""data submission""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"40",49,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""LOA Holder must provide a final report within 30 days following resolution of NMFS' comments on the draft report."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 30,
+      ""unit"": ""days"",
+      ""source"": ""National Marine Fisheries Service (NMFS)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A 5-year report must be prepared and submitted within 60 calendar days following receipt of any NMFS Office of Protected Resources comments on the draft report."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 60,
+      ""unit"": ""days"",
+      ""source"": ""National Marine Fisheries Service (NMFS)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For those foundation piles and UXO/MEC detonations requiring SFV measurements, LOA Holder must submit its draft 5-year report to NMFS Office of Protected Resources."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Marine Fisheries Service (NMFS)"",
+      ""related_domains"": [""technical standards"", ""construction monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NMFS Office of Protected Resources"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"40",50,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.265(g)(8)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""must provide the initial results of the SFV measurements to NMFS Office of Protected Resources in an interim report after each foundation installation event and each UXO/MEC detonation event as soon as they are available and prior to a subsequent detonation or foundation installation, but no later than 48 hours after each completed foundation installation event and 48 hours after a detonation."",
+      ""scope"": ""Foundation installation and UXO/MEC detonation events"",
+      ""numerical_value"": 48,
+      ""unit"": ""hours"",
+      ""source"": ""50 CFR 217.265(g)(8)"",
+      ""related_domains"": [""marine mammal protection"", ""construction reporting"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The report must include, at minimum: hammer energies/schedule used during pile driving, including, the total number of strikes and the maximum hammer energy."",
+      ""scope"": ""Pile driving operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(g)(8)"",
+      ""related_domains"": [""construction practices"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The report must include, at minimum: peak sound pressure level (SPL pk), root-mean-square sound pressure level that contains 90 percent of the acoustic energy (SPL rms), and sound exposure level (SEL, in single strike for pile driving, SEL ss), for each hydrophone, including at least the maximum, arithmetic mean, minimum."",
+      ""scope"": ""Acoustic monitoring during pile driving"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(g)(8)"",
+      ""related_domains"": [""acoustic monitoring"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS Office of Protected Resources"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",51,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If any in-situ calibration checks for hydrophones reveal a calibration drift greater than 0.75 dB, LOA Holder must indicate full details of the calibration procedure, results, and any associated issues in the 48-hour interim reports."",
+      ""scope"": ""Hydrophone calibration during construction and operation phases."",
+      ""numerical_value"": 0.75,
+      ""unit"": ""dB"",
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""marine mammal protection"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",52,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The final reports must include all details prescribed above for the interim report as well as, at minimum, the following: the peak sound pressure level (SPL pk), the root-mean-square sound pressure level that contains 90 percent of the acoustic energy (SPL rms), the single strike sound exposure level (SEL ss), the integration time for SPL rms, the spectrum, and the 24-hour cumulative SEL extrapolated from measurements at all hydrophones."",
+      ""scope"": ""Final reporting phase for offshore wind farm activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The final report must also include at least the maximum, mean, minimum, median (L 50) and L 5 (95 percent exceedance) statistics for each metric."",
+      ""scope"": ""Final reporting phase for offshore wind farm activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The sound levels reported must be in median, arithmetic mean, and L 5 (95 percent exceedance) (i.e., average in linear space), and in dB."",
+      ""scope"": ""Final reporting phase for offshore wind farm activities."",
+      ""numerical_value"": null,
+      ""unit"": ""dB"",
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The extents of the measured Level A harassment and Level B harassment zone(s) must be reported."",
+      ""scope"": ""Final reporting phase for offshore wind farm activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A description of the noise abatement system and operational parameters (e.g., bubble flow rate, distance deployed from the pile and/or UXO/MEC, etc.) must be included."",
+      ""scope"": ""Final reporting phase for offshore wind farm activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise control"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"40",53,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.265(g)(10)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must inform NMFS Office of Protected Resources within 1 business day of becoming aware of this issue or before the next pile is driven (or UXO/MEC is detonated), whichever comes first."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(g)(10)"",
+      ""related_domains"": [""marine mammal protection"", ""construction oversight""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""LOA Holder must ensure the detection is reported as soon as possible to NMFS, but no longer than 24 hours after the detection."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": ""50 CFR 217.265(g)(11)"",
+      ""related_domains"": [""marine mammal protection"", ""acoustic monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",54,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Full detection data, metadata, and location of recorders from all real time hydrophones used for monitoring during construction must be submitted within 90 calendar days following completion of activities requiring PAM for mitigation."",
+      ""scope"": ""Monitoring during construction phase"",
+      ""numerical_value"": 90,
+      ""unit"": ""days"",
+      ""source"": ""NMFS Passive Acoustic Reporting System"",
+      ""related_domains"": [""environmental monitoring"", ""acoustic data management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The full acoustic recordings from real-time systems must also be sent to the National Centers for Environmental Information (NCEI) for archiving within 90 days following completion of activities requiring PAM for mitigation."",
+      ""scope"": ""Archiving of acoustic recordings post-construction"",
+      ""numerical_value"": 90,
+      ""unit"": ""days"",
+      ""source"": ""National Centers for Environmental Information (NCEI)"",
+      ""related_domains"": [""environmental monitoring"", ""data archiving""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""LOA Holder must submit situational reports if a North Atlantic right whale is observed at any time by PSOs or project personnel."",
+      ""scope"": ""Observation of North Atlantic right whale during project activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine wildlife protection"", ""environmental compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and compliance monitoring""
+    },
+    {
+      ""entity_name"": ""National Centers for Environmental Information (NCEI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Data archiving and management""
+    },
+    {
+      ""entity_name"": ""NMFS Office of Protected Resources"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Wildlife protection and regulatory enforcement""
+    }
+  ]
+}
+```"
+"40",55,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.265(g)(13)(ii)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""must ensure the sighting is immediately reported to NMFS and the Right Whale Sightings Advisory System (RWSAS)."",
+      ""scope"": ""Northeast Region (Maine to Virginia/North Carolina border) and Southeast Region (North Carolina to Florida)"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": ""50 CFR 217.265(g)(13)(ii)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If a North Atlantic right whale is observed at any time by PSOs or project personnel, LOA Holder must submit a summary report to NMFS within 24 hours."",
+      ""scope"": ""All project activities involving PSOs or project personnel"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": ""50 CFR 217.265(g)(13)(ii)"",
+      ""related_domains"": [""marine mammal protection"", ""reporting requirements""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and reporting authority""
+    },
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Emergency reporting and maritime safety""
+    }
+  ]
+}"
+"40",56,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must report the time, date, and location of the sighting; the vessel's activity, heading, and speed (knots); Beaufort sea state, water depth (meters), and visibility conditions; marine mammal species identification to the best of the observer's ability and any distinguishing characteristics; initial distance and bearing to marine mammal from vessel and closest point of approach; and any avoidance measures taken in response to the marine mammal sighting."",
+      ""scope"": ""Vessel transit activities in marine environments."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""vessel operations"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must provide NMFS Office of Protected Resources with notification of planned UXO/MEC detonation as soon as possible but at least 48 hours prior to the planned detonation."",
+      ""scope"": ""UXO/MEC detonation activities."",
+      ""numerical_value"": 48,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""explosive safety"", ""marine operations"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If an UXO/MEC detonation occurs, within 72 hours after a detonation but before the next detonation, whichever is sooner, LOA Holder must report to NMFS Office of Protected Resources the time, date, location (latitude/longitude Decimal Degrees), charge weight size, justification on why detonation was necessary and other means of removal or avoidance could not occur, all detections of marine mammals within the UXO/MEC zones, and any mitigative action taken."",
+      ""scope"": ""Post-detonation reporting for UXO/MEC activities."",
+      ""numerical_value"": 72,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [""explosive safety"", ""marine mammal protection"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS Office of Protected Resources"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",57,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""LOA Holder must immediately report the observation to NMFS."",
+      ""scope"": ""Greater Atlantic Region (Maine to Virginia) and Southeast Region (North Carolina to Florida)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The report must include contact (name, phone number, etc.), the time, date, and location of the first discovery."",
+      ""scope"": ""Greater Atlantic Region (Maine to Virginia) and Southeast Region (North Carolina to Florida)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""LOA Holder must report the incident to NMFS Office of Protected Resources and relevant regional offices as soon as feasible."",
+      ""scope"": ""Greater Atlantic Region (Maine to Virginia) and Southeast Region (North Carolina to Florida)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS regulations"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NMFS Greater Atlantic Regional Fisheries Office (GARFO)"",
+      ""jurisdiction"": ""Greater Atlantic Region (Maine to Virginia)"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NMFS Southeast Regional Office (SERO)"",
+      ""jurisdiction"": ""Southeast Region (North Carolina to Florida)"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",58,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Taking Marine Mammals Incidental to Construction of the Ocean Wind 1..."",
+    ""document_number"": ""50 CFR 217.265(g)(13)(vi)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must immediately report the incident to NMFS."",
+      ""scope"": ""Greater Atlantic Region (Maine to Virginia) and Southeast Region (North Carolina to Florida)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(g)(13)(vi)"",
+      ""related_domains"": [""marine mammal protection"", ""incident reporting""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The report must include the time, date, and location of the incident; species identification (if known) or description of the animal(s) involved; vessel size and motor configuration; vessel's speed leading up to and during the incident; vessel's course/heading and what operations were being conducted."",
+      ""scope"": ""Incident reporting for marine mammals"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.265(g)(13)(vi)"",
+      ""related_domains"": [""marine mammal protection"", ""incident reporting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and incident reporting authority""
+    },
+    {
+      ""entity_name"": ""NMFS Greater Atlantic Region"",
+      ""jurisdiction"": ""Greater Atlantic Region (Maine to Virginia)"",
+      ""role"": ""Incident reporting authority""
+    },
+    {
+      ""entity_name"": ""NMFS Southeast Region"",
+      ""jurisdiction"": ""Southeast Region (North Carolina to Florida)"",
+      ""role"": ""Incident reporting authority""
+    }
+  ]
+}
+```"
+"40",59,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""§ 217.266"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must immediately cease all on-water activities until the NMFS Office of Protected Resources is able to review the circumstances of the incident and determine what, if any, additional measures are appropriate to ensure compliance with the terms of the LOA."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Marine Fisheries Service (NMFS)"",
+      ""related_domains"": [""marine mammal protection"", ""operational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""LOA Holder must report any lost gear associated with the fishery surveys to the NMFS GARFO Protected Resources Division as soon as possible or within 24 hours of the documented time of missing or lost gear."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 24,
+      ""unit"": ""hours"",
+      ""source"": ""National Marine Fisheries Service (NMFS)"",
+      ""related_domains"": [""fisheries management"", ""gear recovery""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""To incidentally take marine mammals pursuant to this subpart, LOA Holder must apply for and obtain an LOA."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Marine Fisheries Service (NMFS)"",
+      ""related_domains"": [""marine mammal protection"", ""permitting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"40",60,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""50 CFR Part 217 Subpart AA (up to date as of 6/12/2025)"",
+    ""document_number"": ""50 CFR 217.267"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The LOA must set forth... means of effecting the least practicable adverse impact (i.e., mitigation) on the species, its habitat, and on the availability of the species for subsistence uses."",
+      ""scope"": ""All phases of activity under the LOA."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.266"",
+      ""related_domains"": [""environmental impact assessment"", ""species protection"", ""habitat conservation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In the event of projected changes to the activity or to mitigation and monitoring measures required by an LOA, LOA Holder must apply for and obtain a modification of the LOA."",
+      ""scope"": ""Modification of LOA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.267"",
+      ""related_domains"": [""project management"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Issuance of the LOA must be based on a determination that the level of taking must be consistent with the findings made for the total taking allowable under the regulations of this subpart."",
+      ""scope"": ""Issuance of LOA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR 217.266"",
+      ""related_domains"": [""marine mammal protection"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Notice of issuance or denial of an LOA must be published in the FEDERAL REGISTER within 30 days of a determination."",
+      ""scope"": ""Publication requirements for LOA"",
+      ""numerical_value"": 30,
+      ""unit"": ""days"",
+      ""source"": ""50 CFR 217.266"",
+      ""related_domains"": [""regulatory transparency"", ""public notification""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and permitting authority for marine mammal protection.""
+    }
+  ]
+}"
+"40",61,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""§ 217.262 and § 217.266"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The LOA shall be modified, provided that NMFS Office of Protected Resources determines that the changes to the activity or the mitigation, monitoring, or reporting do not change the findings made for the regulations in this subpart and do not result in more than a minor change in the total estimated number of takes."",
+      ""scope"": ""Activities under LOA modifications"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Through adaptive management, NMFS Office of Protected Resources may modify (including delete, modify, or add to) the existing mitigation, monitoring, or reporting measures."",
+      ""scope"": ""Mitigation and monitoring measures under LOA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal protection"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS) Office of Protected Resources"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and permitting authority""
+    }
+  ]
+}
+```"
+"40",62,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""50 CFR 217.268-217.269"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If, through adaptive management, the modifications to the mitigation, monitoring, or reporting measures are substantial, NMFS Office of Protected Resources shall publish a notice of proposed LOA in the FEDERAL REGISTER and solicit public comment."",
+      ""scope"": ""Mitigation, monitoring, or reporting measures related to marine mammals."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If NMFS Office of Protected Resources determines that an emergency exists that poses a significant risk to the well-being of the species or stocks of marine mammals specified in the LOA issued, an LOA may be modified without prior notice or opportunity for public comment."",
+      ""scope"": ""Emergency modifications to LOA concerning marine mammals."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS Office of Protected Resources"",
+      ""related_domains"": [""marine mammal protection"", ""emergency response""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS Office of Protected Resources"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"

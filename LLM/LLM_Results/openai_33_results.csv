@@ -1,0 +1,5525 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"33",1,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""www.essgroup.com"",
+    ""document_number"": ""30 CFR § 585"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The operator must comply with lease stipulations and any applicable laws and regulations."",
+      ""scope"": ""Lease compliance during all phases of the project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR § 585.610(a)(4)"",
+      ""related_domains"": [""regulatory compliance"", ""lease management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The project design, fabrication, and installation must adhere to applicable standards."",
+      ""scope"": ""General structure and project design phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR § 585.610(a)(6)"",
+      ""related_domains"": [""engineering standards"", ""project design""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Mitigation measures must be implemented to minimize environmental impacts."",
+      ""scope"": ""Deployment activities phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR § 585.610(a)(8)"",
+      ""related_domains"": [""environmental impact assessment"", ""mitigation strategies""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Decommissioning and site clearance procedures must be established and followed."",
+      ""scope"": ""Decommissioning phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR § 585.610(a)(11)"",
+      ""related_domains"": [""decommissioning"", ""site management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Air quality information must be provided in accordance with applicable regulations."",
+      ""scope"": ""Operational phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR § 585.610(a)(12) and 585.659"",
+      ""related_domains"": [""air quality management"", ""environmental compliance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"33",2,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""1.3.1 - 3.1.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",3,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Hazard Assessment (§ 585.611(b)(1))"",
+      ""scope"": ""General hazard assessment for offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.611(b)(1)"",
+      ""related_domains"": [""environmental impact assessment"", ""safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Water Quality (§ 585.611(b)(2))"",
+      ""scope"": ""Water quality assessment for offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.611(b)(2)"",
+      ""related_domains"": [""water quality"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Benthic Resources (§ 585.611(b)(3-5))"",
+      ""scope"": ""Assessment of benthic resources for offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.611(b)(3-5)"",
+      ""related_domains"": [""benthic ecology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Fisheries and Essential Fish Habitat (§ 585.611(b)(3-5))"",
+      ""scope"": ""Assessment of fisheries and essential fish habitat for offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.611(b)(3-5)"",
+      ""related_domains"": [""fisheries management"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Marine Mammals and Sea Turtles (§ 585.611(b)(3-5))"",
+      ""scope"": ""Assessment of marine mammals and sea turtles for offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.611(b)(3-5)"",
+      ""related_domains"": [""marine biology"", ""wildlife protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Coastal and Marine Birds and Bats (§ 585.611(b)(3-5))"",
+      ""scope"": ""Assessment of coastal and marine birds and bats for offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.611(b)(3-5)"",
+      ""related_domains"": [""avian protection"", ""wildlife management""]
+    },
+    {
+      ""type"": ""Cultural"",
+      ""requirement"": ""Archaeological Resources (§ 585.611(b)(6))"",
+      ""scope"": ""Assessment of archaeological resources for offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.611(b)(6)"",
+      ""related_domains"": [""cultural heritage"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Social"",
+      ""requirement"": ""Social and Economic Resources (§ 585.611(b)(7))"",
+      ""scope"": ""Assessment of social and economic resources for offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.611(b)(7)"",
+      ""related_domains"": [""socioeconomic impact"", ""community engagement""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",4,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""May 4, 2020, Revised October 2020"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",5,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",6,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Marine Trash and Debris Prevention"",
+    ""document_number"": ""3.3.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",7,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",8,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 4-5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"33",9,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""May 4, 2020, Revised October 2020"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""US Wind intends to be the sole operator of the metocean buoy in compliance with the stipulations stated in the Lease and described in Section 1.1.4."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Lease stipulations"",
+      ""related_domains"": [""operational compliance"", ""regulatory oversight""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",10,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""US Wind has and will continue to comply with the stipulations in these leases as they relate to the development and approval of this Site Assessment Plan (SAP) and SAP activities."",
+      ""scope"": ""Site Assessment Plan (SAP) activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Lease issued to US Wind for the Maryland Wind Energy Area"",
+      ""related_domains"": [""site assessment"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""US Wind also conducted a tribal pre-survey meeting, as specified in the leases prior to conducting SAP survey activities."",
+      ""scope"": ""SAP survey activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Lease issued to US Wind for the Maryland Wind Energy Area"",
+      ""related_domains"": [""safety"", ""tribal consultation""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""consulted with United States Fleet Forces (USFF) N46 and the Fleet Forces Atlantic Exercise Coordination Center (FFAECC), which coordinates all regional military/other agency activities (both sea and air) for the Virginia Capes operating area (VACAPES OPAREA) and ensures events are de-conflicted."",
+      ""scope"": ""Virginia Capes operating area (VACAPES OPAREA)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Consultation with USFF and FFAECC"",
+      ""related_domains"": [""safety"", ""military coordination""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""United States Fleet Forces (USFF)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Military coordination and safety oversight""
+    }
+  ]
+}
+```"
+"33",11,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""will not cause any undue harm or damage to the environment"",
+      ""scope"": ""SAP activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR § § 585.105(a) and 606"",
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""will not create hazardous or unsafe conditions"",
+      ""scope"": ""SAP activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR § § 585.105(a) and 606"",
+      ""related_domains"": [""safety management""]
+    },
+    {
+      ""type"": ""Cultural"",
+      ""requirement"": ""will not adversely affect resources of historic, cultural or archeological significance"",
+      ""scope"": ""SAP activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR § § 585.105(a) and 606"",
+      ""related_domains"": [""cultural heritage"", ""archaeology""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",12,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Design your project and conduct all activities in a manner that ensures safety, and will not cause undue harm or damage to natural resources, including their physical, atmospheric, and biological components to the extent practicable;"",
+      ""scope"": ""Project design and activities within the Lease Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulation 585.105(a)"",
+      ""related_domains"": [""safety management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Take measures to prevent unauthorized discharge of pollutants including marine trash and debris into the offshore environment."",
+      ""scope"": ""Operational phase within the Lease Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulation 585.105(a)"",
+      ""related_domains"": [""marine pollution"", ""environmental management""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Conforms to all applicable laws, regulations, and lease provisions of your commercial lease"",
+      ""scope"": ""Lease OCS-A-0490"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulation 585.606(a)(1)"",
+      ""related_domains"": [""legal compliance"", ""regulatory oversight""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Is safe"",
+      ""scope"": ""SAP activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulation 585.606(a)(2)"",
+      ""related_domains"": [""safety management""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Does not unreasonably interfere with other uses of the OCS, including those involved with National security or defense"",
+      ""scope"": ""Outer Continental Shelf (OCS) and Lease Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulation 585.606(a)(3)"",
+      ""related_domains"": [""navigation"", ""national security""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Does not cause undue harm or damage to natural resources; life (including human and wildlife); property; the marine, coastal, or human environment; or sites, structures, or objects of historical or archaeological significance"",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulation 585.606(a)(4)"",
+      ""related_domains"": [""environmental impact assessment"", ""cultural resource management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",13,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""avoidance of impacts to benthic and nektonic habitats"",
+      ""scope"": ""SAP activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""avoidance of impacts to marine mammals and sea turtles"",
+      ""scope"": ""SAP activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine biology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""deployment activities only during approved months to avoid impacts to fisheries and marine mammals"",
+      ""scope"": ""deployment phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""fisheries management"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""avoid any bottom disturbance during deployment except the weight for the mooring itself"",
+      ""scope"": ""deployment phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""seabed integrity"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""use of approved USCG lighting and marking of metocean buoys to avoid impacts to the commercial fishing industry"",
+      ""scope"": ""deployment phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG"",
+      ""related_domains"": [""navigational safety"", ""commercial fishing""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""design of the buoy to minimize avian perching"",
+      ""scope"": ""design phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""avian protection"", ""environmental design""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""design of the mooring to avoid entanglement by marine mammals and sea turtles"",
+      ""scope"": ""design phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine biology"", ""environmental design""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""routine inspection of the moorings to ensure structural integrity and minimal seabed disturbance"",
+      ""scope"": ""operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""combine vessel trips for inspection and maintenance to minimize environmental impact where feasible"",
+      ""scope"": ""operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""prepare and execute an oil spill response plan"",
+      ""scope"": ""operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""spill response"", ""environmental safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""exercise responsible and safe behavior during all site activities"",
+      ""scope"": ""operation phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety management"", ""site operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",14,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Deployment duration for the buoy will be approximately two (2) years from the date of deployment."",
+      ""scope"": ""Deployment phase"",
+      ""numerical_value"": 2,
+      ""unit"": ""years"",
+      ""source"": null,
+      ""related_domains"": [""data collection"", ""offshore measurement""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",15,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All shackles and other mooring components would be Safe Working Load (SWL) certified and galvanized."",
+      ""scope"": ""Mooring components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Any mixed metal contacts would be insulated to prevent electrolytic corrosion."",
+      ""scope"": ""Mooring components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""corrosion prevention""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The buoy will be equipped with the proper safety lighting, markings and signal equipment per United States Coast Guard (USCG) Private Aids to Navigation (PATON) requirements."",
+      ""scope"": ""Buoy operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""United States Coast Guard (USCG) Private Aids to Navigation (PATON)"",
+      ""related_domains"": [""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",16,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",17,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""May 4, 2020, Revised October 2020"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All equipment will be deployed in a highly controlled manner; at no time during the operation are chain or the anchor permitted to 'free-fall'."",
+      ""scope"": ""Deployment phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""SAP US Wind Lease OCS-A 0490"",
+      ""related_domains"": [""deployment procedures"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",18,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 13"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Project will implement best practices and comply with all applicable regulations and lease stipulations to avoid, minimize, reduce, eliminate, and monitor environmental impacts during buoy deployment, operation, and decommissioning."",
+      ""scope"": ""Buoy deployment, operation, and decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 Part 585 Subpart H"",
+      ""related_domains"": [""environmental impact assessment"", ""monitoring""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""This will include measures to avoid and prevent accidental events such as fuel spills."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 Part 585 Subpart H"",
+      ""related_domains"": [""safety management"", ""spill prevention""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",19,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Decommissioning and Site Clearance Procedures"",
+    ""document_number"": ""1.2.6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Decommissioning and site clearance procedures will be conducted pursuant to the applicable sections of 30 CFR Part 585, Subpart I."",
+      ""scope"": ""Decommissioning phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR Part 585, Subpart I"",
+      ""related_domains"": [""decommissioning"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Vessel speed during return transit with buoy under tow will be limited to 5 knots."",
+      ""scope"": ""Decommissioning operations"",
+      ""numerical_value"": 5,
+      ""unit"": ""knots"",
+      ""source"": null,
+      ""related_domains"": [""maritime operations"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maritime authority overseeing navigational safety and compliance""
+    },
+    {
+      ""entity_name"": ""Maritime authorities"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight for maritime operations""
+    }
+  ]
+}
+```"
+"33",20,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 14"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Financial"",
+      ""requirement"": ""US Wind, Inc. will provide a Surety Bond, issued by a primary financial institution, or other approved security, as required in 30 CFR 585.515 and 30 CFR 585.516 in order to guarantee the commissioning obligation."",
+      ""scope"": ""Deployment phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.610(a)(15)"",
+      ""related_domains"": [""financial assurance"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Offshore Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""US Army Corps of Engineers (USACE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""US Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Navigational safety oversight""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""US Navy – VA Capes Command (VACAPES)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Operational oversight""
+    }
+  ]
+}
+```"
+"33",21,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""1.5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The surveys were conducted to provide information for the Site Assessment Plan (SAP), for the meteorological tower engineering and design, and for permitting and regulatory purposes."",
+      ""scope"": ""Meteorological tower engineering and design, permitting and regulatory purposes"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM approval of the US Wind Survey in June 2015 Plan"",
+      ""related_domains"": [""engineering design"", ""permitting"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",22,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 15"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The data from the 2015 SAP Survey is directly applicable for use to assess the metocean buoy installation."",
+      ""scope"": ""Metocean buoy installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""2015 SAP Survey"",
+      ""related_domains"": [""data assessment"", ""installation standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Appendix E provides the results of the survey conducted for the installation of a meteorological tower which includes information on shallow faults, gas, sediment slumps, hydrates and ice scour."",
+      ""scope"": ""Meteorological tower installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Appendix E"",
+      ""related_domains"": [""geotechnical assessment"", ""safety standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",23,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Appendix F"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""This work was performed to assist the US Wind and BOEM in compliance with Section 106 of the National Historic Preservation Act of 1966 (NHPA), as amended, and its implementing regulations 36 Code of Federal Regulations (CFR) 800, entitled Protection of Historic Properties."",
+      ""scope"": ""Meteorological tower area of potential effect (APE)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Historic Preservation Act of 1966 (NHPA), 36 CFR 800"",
+      ""related_domains"": [""cultural heritage"", ""archaeological assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""R. Christopher Goodwin & Associates, Inc. (RCG&A)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Archaeological assessment""
+    }
+  ]
+}
+```"
+"33",24,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A determination of 'No historic properties affected' (36 CFR 800.4) was recommended."",
+      ""scope"": ""Meteorological tower installation, operation, and decommissioning activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""36 CFR 800.4"",
+      ""related_domains"": [""cultural resource management"", ""archaeological impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",25,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No historic properties affected"",
+      ""scope"": ""Area of Potential Effect (APE) for the proposed metocean buoy installation, operation and decommissioning activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""36 CFR 800.4"",
+      ""related_domains"": [""cultural resources"", ""archaeological assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",26,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 17"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",27,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",28,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.1.1.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Hazard Assessment (§ 585.611(b)(1))"",
+      ""scope"": ""Offshore wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.611(b)(1)"",
+      ""related_domains"": [""safety assessment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",29,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 18"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",30,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",31,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 19"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Coastal waters include all the ports/harbors, rivers, bays and estuaries that could be affected by Project activities."",
+      ""scope"": ""Coastal waters affected by Project activities during construction and operation phases."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.611(b)(2)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology"", ""water quality""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Department of Natural Resources"",
+      ""jurisdiction"": ""State of Maryland, USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",32,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",33,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 20"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",34,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",35,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",36,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",37,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",38,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",39,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Maryland Lease is located in the mid-Atlantic Bight (MAB) of the Northeast Continental Shelf Large Marine Ecosystem."",
+      ""scope"": ""Mid-Atlantic Bight"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine ecosystem management"", ""fisheries management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",40,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",41,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",42,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",43,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 25"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Shortnose sturgeon (Acipenser brevirostrum) is listed as Endangered."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ESA (Endangered Species Act)"",
+      ""related_domains"": [""marine biology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Atlantic sturgeon (Acipenser oxyrinchus oxyrinchus) is listed as Endangered."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ESA (Endangered Species Act)"",
+      ""related_domains"": [""marine biology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Porbeagle shark (Lamna nasus) is considered a Species of Concern."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal species of concern listing"",
+      ""related_domains"": [""marine biology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Sand tiger shark (Carcharias taurus) is considered a Species of Concern."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal species of concern listing"",
+      ""related_domains"": [""marine biology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Alewife (Alosa pseudoharengus) is considered a Species of Concern."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal species of concern listing"",
+      ""related_domains"": [""marine biology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Blueback herring (Alosa aestivalis) is considered a Species of Concern."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal species of concern listing"",
+      ""related_domains"": [""marine biology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Atlantic Bluefin (Thunnus thynnus) is considered a Species of Concern."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal species of concern listing"",
+      ""related_domains"": [""marine biology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Rainbow smelt (Osmerus mordax) is considered a Species of Concern."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal species of concern listing"",
+      ""related_domains"": [""marine biology"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",44,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",45,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""3.1.5.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies to consult on activities that may adversely affect EFH designated in fishery management plans."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act"",
+      ""related_domains"": [""fisheries management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Fishery management councils to specify actions to conserve and enhance that EFH."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act"",
+      ""related_domains"": [""fisheries management"", ""habitat conservation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Fishery Management Councils"",
+      ""jurisdiction"": ""Regional - USA"",
+      ""role"": ""Responsible for identifying and managing Essential Fish Habitat (EFH).""
+    },
+    {
+      ""entity_name"": ""Federal Agencies"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consult on activities that may adversely affect EFH.""
+    }
+  ]
+}
+```"
+"33",46,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""3.1.6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All of these species are protected under the Marine Mammal Protection Act (MMPA), and several are listed as endangered under the Endangered Species Act (ESA)."",
+      ""scope"": ""Northwestern Atlantic OCS waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Marine Mammal Protection Act (MMPA), Endangered Species Act (ESA)"",
+      ""related_domains"": [""marine biology"", ""environmental impact assessment"", ""species protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior (USDOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",47,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Numerous marine and coastal bird species are known to occur in the Maryland Lease, many of which are protected under the Migratory Bird Treaty Act of 1918 (MBTA) (16 U.S.C. 703–712)."",
+      ""scope"": ""Maryland Lease"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Migratory Bird Treaty Act of 1918"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""ESA-listed species that may be present within the SAP Area include piping plover (*Charadrius melodus*), bermuda petrel (*Pterodroma cahow*), red knot (*Calidris canutus rufa*), and roseate tern (*Sterna dougallii*)."",
+      ""scope"": ""SAP Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (ESA)"",
+      ""related_domains"": [""species protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior (USDOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",48,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Marine Archaeological Resources Assessment for the US Wind Offshore Energy Project"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""All work was performed in accordance with the NHPA of 1966, as amended; the National Environmental Policy Act of 1969, as amended, and its implementing regulations (36 CFR Part 800); and the Archaeological Resources Protection Act of 1979."",
+      ""scope"": ""Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Historic Preservation Act of 1966, National Environmental Policy Act of 1969, Archaeological Resources Protection Act of 1979"",
+      ""related_domains"": [""historic preservation"", ""environmental impact assessment"", ""archaeological resources""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The direct APE based on buoy specifications and deployment plans is defined to include the proposed 1 m (10.8 ft) anchor footprint plus a maximum mooring chain sweep of 65 m (213 ft) around the anchor."",
+      ""scope"": ""Deployment location"",
+      ""numerical_value"": 65,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""marine spatial planning"", ""archaeological resources""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""RCG&A conducted a detailed analysis of all HRG survey data that was acquired in the meteorological tower APE in accordance with the BOEM, Office of Renewable Energy Programs’ Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585."",
+      ""scope"": ""Meteorological tower APE"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM, Office of Renewable Energy Programs’ Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585"",
+      ""related_domains"": [""geological assessment"", ""archaeological resources""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",49,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Recommended a determination of 'No historic properties affected' (36 CFR 800.4)."",
+      ""scope"": ""Meteorological tower installation, operation, and decommissioning activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""36 CFR 800.4"",
+      ""related_domains"": [""cultural resources"", ""archaeological assessment""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Recommended a determination of 'No historic properties affected' (36 CFR 800.4)."",
+      ""scope"": ""Metocean buoy installation, operation, and decommissioning activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""36 CFR 800.4"",
+      ""related_domains"": [""cultural resources"", ""archaeological assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"33",50,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",51,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",52,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",53,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""May 4, 2020 Revised October 2020"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",54,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",55,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Executive Order 12898, Federal Actions to Address Environmental Justice in Minority Populations and Low-Income Populations"",
+    ""document_number"": ""59 FR 7629"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies to incorporate environmental justice as part of their missions."",
+      ""scope"": ""Federal actions affecting minority and low-income populations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Executive Order 12898"",
+      ""related_domains"": [""environmental justice"", ""public health"", ""community impact""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Address any disproportionately high and adverse human health or environmental effects of their actions, programs, or policies on minority and low-income populations."",
+      ""scope"": ""Federal actions affecting minority and low-income populations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Executive Order 12898"",
+      ""related_domains"": [""environmental justice"", ""public health"", ""community impact""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Department of the Environment"",
+      ""jurisdiction"": ""State of Maryland, USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+"33",56,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.1.10"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",57,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""May 4, 2020 Revised October 2020"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The placement of any metocean buoy within a TSS is prohibited."",
+      ""scope"": ""Traffic Separation Schemes near Delaware Bay"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 U.S.C. Section 1223"",
+      ""related_domains"": [""navigational safety"", ""metocean data collection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Designates shipping fairways and establishes traffic separation schemes.""
+    }
+  ]
+}
+```"
+"33",58,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Lease Area is located in a naval operating area (OPAREA), Virginia Capes (VACAPES), where the Navy conducts surface, subsurface, and air-to-surface exercises training exercises."",
+      ""scope"": ""Lease Area, Virginia Capes OPAREA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM 2012"",
+      ""related_domains"": [""military operations"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""NASA conducts science, technology, and educational flight projects from WFF aboard rockets, balloons, and UAV’s, using the Atlantic waters for operations on almost a daily basis."",
+      ""scope"": ""Wallops Flight Facility, Atlantic waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM 2012"",
+      ""related_domains"": [""aerospace operations"", ""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maritime safety and navigation oversight""
+    },
+    {
+      ""entity_name"": ""National Aeronautics and Space Administration (NASA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Conducting aerospace operations and oversight""
+    }
+  ]
+}
+```"
+"33",59,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""34"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM has performed a consistency review and issued a Regional Consistency Determination (CD) finding that SAP activities anticipated for the Maryland WEAs... are consistent with the provisions of the Coastal Management Program of Maryland."",
+      ""scope"": ""Maryland Wind Energy Areas (WEAs)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM 2012"",
+      ""related_domains"": [""coastal management"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",60,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Clean Air Act (CAA) establishes two types of national air quality standards: (1) primary standards, which set limits to protect public health, including the health of 'sensitive' populations; and (2) secondary standards, which set limits to protect public welfare."",
+      ""scope"": ""National - USA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Clean Air Act (CAA)"",
+      ""related_domains"": [""air quality management"", ""public health"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Ambient air quality concentrations of criteria pollutants are determined using data collected by monitoring stations that are mainly operated by the states."",
+      ""scope"": ""State - USA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NAAQS 2019"",
+      ""related_domains"": [""air quality monitoring"", ""environmental assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""When the monitored pollutant levels in an area exceed the NAAQS for any pollutant, the area is classified as 'nonattainment' for that pollutant."",
+      ""scope"": ""National - USA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NAAQS 2019"",
+      ""related_domains"": [""air quality management"", ""environmental regulation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}"
+"33",61,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""May 4, 2020, Revised October 2020"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Impacts have been classified into one of four levels – negligible, minor, moderate, or major, according the MMS Programmatic Environmental Impact State for Alternative Energy."",
+      ""scope"": ""Assessment of SAP activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MMS Programmatic Environmental Impact State for Alternative Energy"",
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Minerals Management Service (MMS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",62,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.2.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels are expected to comply with USCG requirements relating to prevention and control of oil spills."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USCG requirements"",
+      ""related_domains"": [""environmental impact assessment"", ""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",63,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",64,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",65,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""May 4, 2020, Revised October 2020"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All SAP vessels will follow NOAA NMFS collision avoidance guidance, including vessel speed restrictions to minimize the risks to NARW and other marine mammals."",
+      ""scope"": ""Operational phase, vessels associated with SAP activities"",
+      ""numerical_value"": 10,
+      ""unit"": ""knots"",
+      ""source"": ""NOAA NMFS collision avoidance guidance"",
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessel speed limits of 10 knots have been shown to reduce ship strike mortality risk by 80-90%."",
+      ""scope"": ""Operational phase, vessels associated with SAP activities"",
+      ""numerical_value"": 80,
+      ""unit"": ""percent"",
+      ""source"": ""Conn and Silber 2013"",
+      ""related_domains"": [""marine mammal protection"", ""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"33",66,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.2.1.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Defense (DoD)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Coordination to avoid conflicts with military activities""
+    }
+  ]
+}
+```"
+"33",67,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Slow-moving or sessile organisms inhabiting benthic sediments in areas directly within the footprint of the anchor and chain sweep area will suffer mortality from crushing or burial."",
+      ""scope"": ""Benthic resources within the anchor and chain sweep area during deployment and operation."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""benthic ecology"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Deployment of the metocean buoy will influence turbidity in the immediate vicinity of the anchor location."",
+      ""scope"": ""Water quality in the vicinity of the anchor during deployment."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""water quality"", ""sediment disturbance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"33",68,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",69,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",70,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""May 4, 2020 Revised October 2020"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",71,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure that vessel operators and crews maintain a vigilant watch for cetaceans, pinnipeds, and sea turtles and slow down or stop their vessel to avoid striking these protected species."",
+      ""scope"": ""Vessel operations in support of SAP and COP activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Lease OCS-A 0490, stipulations 4.1.1 through 4.1.1.9"",
+      ""related_domains"": [""navigational safety"", ""marine wildlife protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",72,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""4.1.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure that vessels 19.8 meters (m) (65 feet [ft]) in length or greater that operate between November 1 through April 30, operate at speeds of 10 knots (11.5 miles per hour [mph]) or less."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 10,
+      ""unit"": ""knots"",
+      ""source"": null,
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that from November 1 through April 30, vessel operators monitor NMFS North Atlantic Right Whale reporting systems for the presence of NARWs."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine wildlife protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessee must ensure all vessels maintain a separation distance of 500 m (1,640 ft) or greater from any sighted North Atlantic right whale."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""marine wildlife protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If underway, any vessel must steer a course away from any North Atlantic right whale at 10 knots (18.5 km/h) or less until the 500 m (1,640 ft) minimum separation distance has been established."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 10,
+      ""unit"": ""knots"",
+      ""source"": null,
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a North Atlantic right whale is sighted within 100 m (328 ft) to an underway vessel, the vessel operator must immediately reduce speed and promptly shift the engine to neutral."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a vessel is stationary, the vessel must not engage engines until the North Atlantic right whale has moved beyond 100 m (328 ft)."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",73,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure all vessels maintain a separation distance of 100 m (328 ft) or greater from any sighted non-delphinoid cetacean."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": ""SAP US Wind Lease OCS-A 0490"",
+      ""related_domains"": [""marine wildlife protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If underway, the vessel must reduce speed and shift the engine to neutral and must not engage the engines until the non-delphinoid cetacean has moved beyond 100 m (328 ft)."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": ""SAP US Wind Lease OCS-A 0490"",
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If stationary, the vessel must not engage engines until the non-delphinoid cetacean has moved beyond 100 m (328 ft)."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": ""SAP US Wind Lease OCS-A 0490"",
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that all vessels maintain a separation distance of 50 meters (164 ft) or greater from any sighted delphinoid cetacean or pinniped."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 50,
+      ""unit"": ""meters"",
+      ""source"": ""SAP US Wind Lease OCS-A 0490"",
+      ""related_domains"": [""marine wildlife protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If a delphinoid cetacean and/or pinniped approaches any vessel underway, the vessel underway must avoid excessive speed or abrupt changes in direction to avoid injury to the delphinoid cetacean and/or pinniped."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""SAP US Wind Lease OCS-A 0490"",
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure all vessels maintain a separation distance of 50 meters (164 feet) or greater from any sighted sea turtle."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 50,
+      ""unit"": ""meters"",
+      ""source"": ""SAP US Wind Lease OCS-A 0490"",
+      ""related_domains"": [""marine wildlife protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Lessees must ensure that all vessel operators are briefed to ensure they are familiar with the requirements specified in 4.1.1."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""SAP US Wind Lease OCS-A 0490"",
+      ""related_domains"": [""marine wildlife protection"", ""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",74,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""42"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that vessel operators, employees, and contractors actively engaged in activity in support of plan (i.e., SAP and COP) submittal are briefed on marine trash and debris awareness and elimination."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BSEE NTL No. 2012-GOl"",
+      ""related_domains"": [""marine environmental protection"", ""socioeconomic impact""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"33",75,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All mooring lines and ancillary attachment lines must use one or more of the following measures to reduce entanglement risk: shortest practicable line length, rubber sleeves, weak-links, chains, cables or similar equipment types that prevent lines from looping or wrapping around animals or entrapping protected species."",
+      ""scope"": ""Mooring lines and ancillary attachment lines for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""entanglement risk"", ""offshore structure integrity""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Navigation lights for the buoy will comply with USCG requirements."",
+      ""scope"": ""Buoys used in offshore wind farm operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""US Coast Guard"",
+      ""related_domains"": [""navigational safety"", ""maritime operations""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""US Wind will submit a Local Notice to Mariners (LNTM) for the proposed work in planned survey areas and expected timing to the US Coast Guard."",
+      ""scope"": ""Survey areas for offshore wind farm activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""US Coast Guard"",
+      ""related_domains"": [""maritime communication"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The appropriate mitigation measures are consistent with industry standard, area-wide measures for marine vessels."",
+      ""scope"": ""Air quality control during offshore wind farm operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 CFR Part 89"",
+      ""related_domains"": [""air quality"", ""marine vessel emissions""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight and navigational safety enforcement.""
+    },
+    {
+      ""entity_name"": ""U.S. Navy Fleet Forces"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Coordination and operational oversight in maritime areas.""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority for offshore energy development.""
+    },
+    {
+      ""entity_name"": ""Department of Defense (DoD)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""National security and operational oversight in maritime areas.""
+    }
+  ]
+}
+```"
+"33",76,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""4.0"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",77,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Habitat Mapping and Assessment of Northeast Wind Energy Areas"",
+    ""document_number"": ""OCS Study BOEM 2017-088"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",78,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Socio Economic Impact of Outer Continental Shelf Wind Energy Development on Fisheries in the U.S."",
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",79,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Department of the Environment"",
+      ""jurisdiction"": ""State of Maryland, USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",80,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""May 4, 2020, Revised October 2020"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",81,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",82,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",83,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""OCS Proposed Geological and Geophysical Activities Mid-Atlantic and South Atlantic Planning Areas - Final Programmatic Environmental Impact Statement"",
+    ""document_number"": ""46"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Minerals Management Service (MMS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""U.S. Environmental Protection Agency (USEPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",84,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For the mooring modeling, we would use a significant wave height of 8.2m with a peak spectral period of about 15 seconds, as the extreme event."",
+      ""scope"": ""Mooring modeling phase"",
+      ""numerical_value"": 8.2,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""marine engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For normal conditions, we would use 1.5 m waves at 8 seconds dominant period."",
+      ""scope"": ""Mooring modeling phase"",
+      ""numerical_value"": 1.5,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""marine engineering""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Data source for ocean wave conditions""
+    },
+    {
+      ""entity_name"": ""National Oceanographic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Data source for ocean wave conditions""
+    }
+  ]
+}"
+"33",85,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Site Environmental Conditions - US Wind Maryland Inputs to Mooring Design and Modelling"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All mooring chain sections are to be of high-quality steel."",
+      ""scope"": ""Mooring system components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""material standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All hardware (links, shackles, swivels) will be of high grade galvanized US steel."",
+      ""scope"": ""Mooring system components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""material standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",86,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""EOLOS FLS0200 LiDAR Buoy"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Fully compliant with IALA"",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IALA regulations for Aids to Navigation (AToN)"",
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A passive radar reflector giving a homogeneous response inside a wide angle."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A Carmanah M701 self-contained LED obstruction lamp is installed on the Buoy."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",87,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""#SVHF22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",88,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",89,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",90,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",91,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",92,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",93,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",94,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",95,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",96,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",97,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",98,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",99,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",100,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""U.S. Wind SAP Survey Plan"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Lessee submitted an alternative monitoring plan pursuant to stipulation 4.3.3 of Addendum “C” of the Maryland leases."",
+      ""scope"": ""Commercial leases offshore Maryland"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""monitoring"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Lessee submitted the SAP Survey Plan pursuant to stipulation 2.1.1.1 of Addendum “C” of the Maryland leases."",
+      ""scope"": ""Commercial leases offshore Maryland"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""survey planning"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",101,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Results Report"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",102,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",103,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area (MET Tower)"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",104,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",105,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",106,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area (MET Tower)"",
+    ""document_number"": ""10451 - Volume II: Geotechnical Results Report Ref 10451 (Final)-Rev1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",107,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",108,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Tests were conducted according to ASTM D2488-93 – Standard Practice for Description and Identification of Soils (Visual-Manual Procedure)."",
+      ""scope"": ""Offshore laboratory testing"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D2488-93"",
+      ""related_domains"": [""geotechnical testing"", ""soil classification""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",109,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",110,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",111,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",112,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Results Report Ref 10451 (Final)-Rev1"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",113,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Results Report Ref 10451 (Final)-Rev1"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",114,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",115,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",116,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",117,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",118,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Results Report"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing was carried out in accordance with ASTM D2488"",
+      ""scope"": ""Soil classification tests for offshore and onshore sites"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D2488"",
+      ""related_domains"": [""geotechnical engineering"", ""soil classification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing was carried out in accordance with ASTM D4318-10"",
+      ""scope"": ""Atterberg limits testing for cohesive soil samples"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D4318-10"",
+      ""related_domains"": [""geotechnical engineering"", ""soil classification""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",119,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Particle Size Analysis Procedures"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing was carried out in accordance with ASTM D422-63."",
+      ""scope"": ""Particle size analysis for sediments encountered along the route and over the mooring area."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D422-63"",
+      ""related_domains"": [""geotechnical analysis"", ""sediment assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing was carried out in accordance with ASTM D1140-14."",
+      ""scope"": ""Determination of the amount of material in soils finer than No.200 sieve."",
+      ""numerical_value"": 75,
+      ""unit"": ""µm"",
+      ""source"": ""ASTM D1140-14"",
+      ""related_domains"": [""geotechnical analysis"", ""soil classification""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"33",120,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Results Report Ref 10451 (Final)-Rev1"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing was carried out in accordance with ASTM D854-10."",
+      ""scope"": ""Geotechnical testing methods for offshore projects."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D854-10"",
+      ""related_domains"": [""geotechnical engineering"", ""offshore construction""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Pocket Penetrometer has a working limit of 300kPa; if this maximum limit is reached during testing it has been reported as 300+kPa on the summary tables."",
+      ""scope"": ""Geotechnical testing using Pocket Penetrometer."",
+      ""numerical_value"": 300,
+      ""unit"": ""kPa"",
+      ""source"": ""Manufacturer’s manual of operation"",
+      ""related_domains"": [""geotechnical engineering"", ""soil mechanics""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"33",121,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing was carried out in accordance with ISO 17892-6 (2004)."",
+      ""scope"": ""Laboratory testing of soil samples."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 17892-6 (2004)"",
+      ""related_domains"": [""geotechnical testing"", ""soil strength assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",122,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Results Report Ref 10451 (Final)-Rev1"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing was carried out in accordance with ASTM D2850-03a."",
+      ""scope"": ""Geotechnical testing for offshore wind farm site investigation."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D2850-03a"",
+      ""related_domains"": [""geotechnical engineering"", ""offshore construction""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",123,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area (MET Tower)"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The calcium carbonate of all selected test specimens was determined in accordance with the ASTM D 4373-02 standard test method."",
+      ""scope"": ""Soil testing for wind farm site assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D 4373-02"",
+      ""related_domains"": [""geotechnical analysis"", ""soil composition""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",124,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Downhole CPTU operations were carried out in accordance with ISO 22476-1:2012 Geotechnical Investigation and Testing - Field Testing."",
+      ""scope"": ""CPTU operations at offshore borehole locations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 22476-1:2012"",
+      ""related_domains"": [""geotechnical investigation"", ""field testing""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All CPTUs carried out were within accuracy class 1 or 2, as set out by ISO 22476-1:2012."",
+      ""scope"": ""CPTU testing accuracy standards."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 22476-1:2012"",
+      ""related_domains"": [""geotechnical investigation"", ""field testing""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",125,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",126,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Results Report"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",127,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Standard Test Methods and Practices for Soils"",
+    ""document_number"": ""23"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Standard Test Method for One-Dimensional Consolidation Properties of Saturated Cohesive Soils Using Controlled-Strain Loading."",
+      ""scope"": ""Laboratory testing of soils for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM International Designation: D 4186-06: 2006"",
+      ""related_domains"": [""geotechnical engineering"", ""soil mechanics""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Standard Test Method for Particle-Size Analysis of Soils."",
+      ""scope"": ""Laboratory testing of soils for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM International Designation: D 4422-63: 2007"",
+      ""related_domains"": [""geotechnical engineering"", ""soil mechanics""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Standard Test Method for pH of Soils."",
+      ""scope"": ""Laboratory testing of soils for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM International Designation: D4972-13:2013"",
+      ""related_domains"": [""geotechnical engineering"", ""soil chemistry""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Standard Test Method for Rapid Determination of Carbonate Content of Soils."",
+      ""scope"": ""Laboratory testing of soils for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM International Designation: D4373-02:2007"",
+      ""related_domains"": [""geotechnical engineering"", ""soil chemistry""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Standard Test Methods for Liquid Limit, Plastic Limit, and Plasticity Index of Soils."",
+      ""scope"": ""Laboratory testing of soils for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM International Designation: D4318-10:2010"",
+      ""related_domains"": [""geotechnical engineering"", ""soil mechanics""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Standard Test Method for Unconsolidated-Undrained Triaxial Compression Test on Cohesive Soils."",
+      ""scope"": ""Laboratory testing of soils for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM International Designation: D 2850–03A: 2007"",
+      ""related_domains"": [""geotechnical engineering"", ""soil mechanics""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Standard Practices for Handling, Storing and Preparing Soft Undisturbed Marine Soil."",
+      ""scope"": ""Laboratory testing of soils for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM-3213-91, ASTM International Designation: D 3213 -97"",
+      ""related_domains"": [""geotechnical engineering"", ""marine soil management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Standard Test Method for Consolidated Undrained Direct Simple Shear Testing of cohesive Soils."",
+      ""scope"": ""Laboratory testing of soils for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D6528-07:2013"",
+      ""related_domains"": [""geotechnical engineering"", ""soil mechanics""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Petroleum and Natural Gas Industries – Specific requirements for offshore structures, Part 8: Marine Soil Investigations."",
+      ""scope"": ""Marine soil investigations for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BS EN ISO 19901-8, 2013"",
+      ""related_domains"": [""geotechnical engineering"", ""marine engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Geotechnical investigation and testing – Laboratory testing of soils–Part 6 Fall cone test."",
+      ""scope"": ""Laboratory testing of soils for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DD CEN ISO 17892-6: 2004"",
+      ""related_domains"": [""geotechnical engineering"", ""soil mechanics""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Methods of test for Soils for civil engineering purposes Incorporating Amendment No. 1."",
+      ""scope"": ""Laboratory testing of soils for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BS1377- 7, 1990"",
+      ""related_domains"": [""geotechnical engineering"", ""civil engineering""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American Society for Testing and Materials"",
+      ""jurisdiction"": ""Pennsylvania, USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""British Standards Institute"",
+      ""jurisdiction"": ""London, UK"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",128,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",129,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",130,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",131,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",132,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",133,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",134,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",135,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",136,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",137,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",138,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",139,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",140,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing in accordance with ASTM D422-63 (2007)"",
+      ""scope"": ""Soil analysis for wind farm construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D422-63 (2007)"",
+      ""related_domains"": [""geotechnical engineering"", ""construction standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",141,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing in accordance with ASTM D422-63 (2007)"",
+      ""scope"": ""Soil analysis for wind farm construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D422-63 (2007)"",
+      ""related_domains"": [""geotechnical analysis"", ""construction standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",142,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing in accordance with ASTM D422-63 (2007)"",
+      ""scope"": ""Soil analysis for wind farm site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D422-63 (2007)"",
+      ""related_domains"": [""geotechnical engineering"", ""soil analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",143,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing in accordance with ASTM D422-63 (2007)"",
+      ""scope"": ""Soil analysis for offshore wind farm construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D422-63 (2007)"",
+      ""related_domains"": [""geotechnical analysis"", ""construction standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",144,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing in accordance with ASTM D422-63 (2007)"",
+      ""scope"": ""Soil analysis for wind farm construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D422-63 (2007)"",
+      ""related_domains"": [""geotechnical engineering"", ""construction standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",145,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Determination of the Amount of Material In Soils Finer Than No. 200 (75μm) Sieve"",
+    ""document_number"": ""Contract: 10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",146,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",147,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",148,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",149,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Undrained Unconsolidated Triaxial (UU) Test Results"",
+    ""document_number"": ""3.8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",150,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Determination of the Undrained Shear Strength in Triaxial Compression"",
+    ""document_number"": ""Contract No. 10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Tested and prepared in accordance with ASTM D 2850 - 03a"",
+      ""scope"": ""Geotechnical testing for marine survey"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D 2850 - 03a"",
+      ""related_domains"": [""geotechnical engineering"", ""offshore construction""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",151,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",152,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Consolidated Anisotropic Undrained Triaxial Test with the Measurement of Pore Water Pressure"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Prepared and tested in accordance with ASTM D4767"",
+      ""scope"": ""Geotechnical testing for wind farm foundations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D4767"",
+      ""related_domains"": [""geotechnical engineering"", ""foundation design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",153,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Consolidated Undrained Triaxial Test with the Measurement of Pore Water Pressure"",
+    ""document_number"": ""2 of 4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Prepared and tested in accordance with ASTM D4767 and In House method"",
+      ""scope"": ""Geotechnical testing for wind farm site investigation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D4767"",
+      ""related_domains"": [""geotechnical engineering"", ""site investigation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",154,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Consolidated Anisotropic Undrained Triaxial Test with the Measurement of Pore Water Pressure"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",155,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",156,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Consolidated Anisotropic Undrained Triaxial Test with the Measurement of Pore Water Pressure"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Prepared and tested in accordance with ASTM D4767 and In House method"",
+      ""scope"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D4767"",
+      ""related_domains"": [""geotechnical engineering"", ""construction standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",157,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Consolidated Undrained Triaxial Test with the Measurement of Pore Water Pressure"",
+    ""document_number"": ""2 of 4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Prepared and tested in accordance with ASTM D4767 and In House method"",
+      ""scope"": ""Geotechnical testing procedures for offshore wind farm site investigation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D4767"",
+      ""related_domains"": [""geotechnical engineering"", ""site investigation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",158,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Consolidated Anisotropic Undrained Triaxial Test with the Measurement of Pore Water Pressure"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",159,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",160,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Consolidated Anisotropic Undrained Triaxial Test with the Measurement of Pore Water Pressure"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Prepared and tested in accordance with ASTM D4767 and In House method"",
+      ""scope"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D4767"",
+      ""related_domains"": [""geotechnical engineering"", ""construction standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",161,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",162,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",163,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",164,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",165,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",166,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",167,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",168,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",169,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",170,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Marine G&G Survey Report for Site Assessment Plan"",
+    ""document_number"": ""1751"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client and project developer""
+    }
+  ]
+}
+```"
+"33",171,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Conduct marine surveys in accordance with a Survey Plan developed to satisfy Bureau of Ocean Energy Management’s (BOEM) 'Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585'."",
+      ""scope"": ""Outer Continental Shelf Lease number OCS-A 0490, during the site assessment phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management’s (BOEM) 'Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585'"",
+      ""related_domains"": [""geotechnical assessment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",172,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""the possibility of shallow buried ordnance should be considered."",
+      ""scope"": ""SAP area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety assessment"", ""military operations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",173,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",174,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",175,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",176,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""United States Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety oversight""
+    },
+    {
+      ""entity_name"": ""United States Geological Survey"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental assessment""
+    },
+    {
+      ""entity_name"": ""Maryland Energy Administration"",
+      ""jurisdiction"": ""State - Maryland, USA"",
+      ""role"": ""Energy policy and regulation""
+    }
+  ]
+}
+```"
+"33",177,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",178,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",179,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey Maryland Wind Energy Area Alpine Report Ref 1751-2 (Draft)"",
+    ""document_number"": ""vi"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The surveys were conducted in accordance with lease requirements (OCS-A 0489 and OCS-A 0490) as modified by the US Wind Survey Plan that was approved by the Bureau of Ocean Energy Management (BOEM) on 3-June-2015."",
+      ""scope"": ""Maryland Wind Energy Area on the Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""offshore wind development"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The surveys were also in line with lease requirements and according to specifications described in BOEM’s 'Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585', dated 9-November-2012."",
+      ""scope"": ""Geological and Geophysical surveys for offshore wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585"",
+      ""related_domains"": [""geotechnical assessment"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",180,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The surveys included protected species mitigation measures as detailed in the lease and described in the Marine Mammal Mitigation Plan submitted to BOEM prior to the onset of the survey."",
+      ""scope"": ""Marine Mammal Mitigation Plan, survey operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Marine Mammal Mitigation Plan"",
+      ""related_domains"": [""environmental impact assessment"", ""marine biology""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",181,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey Maryland Wind Energy Area Alpine Report Ref 1751-2 (Draft)"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",182,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Every crew member is given a safety induction upon joining the vessel and regular safety drills are carried out during the cruise."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Alpine’s Health and Safety Manual for Marine Geophysical Operations"",
+      ""related_domains"": [""crew safety"", ""operational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A total of 103 toolbox meetings were completed during operations."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 103,
+      ""unit"": ""meetings"",
+      ""source"": null,
+      ""related_domains"": [""crew safety"", ""operational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""There were no lost time incidents, no injurious incidents and no occurrences that resulted in damage to the environment."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental protection"", ""incident reporting""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",183,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",184,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",185,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey Maryland Wind Energy Area Alpine Report Ref 1751-2 (Draft)"",
+    ""document_number"": ""7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Bathymetry data were tide corrected and reduced to Mean Lower Low Water (MLLW) using the Post Processing Kinematic (PPK) method."",
+      ""scope"": ""MET tower APE, which encompasses a 300m radius circle around the planned installation location."",
+      ""numerical_value"": 300,
+      ""unit"": ""meters"",
+      ""source"": null,
+      ""related_domains"": [""bathymetric survey"", ""geophysical data collection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",186,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",187,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A HRG survey for archaeological resource assessment with a primary line spacing not to exceed 30m throughout the project area."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": 30,
+      ""unit"": ""meters"",
+      ""source"": ""BOEM’s Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585"",
+      ""related_domains"": [""archaeological resource assessment"", ""hazard assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Minimum line spacing for HRG surveys for hazard assessment and engineering purposes."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": 150,
+      ""unit"": ""meters"",
+      ""source"": ""BOEM’s Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585"",
+      ""related_domains"": [""hazard assessment"", ""engineering""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",188,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey Maryland Wind Energy Area Alpine Report Ref 1751-2 (Draft)"",
+    ""document_number"": ""5.5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",189,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Provides differential corrections for navigation control.""
+    }
+  ]
+}
+```"
+"33",190,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",191,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",192,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"33",193,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",194,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",195,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",196,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",197,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",198,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",199,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",200,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",201,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",202,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",203,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",204,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""7.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",205,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",206,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""7.6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",207,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey Maryland Wind Energy Area Alpine Report Ref 1751-2 (Draft)"",
+    ""document_number"": ""8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",208,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""There is a potential for shallow buried unexploded ordnance (UXO) in the area."",
+      ""scope"": ""SAP area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety"", ""military operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Navy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Military operations oversight""
+    }
+  ]
+}
+```"
+"33",209,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey"",
+    ""document_number"": ""31"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Possible throughout SAP area due to active present and past military use in W-386 area."",
+      ""scope"": ""SAP area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety"", ""ordnance management""]
+    },
+    {
+      ""type"": ""Cultural Resources"",
+      ""requirement"": ""None identified, to be confirmed by Professional Archaeologist."",
+      ""scope"": ""Cultural resources assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cultural heritage"", ""archaeology""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",210,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",211,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",212,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",213,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",214,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Coastal Systems Product Guide Underwater Positioning, Navigation and Relocation Systems"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",215,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",216,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",217,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",218,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",219,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",220,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",221,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",222,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",223,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",224,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",225,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",226,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",227,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",228,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",229,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",230,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",231,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",232,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",233,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",234,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",235,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",236,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",237,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",238,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",239,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",240,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""document_number"": ""APPENDIX F"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",241,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",242,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",243,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",244,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",245,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",246,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",247,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""DAILY REPORT"",
+    ""document_number"": ""Report No: 5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",248,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",249,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",250,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",251,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""DAILY REPORT"",
+    ""document_number"": ""Report No: 6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",252,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",253,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Project Data"",
+    ""document_number"": ""EE."",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""PSOs were disconnecting hydrophone eel to recover before conducting SVP cast which requires 1-hr watch and ramp up."",
+      ""scope"": ""Operational phase"",
+      ""numerical_value"": 1,
+      ""unit"": ""hour"",
+      ""source"": null,
+      ""related_domains"": [""safety procedures"", ""environmental monitoring""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",254,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",255,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""DAILY REPORT"",
+    ""document_number"": ""Report No: 7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",256,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",257,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Project Data"",
+    ""document_number"": ""EE."",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",258,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",259,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""DAILY REPORT"",
+    ""document_number"": ""Report No: 8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",260,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",261,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Project Data"",
+    ""document_number"": ""EE."",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",262,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",263,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Daily Report"",
+    ""document_number"": ""Report No: 9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",264,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",265,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""EE."",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",266,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",267,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Alpine Ocean Seismic Survey Inc"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Survey and data collection""
+    }
+  ]
+}
+```"
+"33",268,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",269,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""4245300N"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",270,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Alpine Ocean Seismic Survey Inc"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Survey and data collection""
+    }
+  ]
+}
+```"
+"33",271,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",272,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Alpine Ocean Seismic Survey Inc"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Survey and data collection""
+    }
+  ]
+}
+```"
+"33",273,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",274,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Alpine Ocean Seismic Survey Inc"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",275,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",276,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Alpine Ocean Seismic Survey Inc"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",277,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",278,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",279,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",280,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",281,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",282,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",283,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",284,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area (Met Tower)"",
+    ""document_number"": ""Ref 10451 (Final) – Rev 2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",285,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area (Met Tower)"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",286,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area (Met Tower)"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",287,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Debris could cause damage to equipment and foundations during installation operations."",
+      ""scope"": ""All"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety"", ""installation operations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",288,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area (Met Tower)"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""CPTUs were within accuracy Class 1 and 2, the appropriate classes for the tested soils as set out by ISO 22476-1:2012."",
+      ""scope"": ""Met Tower location, geotechnical testing phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 22476-1:2012"",
+      ""related_domains"": [""geotechnical engineering"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",289,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",290,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area (Met Tower)"",
+    ""document_number"": ""Ref 10451 (Final) – Rev 2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",291,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",292,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area (Met Tower)"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The derived friction angles are listed in Table 5.1 below."",
+      ""scope"": ""Friction angle calculations for geotechnical analysis"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API (2000)"",
+      ""related_domains"": [""geotechnical engineering"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"33",293,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area (Met Tower)"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Undrained Shear Strength = q net / N kt"",
+      ""scope"": ""Met Tower location"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""CPTU data"",
+      ""related_domains"": [""geotechnical engineering"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Unit weight data was obtained using the following methodologies: Bulk Density Test (BS1377: Part 7: 1990 – Section 7) and Derived from Moisture Content (BS1377: Part 7: 1990 – Section 3)"",
+      ""scope"": ""Geotechnical assessments"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BS1377: Part 7: 1990"",
+      ""related_domains"": [""geotechnical engineering"", ""material properties""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",294,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",295,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",296,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",297,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Recommended Practice for Planning, Designing and Constructing Fixed Offshore Platforms – Working Stress Design"",
+      ""scope"": ""Offshore platforms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP2A-WSD, 2000"",
+      ""related_domains"": [""structural integrity"", ""offshore engineering""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American Petroleum Institute"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",298,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""BS EN ISO 19901-8, 2013. Petroleum and Natural Gas Industries. Specific Requirements for Offshore Structures – Part 8: Marine Soil Investigation."",
+    ""document_number"": ""24"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Specific Requirements for Offshore Structures – Part 8: Marine Soil Investigation."",
+      ""scope"": ""Offshore structures, including wind farms."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BS EN ISO 19901-8, 2013"",
+      ""related_domains"": [""geotechnical investigation"", ""marine engineering"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Geotechnical Investigation and testing - Field testing. Part1: Electrical cone and piezocone penetration test."",
+      ""scope"": ""Field testing for offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BS EN ISO 22476 – 1:2012"",
+      ""related_domains"": [""geotechnical investigation"", ""marine engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Methods of test for Soils for civil engineering purposes Incorporating Amendment No. 1."",
+      ""scope"": ""Soil testing for civil engineering, applicable to offshore structures."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BS 1377-2, 5, 7, 8 and 9, 1990 + A1: 1994"",
+      ""related_domains"": [""geotechnical investigation"", ""civil engineering""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",299,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Gardline Geosciences Limited"",
+      ""jurisdiction"": ""USA / Maryland"",
+      ""role"": ""Geotechnical survey provider""
+    }
+  ]
+}
+```"
+"33",300,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area RELATIVE DENSITY"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client for wind energy project""
+    }
+  ]
+}"
+"33",301,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area RELATIVE DENSITY"",
+    ""document_number"": ""Appendix 3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland USA"",
+      ""role"": ""Client""
+    }
+  ]
+}
+```"
+"33",302,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area FRICTION ANGLE PROFILE"",
+    ""document_number"": ""Contract 10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client for the wind energy project""
+    }
+  ]
+}
+```"
+"33",303,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",304,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area FRICTION ANGLE PROFILE"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client""
+    }
+  ]
+}
+```"
+"33",305,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",306,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area UNDRAINED SHEAR STRENGTH PROFILE"",
+    ""document_number"": ""Contract 10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Pocket Penetrometer readings maxed out at 300kPa"",
+      ""scope"": ""Borehole testing for wind farm site assessment"",
+      ""numerical_value"": 300,
+      ""unit"": ""kPa"",
+      ""source"": null,
+      ""related_domains"": [""geotechnical assessment"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client and developer of the wind energy project""
+    }
+  ]
+}
+```"
+"33",307,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",308,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area UNDRAINED SHEAR STRENGTH PROFILE"",
+    ""document_number"": ""REF11449"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland USA"",
+      ""role"": ""Client""
+    }
+  ]
+}
+```"
+"33",309,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",310,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area TOTAL UNIT WEIGHT PROFILE"",
+    ""document_number"": ""Contract 10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client""
+    }
+  ]
+}
+```"
+"33",311,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",312,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area TOTAL UNIT WEIGHT PROFILE"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client""
+    }
+  ]
+}
+```"
+"33",313,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",314,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area WATER CONTENT PROFILE"",
+    ""document_number"": ""Contract 10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client""
+    }
+  ]
+}
+```"
+"33",315,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",316,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area WATER CONTENT PROFILE"",
+    ""document_number"": ""REF11449"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client""
+    }
+  ]
+}
+```"
+"33",317,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",318,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area OVERCONSOLIDATION RATIO"",
+    ""document_number"": ""Contract 10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client""
+    }
+  ]
+}
+```"
+"33",319,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",320,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area OVERCONSOLIDATION RATIO"",
+    ""document_number"": ""REF11449"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland USA"",
+      ""role"": ""Client""
+    }
+  ]
+}
+```"
+"33",321,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",322,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area EFFECTIVE STRESS PROFILE"",
+    ""document_number"": ""Contract 10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client for the wind energy project""
+    }
+  ]
+}
+```"
+"33",323,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",324,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area EFFECTIVE STRESS PROFILE"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland USA"",
+      ""role"": ""Client""
+    }
+  ]
+}
+```"
+"33",325,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",326,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client""
+    }
+  ]
+}
+```"
+"33",327,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",328,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US WIND BENTHIC MACROINVERTEBRATE COMMUNITY AND HABITAT ASSESSMENT"",
+    ""document_number"": ""ESS Project No. U167-003"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind, Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Client""
+    },
+    {
+      ""entity_name"": ""ESS Group, Inc."",
+      ""jurisdiction"": ""Massachusetts, USA"",
+      ""role"": ""Consultant""
+    }
+  ]
+}
+```"
+"33",329,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",330,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""US Wind Benthic Macroinvertebrate Community and Habitat Assessment"",
+    ""document_number"": ""6.0"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Sampling was conducted in accordance with Guidelines for Providing Benthic Habitat Survey Information for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585."",
+      ""scope"": ""Atlantic Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""environmental impact assessment"", ""benthic habitat survey""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Generate a taxonomic classification of benthic habitat in the SAP area to the lowest practicable taxonomic level under the Coastal and Marine Ecological Classification Standard (CMECS)."",
+      ""scope"": ""Site Assessment Plan (SAP) area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coastal and Marine Ecological Classification Standard (CMECS) (FGDC 2012)"",
+      ""related_domains"": [""benthic habitat classification"", ""marine ecology""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"33",331,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The BOEM guidelines for benthic habitat survey were used as the primary guidance document for developing the survey approach."",
+      ""scope"": ""Benthic habitat survey approach for offshore wind farm development."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM guidelines for benthic habitat survey (issued November 4, 2013)"",
+      ""related_domains"": [""environmental impact assessment"", ""benthic habitat protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}"
+"33",332,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind Benthic Macroinvertebrate Community and Habitat Assessment"",
+    ""document_number"": ""October 21, 2015"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",333,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind Benthic Macroinvertebrate Community and Habitat Assessment"",
+    ""document_number"": ""Page 4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",334,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",335,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind Benthic Macroinvertebrate Community and Habitat Assessment"",
+    ""document_number"": ""Page 5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If the original sorter achieved *[E]* < 90% (i.e., less than 90% of the organisms in the sample removed), corrective action was taken to ensure greater sorting efficiency for other samples sorted by the same individual."",
+      ""scope"": ""Sample sorting phase"",
+      ""numerical_value"": 90,
+      ""unit"": ""%"",
+      ""source"": null,
+      ""related_domains"": [""quality assurance"", ""benthic ecology""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The QA/QC reviewer checked at least 10% of taxonomic identifications for accuracy."",
+      ""scope"": ""Identification phase"",
+      ""numerical_value"": 10,
+      ""unit"": ""%"",
+      ""source"": null,
+      ""related_domains"": [""quality assurance"", ""taxonomic identification""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",336,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",337,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind Benthic Macroinvertebrate Community and Habitat Assessment"",
+    ""document_number"": ""Page 6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",338,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",339,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",340,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind Benthic Macroinvertebrate Community and Habitat Assessment"",
+    ""document_number"": ""Page 10"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",341,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",342,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",343,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",344,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",345,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",346,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",347,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""FINAL SAP Survey Plan"",
+    ""document_number"": ""FINAL SAP Survey Plan 052715.pdf"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Results will be presented in accordance with BOEM guidelines."",
+      ""scope"": ""Benthic habitat assessment for the Met Tower and reference samples."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM guidelines"",
+      ""related_domains"": [""environmental impact assessment"", ""benthic habitat assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Geospatial data will be submitted according to BOEM’s Spatial Data Submission Guidelines."",
+      ""scope"": ""Geospatial data submission for benthic habitat assessment."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s Spatial Data Submission Guidelines"",
+      ""related_domains"": [""data submission"", ""geospatial analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Results will include classification of benthic habitat using the lowest taxonomic level achievable under the Coastal and Marine Ecological Classification Standard (CMECS)."",
+      ""scope"": ""Benthic habitat classification."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coastal and Marine Ecological Classification Standard (CMECS)"",
+      ""related_domains"": [""benthic habitat assessment"", ""ecological classification""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and guidelines for offshore energy projects.""
+    }
+  ]
+}
+```"
+"33",348,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Provision of Geological Services and Geophysical Marine Survey Investigation"",
+    ""document_number"": ""Gardline Report Ref 10505"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",349,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Provision of Geological Services and Geophysical Marine Survey Investigation"",
+    ""document_number"": ""Gardline Report Ref 10505"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",350,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Gardline Report Ref 10505"",
+    ""document_number"": ""4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",351,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",352,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SEABED IMAGERY LOG SHEET (Deck) QPRO-0753"",
+    ""document_number"": ""10505"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Depth readings on nav string have extra digits. Numbers are correct up to two decimal places."",
+      ""scope"": ""Sediment assessment during marine survey investigation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Internal survey protocol"",
+      ""related_domains"": [""environmental impact assessment"", ""marine survey""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Depth readings corrected to two decimal places only."",
+      ""scope"": ""Sediment assessment during marine survey investigation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Internal survey protocol"",
+      ""related_domains"": [""environmental impact assessment"", ""marine survey""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",353,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",354,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Environmental Logs"",
+    ""document_number"": ""APPENDIX A"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",355,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",356,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Environmental Logs"",
+    ""document_number"": ""APPENDIX A"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",357,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",358,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",359,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""1.0"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",360,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Marine Mammals and Sea Turtles"",
+    ""document_number"": ""2.1 - 3.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",361,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Fisheries and Essential Fish Habitat (§ 585.611(B)(3-5))"",
+    ""document_number"": ""1.0"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",362,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",363,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",364,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",365,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",366,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",367,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",368,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""ESA - listed Marine Mammal Species Profiles"",
+    ""document_number"": ""2.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The NARW is a strategic stock and is listed as endangered under the Endangered Species Act (ESA)."",
+      ""scope"": ""Marine environments where North Atlantic right whales are present."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (ESA)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",369,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Marine Mammal Protection Act (MMPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory framework for marine mammal conservation""
+    },
+    {
+      ""entity_name"": ""Endangered Species Act (ESA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory framework for species protection""
+    }
+  ]
+}
+```"
+"33",370,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",371,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All vessels greater than 19.8 meters (65 feet) must operate at speeds of 10 knots or less within these areas during seasonal time periods."",
+      ""scope"": ""Seasonal Management Areas (SMAs) for reducing ship strikes of North Atlantic Right Whales (NARWs) in the U.S. and Canada."",
+      ""numerical_value"": 10,
+      ""unit"": ""knots"",
+      ""source"": null,
+      ""related_domains"": [""marine safety"", ""wildlife protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Canadian Wildlife Service"",
+      ""jurisdiction"": ""Federal - Canada"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",372,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The fin whale is listed as endangered under the ESA."",
+      ""scope"": ""U.S. Atlantic EEZ"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (ESA)"",
+      ""related_domains"": [""species protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The North Atlantic population is listed as a strategic stock under the Marine Mammal Protection Act (MMPA)."",
+      ""scope"": ""U.S. Atlantic EEZ"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Marine Mammal Protection Act (MMPA)"",
+      ""related_domains"": [""species protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For the period 2012 through 2016, the minimum annual rate of human-caused mortality and serious injury to fin whales was 2.5 individuals per year."",
+      ""scope"": ""U.S. Atlantic EEZ"",
+      ""numerical_value"": 2.5,
+      ""unit"": ""individuals per year"",
+      ""source"": ""Hayes et al. 2019"",
+      ""related_domains"": [""species protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""International Whaling Commission (IWC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Management of whale stocks""
+    }
+  ]
+}
+```"
+"33",373,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",374,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The sei whale is listed as endangered under the ESA."",
+      ""scope"": ""All waters where sei whales are present, including the Lease Area."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (ESA)"",
+      ""related_domains"": [""species protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",375,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",376,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",377,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",378,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",379,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",380,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",381,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"33",382,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",383,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",384,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"
+"33",385,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",386,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",387,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",388,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",389,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",390,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.0 COASTAL AND MARINE BIRDS AND BATS (585.611(B)(3 5))"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",391,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Piping plovers are very sensitive to human activities, and disturbances from anthropogenic activities can cause breeding birds to abandon their nests."",
+      ""scope"": ""Atlantic Coast breeding range"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USDOI and USFWS 1996"",
+      ""related_domains"": [""avian protection"", ""habitat conservation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Department of Interior Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""United States Fish and Wildlife Services"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Delaware Department of Natural Resources and Environmental Control"",
+      ""jurisdiction"": ""State - Delaware"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Maryland Department of Natural Resources"",
+      ""jurisdiction"": ""State - Maryland"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",392,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",393,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""16"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The need for extending ESA protections to the roseate tern was identified based primarily on the concentration of the population into a small number of breeding sites."",
+      ""scope"": ""Northeastern North America and the northern Caribbean"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""USDOI and USFWS 1998"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The most important factor in breeding colony loss was predation by herring gulls and/or great black-backed gulls."",
+      ""scope"": ""Breeding colonies of roseate terns"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""avian protection"", ""biodiversity conservation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (USFWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",394,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior (USDOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (USFWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",395,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",396,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",397,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Bermuda petrel was listed by the U.S. Department of the Interior under the Endangered Species Conservation Act of 1969."",
+      ""scope"": ""Bermuda and surrounding areas where Bermuda petrels may occur."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Conservation Act of 1969 (35 FR 6069)"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"33",398,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",399,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",400,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",401,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",402,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",403,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",404,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",405,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",406,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""5-year review: Summary and evaluation"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (USFWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",407,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",408,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",409,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",410,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",411,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",412,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""shorebird- horseshoe crab assessment report and peer review"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",413,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Virginia Institute of Marine Science"",
+      ""jurisdiction"": ""State - Virginia, USA"",
+      ""role"": ""Research and data provision""
+    },
+    {
+      ""entity_name"": ""Biodiversity Research Institute"",
+      ""jurisdiction"": ""State - Maine, USA"",
+      ""role"": ""Research and data provision""
+    }
+  ]
+}
+```"
+"33",414,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Wind, Inc."",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Project developer and operator""
+    },
+    {
+      ""entity_name"": ""Alpine Ocean Seismic Survey, Inc."",
+      ""jurisdiction"": ""Outer Continental Shelf, USA"",
+      ""role"": ""Conducting marine surveys for regulatory compliance""
+    }
+  ]
+}
+```"
+"33",415,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The 2015 survey operations were conducted in accordance with the Bureau of Ocean Energy Management’s 'Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585'."",
+      ""scope"": ""Survey operations for offshore wind farm site assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management’s Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585"",
+      ""related_domains"": [""geological survey"", ""geophysical survey"", ""hazard assessment"", ""archaeological information""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",416,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",417,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",418,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",419,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",420,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",421,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",422,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Ocean Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",423,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The surveys were conducted in accordance with the Bureau of Ocean Energy Management’s 'Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585'."",
+      ""scope"": ""Survey operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management’s Guidelines, 30 CFR Part 585"",
+      ""related_domains"": [""geological surveys"", ""environmental assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The surveys included protected species mitigation measures as detailed in the lease and described in the Marine Mammal Mitigation Plan submitted to BOEM prior to the onset of the survey."",
+      ""scope"": ""Environmental impact assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Marine Mammal Mitigation Plan"",
+      ""related_domains"": [""marine biology"", ""environmental protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"33",424,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",425,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Bathymetry data were tidally corrected to the Mean Lower Low Water (MLLW) datum."",
+      ""scope"": ""Survey procedures for bathymetry data acquisition."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""bathymetric survey"", ""tidal correction""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",426,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""Ref: AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585"",
+      ""scope"": ""Geological and geophysical surveys in offshore areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management"",
+      ""related_domains"": [""geological surveys"", ""geophysical surveys"", ""archaeological assessments""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",427,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",428,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The measured magnetic signal is very sensitive to sensor height off the bottom."",
+      ""scope"": ""Offshore Maryland"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""2015 survey report"",
+      ""related_domains"": [""geophysical survey"", ""magnetic anomaly detection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Sub-bottom penetration with the CHIRP system was restricted to approximately 6m below the seafloor."",
+      ""scope"": ""Offshore Maryland"",
+      ""numerical_value"": 6,
+      ""unit"": ""meters"",
+      ""source"": ""2015 dataset"",
+      ""related_domains"": [""geotechnical assessment"", ""sub-seafloor analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",429,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"33",430,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"33",431,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Hazard Identification"",
+    ""document_number"": ""Page 2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Unexploded ordnance is a possibility within this area."",
+      ""scope"": ""FACSFAC VACAPES Operating Area of the US Navy"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""US Navy regulations"",
+      ""related_domains"": [""safety"", ""military operations"", ""environmental assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Navy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Military operations oversight""
+    }
+  ]
+}
+```"
+"33",432,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}"

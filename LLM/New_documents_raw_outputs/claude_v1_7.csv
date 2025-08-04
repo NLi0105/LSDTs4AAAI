@@ -1,0 +1,255 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"7","claude","claude-3-haiku-20240307",413075,45814,4,3,True,"{
+  ""document_metadata"": {
+    ""title"": ""Maryland Offshore Wind Commercial Project Record of Decision"",
+    ""project_name"": ""Maryland Offshore Wind Project"",
+    ""project_location"": ""Offshore Maryland""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Offshore wind turbines that generate electricity"",
+      ""source_section_number"": ""2.1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Substations"",
+      ""component_acronym"": ""OSS"",
+      ""description"": ""Offshore electrical substations that collect and transmit electricity from the wind turbines"",
+      ""source_section_number"": ""2.1""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Offshore Export Cables"",
+      ""description"": ""Cables that transmit electricity from the offshore substations to the onshore grid"",
+      ""source_section_number"": ""2.1""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Meteorological Tower"",
+      ""component_acronym"": ""Met Tower"",
+      ""description"": ""Offshore tower used to measure wind and other meteorological data"",
+      ""source_section_number"": ""2.1""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Project Vessels"",
+      ""description"": ""Vessels used for construction, operations, and maintenance activities"",
+      ""source_section_number"": ""4.1.2""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will consist of up to 114 wind turbine generators (WTGs), each ranging from 14 to 18 MW in capacity."",
+      ""value"": 114,
+      ""unit"": null,
+      ""source_section_number"": ""2.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Project (full build-out) is comprised of up to 121 wind turbine generators (WTGs), up to 4 offshore substations (OSSs), up to 4 offshore export cables, and 1 meteorological tower (met tower), distributed across the Lease Area. Based on USCG recommendations in the New Jersey Port Access Route Study (PARS), US Wind's proposed layout included a 1 nmi (1.9 km) setback from the outer boundary of the south-eastbound traffic lane of the current Traffic Separation Scheme for the southeastern approach to the Delaware Bay or its proposed extension, which removed 7 of the 121 WTG positions, resulting in a total of up to 114 WTGs.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The wind turbine generators will range in capacity from 14 to 18 MW each."",
+      ""value"": 14,
+      ""unit"": ""MW"",
+      ""source_section_number"": ""2.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Project (full build-out) is comprised of up to 121 wind turbine generators (WTGs), up to 4 offshore substations (OSSs), up to 4 offshore export cables, and 1 meteorological tower (met tower), distributed across the Lease Area. Based on USCG recommendations in the New Jersey Port Access Route Study (PARS), US Wind's proposed layout included a 1 nmi (1.9 km) setback from the outer boundary of the south-eastbound traffic lane of the current Traffic Separation Scheme for the southeastern approach to the Delaware Bay or its proposed extension, which removed 7 of the 121 WTG positions, resulting in a total of up to 114 WTGs.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will include up to 4 offshore substations (OSSs)."",
+      ""value"": 4,
+      ""unit"": null,
+      ""source_section_number"": ""2.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Project (full build-out) is comprised of up to 121 wind turbine generators (WTGs), up to 4 offshore substations (OSSs), up to 4 offshore export cables, and 1 meteorological tower (met tower), distributed across the Lease Area.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will include up to 4 offshore export cables."",
+      ""value"": 4,
+      ""unit"": null,
+      ""source_section_number"": ""2.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Project (full build-out) is comprised of up to 121 wind turbine generators (WTGs), up to 4 offshore substations (OSSs), up to 4 offshore export cables, and 1 meteorological tower (met tower), distributed across the Lease Area.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will include 1 meteorological tower (Met Tower)."",
+      ""value"": 1,
+      ""unit"": null,
+      ""source_section_number"": ""2.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Project (full build-out) is comprised of up to 121 wind turbine generators (WTGs), up to 4 offshore substations (OSSs), up to 4 offshore export cables, and 1 meteorological tower (met tower), distributed across the Lease Area.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The offshore export cables will make landfall in Sussex County, Delaware."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""2.1"",
+      ""geographic_scope"": ""Sussex County, Delaware"",
+      ""context_quote"": ""The offshore export cables are planned to make landfall in Sussex County, Delaware.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will be interconnected to the onshore electric grid by up to four new 230 kilovolt (kV) export cables to new US Wind onshore substations, with an anticipated connection to the existing Indian River substation near Millsboro, Delaware."",
+      ""value"": 230,
+      ""unit"": ""kV"",
+      ""source_section_number"": ""2.1"",
+      ""geographic_scope"": ""Onshore grid connection near Millsboro, Delaware"",
+      ""context_quote"": ""The Project will be interconnected to the onshore electric grid by up to four new 230 kilovolt (kV) export cables to new US Wind onshore substations, with an anticipated connection to the existing Indian River substation near Millsboro, Delaware.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The wind turbine generators will be arranged in a 0.77 by 1.02 nautical-mile (nmi) (east-west by north-south) gridded array pattern distributed across the Lease Area."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""2.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Project (full build-out) is comprised of up to 121 wind turbine generators (WTGs), up to 4 offshore substations (OSSs), up to 4 offshore export cables, and 1 meteorological tower (met tower), with a total of up to 126 structures in a 0.77 by 1.02 nautical-mile (nmi) (east-west by north-south) gridded array pattern distributed across the Lease Area.""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""The wind turbine layout includes a 1 nautical mile (nmi) setback from the outer boundary of the south-eastbound traffic lane of the current Traffic Separation Scheme for the southeastern approach to the Delaware Bay or its proposed extension."",
+      ""value"": 1,
+      ""unit"": ""nmi"",
+      ""source_section_number"": ""2.1"",
+      ""geographic_scope"": ""Outer boundary of the south-eastbound traffic lane of the Delaware Bay Traffic Separation Scheme"",
+      ""context_quote"": ""Based on USCG recommendations in the New Jersey Port Access Route Study (PARS), US Wind's proposed layout included a 1 nmi (1.9 km) setback from the outer boundary of the south-eastbound traffic lane of the current Traffic Separation Scheme for the southeastern approach to the Delaware Bay or its proposed extension, which removed 7 of the 121 WTG positions, resulting in a total of up to 114 WTGs.""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Project vessels must not travel faster than 10 knots while in the Block Island Sound Transit Lane."",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""4.1.2"",
+      ""geographic_scope"": ""Block Island Sound Transit Lane"",
+      ""context_quote"": ""To protect sensitive habitats, vessel speeds for all project vessels shall not exceed 10 knots within the Block Island Sound Transit Lane.""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Cable trenching is forbidden within a 500-meter buffer zone around the historic shipwreck designated No. 551B."",
+      ""value"": 500,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""4.1.2"",
+      ""geographic_scope"": ""Area within 500 meters of historic shipwreck (No. 551B)"",
+      ""context_quote"": ""Furthermore, trenching activities are prohibited within 500 meters of the identified historic shipwreck (No. 551B) at all times.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Approved the Construction and Operations Plan (COP) for the Maryland Offshore Wind Project under the Outer Continental Shelf Lands Act (OCSLA)."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Oceanic and Atmospheric Administration National Marine Fisheries Service"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issued a Letter of Authorization (LOA) to US Wind Inc. under the Marine Mammal Protection Act (MMPA) for incidental take of marine mammals during construction activities."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""entity_acronym"": ""USACE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provided input and analysis for the Environmental Impact Statement as a cooperating agency."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""entity_acronym"": ""USCG"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provided input and analysis for the Environmental Impact Statement as a cooperating agency."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provided input and analysis for the Environmental Impact Statement as a cooperating agency."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-06"",
+      ""entity_name"": ""U.S. Environmental Protection Agency"",
+      ""entity_acronym"": ""USEPA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provided input and analysis for the Environmental Impact Statement as a cooperating agency."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-07"",
+      ""entity_name"": ""National Park Service"",
+      ""entity_acronym"": ""NPS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provided input and analysis for the Environmental Impact Statement as a cooperating agency."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-08"",
+      ""entity_name"": ""Delaware Department of Natural Resources and Environmental Control"",
+      ""entity_acronym"": ""DNREC"",
+      ""jurisdiction"": ""State"",
+      ""role_description"": ""Provided input and analysis for the Environmental Impact Statement as a cooperating state agency."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-09"",
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""entity_acronym"": ""USFWS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Supported the environmental review as a participating agency."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-10"",
+      ""entity_name"": ""Advisory Council on Historic Preservation"",
+      ""entity_acronym"": ""ACHP"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Supported the environmental review as a participating agency and was involved in the Section 106 review process."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-11"",
+      ""entity_name"": ""U.S. Navy"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Supported the environmental review as a participating agency."",
+      ""source_section_number"": ""1""
+    }
+  ]
+}"

@@ -1,0 +1,142 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"17","openai","gpt-4o-mini",169105,133732,10,6,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Bay State Wind Offshore Wind Farm Site Assessment Plan"",
+    ""project_name"": ""Bay State Wind Offshore Wind Farm"",
+    ""project_location"": ""Offshore Massachusetts""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""WindSentinel™ Buoy"",
+      ""component_acronym"": ""FLIDAR"",
+      ""description"": ""A floating light detection and ranging buoy used for meteorological data collection."",
+      ""source_section_number"": ""3.1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""TRIAXYS Buoy"",
+      ""component_acronym"": ""TRIAXYS"",
+      ""description"": ""A buoy used for measuring waves and currents, as well as water temperature."",
+      ""source_section_number"": ""3.1""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The WindSentinel™ will be deployed in the F1 Installation Area at specific coordinates."",
+      ""value"": 180.4,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""3.3"",
+      ""geographic_scope"": ""F1 Installation Area"",
+      ""context_quote"": ""The WindSentinel™ to be located in the southwest corner of the Lease Area is referenced as F1.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The TRIAXYS Buoy will be deployed in the B2 Installation Area at specific coordinates."",
+      ""value"": 135.5,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""3.3"",
+      ""geographic_scope"": ""B2 Installation Area"",
+      ""context_quote"": ""The TRIAXYS Buoy to be installed in the northeast corner of the Lease Area is referenced as B2.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The WindSentinel™ will have a vertical profile of approximately 13.5 ft from the sea surface."",
+      ""value"": 13.5,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""3.4.1"",
+      ""geographic_scope"": ""WindSentinel™ Buoy"",
+      ""context_quote"": ""The vertical profile of the WindSentinel™, including instrumentation, will be approximately 13.5 ft from the sea surface to the top of the hull mast.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The TRIAXYS Buoy will have a vertical profile of approximately 1.8 ft from the sea surface."",
+      ""value"": 1.8,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""3.4.2"",
+      ""geographic_scope"": ""TRIAXYS Buoy"",
+      ""context_quote"": ""The vertical profile of the TRIAXYS Buoy will be approximately 1.8 ft from the sea surface to the top of the buoy.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""The WindSentinel™ must comply with USCG lighting and marking requirements."",
+      ""source_section_number"": ""1.3"",
+      ""geographic_scope"": ""WindSentinel™ Buoy"",
+      ""context_quote"": ""Comply with USCG lighting and marking requirements while using lighting technology that minimizes impacts to avian species.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""The TRIAXYS Buoy must comply with USCG lighting and marking requirements."",
+      ""source_section_number"": ""1.3"",
+      ""geographic_scope"": ""TRIAXYS Buoy"",
+      ""context_quote"": ""Comply with USCG lighting and marking requirements while using lighting technology that minimizes impacts to avian species.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Safety Standard"",
+      ""description"": ""The WindSentinel™ will be inspected prior to installation."",
+      ""source_section_number"": ""1.2"",
+      ""geographic_scope"": ""WindSentinel™ Buoy"",
+      ""context_quote"": ""The Senior Measurements Engineer will also inspect the equipment prior to installation.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Safety Standard"",
+      ""description"": ""The TRIAXYS Buoy will be inspected prior to installation."",
+      ""source_section_number"": ""1.2"",
+      ""geographic_scope"": ""TRIAXYS Buoy"",
+      ""context_quote"": ""The Senior Measurements Engineer will also inspect the equipment prior to installation.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Regulatory authority overseeing offshore energy projects."",
+      ""source_section_number"": ""1.1""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""entity_acronym"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Consultation for endangered species and fisheries management."",
+      ""source_section_number"": ""1.1""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""entity_acronym"": ""USACE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Permitting authority for construction activities in waters."",
+      ""source_section_number"": ""1.1""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""entity_acronym"": ""USFWS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Consultation for endangered species protection."",
+      ""source_section_number"": ""1.1""
+    }
+  ]
+}
+```"

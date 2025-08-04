@@ -1,0 +1,6 @@
+model_name,document_number,type_of_wind_farm,chunk_number,document_id,constraint_type,requirement,scope,numerical_value,unit,source,related_domains
+deepseek-chat,EWEA-2023-OSW-001,Offshore,2,18,Environmental,All projects must conduct a full Environmental Impact Assessment (EIA) prior to construction,All offshore wind projects in EU waters,,,EU Directive 2014/52/EU,environmental; permitting
+deepseek-chat,EWEA-2023-OSW-001,Offshore,2,18,Technical,Turbine foundations must withstand 1-in-50-year extreme wave conditions,Fixed-bottom offshore wind turbines in North Sea,50.0,year return period,IEC 61400-3,structural engineering; safety
+deepseek-chat,EWEA-2023-OSW-001,Offshore,2,18,Spatial,Minimum 1km spacing between turbines in predominant wind direction,Array layout in US Outer Continental Shelf,1.0,kilometer,BOEM 2020 Guidelines,energy yield; wake effects
+deepseek-chat,EWF-2023-001,Offshore,14,18,Environmental,All offshore wind turbines must maintain a minimum clearance of 1 km from marine protected areas.,European Union waters,1.0,km,EU Marine Spatial Planning Directive 2021,Environmental; Spatial
+deepseek-chat,EWF-2023-001,Offshore,14,18,Technical,Wind turbine foundations must comply with ISO 19901-5 for structural integrity.,Global offshore wind projects,,,ISO 19901-5,Technical; Safety

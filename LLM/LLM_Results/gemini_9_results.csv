@@ -1,0 +1,1332 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+9,1,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,2,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,3,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,4,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""vi"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and permitting authority""
+    },
+    {
+      ""entity_name"": ""U.S. Department of Energy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Funding and research""
+    }
+  ]
+}
+```"
+9,5,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Wind farm development must avoid conflict with other ocean users, such as the military and U.S. Coast Guard vessel routing."",
+      ""scope"": ""Central Atlantic 1 Call Areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""maritime traffic management"",
+        ""military operations"",
+        ""navigation safety""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and permitting authority""
+    }
+  ]
+}
+```"
+9,6,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""2,233 square kilometers of additional lease area would be needed in these four Central Atlantic states"",
+      ""scope"": ""Central Atlantic states (Delaware, Maryland, Virginia, and North Carolina)"",
+      ""numerical_value"": 2233,
+      ""unit"": ""square kilometers"",
+      ""source"": null,
+      ""related_domains"": [""leasing"", ""spatial planning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and spatial planning""
+    }
+  ]
+}
+```"
+9,7,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""ix"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Tropical class (T-Class) wind turbine design ratings, battery back-up systems, and support structures built to the specification of Annex I in International Electrotechnical Commission 61400-3-1, which accounts for limit-state storms with increasing severity."",
+      ""scope"": ""Offshore wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""International Electrotechnical Commission 61400-3-1, Annex I"",
+      ""related_domains"": [""wind turbine design"", ""structural integrity"", ""grid stability"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,8,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,9,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,10,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,11,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,12,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,13,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,14,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and permitting authority""
+    },
+    {
+      ""entity_name"": ""State governments of Delaware, Maryland, Virginia, and North Carolina"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Setting mandates and targets for long-term energy requirements (some states)""
+    }
+  ]
+}
+```"
+9,15,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,16,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Planning and Leasing""
+    }
+  ]
+}
+```"
+9,17,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,18,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The coastal state has sovereign rights for the purpose of exploring and exploiting, conserving and managing the natural resources...of the waters superadjacent to the seabed and of the seabed and its subsoil...and with regard to other activities for the economic exploitation and exploration of the zone, such as the production of energy from the water, currents, and winds."",
+      ""scope"": ""Exclusive Economic Zone"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""resource management"", ""energy production""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,19,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,20,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,21,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,22,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,23,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,24,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""11, 12"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and Development Authority""
+    }
+  ]
+}
+```"
+9,25,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""This lease area is owned by USWind and plans to install up to 121 wind turbines"",
+      ""scope"": ""Maryland Offshore Wind Project (OCS-A 0490)"",
+      ""numerical_value"": 121,
+      ""unit"": ""wind turbines"",
+      ""source"": null,
+      ""related_domains"": [""Capacity"", ""Turbine Layout""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""using the GE Vernova 14.7- or 15.5-MW turbine, with a total capacity between 1,778.7 MW and 1,875.5 MW"",
+      ""scope"": ""Maryland Offshore Wind Project (OCS-A 0490)"",
+      ""numerical_value"": null, 
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""Turbine Specifications"", ""Capacity""]
+    },
+        {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The expected passage of HB 1296 would allow US Wind to renegotiate an increase to the amount of ORECs sold from each project"",
+      ""scope"": ""Maryland Offshore Wind Project (OCS-A 0490)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""HB 1296"",
+      ""related_domains"": [""Renewable Energy Credits"", ""Project Capacity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""This project plans to install up to 176 wind turbines and up to three offshore substations with a total capacity of 2,587 MW"",
+      ""scope"": ""Coastal Virginia Offshore Wind Commercial Project (CVOW-C) (OCS-A 0483)"",
+      ""numerical_value"": 176,
+      ""unit"": ""wind turbines"",
+      ""source"": null,
+      ""related_domains"": [""Capacity"", ""Turbine Layout"", ""Substation Infrastructure""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Public Service Commission"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Awarding offshore renewable energy certificates (ORECs)""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental Impact Statement review and Record of Decision issuance""
+    }
+  ]
+}
+```"
+9,26,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,27,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""14"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+9,28,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Lease issuance, Area Identification, Stakeholder engagement""
+    },
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Port access routing measures, Navigational safety""
+    }
+  ]
+}
+```"
+9,29,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""15-16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Wind farm development must consider special use airspace, military operating areas, regulated airspace, National Aeronautic and Space Administration (NASA) hazard area, and unexploded ordnance (UXO) areas."",
+      ""scope"": ""BOEM Central Atlantic 1 Call Areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM (2023e)"",
+      ""related_domains"": [
+        ""airspace regulations"",
+        ""military operations"",
+        ""aviation safety"",
+        ""unexploded ordnance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,30,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,31,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maryland committed to 2 GW by 2030, Virginia committed to 5.2 GW by 2034, and North Carolina committed to 2.8 GW by 2030"",
+      ""scope"": ""Central Atlantic 1 region"",
+      ""numerical_value"": null,
+      ""unit"": ""GW"",
+      ""source"": ""SMART-POWER 2020a"",
+      ""related_domains"": [""energy generation targets""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,32,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,33,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""40% of its energy [must] come from renewable sources like wind and solar by 2035"",
+      ""scope"": ""Delaware"",
+      ""numerical_value"": 40,
+      ""unit"": ""%"",
+      ""source"": ""State law (Delaware News 2021)"",
+      ""related_domains"": [""renewable energy portfolio"", ""energy generation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,34,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The State Energy Office cannot proceed with negotiating a contract unless a bid comes back with a price at or below 110% of the Delaware benchmark price."",
+      ""scope"": ""Delaware Offshore Wind Energy Procurement"",
+      ""numerical_value"": 110,
+      ""unit"": ""%"",
+      ""source"": ""Delaware Senate Bill 265 (Delaware Energy Solutions Act of 2024)"",
+      ""related_domains"": [""procurement"", ""cost control""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Procurement of offshore wind energy for Delaware, with a capacity ranging from 0.8 to 1.2 GW"",
+      ""scope"": ""Delaware Offshore Wind Energy Procurement"",
+      ""numerical_value"": 1.2,
+      ""unit"": ""GW"",
+      ""source"": ""Delaware Senate Bill 265 (Delaware Energy Solutions Act of 2024)"",
+      ""related_domains"": [""capacity planning"", ""grid connection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""State Energy Office"",
+      ""jurisdiction"": ""Delaware"",
+      ""role"": ""Procurement of offshore wind energy""
+    },
+    {
+      ""entity_name"": ""Public Service Commission"",
+      ""jurisdiction"": ""Delaware"",
+      ""role"": ""Approval of offshore wind energy solicitations""
+    },
+    {
+      ""entity_name"": ""DNREC (Department of Natural Resources and Environmental Control)"",
+      ""jurisdiction"": ""Delaware"",
+      ""role"": ""Studying offshore wind development options and transmission impacts""
+    },
+    {
+      ""entity_name"": ""PJM Interconnection, LLC"",
+      ""jurisdiction"": ""Regional Transmission Organization (RTO)"",
+      ""role"": ""Collaboration with DNREC on studying transmission impacts of offshore wind""
+    }
+
+  ]
+}
+```"
+9,35,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,36,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""achieve 25% of the state’s [renewable energy]"",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": 25,
+      ""unit"": ""%"",
+      ""source"": ""Maryland Offshore Wind Energy Act of 2013"",
+      ""related_domains"": [""renewable energy"", ""energy generation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,37,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,38,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""electricity consumption from renewable sources by 2020, including a carve-out specifically for offshore wind not exceeding 2.5%"",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": 2.5,
+      ""unit"": ""%"",
+      ""source"": ""Maryland Energy Administration"",
+      ""related_domains"": [
+        ""renewable energy"",
+        ""energy consumption""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""50% renewable energy by 2030"",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": 50,
+      ""unit"": ""%"",
+      ""source"": ""Clean Energy Jobs Act"",
+      ""related_domains"": [
+        ""renewable energy"",
+        ""energy consumption""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""procurement of at least an additional 1,200 MW through three new rounds of offshore wind energy projects"",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": 1200,
+      ""unit"": ""MW"",
+      ""source"": ""Clean Energy Jobs Act"",
+      ""related_domains"": [
+        ""offshore wind energy"",
+        ""energy procurement""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""achieving 2 GW by 2030"",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": 2,
+      ""unit"": ""GW"",
+      ""source"": ""SMART-POWER 2020a"",
+      ""related_domains"": [
+        ""offshore wind energy"",
+        ""energy production""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""8.5 GW by 2031"",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": 8.5,
+      ""unit"": ""GW"",
+      ""source"": ""Promoting Offshore Wind Energy Resources Act"",
+      ""related_domains"": [
+        ""offshore wind energy"",
+        ""energy production""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Energy Administration"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Regulatory and Funding""
+    },
+    {
+      ""entity_name"": ""Public Service Commission"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Project Approval""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and Development of Offshore Wind Areas""
+    },
+    {
+      ""entity_name"": ""Maryland Department of General Services"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Offshore Wind Procurement""
+    }
+  ]
+}
+```"
+9,39,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,40,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,41,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""24"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""develop 2 GW of offshore wind capacity by 2028"",
+      ""scope"": ""Commonwealth of Virginia"",
+      ""numerical_value"": 2,
+      ""unit"": ""GW"",
+      ""source"": ""Commonwealth of Virginia’s Energy Plan (2018)"",
+      ""related_domains"": [
+        ""power generation capacity""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""achieving a procurement mandate of 5.2 GW by 2034"",
+      ""scope"": ""Virginia"",
+      ""numerical_value"": 5.2,
+      ""unit"": ""GW"",
+      ""source"": ""SMART-POWER (2020a)"",
+      ""related_domains"": [
+        ""power generation capacity""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Virginia’s target of up to 5.2 GW of offshore wind capacity by 2034 to be in the public interest of the commonwealth"",
+      ""scope"": ""Virginia"",
+      ""numerical_value"": 5.2,
+      ""unit"": ""GW"",
+      ""source"": ""Virginia Clean Economy Act (2020)"",
+      ""related_domains"": [
+        ""power generation capacity""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,42,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,43,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""2.8 GW by 2030"",
+      ""scope"": ""North Carolina offshore wind energy development"",
+      ""numerical_value"": 2.8,
+      ""unit"": ""GW"",
+      ""source"": ""Executive Order No. 218"",
+      ""related_domains"": [""power generation capacity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""8.0 GW by 2040"",
+      ""scope"": ""North Carolina offshore wind energy development"",
+      ""numerical_value"": 8.0,
+      ""unit"": ""GW"",
+      ""source"": ""Executive Order No. 218"",
+      ""related_domains"": [""power generation capacity""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""70% reduction in carbon dioxide emissions from specific electric-generating facilities by 2030"",
+      ""scope"": ""North Carolina"",
+      ""numerical_value"": 70,
+      ""unit"": ""%"",
+      ""source"": ""Carbon Plan Statute (Section 62-110.9)"",
+      ""related_domains"": [""carbon emissions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""achieve carbon neutrality by 2050"",
+      ""scope"": ""North Carolina"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""North Carolina state policy"",
+      ""related_domains"": [""carbon emissions""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""North Carolina Taskforce for Offshore Wind Economic Resource Strategies"",
+      ""jurisdiction"": ""North Carolina"",
+      ""role"": ""Providing expert guidance on advancing offshore wind energy projects, fostering economic development, and generating employment opportunities""
+    },
+    {
+      ""entity_name"": ""North Carolina Utilities Commission"",
+      ""jurisdiction"": ""North Carolina"",
+      ""role"": ""Pursuing a 70% reduction in carbon dioxide emissions from specific electric-generating facilities by 2030""
+    }
+  ]
+}
+```"
+9,44,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,45,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""North Carolina Utilities Commission"",
+      ""jurisdiction"": ""North Carolina"",
+      ""role"": ""Regulatory oversight of Duke Energy's Carbon Plan, including offshore wind energy targets""
+    }
+  ]
+}
+```"
+9,46,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""26"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+9,47,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""27"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""OREC sizes in Maryland can be subject to increases."",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""House Bill 1296"",
+      ""related_domains"": [""renewable energy credits"", ""project capacity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""New Jersey has a mandated target of 11 GW."",
+      ""scope"": ""New Jersey"",
+      ""numerical_value"": 11,
+      ""unit"": ""GW"",
+      ""source"": null,
+      ""related_domains"": [""renewable energy targets"", ""grid capacity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Delaware’s goal of 1.2 GW, pending adoption of Senate Bill 265, is not a mandate."",
+      ""scope"": ""Delaware"",
+      ""numerical_value"": 1.2,
+      ""unit"": ""GW"",
+      ""source"": ""Senate Bill 265 (pending)"",
+      ""related_domains"": [""renewable energy targets"", ""grid capacity""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,48,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,49,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Maryland must procure an additional 7,500 MW to meet its current target"",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": 7500,
+      ""unit"": ""MW"",
+      ""source"": null,
+      ""related_domains"": [""energy production""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Delaware needs to procure at least 1,200 MW of offshore wind energy to meet the goal"",
+      ""scope"": ""Delaware"",
+      ""numerical_value"": 1200,
+      ""unit"": ""MW"",
+      ""source"": null,
+      ""related_domains"": [""energy production""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,50,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""1,025 km^2 (253,283 acres) for leasing is needed in geographical proximity to both states [Virginia and North Carolina] to attain these objectives [combined state targets of 5,200 MW in Virginia and 8,000 MW in North Carolina]."",
+      ""scope"": ""Offshore wind lease area for Virginia and North Carolina"",
+      ""numerical_value"": 1025,
+      ""unit"": ""km^2"",
+      ""source"": null,
+      ""related_domains"": [""leasing"", ""spatial planning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Virginia must secure an additional 2,600-2,800 MW in offtakes"",
+      ""scope"": ""Virginia Offshore Wind Energy"",
+      ""numerical_value"": 2600,
+      ""unit"": ""MW"",
+      ""source"": null,
+      ""related_domains"": [""power purchase agreements"", ""energy procurement""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""North Carolina needs to commence procurement for their entire 8,000 MW in offshore wind energy contracts."",
+      ""scope"": ""North Carolina Offshore Wind Energy"",
+      ""numerical_value"": 8000,
+      ""unit"": ""MW"",
+      ""source"": null,
+      ""related_domains"": [""power purchase agreements"", ""energy procurement""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Marine spatial planning, site suitability analysis, and lease auctions""
+    }
+  ]
+}
+```"
+9,51,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""31"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Congress"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Legislative body (enacting laws relevant to offshore wind energy incentives)""
+    },
+    {
+      ""entity_name"": ""Biden Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Executive branch (supporting and implementing the Inflation Reduction Act)""
+    }
+  ]
+}
+```"
+9,52,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and Planning""
+    }
+  ]
+}
+```"
+9,53,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,54,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,55,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""34"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+9,56,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,57,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,58,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,59,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,60,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,61,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,62,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,63,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,64,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,65,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,66,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,67,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For ultradeep water, cable depth requirements will need to be specified in the design and tested in an accredited facility before the cable can qualify for operation."",
+      ""scope"": ""Subsea electrical cables in ultradeep water"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable design"", ""cable testing"", ""subsea engineering""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,68,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,69,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Most conventional Class 1 offshore wind turbines can withstand the winds from a Category 2 hurricane but Category 3 and above may require additional design upgrades."",
+      ""scope"": ""Offshore wind turbines in hurricane regions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,70,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""43"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind turbine design categories are divided into classes based on the severity of the external conditions they are exposed to."",
+      ""scope"": ""Wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC-61400-01"",
+      ""related_domains"": [""structural integrity"", ""design standards""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The “limit state” is the maximum load the wind turbine is allowed to experience for a given load case."",
+      ""scope"": ""Wind turbine loading"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC-61400-01"",
+      ""related_domains"": [""structural safety"", ""load calculations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+9,71,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""44"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For a Class 1 turbine, Vref is set at 50 m/s (111.0 miles per hour)"",
+      ""scope"": ""Turbine design, Class 1 turbines"",
+      ""numerical_value"": 50,
+      ""unit"": ""m/s"",
+      ""source"": ""IEC"",
+      ""related_domains"": [""turbine design"", ""wind speed""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""for a T- Class turbine, Vref is set at 57 m/s (127.5 miles per hour)"",
+      ""scope"": ""Turbine design, T-Class turbines"",
+      ""numerical_value"": 57,
+      ""unit"": ""m/s"",
+      ""source"": ""IEC"",
+      ""related_domains"": [""turbine design"", ""wind speed""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""withstand a 3-s maximum gust, which is calculated by multiplying Vref by a “gust factor” set at 1.4"",
+      ""scope"": ""Turbine design"",
+      ""numerical_value"": 1.4,
+      ""unit"": null,
+      ""source"": ""IEC"",
+      ""related_domains"": [""turbine design"", ""gust resistance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For wind turbines not impacted by hurricanes, the return period corresponding to the “limit state” reference wind speed is defined to be 50 years."",
+      ""scope"": ""Turbine design, Non-hurricane regions"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""IEC"",
+      ""related_domains"": [""turbine design"", ""wind speed"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""In hurricane-impacted areas like the U.S. East Coast and Gulf of Mexico (including the Central Atlantic region), additional design conditions must be met."",
+      ""scope"": ""Turbine design, Hurricane-prone regions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC"",
+      ""related_domains"": [""turbine design"", ""hurricane resilience""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""assessing not only the 50-year storm but also the 500-year storm on the support structure"",
+      ""scope"": ""Support structure design, Hurricane-prone regions"",
+      ""numerical_value"": 500,
+      ""unit"": ""years"",
+      ""source"": ""IEC 61400-3-1 Annex I,  American Petroleum Institute (API RP 2A)"",
+      ""related_domains"": [""support structure design"", ""hurricane resilience"", ""risk assessment""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American National Standards Institute/American Clean Power"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Petroleum Institute"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+9,72,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,73,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""45"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Annex I [...] be mandatory for leases areas on the eastern Atlantic in the United States, including the Central Atlantic."",
+      ""scope"": ""Leases areas on the eastern Atlantic in the United States, including the Central Atlantic"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-1"",
+      ""related_domains"": [""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,74,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""46"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Site assessment in offshore wind lease planning""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Site assessment in offshore wind lease planning""
+    },
+    {
+      ""entity_name"": ""NREL"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Investigating hurricane intensity and frequency changes with distance from shore""
+    }
+  ]
+}
+```"
+9,75,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,76,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""offshore wind energy projects adopt the optional features described in the IEC standards that include T-Class wind turbine design ratings, battery back-up systems during loss of grid, and support structures built to the specification of Annex I in IEC 61400-3-1"",
+      ""scope"": ""Central Atlantic region"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-1, Annex I"",
+      ""related_domains"": [""turbine design"", ""grid stability"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,77,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,78,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,79,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,80,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,81,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""State and federal environmental reviews would be required before those could be developed as wet storage areas."",
+      ""scope"": ""Wet storage areas for floating substructures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,82,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,83,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,84,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""goods transported between two U.S. points must be carried on vessels that are built, owned, and crewed by U.S. citizens or permanent residents"",
+      ""scope"": ""Transportation of goods for offshore wind projects between two U.S. points"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Jones Act (Merchant Marine Act of 1920)"",
+      ""related_domains"": [""vessel transport"", ""logistics"", ""maritime regulations""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""floating offshore wind projects must use U.S.-flagged AHTS vessels"",
+      ""scope"": ""Floating offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Jones Act (Merchant Marine Act of 1920)"",
+      ""related_domains"": [""vessel requirements"", ""maritime regulations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,85,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""55-56"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""AHTS vessels used for floating wind turbine installation must be Jones-Act-compliant."",
+      ""scope"": ""United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Jones Act"",
+      ""related_domains"": [""vessel requirements"", ""maritime regulations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,86,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,87,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+9,88,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,89,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""58"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""current state targets and mandates are a lower boundary for offshore wind lease requirements"",
+      ""scope"": ""Offshore wind leasing in the region"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""State mandates (not explicitly named)"",
+      ""related_domains"": [""leasing"", ""spatial planning""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+9,90,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,91,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,92,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,93,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""60"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Raising Renewable Portfolio Standard (RPS)"",
+      ""scope"": ""Delaware"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Delaware General Assembly. 2024. “Senate Bill 265: An Act to Amend Titles 17, 26, and 29 of the Delaware Code Relating to the Delaware Energy Solutions Act of 2024.”"",
+      ""related_domains"": [""renewable energy"", ""energy policy""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and permitting for offshore wind energy development""
+    },
+    {
+      ""entity_name"": ""Delaware General Assembly"",
+      ""jurisdiction"": ""State - Delaware"",
+      ""role"": ""Legislation related to energy policy, including renewable portfolio standards""
+    },
+    {
+      ""entity_name"": ""Delaware Natural Resources Environmental Control (DNREC)"",
+      ""jurisdiction"": ""State - Delaware"",
+      ""role"": ""Oversight and management of natural resources and environmental issues, including offshore wind development""
+    }
+  ]
+}
+```"
+9,94,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,95,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,96,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,97,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""62"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind turbines—Part 1: Design requirements."",
+      ""scope"": ""Wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1:2019 Edition 4"",
+      ""related_domains"": [""design"", ""wind turbine""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design Requirements for Fixed Offshore Wind Turbines"",
+      ""scope"": ""Fixed Offshore Wind Turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-1:2019"",
+      ""related_domains"": [""design"", ""fixed offshore wind turbines""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+9,98,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,99,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""63"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Electricity – Offshore Wind Projects – Alterations"",
+      ""scope"": ""Maryland"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""House Bill 1296"",
+      ""related_domains"": [""electricity generation"", ""grid connection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Energy Administration"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Oversight and program administration for offshore wind projects""
+    },
+    {
+      ""entity_name"": ""Maryland General Assembly"",
+      ""jurisdiction"": ""Maryland"",
+      ""role"": ""Legislative authority for offshore wind projects""
+    }
+  ]
+}
+```"
+9,100,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,101,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,102,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,103,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Public Service Commission of Maryland"",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Granting Offshore Wind Renewable Energy Credits""
+    }
+  ]
+}
+```"
+9,104,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,105,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+9,106,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND

@@ -1,0 +1,218 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"46",1,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",2,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",3,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",4,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",5,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",6,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",7,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""J. Mar. Sci. Eng."",
+    ""document_number"": ""2025, 13, 54"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"46",8,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Title of the analyzed document (extract if explicitly stated within the document chunk)"",
+    ""document_number"": ""5 of 16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"46",9,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Title of the analyzed document (extract if explicitly stated within the document chunk)"",
+    ""document_number"": ""6 of 16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A minimum separation distance of 100 m between offshore installations is prescribed."",
+      ""scope"": ""Mooring systems"",
+      ""numerical_value"": 100,
+      ""unit"": ""meters"",
+      ""source"": ""ISO 19901-7"",
+      ""related_domains"": [""navigational safety"", ""mooring operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Mooring lines must not be crossed within the mooring buffer zone."",
+      ""scope"": ""Mooring operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""mooring operations"", ""safety management""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The minimum distance between wind turbines is set to be 5 *D*."",
+      ""scope"": ""Wind turbine installations"",
+      ""numerical_value"": 5,
+      ""unit"": ""D (rotor diameter)"",
+      ""source"": null,
+      ""related_domains"": [""operational safety"", ""wake interference""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""No FOWT can be installed in the buffer zones of other FOWTs."",
+      ""scope"": ""Wind turbine installations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""spatial planning"", ""installation regulations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"46",10,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If Rw < RMooring, the constraint area should be determined by the mooring buffer zone."",
+      ""scope"": ""Deep-sea areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""layout optimization"", ""mooring line design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If Rw - RMooring, the wind turbine buffer zone encompasses all mooring line areas."",
+      ""scope"": ""Shallow sea areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""layout optimization"", ""mooring line design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}"
+"46",11,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",12,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Title of the analyzed document (extract if explicitly stated within the document chunk)"",
+    ""document_number"": ""8 of 16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The mooring line angle can be changed in 10 [°] intervals."",
+      ""scope"": ""Mooring line configuration for floating offshore wind turbines."",
+      ""numerical_value"": 10,
+      ""unit"": ""degrees"",
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""marine engineering""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"46",13,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Title of the analyzed document (extract if explicitly stated within the document chunk)"",
+    ""document_number"": ""9 of 16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"46",14,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""J. Mar. Sci. Eng."",
+    ""document_number"": ""4.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"46",15,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",16,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Title of the analyzed document (extract if explicitly stated within the document chunk)"",
+    ""document_number"": ""4.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The minimum distance between FOWTs is set to be 6 *D*."",
+      ""scope"": ""Wind farm layout optimization phase."",
+      ""numerical_value"": 6,
+      ""unit"": ""D"",
+      ""source"": null,
+      ""related_domains"": [""layout optimization"", ""wind turbine spacing""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"46",17,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",18,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""14 of 16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+"46",19,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",20,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",21,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",22,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",23,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",24,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",25,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"46",26,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Passive Mooring-based Turbine Repositioning Technique for Wake Steering in Floating Offshore Wind Farms"",
+    ""document_number"": ""29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Petroleum and Natural Gas Industries—Specific Requirements for Offshore Structures."",
+      ""scope"": ""Offshore structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 19901-7:2013"",
+      ""related_domains"": [""structural integrity"", ""offshore engineering""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""International Organization for Standardization"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"46",27,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"

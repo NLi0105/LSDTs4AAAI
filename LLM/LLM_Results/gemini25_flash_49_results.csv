@@ -1,0 +1,2087 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"49",1,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""ESSENTIAL FISH HABITAT ASSESSMENT FOR SUNRISE WIND OFFSHORE WIND PROJECT FOR THE NATIONAL MARINE FISHERIES SERVICE"",
+    ""document_number"": ""December 2022"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Government oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Office of Renewable Energy Program"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Program administration""
+    }
+  ]
+}
+```"
+"49",2,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",3,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""4-1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"49",4,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Sections 5.0-9.0 Outline/Table of Contents"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Marine resource management; Protection of trust resources""
+    }
+  ]
+}
+```"
+"49",5,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",6,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",7,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",8,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",9,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA (Coastal and Offshore Waters)"",
+      ""role"": ""Environmental oversight; Habitat protection; Fisheries management""
+    }
+  ]
+}
+```"
+"49",10,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",11,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"49",12,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""Pages vi-vii"","
+"49",13,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""viii-ix, Section 1.0"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""promote the protection of Essential Fish Habitat (EFH) in the review of projects conducted under federal permits, licenses, or other authorities that affect or have the potential to affect such habitat."",
+      ""scope"": ""Projects conducted under federal permits, licenses, or other authorities that affect or have the potential to affect Essential Fish Habitat (EFH)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act (MSA)"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""habitat conservation"",
+        ""fisheries management"",
+        ""federal permitting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",14,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies are required to consult with the Secretary of Commerce, through the National Marine Fisheries Service (NMFS), with respect to “any action authorized, funded, or undertaken, or proposed to be authorized, funded, or undertaken, by such agency that may adversely affect any essential fish habitat identified under this Act.”"",
+      ""scope"": ""Any Federal action that may adversely affect Essential Fish Habitat (EFH)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Act (MSA)"
+"49",15,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""1-1 to 2-2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An adverse effect may include direct or indirect physical, chemical, or biological alterations of the waters or substrate and loss of, or injury to, benthic organisms, prey species and their habitat and other ecosystems components, if such modifications reduce"
+"49",16,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Pro j ect"",
+    ""document_number"": ""Section 2.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Leasing authority""
+    }
+  ]
+}
+```"
+"49",17,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",18,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",19,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-4 to 2-5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Onshore Transmission cable route would be installed with trenchless construction methods to avoid or minimize impacts to wetlands."",
+      ""scope"": ""Onshore Transmission cable route intersecting or running parallel to tidal wetlands"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""wetland protection"",
+        ""construction methods""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",20,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",21,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",22,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",23,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",24,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",25,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",26,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",27,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",28,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Should nighttime pile driving occur, the best currently available technology will be used to mitigate the potential impacts and result in the least practicable adverse impacts."",
+      ""scope"": ""Nighttime pile driving for WTG monopile foundations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""The analyzed document chunk, reflecting a commitment to environmental mitigation standards."",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""noise mitigation"",
+        ""marine ecology protection"",
+        ""construction methodology""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",29,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",30,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.2.1.3 Seabed Preparation/Boulder Relocation/Dredging"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Boulder clearance would occur within a 722-ft (220-m) radius centered on the foundations."",
+      ""scope"": ""Area around foundations for OCS-DC during pre-installation/construction phase"",
+      ""numerical_value"": 220,
+      ""unit"": ""m"",
+      ""source"": ""COP Section 3.3.5; Sunrise Wind 2022"",
+      ""related_domains"": [
+        ""seabed preparation"",
+        ""construction safety"",
+        ""environmental protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",31,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",32,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",33,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",34,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",35,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",36,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",37,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",38,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",39,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",40,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",41,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",42,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.2.2.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""For all MEC/UXO clearance methods, safety measures such as the use of guard vessels, enforcement of safety zones, and others would be identified in consultation with an MEC/UXO specialist and the appropriate agencies and implemented as appropriate."",
+      ""scope"": ""All MEC/UXO clearance methods during wind farm construction/pre-construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""COP Section 3.3.3; Sunrise Wind 2022"",
+      ""related_domains"": [
+        ""safety management"",
+        ""unexploded ordnance clearance"",
+        ""maritime safety"",
+        ""environmental protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",43,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",44,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",45,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",46,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-21"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"49",47,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.3.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The proposed Project would include a comprehensive maintenance program, including preventative maintenance based on statutory requirements."",
+      ""scope"": ""Project's onshore and offshore infrastructure"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""statutory requirements"",
+      ""related_domains"": [
+        ""maintenance"",
+        ""operational compliance"",
+        ""technical standards""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",48,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",49,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""vessels would install operational AIS"",
+      ""scope"": ""Vessels supporting O&M for the Sunrise Wind Project during operational lifetime"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""applicable rules and regulations"",
+      ""related_domains"": [
+        ""navigational safety"",
+        ""vessel operations"",
+        ""equipment requirements""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",50,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",51,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",52,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",53,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",54,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",55,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",56,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",57,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",58,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",59,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Standard setting body""
+    }
+  ]
+}
+```"
+"49",60,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Standard setting body""
+    }
+  ]
+}
+```"
+"49",61,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"49",62,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3.1 SRWF Lease Area"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental classification/categorization""
+    }
+  ]
+}
+```"
+"49",63,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",64,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",65,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",66,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",67,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",68,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",69,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",70,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",71,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",72,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",73,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",74,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",75,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",76,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",77,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",78,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",79,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",80,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",81,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",82,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",83,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",84,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",85,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-31"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Habitat identification and mapping; Environmental oversight""
+    }
+  ]
+}
+```"
+"49",86,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",87,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",88,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",89,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",90,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",91,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-34"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New York Department of State (NYDOS)"",
+      ""jurisdiction"": ""New York State"",
+      ""role"": ""Environmental documentation and oversight""
+    }
+  ]
+}
+```"
+"49",92,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",93,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",94,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3.3.7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"49",95,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",96,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",97,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",98,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",99,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Species management and environmental oversight""
+    }
+  ]
+}
+```"
+"49",100,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.3.8 Other Biogenic Habitats"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"49",101,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",102,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",103,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",104,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",105,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",106,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",107,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-48 to 3-49"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Permitting authority""
+    },
+    {
+      ""entity_name"": ""NEFMC"",
+      ""jurisdiction"": ""Regional - USA (New England)"",
+      ""role"": ""Environmental oversight; Standard setting body""
+    }
+  ]
+}
+```"
+"49",108,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-50"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New England Fishery Management Council (NEFMC)"",
+      ""jurisdiction"": ""New England (USA)"",
+      ""role"": ""Environmental oversight; Standard setting for Essential Fish Habitat (EFH) designations""
+    },
+    {
+      ""entity_name"": ""Mid-Atlantic Fishery Management Council (MAFMC)"",
+      ""jurisdiction"": ""Mid-Atlantic (USA)"",
+      ""role"": ""Environmental oversight; Standard setting for Essential Fish Habitat (EFH) designations""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Standard setting for Essential Fish Habitat (EFH) designations""
+    }
+  ]
+}
+```"
+"49",109,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""4-1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NEFMC"",
+      ""jurisdiction"": ""Federal - USA (Northeast Region)"",
+      ""role"": ""Manages Fishery Management Plans (FMPs)""
+    },
+    {
+      ""entity_name"": ""MAFMC"",
+      ""jurisdiction"": ""Federal - USA (Mid-Atlantic Region"
+"49",110,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New England Fishery Management Council"",
+      ""jurisdiction"": ""Federal - USA (New England Region)"",
+      ""role"": ""Defines and identifies Essential Fish Habitat (EFH), fishery management""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental research and oversight, provides data for habitat management""
+    }
+  ]
+}
+```"
+"49",111,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",112,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",113,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",114,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New England Fishery Management Council (NEFMC)"",
+      ""jurisdiction"": ""Federal - USA (New England and Mid-Atlantic regions)"",
+      ""role"": ""Fisheries management; Essential Fish Habitat (EFH) designation; Environmental oversight""
+    }
+  ]
+}
+```"
+"49",115,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",116,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",117,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",118,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",119,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",120,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",121,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",122,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",123,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",124,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",125,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",126,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",127,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",128,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",129,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",130,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",131,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",132,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",133,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",134,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",135,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",136,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",137,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",138,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",139,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",140,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",141,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",142,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",143,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",144,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",145,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",146,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",147,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",148,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; responsible for Essential Fish Habitat (EFH) designations and consultations under the Magnuson-Stevens Fishery Conservation and Management Act.""
+    },
+    {
+      ""entity_name"": ""NOAA (National Oceanic and Atmospheric Administration)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; provides scientific data and regulations related to marine resources and coastal management.""
+    }
+  ]
+}
+```"
+"49",149,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",150,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",151,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""4-22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Data provider for Essential Fish Habitat (EFH) definitions""
+    }
+  ]
+}
+```"
+"49",152,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",153,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""4-24"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"49",154,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",155,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",156,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",157,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""4-27"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New England Fishery Management Council"",
+      ""jurisdiction"": ""New England area"",
+      ""role"": ""Fishery management; Habitat management (designated habitat management areas)""
+    },
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Regulatory approval/disapproval""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Funding research""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Conducting research""
+    }
+  ]
+}
+```"
+"49",158,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""4-28 to 4-29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Permitting authority""
+    }
+  ]
+}
+```"
+"49",159,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",160,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""4-31"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Resource management""
+    }
+  ]
+}
+```"
+"49",161,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 5.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Adverse effects may include direct or indirect physical, chemical, or biological alterations of the waters or substrate as well as the loss of and/or injury to benthic organisms, prey species, their habitat, and other ecosystem components."",
+      ""scope"": ""Project area defined in Section 4, specifically EFH for managed species and life stages."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""habitat protection"",
+        ""marine ecology""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Adverse effects may be site-specific or habitat-wide impacts including individual, cumulative, or synergistic consequences of actions."",
+      ""scope"": ""Project area defined in Section 4, specifically EFH for managed species and life stages."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR § 600.810"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""cumulative impacts"",
+        ""regulatory compliance""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If a Project component is likely to result in a short-term, long-term, or permanent impairment of designated EFH or HAPC for a managed species and life stage, this would"
+"49",162,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 5.1.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Underwater noise generated by construction and installation activities must not exceed established thresholds for mortality and permanent or short-term injury, temporary threshold shift (TTS), and behavioral effects on Essential Fish Habitat (EFH) species."",
+      ""scope"": ""Project construction and installation activities (specifically SRWF), affecting underwater noise and EFH species."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""marine ecology"",
+        ""noise pollution"",
+        ""fisheries protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",163,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",164,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",165,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",166,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",167,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, Permitting authority""
+    }
+  ]
+}
+```"
+"49",168,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",169,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",170,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",171,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-36"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Plan for avoidance of sensitive habitat when anchoring"",
+      ""scope"": ""Anchoring activities during wind farm construction/installation, specifically in areas identified as sensitive habitat (e.g., Essential Fish Habitat, Habitat Area of Particular Concern, areas with ripples, mega-ripples, or soft-bottoms)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""habitat protection"",
+        ""marine ecology"",
+        ""construction planning""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",172,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",173,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",174,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",175,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",176,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels are required to adhere to existing state and federal regulations related to ballast and bilge water discharge."",
+      ""scope"": ""Vessels involved in Project construction and operation activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Existing state and federal regulations"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""maritime operations"",
+        ""invasive species management""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels are required to adhere to U.S. Coast Guard ballast discharge regulations (33 CFR 151.2025)."",
+      ""scope"": ""Vessels involved in Project construction and operation activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Coast Guard (33 CFR 151.2025)"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""maritime operations"",
+        ""invasive species management""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels are required to adhere to U.S. Environmental Protection Agency National Pollutant Discharge Elimination System (NPDES) Vessel General Permit standards."",
+      ""scope"": ""Vessels involved in Project construction and operation activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Environmental Protection Agency (NPDES Vessel General Permit)"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""maritime operations"",
+        ""invasive"
+"49",177,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",178,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",179,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",180,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",181,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",182,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",183,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""Pages 5-43 to 5-44"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A Passive Acoustic Monitoring (PAM) operator must be on duty conducting acoustic monitoring in coordination with visual Protected Species Observers (PSOs) during all pre-start clearance periods, piling, and post-piling monitoring periods."",
+      ""scope"": ""Offshore wind farm pile-driving activities (pre-start, piling, and post-piling monitoring periods)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""marine mammal protection"",
+        ""fish protection"",
+        ""acoustic monitoring""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Ramp up procedures must be used during pile-driving activities, allowing mobile resources to leave the area before full-intensity pile-driving begins."",
+      ""scope"": ""Offshore wind farm pile-driving activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""acoustic mitigation"",
+        ""marine mammal protection"",
+        ""fish protection""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No pile installation will occur from 01 January to 30 April."",
+      ""scope"": ""Offshore wind farm pile installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""seasonal restriction"","
+"49",184,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",185,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",186,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",187,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",188,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",189,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",190,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",191,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",192,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",193,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",194,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",195,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",196,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",197,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",198,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",199,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",200,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",201,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",202,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",203,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",204,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-54"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Further coordination with the appropriate federal agencies (e.g., NMFS) would occur as appropriate if MEC/UXO mitigation requires action that was not considered in this consultation."",
+      ""scope"": ""MEC/UXO mitigation actions for offshore wind farm construction that were not previously considered in the Essential Fish Habitat (EFH) consultation."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+      ""related_domains"":"
+"49",205,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section: Underwater Sound (UXO/MEC Detonation)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An APM of a dual noise-mitigation system with a 10 dB attenuation will be implemented during all detonation events."",
+      ""scope"": ""All UXO detonation events for Sunrise Wind in the Lease Area and along export cable routes."",
+      ""numerical_value"": 10,
+      ""unit"": ""dB"",
+      ""source"": ""Sunrise Wind project documentation (as stated in the provided chunk, referencing Table 6-1)"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""marine ecology"",
+        ""noise mitigation"",
+        ""UXO removal""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",206,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",207,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",208,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",209,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",210,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",211,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",212,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",213,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",214,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore"""
+"49",215,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",216,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",217,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",218,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",219,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",220,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",221,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.1.1.8 Trenching/Cable Installation"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"49",222,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",223,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",224,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",225,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-66"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""habitat will be avoided"",
+      ""scope"": ""Construction activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental protection"",
+        ""habitat preservation""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""turbidity reduction measures will be implemented to minimize impacts to sensitive habitat from construction activities."",
+      ""scope"": ""Construction activities impacting sensitive habitat"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""water quality"",
+        ""habitat protection""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""BMPs will be used to minimize seabed disturbance and sediment dispersion during cable installation and construction of project facilities."",
+      ""scope"": ""Cable installation and construction of project facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""seabed integrity"",
+        ""sediment management"",
+        ""construction practices""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",226,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",227,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",228,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",229,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",230,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-68"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Where HDD trenchless technology methods are used, develop, and implement an Inadvertent Return Plan that includes measures to prevent inadvertent returns of drilling fluid to the extent practicable and measures to be taken in the event of an inadvertent return."",
+      ""scope"": ""HDD trenchless technology methods for cable installation (e.g., SRWEC landfall, crossing Intercoastal Waterway)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental protection"",
+        ""drilling operations"",
+        ""water quality"",
+        ""habitat protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",231,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",232,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",233,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",234,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",235,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",236,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",237,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",238,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",239,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",240,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",241,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",242,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",243,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",244,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-75"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"49",245,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",246,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Pro j ect"",
+    ""document_number"": ""5-76"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The IAC would be shielded and, where feasible, buried beneath the seafloor and would otherwise be protected."",
+      ""scope"": ""Inter-Array Cables (IAC) of the Sunrise Wind Offshore Wind Project, beneath the seafloor."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental protection"",
+        ""cable installation"",
+        ""EMF mitigation"",
+        ""marine habitat protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",247,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",248,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",249,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-77"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Offshore)"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"49",250,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Long Island Power Authority (LIPA)"",
+      ""jurisdiction"": ""New York, USA"",
+      ""role"": ""Grid interconnection authority""
+    }
+  ]
+}
+```"
+"49",251,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-78"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The cooling water intake must maintain a through screen velocity less than 0.5 feet per second (ft/s) (0.1525 meter per second [m/s])."",
+      ""scope"": ""OCS-DC cooling water intake system (CWIS) for new facilities during operation"",
+      ""numerical_value"": 0.5,
+      ""unit"": ""ft/s"",
+      ""source"": ""EPA threshold for new facilities"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""marine ecology"",
+        ""water quality"",
+        ""cooling systems""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency (EPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body; Environmental oversight""
+    }
+  ]
+}
+```"
+"49",252,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An NPDES permit is required for the OCS-DC."",
+      ""scope"": ""OCS-DC"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Environmental Protection Agency (NPDES permit program)"",
+      ""related_domains"": [
+        ""environmental permitting"",
+        ""water quality"",
+        ""marine"
+"49",253,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",254,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Fisheries management""
+    }
+  ]
+}
+```"
+"49",255,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",256,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",257,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",258,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",259,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",260,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",261,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",262,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",263,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",264,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",265,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",266,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",267,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.2.1.5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New York State"",
+      ""jurisdiction"": ""New York State"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"49",268,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",269,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",270,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",271,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-87"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All facilities would need to be removed to a depth of 15 ft (4.6 m) below the mudline, unless otherwise authorized by BOEM."","
+"49",272,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",273,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",274,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",275,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-89"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"49",276,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""6-1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"49",277,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",278,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",279,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",280,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",281,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",282,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",283,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",284,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",285,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",286,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""6-7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No UXO detonations are planned from December through April."",
+      ""scope"": ""Sunrise Wind Offshore Wind Project (SRWF, SRWEC-OCS, SRWEC-NYS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Applicant Proposed Measure (APM) within Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""marine life protection"",
+        ""unexploded ordnance management""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No UXO will be detonated during nighttime hours."",
+      ""scope"": ""Sunrise Wind Offshore Wind Project (SRWF, SRWEC-OCS, SRWEC-NYS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Applicant Proposed Measure (APM) within Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""marine life protection"",
+        ""unexploded ordnance management""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Environmental oversight""
+    }
+  ]
+}
+```"
+"49",287,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",288,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""6-9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Intake velocity should be limited to less than 0.5 ft/sec."",
+      ""scope"": ""Water intakes for Sunrise Wind Offshore Wind Project"",
+      ""numerical_value"": 0.5,
+      ""unit"": ""ft/sec"",
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental protection"",
+        ""marine ecology"",
+        ""fish habitat protection""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The Lessee must ensure that all materials used for scour and cable protection consist of natural or engineered stone that does not inhibit epibenthic growth."",
+      ""scope"": ""Scour and cable protection materials for Sunrise Wind Offshore Wind Project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental protection"",
+        ""marine ecology"",
+        ""habitat restoration"",
+        ""construction materials""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",289,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",290,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",291,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",292,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",293,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",294,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",295,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",296,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",297,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",298,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",299,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"49",300,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",301,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",302,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Planning Authority""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"49",303,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",304,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",305,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""6-21 to 7.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, Resource management""
+    }
+  ]
+}
+```"
+"49",306,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",307,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",308,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",309,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Operational noise effects must be below established behavioral and injury effects thresholds for fish."",
+      ""scope"": ""Operational phase, fish, noise"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""marine ecology"",
+        ""noise pollution""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Project impacts must be sited to avoid and minimize overlap of long-term effects with known shellfish habitats in designated EFH."",
+      ""scope"": ""Project siting, long-term effects, known shellfish habitats, designated EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""habitat protection"",
+        ""spatial planning"
+"49",310,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""7-3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Project decommissioning would be subject to separate EFH consultation at that time."",
+      ""scope"": ""Project decommissioning at the end of the 35-year planned lifetime of the Project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""decommissioning"",
+        ""habitat protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",311,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",312,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""8-2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Trustee for natural resources""
+    }
+  ]
+}
+```"
+"49",313,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""9-1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM) Office of Renewable Energy Programs"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    }
+  ]
+}
+```"
+"49",314,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",315,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",316,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""9-3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Submission of a Construction and Operations Plan"
+"49",317,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",318,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",319,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",320,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Pro j ect"",
+    ""document_number"": ""9-5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ASMFC"",
+      ""jurisdiction"": null,
+      ""role"": ""Resource management""
+    }
+  ]
+}
+```"
+"49",321,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",322,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA (Pacific OCS Region)"",
+      ""role"": ""Management of offshore energy resources; Environmental review""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Fisheries management; Species protection; Habitat conservation""
+    }
+  ]
+}
+```"
+"49",323,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""9-7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Mid-Atlantic Fishery Management Council (MAFMC)"",
+      ""jurisdiction"": ""Federal - USA (Mid-Atlantic Region)"",
+      ""role"": ""Fishery management and planning; Ecosystem approach to fisheries management guidance.""
+    },
+    {
+      ""entity_name"": ""Minerals Management Service (MMS)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Environmental impact assessment and permitting for alternative energy development and production on the Outer Continental Shelf.""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Greater Atlantic Regional Fisheries Office of Habitat Conservation and Ecosystem Services Division (NOAA Habitat)"",
+      ""jurisdiction"": ""Federal - USA (Greater Atlantic Region)"",
+      ""role"": ""Habitat conservation and ecosystem services, including mapping fish habitat.""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Fishery management planning (e.g., Highly Migratory Species Fishery Management Plan), Essential Fish Habitat designation, and environmental assessment.""
+    }
+  ]
+}
+```"
+"49",324,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",325,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",326,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",327,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",328,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",329,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""OCS Study BOEM 2019-049"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Atlantic and Gulf States Marine Fisheries Commissions"",
+      ""jurisdiction"": ""Regional - USA (Atlantic and Gulf States)"",
+      ""role"": ""Advisory body, Standard setting body""
+    }
+  ]
+}
+```"
+"49",330,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",331,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""9-12"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"49",332,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",333,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",334,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",335,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",336,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""10-3"",
+    ""type_of_wind_farm"": ""Offshore""
+  }},
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Additional parameters were analyzed where SAV was present including SAV bed extent, in accordance with federal agency protocols (Colarusso and Verkade 2016)."",
+      ""scope"": ""Data analysis for Submerged Aquatic Vegetation (SAV) detection and extent determination for the Sunrise Wind Offshore Wind Project."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""federal agency protocols (Colarusso and Verkade 2016)"",
+      ""related_domains"": [
+        ""environmental assessment"",
+        ""marine ecology"",
+        ""habitat mapping""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",337,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",338,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",339,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",340,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",341,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"49",342,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10-6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Fisheries management"
+"49",343,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The maximum potential acres that may be impacted by the Project be inventoried in terms of the NOAA Habitat Complexity Categories outlined in these recommendations."",
+      ""scope"": ""Project impact assessment; seafloor habitats"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Habitat recommendations (March 2021)"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""habitat mapping"",
+        ""ecological protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Habitat"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Standard setting body; Consultation authority (for EFH consultation)""
+    }
+  ]
+}
+```"
+"49",344,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",345,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",346,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",347,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",348,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",349,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",350,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""11-14"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Habitat protection""
+    }
+  ]
+}
+```"
+"49",351,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",352,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",353,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",354,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",355,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Pro j ect"",
+    ""document_number"": ""11-19"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Data provision""
+    }
+  ]
+}
+```"
+"49",356,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",357,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",358,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"49",359,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""11-22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Areas with corals or dense aggregations of epifuana or emergent infauna should be identified and characterized."",
+      ""scope"": ""Sunrise Wind Offshore Wind Project; specifically areas containing corals or dense aggregations of epifauna or emergent infauna."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Essential Fish Habitat Assessment"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""habitat mapping"",
+        ""marine ecology""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",360,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""11-23"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The following substrate classes and groups should not be defined as substrate classes and should be addressed as biotic components under appropriate habitat type: Algal substrate, coral substrate, shell sand, coquina hash, Worm Substrate, Sabellariid Substrate (including Sabellariid Reef Substrate, Sabellariid Rubble, Sabellariid Hash), and Serpulid Substrate (including Serpulid Reef Substrate, Serpulid Rubble, Serpulid Hash)."",
+      ""scope"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""habitat characterization"",
+        ""data classification""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"49",361,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""11-24, 11-25"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Biotic Subclasses that should be Addressed in the Characterization of Mud and Sand Habitat include: Soft Sediment Fauna (Larger Deep-Burrowing Fauna, Small Surface-Burrowing Fauna, Tunneling Megafauna, Oligozoic Biota, Soft Sediment Brittle Stars, Soft Sediment Crinoids, Mobile Crustaceans on Soft Sediments, Echiurid Bed, Holothurian Bed, Mobile Mollusks on Soft Sediments, Sand Dollar Bed, Starfish Bed, Burrowing Urchins, Sea Urchin Bed, Egg Masses, Fecal Mounds, Pelletized, Fluid Surface Layer, Tracks and Trails)."",
+      ""scope"": ""Characterization of Mud and Sand Habitat for the Sunrise Wind Offshore Wind Project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project, Table A- 5"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""marine ecology"",
+        ""habitat characterization""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"

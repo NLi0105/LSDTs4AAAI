@@ -1,0 +1,4966 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+7,1,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,2,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,3,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""iv"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and Environmental Enforcement""
+    }
+  ]
+}
+```"
+7,4,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""v-vi"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Occupational Safety and Health Administration (OSHA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Worker safety regulations""
+    },
+    {
+      ""entity_name"": ""United States Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maritime safety and security""
+    },
+    {
+      ""entity_name"": ""North American Electrical Reliability Corporation (NERC)"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Grid reliability""
+    },
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""International standards for electrical and electronic technologies""
+    },
+    {
+      ""entity_name"": ""IECRE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Certification to standards relating to equipment for use in renewable energy applications""
+    },
+    {
+      ""entity_name"": ""Institute of Electrical and Electronics Engineers (IEEE)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Professional association for electrical and electronic engineering""
+    },
+    {
+      ""entity_name"": ""International Organization for Standardization (ISO)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Development of international standards""
+    },
+    {
+      ""entity_name"": ""National Electrical Manufacturers Association (NEMA)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standards for electrical equipment""
+    },
+    {
+      ""entity_name"": ""National Fire Protection Association (NFPA)"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Fire safety standards""
+    },
+    {
+      ""entity_name"": ""Underwriters Laboratories (UL)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Safety testing and certification""
+    }
+
+
+  ]
+}
+```"
+7,5,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,6,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,7,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,8,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Existing U.S. electrical standards and European electrical standards are significantly different. If not addressed, these differences could impact worker safety."",
+      ""scope"": ""Electrical systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""worker safety"", ""electrical safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,9,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""American National Standards Institute (ANSI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,10,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM/BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight and commissioning of studies""
+    },
+    {
+      ""entity_name"": ""AWEA/ANSI"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,11,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,12,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""All projects must engage certified verification agents as required by BOEM and BSEE to oversee project development"",
+      ""scope"": ""Offshore wind farm project development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM and BSEE"",
+      ""related_domains"": [""safety"", ""project management"", ""verification""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Where appropriate, retain the services of a third-party owner’s engineer"",
+      ""scope"": ""Offshore wind farm project development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null, 
+      ""related_domains"": [""safety"", ""project management"", ""engineering""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight of project development""
+    },
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight of project development""
+    }
+  ]
+}
+```"
+7,13,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,14,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    },
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    }
+  ]
+}
+```"
+7,15,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""U.S. standards, if or where applicable, should be applied."",
+      ""scope"": ""Unspecified"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,16,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Project developers must demonstrate to the CVA and regulatory bodies that an adequate level of safety will be achieved."",
+      ""scope"": ""Offshore wind farm electrical systems (onshore substation, offshore substation, and wind turbine electrical interface)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""electrical safety"", ""system design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Code mixing should be avoided and consistency in the use of codes, standards, and practices across the complete electrical system (e.g., the onshore substation, offshore substation, and wind turbine electrical interface) is paramount."",
+      ""scope"": ""Offshore wind farm electrical systems (onshore substation, offshore substation, and wind turbine electrical interface)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""electrical engineering"", ""standards compliance"", ""system design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""When referencing a standard or procedure, it is important to verify that the range of voltages covered by that standard or procedure is appropriate."",
+      ""scope"": ""Electrical systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""electrical engineering"", ""standards compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""CVA"",
+      ""jurisdiction"": null,
+      ""role"": ""Safety oversight""
+    },
+    {
+      ""entity_name"": ""BOEM/BSEE"",
+      ""jurisdiction"": null, 
+      ""role"": ""Standard identification (wiring and cabling)""
+    },
+    {
+      ""entity_name"": ""AWEA"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard identification (wiring and cabling)""
+    }
+
+  ]
+}
+```"
+7,17,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Offshore wind power plants with injections of 1 GW or more at the landbased point of interconnection will be subject to the North American Electric Reliability Corporation’s (NERC’s) jurisdiction."",
+      ""scope"": ""Offshore wind power plants connecting to the North American grid"",
+      ""numerical_value"": 1,
+      ""unit"": ""GW"",
+      ""source"": ""North American Electric Reliability Corporation (NERC)"",
+      ""related_domains"": [""grid interconnection"", ""power generation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Offshore turbines will be required to have IECRE certificates going forward."",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IECRE OD-501 and -502"",
+      ""related_domains"": [""turbine certification"", ""standards compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""North American Electric Reliability Corporation (NERC)"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Grid reliability and security""
+    },
+    {
+      ""entity_name"": ""Federal Energy Regulatory Commission/NERC"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory requirements for bulk energy system, reliability, and cybersecurity""
+    },
+    {
+      ""entity_name"": ""Northeast Power Coordinating Council"",
+      ""jurisdiction"": ""Northeast USA"",
+      ""role"": ""Regional regulatory requirements for bulk power system, reliability, and cybersecurity""      
+    }
+  ]
+}
+```"
+7,18,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Clearances around cabinets [are required] under the assumption that dangerous voltages are exposed when the cabinet is opened."",
+      ""scope"": ""Equipment cabinets with dangerous interior voltages"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Occupational Safety and Health Administration (OSHA)"",
+      ""related_domains"": [""electrical safety"", ""personnel safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Dangerous voltages [are not allowed to be] exposed within cabinets. For example, exposed voltages can be accessed with a suitable probe, but not with a finger."",
+      ""scope"": ""Equipment cabinets with dangerous interior voltages"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC Standards"",
+      ""related_domains"": [""electrical safety"", ""personnel safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Applying an IEC standard rather than a corresponding U.S. standard simply to reduce costs should only be acceptable if it can be demonstrated that safety of personnel and equipment are not compromised."",
+      ""scope"": ""General application of IEC standards vs. U.S. standards"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null, 
+      ""related_domains"": [""safety"", ""standards compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Occupational Safety and Health Administration (OSHA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety regulations""
+    }
+  ]
+}
+```"
+7,19,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Specific electrical safety requirements for electrical installations located offshore are covered."",
+      ""scope"": ""Offshore wind substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API Recommended Practice 14F, “Design and Installation of Electrical Systems for Offshore Production Platforms” (see 30 CFR § 250.114(c))"",
+      ""related_domains"": [""electrical safety"", ""substation design"", ""offshore installations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,20,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""offshore wind electrical installations and switching equipment must be designed and installed with the appropriate arc flash protection and facilities to comply with OSHA lockout/tagout requirements."",
+      ""scope"": ""Offshore wind electrical installations and switching equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA lockout/tagout requirements"",
+      ""related_domains"": [""electrical safety"", ""maintenance safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Submarine cables for voltages up to 60 kilovolts (kV) are covered by IEC 63026"",
+      ""scope"": ""Submarine cables"",
+      ""numerical_value"": 60,
+      ""unit"": ""kV"",
+      ""source"": ""IEC 63026"",
+      ""related_domains"": [""cable design"", ""electrical infrastructure""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety regulations and enforcement""
+    }
+  ]
+}
+```"
+7,21,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BSEE (Bureau of Safety and Environmental Enforcement)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and health regulation and enforcement for renewable energy projects on the Outer Continental Shelf""
+    },
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety and health regulation and enforcement for renewable energy projects on the Outer Continental Shelf""
+    }
+  ]
+}
+```"
+7,22,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Review of industry submissions (construction and operation plans, facility design reports, fabrication and installation reports)""
+    },
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Review of industry submissions (construction and operation plans, facility design reports, fabrication and installation reports), Development of electrical safety standards comparison table""
+    }
+  ]
+}
+```"
+7,23,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,24,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""formal process for review and approval by ANSI"",
+      ""scope"": ""U.S. offshore wind installations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM/BSEE"",
+      ""related_domains"": [""standards"", ""certification""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority""
+    },
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority""
+    },
+    {
+      ""entity_name"": ""ANSI"",
+      ""jurisdiction"": ""National - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,25,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,26,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,27,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+7,28,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""11"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Turbine designs comply with international codes and standards"",
+      ""scope"": ""Offshore wind turbines (global supply)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Turbine models are type certified against this design basis, in accordance with IECRE OD 501"",
+      ""scope"": ""Offshore wind turbines (global supply)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IECRE OD 501"",
+      ""related_domains"": [""certification"", ""design compliance""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Evaluating the design basis relative to OSHA regulations, United States Coast Guard (USCG) regulations, and leading standards from IEEE, National Fire Protection Association (NFPA), and others to meet safety objectives"",
+      ""scope"": ""Offshore wind turbines in the United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA, USCG, IEEE, NFPA"",
+      ""related_domains"": [""safety"", ""electrical safety"", ""fire safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety regulations""
+    },
+    {
+      ""entity_name"": ""United States Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maritime safety regulations""
+    },
+    {
+      ""entity_name"": ""IEEE"",
+      ""jurisdiction"": ""International (with US focus)"",
+      ""role"": ""Standard setting body (electrical engineering)""
+    },
+    {
+      ""entity_name"": ""National Fire Protection Association (NFPA)"",
+      ""jurisdiction"": ""International (with US focus)"",
+      ""role"": ""Standard setting body (fire safety)""
+    },
+    {
+      ""entity_name"": ""IECRE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Certification body (renewable energy)""
+    }
+
+  ]
+}
+```"
+7,29,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""12"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Offshore wind farms will need to comply with NERC critical infrastructure protection regulations."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NERC"",
+      ""related_domains"": [""critical infrastructure protection"", ""safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Standardize equipment and training around U.S.-based standards (e.g., National Electric Code [NEC])"",
+      ""scope"": ""Offshore substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEC"",
+      ""related_domains"": [""electrical safety"", ""personnel training""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NERC"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Critical infrastructure protection regulation""
+    },
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight (likely using OSHA standards first, then international standards if more applicable)""
+    },
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety standards (potentially applied by BSEE)""
+    }
+  ]
+}
+```"
+7,30,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""CIP-013-1"",
+      ""scope"": ""Cybersecurity of power system communications"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE Power & Energy Society Technical Committee on Power System Communications and Cybersecurity (PSCCC) Cybersecurity Subcommittee (S0)"",
+      ""related_domains"": [""cybersecurity"", ""power systems"", ""communications""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,31,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""13"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""appropriate voltage control and reactive power support for the Galloper Wind Farm"",
+      ""scope"": ""Galloper Wind Farm, United Kingdom"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.K. grid code requirements"",
+      ""related_domains"": [""grid connection"", ""power quality"", ""voltage control"", ""reactive power""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,32,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""all substations are normally unmanned"",
+      ""scope"": ""Offshore wind farm substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNV GL OS J-201/ST-0145"",
+      ""related_domains"": [""personnel safety"", ""substation design"", ""operational procedures""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,33,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""These rules are mandatory for all work conducted on sites where voltage exceeds 1,000 volts (V) alternating current (VAC), or 1,500 volts direct current (VDC)."",
+      ""scope"": ""Work on sites with voltage exceeding 1,000 VAC or 1,500 VDC"",
+      ""numerical_value"": 1000,
+      ""unit"": ""V AC"",
+      ""source"": ""Avangrid’s internal Renewables Electrical and Mechanical Safety Rules (EMSR)"",
+      ""related_domains"": [""electrical safety"", ""worker safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""These rules are mandatory for all work conducted on sites where voltage exceeds 1,000 volts (V) alternating current (VAC), or 1,500 volts direct current (VDC)."",
+      ""scope"": ""Work on sites with voltage exceeding 1,500 VDC"",
+      ""numerical_value"": 1500,
+      ""unit"": ""V DC"",
+      ""source"": ""Avangrid’s internal Renewables Electrical and Mechanical Safety Rules (EMSR)"",
+      ""related_domains"": [""electrical safety"", ""worker safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""In the United States, The NEC classifies any use of electrical service less than 1,000 V as low voltage."",
+      ""scope"": ""Electrical service less than 1000V in the United States"",
+      ""numerical_value"": 1000,
+      ""unit"": ""V"",
+      ""source"": ""The NEC (National Electrical Code)"",
+      ""related_domains"": [""electrical safety"", ""low voltage systems""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM/BSEE"",
+      ""jurisdiction"": ""United States (Federal)"",
+      ""role"": ""Potential establishment of safety management system (SMS) requirements as part of the permitting and approval process""
+    }
+  ]
+}
+```"
+7,34,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""14"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""U.S. license requirements for high-voltage switching in offshore wind farms (including landbased assets) may present some conflicts."",
+      ""scope"": ""High-voltage switching in offshore wind farms (including landbased assets)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""licensing"", ""grid connection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compatibility issues may arise with the “host” ISO’s safety rules at the connection boundary."",
+      ""scope"": ""Connection boundary with the host ISO"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Host ISO's safety rules"",
+      ""related_domains"": [""grid connection"", ""safety"", ""interoperability""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use of U.S. ground fault circuit interrupters (GFCI)."",
+      ""scope"": ""Ground fault protection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. regulations"",
+      ""related_domains"": [""electrical safety"", ""equipment standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,35,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""15"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""IEC-based standards are based on performance and test the complete cable system."",
+      ""scope"": ""Submarine and offshore wind cable systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC Standards"",
+      ""related_domains"": [""cable system performance"", ""cable system testing""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""IEC requires prequalification testing of the entire cable system, and type testing of the entire cable system, both electrical and mechanical."",
+      ""scope"": ""Submarine and offshore wind cable systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC Standards"",
+      ""related_domains"": [""cable system prequalification"", ""cable system type testing"", ""electrical testing"", ""mechanical testing""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,36,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulator""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulator""
+    }
+  ]
+}
+```"
+7,37,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,38,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,39,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""18"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The developer shall establish an SMS that complies with 30 CFR 585 and is approved by BOEM/BSEE."",
+      ""scope"": ""Safety Management System (SMS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585, BOEM/BSEE"",
+      ""related_domains"": [""safety management"", ""operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM/BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Approval authority for Safety Management Systems (SMS)""
+    }
+  ]
+}
+```"
+7,40,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A-1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Mixing of requirements from various IEC and U.S. standards should not be allowed."",
+      ""scope"": ""Electrical safety, equipment standards"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""electrical safety"", ""equipment certification""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""IEC 60364-7-729 is less stringent than OSHA [requirements for spaces around cabinets and compartments]."",
+      ""scope"": ""Working spaces around electrical cabinets and compartments"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60364-7-729, OSHA"",
+      ""related_domains"": [""workplace safety"", ""electrical safety"", ""access requirements""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,41,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""19"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""prohibit exposed live voltage"",
+      ""scope"": ""Turbine cabinets"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC standards"",
+      ""related_domains"": [""electrical safety"", ""cabinet design""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""increased space around electrical cabinets based on the possibility of exposed live voltages"",
+      ""scope"": ""Electrical cabinets"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE/National Electrical Safety Code (NESC)"",
+      ""related_domains"": [""electrical safety"", ""cabinet design"", ""working space""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""minimum distance requirements should only be relevant to cabinets with exposed voltage"",
+      ""scope"": ""Cabinets with exposed live voltages"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,  
+      ""related_domains"": [""electrical safety"", ""working space""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEEE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""NESC (National Electrical Safety Code)"",
+      ""jurisdiction"": ""USA"", 
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    }
+
+
+  ]
+}
+```"
+7,42,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""20"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Remove UL 508C and replace with UL 61800-5-1 for adjustable speed drives."",
+      ""scope"": ""Adjustable speed drives"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Underwriters Laboratories (UL) 61800-5-1"",
+      ""related_domains"": [""electrical systems"", ""drive systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use IEC 62271-203 for high voltage switchgear addressing > 52 kV."",
+      ""scope"": ""High voltage switchgear in turbines"",
+      ""numerical_value"": 52,
+      ""unit"": ""kV"",
+      ""source"": ""IEC 62271-203"",
+      ""related_domains"": [""electrical systems"", ""switchgear""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""For transformers installed inside the tower or nacelle, a less flammable liquid must be used, defined as having an ignition point of 300 °C or higher, equivalent to a Class K liquid according to IEC 61039."",
+      ""scope"": ""Transformers inside turbine tower or nacelle"",
+      ""numerical_value"": 300,
+      ""unit"": ""°C"",
+      ""source"": ""NEC 450.23, IEC 61039"",
+      ""related_domains"": [""fire safety"", ""electrical systems"", ""transformers""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use IEC 61936-1 and UL 6141 for wind turbine electrical systems."",
+      ""scope"": ""Wind turbine electrical systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61936-1, UL 6141"",
+      ""related_domains"": [""electrical systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Replace EN 61400-3 with IEC 61400-3-1 and IEC 61400-3-2 for wind turbine electrical systems."",
+      ""scope"": ""Wind turbine electrical systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-1, IEC 61400-3-2"",
+      ""related_domains"": [""electrical systems""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Underwriters Laboratories (UL)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,43,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""21"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""IEC 61400-1 covers the initial design to be type certified"",
+      ""scope"": ""Initial design of wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1"",
+      ""related_domains"": [""design"", ""certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""IEC 61400-3-1 covers fixed offshore turbines and is used to assess the suitability of the type certificate"",
+      ""scope"": ""Fixed offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-1"",
+      ""related_domains"": [""certification"", ""suitability assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""IEC 61400-3-2 covers floating turbines and is used to assess the suitability of the type certificate"",
+      ""scope"": ""Floating offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-2"",
+      ""related_domains"": [""certification"", ""suitability assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""IECRE OD-502 describes a method of approving a design for a particular project"",
+      ""scope"": ""Project-specific design approval"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IECRE OD-502"",
+      ""related_domains"": [""design approval""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""UL 6141 is acceptable (for an unspecified purpose within the context)"",
+      ""scope"": ""Unspecified (likely related to wind turbine electrical systems based on context)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 6141"",
+      ""related_domains"": [""electrical systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""CAN/CSA-C22.2 No. 272 is acceptable (for an unspecified purpose, similar to UL 6141)"",
+      ""scope"": ""Unspecified (likely related to wind turbine electrical systems based on context)"",
+
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""CAN/CSA-C22.2 No. 272"",
+      ""related_domains"": [""electrical systems""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IECRE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""UL"",
+      ""jurisdiction"": ""USA"", 
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""CSA Group"",
+      ""jurisdiction"": ""Canada"",
+      ""role"": ""Standard setting body""
+    }
+
+  ]
+}
+```"
+7,44,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind turbine electrical system is type tested and certified as part of the type certification process (IECRE OD-501 or e.g., UL 6141). If something is certified, no reevaluation is needed unless it changes or if there are details beyond what is certified."",
+      ""scope"": ""Wind turbine electrical systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IECRE OD-501, UL 6141"",
+      ""related_domains"": [""electrical systems"", ""certification"", ""testing""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A low-voltage converter comply with IEC 62477-1"",
+      ""scope"": ""Low-voltage converters (<= 1000 VAC or 1500 VDC)"",
+      ""numerical_value"": 1000,
+      ""unit"": ""VAC"",
+      ""source"": ""IEC 62477-1"",
+      ""related_domains"": [""electrical systems"", ""converters""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A medium-voltage converter comply with IEC 62477-2"",
+      ""scope"": ""Medium-voltage converters (1000 VAC/1500 VDC to 36 kV AC/54 kV DC)"",
+      ""numerical_value"": 1000,
+      ""unit"": ""VAC"",
+      ""source"": ""IEC 62477-2"",
+      ""related_domains"": [""electrical systems"", ""converters""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,45,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A-16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""fixed ladders should comply with OSHA standards inside the United States and its waters."",
+      ""scope"": ""United States waters, fixed ladders within wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA"",
+      ""related_domains"": [""worker safety"", ""ladder safety"", ""access systems""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The mandatory use of a helmet [is required] when working in a wind turbine, especially when traversing fixed ladders."",
+      ""scope"": ""Offshore wind turbines, fixed ladders"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Developer's SMS (influenced by OSHA's approach)"", 
+      ""related_domains"": [""worker safety"", ""personal protective equipment"", ""access systems""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""United States and its waters"",
+      ""role"": ""Enforcement agency, safety standards setting body""
+    }
+  ]
+}
+```"
+7,46,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""24"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""NFPA"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,47,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""B-3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Only U.S. lockout/tagout standards and practices should be followed."",
+      ""scope"": ""Project site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Offshore industry safety manager recommendation"",
+      ""related_domains"": [""lockout/tagout"", ""electrical safety"", ""hazardous energy control""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Project owners will not allow anyone who does not follow NFPA 70E and OSHA standards for control of hazardous energies and lockout/tagout to work on a project site."",
+      ""scope"": ""Project site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Project owner mandate"",
+      ""related_domains"": [""lockout/tagout"", ""electrical safety"", ""hazardous energy control""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+7,48,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""26"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    }
+  ]
+}
+```"
+7,49,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing of the slip ring must consider the ratings and certifications of upstream overcurrent protection."",
+      ""scope"": ""Slip rings"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 6141"",
+      ""related_domains"": [""electrical safety"", ""equipment compatibility""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Slip ring evaluated to UL508 may not be compatible with upstream equipment evaluated to IEC 60204-1."",
+      ""scope"": ""Slip rings"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 6141"",
+      ""related_domains"": [""electrical safety"", ""equipment compatibility""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The maximum clearing time permitted for most overcurrent protective devices is commonly 1 or 2 hours and depends upon the device type, current rating, and applicable standard."",
+      ""scope"": ""Overcurrent protection devices"",
+      ""numerical_value"": null, 
+      ""unit"": null,
+      ""source"": ""UL 6141"",
+      ""related_domains"": [""electrical safety""]
+    }
+
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""UL"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,50,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""C-13"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Wind turbine wiring must be in accordance with international standards."",
+      ""scope"": ""Wind turbine electrical systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Participant input emphasizing existing knowledge of US wind turbine technicians"",
+      ""related_domains"": [""electrical safety"", ""wiring standards""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The developer’s SMS should include requirements for minimum levels of training for technicians to be considered as qualified persons and competent to carry out work on electrical systems."",
+      ""scope"": ""Technician training"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OEM input"",
+      ""related_domains"": [""personnel safety"", ""training requirements""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""This training must include the ability to read and interpret wind turbine manufacturer electrical diagrams and follow written electrical isolation procedures."",
+      ""scope"": ""Technician training"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OEM input"",
+      ""related_domains"": [""personnel safety"", ""training requirements"", ""electrical safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The electrical systems of the wind turbines are fully documented, including electrical schematics that match the specific designs installed at a project."",
+      ""scope"": ""Wind turbine electrical systems documentation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OEM input"",
+      ""related_domains"": [""documentation"", ""electrical systems""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""Luminaires must comply with UL 1598."",
+      ""scope"": ""Luminaires"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 1598"",
+      ""related_domains"": [""lighting"", ""safety""]
+    }
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,51,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""if an offshore wind project is following codes and regulations that require NRTL testing, an NRTL should be used."",
+      ""scope"": ""Offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""testing and certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""if using IEC standards, testing should be done with an accredited lab appropriate for those standards."",
+      ""scope"": ""Offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC Standards"",
+      ""related_domains"": [""testing and certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""if using U.S. codes and regulations that require NRTL certification, then an NRTL should be used to certify."",
+      ""scope"": ""Offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""testing and certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""deviations from a standard are permissible, but deviations need to be justified to BOEM/BSEE."",
+      ""scope"": ""Offshore wind projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""standards compliance"", ""deviation management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""When an OEM deviates from a standard, there should be a mechanism to justify the deviation and explain why it achieves an equivalent or better result."",
+      ""scope"": ""Offshore wind projects, OEM equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""standards compliance"", ""deviation management""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM/BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight and approval of deviations from standards""
+    }
+  ]
+}
+```"
+7,52,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Development of electrical safety guidelines""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Support of workshops and engagement with land-based wind community and NRTLs""
+    }
+  ]
+}
+```"
+7,53,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Information gathering and consensus building""
+    },
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Information gathering and consensus building""
+    }
+  ]
+}
+```"
+7,54,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,55,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""31"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEEE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""NRTL"",
+      ""jurisdiction"": null, 
+      ""role"": ""Certification body""
+    }
+  ]
+}
+```"
+7,56,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""NRTL certification of individual components shall be required only if there is a commonly used certification standard for that component."",
+      ""scope"": ""Offshore substation components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""electrical safety"", ""component certification""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The entire system does not need to be NRTL certified, only the individual components."",
+      ""scope"": ""Offshore substation systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""electrical safety"", ""system certification""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Systems can be comprised of components certified by different NRTLs."",
+      ""scope"": ""Offshore substation systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""electrical safety"", ""component certification""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The substation design must account for the arc flash boundary for worker safety."",
+      ""scope"": ""Offshore substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""electrical safety"", ""worker safety"", ""arc flash protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,57,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A-1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Follow the outlined procedure which directs the user toward ANSI standards for arc flash safety guidance."",
+      ""scope"": ""Substation design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""This document (section A-1)"",
+      ""related_domains"": [""electrical safety"", ""arc flash""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Utilize API RP 14F for working clearances around electrical equipment."",
+      ""scope"": ""Substation design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 14F"",
+      ""related_domains"": [""electrical safety"", ""working clearances""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,58,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,59,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A-3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The electrical equipment should be tested per the manufacturer’s recommendations."",
+      ""scope"": ""Electrical equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""electrical safety"", ""maintenance"", ""testing""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,60,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""34"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The NEC requirements be followed [for GFCI versus RCD]."",
+      ""scope"": ""Offshore wind farms, electrical systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEC (enforced by BSEE offshore)"",
+      ""related_domains"": [""electrical safety"", ""personnel safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""NEC could also be used for PPE."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEC (enforced by BSEE offshore)"",
+      ""related_domains"": [""electrical safety"", ""personnel safety"", ""personal protective equipment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""NEC be applied to all electrical systems in the offshore substation of 600 V or less."",
+      ""scope"": ""Offshore substation electrical systems, 600V or less"",
+      ""numerical_value"": 600,
+      ""unit"": ""V"",
+      ""source"": ""NEC (enforced by BSEE offshore)"",
+      ""related_domains"": [""electrical systems"", ""substation design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""USA (but enforced by BSEE offshore)"",
+      ""role"": ""Personnel safety regulations (enforced by BSEE in offshore locations)""
+    },
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Offshore locations (USA)"",
+      ""role"": ""Enforcement agency, ensuring personnel safety by enforcing OSHA regulations offshore""
+    }
+  ]
+}
+```"
+7,61,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""35"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Visual confirmation of contact status (i.e., open or closed) for switchgear is required."",
+      ""scope"": ""Switchgear in substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Standards (in contrast to European standards)"",
+      ""related_domains"": [""electrical safety"", ""substation design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Gas-insulated switchgear (GIS) above 52 kV should comply with IEEE C37.122."",
+      ""scope"": ""High voltage GIS in offshore substations"",
+      ""numerical_value"": 52,
+      ""unit"": ""kV"",
+      ""source"": ""IEEE C37.122"",
+      ""related_domains"": [""electrical safety"", ""substation design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Gas-insulated switchgear (GIS) should be built and tested to IEC 62271."",
+      ""scope"": ""High voltage GIS in offshore substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 62271"",
+      ""related_domains"": [""electrical safety"", ""substation design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Local control cabinets (LCCs) should meet the requirements of IEEE C37.21."",
+      ""scope"": ""Local control cabinets in offshore substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE C37.21"",
+      ""related_domains"": [""electrical safety"", ""substation design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If LCCs are fully IEC compliant, then IEC cables should be used between GIS and LCCs."",
+      ""scope"": ""Cabling between GIS and LCCs in offshore substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Recommendation based on IEC compliance"",
+      ""related_domains"": [""electrical safety"", ""substation design"", ""cabling""]
+
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""If a hybrid IEC/IEEE LCC is used, consistent cable type/colors should be used."",
+      ""scope"": ""Cabling between GIS and LCCs in offshore substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Recommendation for hybrid IEC/IEEE designs"",
+      ""related_domains"": [""electrical safety"", ""substation design"", ""cabling""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ANSI"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""UL"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEEE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,62,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A-6, A-7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For systems at 600 V or less, the NEC should be followed."",
+      ""scope"": ""Switchgear"",
+      ""numerical_value"": 600,
+      ""unit"": ""V"",
+      ""source"": ""NEC"",
+      ""related_domains"": [""electrical safety"", ""switchgear""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Higher than 600 V, the NESC should be followed."",
+      ""scope"": ""Switchgear"",
+      ""numerical_value"": 600,
+      ""unit"": ""V"",
+      ""source"": ""NESC"",
+      ""related_domains"": [""electrical safety"", ""switchgear""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""At 600 V and below, NRTL certification demonstrates compliance with NEC."",
+      ""scope"": ""Switchgear"",
+      ""numerical_value"": 600,
+      ""unit"": ""V"",
+      ""source"": ""NEC"",
+      ""related_domains"": [""electrical safety"", ""switchgear"", ""certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""One can also use components that are not NRTL certified, but in these cases demonstration of NEC compliance must be made."",
+      ""scope"": ""Switchgear"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEC"",
+      ""related_domains"": [""electrical safety"", ""switchgear"", ""certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If IEC standards are used, the equipment must still be NRTL certified."",
+      ""scope"": ""Medium Voltage Switchgear"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC"",
+      ""related_domains"": [""electrical safety"", ""switchgear"", ""certification""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NRTL"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Certification body""
+    },
+    {
+      ""entity_name"": ""NEC"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Electrical Safety Code""
+    },
+    {
+      ""entity_name"": ""NESC"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Electrical Safety Code""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+
+  ]
+}
+```"
+7,63,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A-7, A-8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""NEMA/ANSI tests will need to be performed to comply with the requirements of the ANSI, IEEE, and UL standards."",
+      ""scope"": ""Switchgear (Medium and Low Voltage)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ANSI, IEEE, UL"",
+      ""related_domains"": [""electrical safety"", ""equipment certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Low-voltage switchgear requires a 1-second withstand rating."",
+      ""scope"": ""Low Voltage Switchgear"",
+      ""numerical_value"": 1,
+      ""unit"": ""second"",
+      ""source"": ""ANSI C37.20.1"",
+      ""related_domains"": [""electrical safety"", ""short-circuit protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ANSI"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEEE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""UL"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""NEMA"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+
+  ]
+}
+```"
+7,64,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""37"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use of IEC 62271-211 for interfaces between a gas-insulated busbar and transformer bushing (oil-SF6)."",
+      ""scope"": ""Offshore transformer interfaces (oil-SF6 bushings)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 62271-211"",
+      ""related_domains"": [""electrical safety"", ""equipment compatibility""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If IEEE transformers are specified, special attention must be given to the following: a) plug-in bushings b) oil-SF6 bushings (if used), and c) control cabinet interfaces."",
+      ""scope"": ""Offshore transformers (IEEE type)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null, 
+      ""related_domains"": [""electrical safety"", ""equipment compatibility""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEEE/ANSI"",
+      ""jurisdiction"": ""International (IEEE), USA (ANSI)"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,65,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""38"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""n-load tap changers should be designed and tested to meet IEC standards."",
+      ""scope"": ""Transformers in offshore wind substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Participant recommendation (in the context of harmonization with IEEE standards)"",
+      ""related_domains"": [""electrical engineering"", ""grid connection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with European standards should be permitted for high-voltage transformer accessories."",
+      ""scope"": ""High-voltage transformer accessories in offshore wind substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Participant recommendation (due to limited U.S. suppliers)"",
+      ""related_domains"": [""electrical engineering"", ""grid connection"", ""procurement""]
+    }
+
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,66,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A-12, A-14"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight of fire protection""
+    }
+  ]
+}
+```"
+7,67,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""39"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""NRTL certification is required for fire protection."",
+      ""scope"": ""U.S. offshore wind installations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""fire protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If the manufacturer does not operate in the country where the equipment is installed, then the equipment in question must be re-certified to adhere to local requirements."",
+      ""scope"": ""Offshore wind equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""certification"", ""equipment safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,68,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""40"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The U.S. standard for the helideck firefighting system, NFPA 418, requires a duration of a 10-minute (min) discharge."",
+      ""scope"": ""Helideck firefighting system"",
+      ""numerical_value"": 10,
+      ""unit"": ""min"",
+      ""source"": ""NFPA 418"",
+      ""related_domains"": [""fire safety"", ""helideck operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Acceptance of alternative standards (CAP 437 for helideck firefighting systems)""
+    }
+  ]
+}
+```"
+7,69,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""41"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The developer must define the lockout/tagout procedure and criteria within their design specifications."",
+      ""scope"": ""Substation equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""lockout/tagout"", ""electrical safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""IEC-based electrical equipment highlighted in the wind turbine section be provided with specific provisions for lockout/tagout that are compatible with the OSHA-mandated lockout/tagout requirements."",
+      ""scope"": ""Wind turbine, substation equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""lockout/tagout"", ""electrical safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety regulations""
+    }
+  ]
+}
+```"
+7,70,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""42"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety regulations for fixed structures""
+    },
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Recommending body for testing of electrical equipment""
+    }
+  ]
+}
+```"
+7,71,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""43"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Remove: IEC 61400-22"",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""C-1"",
+      ""related_domains"": [""turbine certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Remove: BS EN 61400-22"",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""C-1"",
+      ""related_domains"": [""turbine certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Add: IECRE OD-501 and -502"",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""C-1"",
+      ""related_domains"": [""turbine certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Add: CIGRE B3.26"",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""C-1"",
+      ""related_domains"": [""turbine certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Add: ANSI/NETA ATS"",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""C-1"",
+      ""related_domains"": [""turbine certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""High-voltage cables used in the platform (not submarine cables) shall be built and tested to IEC standards."",
+      ""scope"": ""Offshore substation platform internal cabling"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""C-2"",
+      ""related_domains"": [""electrical safety"", ""cable installation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Allow the use of plug-in terminations (e.g., Pfisterer Connex) according to relevant IEC/EN standards for high-voltage cables."",
+      ""scope"": ""Offshore substation platform internal cabling"",
+      ""numerical_value"": 52,
+      ""unit"": ""kV"",
+      ""source"": ""C-2"",
+      ""related_domains"": [""electrical safety"", ""cable termination""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Add: API RP 14F"",
+      ""scope"": ""Offshore substation medium voltage wiring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""C-3"",
+      ""related_domains"": [""electrical wiring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Add: NEC NFPA 70"",
+      ""scope"": ""Offshore substation medium voltage wiring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""C-3"",
+      ""related_domains"": [""electrical wiring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IECRE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Certification body""
+    },
+    {
+      ""entity_name"": ""CIGRE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ANSI/NETA"",
+      ""jurisdiction"": ""USA"",  
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""NFPA"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    }
+
+  ]
+}
+```"
+7,72,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wiring methods for low-voltage applications for offshore facilities in the United States shall comply with NFPA 70 (NEC)."",
+      ""scope"": ""Low-voltage wiring methods within offshore substation facilities in the United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 70 (NEC), as recommended with the addition of API RP 14F for marine applications."",
+      ""related_domains"": [""electrical safety"", ""substation design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wiring methods for low-voltage applications for offshore facilities in the United States shall comply with API RP 14F."",
+      ""scope"": ""Low-voltage wiring methods within offshore substation facilities in the United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 14F, added to address specific requirements for marine use and exposure to corrosive, salt-laden environments."",
+      ""related_domains"": [""electrical safety"", ""corrosion protection"", ""substation design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,73,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""44"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Protective ground (equipment grounding conductor) cables should be green or green with yellow strips."",
+      ""scope"": ""Offshore wind substation platform cabling"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 70"",
+      ""related_domains"": [""electrical safety"", ""grounding""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Neutral cables should be white or light grey."",
+      ""scope"": ""Offshore wind substation platform cabling"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 70"",
+      ""related_domains"": [""electrical safety"", ""wiring""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NFPA"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,74,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Cables should be compliant with IEC 60331-1, -2, -21 for fire resistivity."",
+      ""scope"": ""Offshore substation cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60331-1, -2, -21"",
+      ""related_domains"": [""fire safety"", ""cable selection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Cables should be compliant with IEC 60754-1 and –2 for halogen-free composition."",
+      ""scope"": ""Offshore substation cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60754-1 and -2"",
+      ""related_domains"": [""fire safety"", ""cable selection"", ""material specification""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Cables should be compliant with IEC 61034-1 and -2 for low-smoke characteristics."",
+      ""scope"": ""Offshore substation cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61034-1 and -2"",
+      ""related_domains"": [""fire safety"", ""cable selection"", ""emission control""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wiring methods should comply with NFPA 70 and API RP 14F."",
+      ""scope"": ""Offshore platforms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 70 and API RP 14F"",
+      ""related_domains"": [""electrical wiring"", ""safety""]
+    }
+
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,75,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""45-46"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Use low-smoke, low-halogen cables where applications require them."",
+      ""scope"": ""Offshore substation cabling"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 14F"",
+      ""related_domains"": [""fire safety"", ""cable selection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Use fire-related cables where defined in API RP 14F."",
+      ""scope"": ""Offshore substation cabling"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 14F"",
+      ""related_domains"": [""fire safety"", ""cable selection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Use the kind of fire-related cables defined in API RP 14F."",
+      ""scope"": ""Offshore substation cabling"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 14F"",
+      ""related_domains"": [""fire safety"", ""cable selection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Address any harmonics issues within the offshore substation."",
+      ""scope"": ""Offshore substation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null, 
+      ""related_domains"": [""power quality"", ""electrical engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Comply with IEEE 519 at the point of interconnection."",
+      ""scope"": ""Point of interconnection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 519"",
+      ""related_domains"": [""power quality"", ""grid interconnection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Establish a bridging system through the start cycle for Uninterruptable Power Supplies (UPS)."",
+      ""scope"": ""Offshore substation, UPS system"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""power supply"", ""safety systems""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Establish power from the diesel system for Uninterruptable Power Supplies (UPS)."",
+      ""scope"": ""Offshore substation, UPS system"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""power supply"", ""safety systems""]
+
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Comply with UL 62109-1 for Safety of Life at Sea (USCG requirement)."",
+      ""scope"": ""Offshore substation, UPS system"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 62109-1, USCG"",
+      ""related_domains"": [""power supply"", ""safety systems"", ""maritime safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Address switching operation surges according to IEEE C37 90.1."",
+      ""scope"": ""Offshore substation, Surge Protection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE C37 90.1"",
+      ""related_domains"": [""electrical engineering"", ""grid stability""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG (United States Coast Guard)"",
+      ""jurisdiction"": ""Federal - USA, Maritime"",
+      ""role"": ""Safety of Life at Sea (SOLAS) regulations""
+    }
+  ]
+}
+```"
+7,76,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""47"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+7,77,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""48"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+7,78,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""49-50"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use API RP 14F for grounding."",
+      ""scope"": ""Offshore wind farm substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 14F"",
+      ""related_domains"": [""grounding"", ""electrical safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Apply IEEE 837."",
+      ""scope"": ""Offshore wind farm substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 837"",
+      ""related_domains"": [""electrical safety"", ""substation design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Apply IEEE 80."",
+      ""scope"": ""Offshore wind farm substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 80"",
+      ""related_domains"": [""electrical safety"", ""substation design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Voltage classes should be specifically stated in accordance with the NEC definitions."",
+      ""scope"": ""Offshore wind farm substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEC"",
+      ""related_domains"": [""electrical safety"", ""substation design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,79,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,80,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""51"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""A cable route should be planned based on data from the site characterization study and a desktop study of the seabed between the project site and proposed cable landing point."",
+      ""scope"": ""Submarine cable route planning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""AWEA OCRP 2012"",
+      ""related_domains"": [""cable routing"", ""site investigation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""If other cables or pipelines are found to intersect the proposed route, the developer should, before construction begins, contact the owners of those facilities to negotiate the appropriate legal agreements regarding crossing and proximity."",
+      ""scope"": ""Submarine cable route planning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""AWEA OCRP 2012"",
+      ""related_domains"": [""cable routing"", ""right-of-way"", ""third-party consultations""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Provide geological and geophysical hazards and archaeological information"",
+      ""scope"": ""Submarine cable route surveys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s guidelines pursuant to 30 CFR § 585"",
+      ""related_domains"": [""cable routing"", ""site investigation"", ""archaeological survey"", ""geological survey""]
+    }
+
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    },
+        {
+      ""entity_name"": ""North American Submarine Cable Association"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Information resource""
+    },
+    {
+      ""entity_name"": ""International Cable Protection Committee"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Information resource""
+    }
+
+  ]
+}
+```"
+7,81,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Submarine power cables with extruded insulation and their accessories for rated voltages from 6 kV up to 60 kV must adhere to the testing methods and requirements specified in IEC 63026."",
+      ""scope"": ""Submarine power cables for offshore wind systems"",
+      ""numerical_value"": 60,
+      ""unit"": ""kV"",
+      ""source"": ""IEC 63026 (Submarine power cables with extruded insulation and their accessories for rated voltages from 6 kV up to 60 kV - Test methods and requirements)"",
+      ""related_domains"": [""cable design"", ""cable manufacturing"", ""cable testing"", ""electrical safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,82,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""52"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable core insulation wall thickness to be in compliance with standards issued by another SDO (such as the Association of Edison Illuminating Companies [AEIC] or ICEA) [...] as long as the cable system is type tested and prequalified following the procedures described in the relevant IEC and CIGRE standards documents."",
+      ""scope"": ""Submarine cable systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Discussion of participants in the cables group, referencing IEC and CIGRE standards"",
+      ""related_domains"": [""cable system design"", ""cable testing""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""cable system [must be] type tested and prequalified following the procedures described in the relevant IEC and CIGRE standards documents."",
+      ""scope"": ""Submarine cable systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Discussion of participants in the cables group, referencing IEC and CIGRE standards"",
+      ""related_domains"": [""cable system design"", ""cable testing""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,83,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""53"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""CIGRE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""DNVGL"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""AEIC"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ICEA"",
+      ""jurisdiction"": ""North America"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEEE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,84,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""54"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Specific standards for cable installation are provided in the AWEA OCRP 2012."",
+      ""scope"": ""Submarine cable installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""AWEA OCRP 2012"",
+      ""related_domains"": [""cable installation"", ""submarine cable""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""AWEA"",
+      ""jurisdiction"": null, 
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,85,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Where the cable cores are broken out of the armor protection after the armor hang-off, the cable cores should be either placed in a metallic, nonmagnetic cable raceway or, alternately, continuously covered with a flame-retardant tape or covering material from the hang-off to the cable termination to protect the cable core jackets from flames and to contain a cable jacket fire."",
+      ""scope"": ""Cable fire protection within wind turbines and substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""fire safety"", ""cable management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If halogen gas or smoke is of concern, the raceway or covering should be designed to route the gas or smoke away from the areas of concern and to vent to a safe exterior location in the case of a cable fire."",
+      ""scope"": ""Cable fire protection within wind turbines and substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""fire safety"", ""cable management"", ""air quality""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,86,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""55"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""CIGRE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEEE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,87,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""56"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The safe operating plan should cover shutdown procedures, lockout/tagout procedures and communication, and induced voltage procedures."",
+      ""scope"": ""Operational Phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety"", ""operations""]
+    },
+    {
+      ""type"": ""Decommissioning"",
+      ""requirement"": ""Developers [are required] to include the cost of decommissioning (i.e., removing the cable and returning the site to its original condition, subject to an environmental impact assessment)."",
+      ""scope"": ""Decommissioning Phase, Submarine Cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM in 30 CFR § 585"",
+      ""related_domains"": [""decommissioning"", ""environmental impact assessment"", ""cost estimation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory Authority""
+    }
+  ]
+}
+```"
+7,88,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM/BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""AWEA/ANSI"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,89,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""57-58"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""U.S. industry [must] develop workforce training and health and safety protocols that integrate with the electrical safety standards discussed in this report, and which comply with and facilitate the BOEM/BSEE safety management system requirements."",
+      ""scope"": ""Construction and operation of U.S. offshore wind facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM/BSEE"",
+      ""related_domains"": [""worker safety"", ""electrical safety"", ""safety management systems""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM/BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety management system requirements""
+    }
+  ]
+}
+```"
+7,90,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""59"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Analysis, Design, Installation, and Testing of Basic Surface Safety Systems for Offshore Production Platforms"",
+      ""scope"": ""Offshore Production Platforms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 14C; 30 CFR 250.1628(c)"",
+      ""related_domains"": [""safety systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design and Installation of Electrical Systems for Offshore Production Platforms"",
+      ""scope"": ""Offshore Production Platforms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 14F; 30 CFR 250.114(c)"",
+      ""related_domains"": [""electrical systems""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,91,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,92,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""61"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Rotating electrical machines must comply with IEC 60034 series."",
+      ""scope"": ""Rotating electrical machines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60034 series"",
+      ""related_domains"": [""electrical engineering"", ""machinery""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Electrical equipment of machines must meet the general requirements of IEC 60204-1."",
+      ""scope"": ""Electrical equipment of machines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60204-1"",
+      ""related_domains"": [""electrical safety"", ""machinery""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Equipment for voltages above 1,000 V AC or 1,500 V DC and not exceeding 36 kV must comply with IEC 60204-11."",
+      ""scope"": ""High-voltage electrical equipment"",
+      ""numerical_value"": 1000,
+      ""unit"": ""V AC"",
+      ""source"": ""IEC 60204-11"",
+      ""related_domains"": [""electrical safety"", ""high voltage equipment""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""Electric cable current rating calculations must adhere to IEC 60287."",
+      ""scope"": ""Electric cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60287"",
+      ""related_domains"": [""electrical engineering"", ""cable sizing""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Low-voltage electrical installations must comply with IEC 60364."",
+      ""scope"": ""Low-voltage electrical installations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60364"",
+      ""related_domains"": [""electrical engineering"", ""low voltage installations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Operating or maintenance gangways must meet the requirements of IEC 60364-7-729."",
+      ""scope"": ""Operating or maintenance gangways"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60364-7-729"",
+      ""related_domains"": [""electrical safety"", ""gangways"", ""maintenance""]
+    },
+{
+      ""type"": ""Technical"",
+      ""requirement"": ""Power cables with extruded insulation and accessories for rated voltages from 6 kV (Um = 7.2 kV) up to 30 kV (Um = 36 kV) must comply with IEC 60502-2."",
+      ""scope"": ""Power cables"",
+      ""numerical_value"": 30,
+      ""unit"": ""kV"",
+      ""source"": ""IEC 60502-2"",
+      ""related_domains"": [""electrical engineering"", ""power cables""]
+    },
+{
+      ""type"": ""Technical"",
+      ""requirement"": ""Power cables with extruded insulation and their accessories for rated voltages above 30 kV (Um = 36 kV) up to 150 kV (Um = 170 kV) must comply with the test methods and requirements of IEC 60840."",
+      ""scope"": ""Power cables"",
+      ""numerical_value"": 150,
+      ""unit"": ""kV"",
+      ""source"": ""IEC 60840"",
+      ""related_domains"": [""electrical engineering"", ""power cables"", ""testing""]
+    },
+{
+      ""type"": ""Technical"",
+      ""requirement"": ""Short-circuit current calculations in three-phase AC systems must adhere to IEC 60909-0."",
+      ""scope"": ""Three-phase AC systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60909-0"",
+      ""related_domains"": [""electrical engineering"", ""short-circuit calculations""]
+    },
+{
+      ""type"": ""Safety"",
+      ""requirement"": ""Measurement of smoke density of cables burning under defined conditions must adhere to the test procedure and requirements of IEC 61034-2-2005."",
+      ""scope"": ""Cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61034-2-2005"",
+      ""related_domains"": [""fire safety"", ""cable testing""]
+    },
+{
+      ""type"": ""Technical"",
+      ""requirement"": ""Insulating liquids must be classified according to IEC 61039."",
+      ""scope"": ""Insulating liquids"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61039"",
+      ""related_domains"": [""electrical engineering"", ""insulating liquids""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind energy generation systems must meet the design requirements of IEC 61400-1."",
+      ""scope"": ""Wind energy generation systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1"",
+      ""related_domains"": [""wind turbine design"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Fixed offshore wind turbines must comply with the design requirements specified in IEC 61400-3-1."",
+      ""scope"": ""Fixed offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-1"",
+      ""related_domains"": [""wind turbine design"", ""offshore structures"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Floating offshore wind turbines must comply with the design requirements specified in IEC 61400-3-2."",
+      ""scope"": ""Floating offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3-2"",
+      ""related_domains"": [""wind turbine design"", ""offshore structures"", ""structural integrity""]
+    },
+{
+      ""type"": ""Safety"",
+      ""requirement"": ""Protection against the thermal hazards of an arc flash must comply with IEC 61482-2 (European equivalent to ASTM F1506), including material testing and garment requirements."",
+      ""scope"": ""Arc flash protection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61482-2"",
+      ""related_domains"": [""electrical safety"", ""arc flash"", ""personal protective equipment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,93,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,94,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""63"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Gas-Insulated Switchgear must comply with IEEE C37.122."",
+      ""scope"": ""High Voltage Gas-Insulated Switchgear"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE C37.122"",
+      ""related_domains"": [""electrical infrastructure"", ""switchgear""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Fault-Locating Techniques on Shielded Power Cable Systems must comply with IEEE 1234."",
+      ""scope"": ""Shielded Power Cable Systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 1234"",
+      ""related_domains"": [""electrical infrastructure"", ""cable systems"", ""fault detection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable Connections for Gas-Insulated Substations must comply with IEEE 1300."",
+      ""scope"": ""Gas-Insulated Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 1300"",
+      ""related_domains"": [""electrical infrastructure"", ""substations"", ""cable connections""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Interconnection and Interoperability of Distributed Energy Resources with Associated Electric Power Systems Interfaces must comply with IEEE 1547."",
+      ""scope"": ""Distributed Energy Resources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 1547"",
+      ""related_domains"": [""electrical infrastructure"", ""grid interconnection"", ""distributed generation""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Arc Flash Hazard Calculations must comply with IEEE 1584."",
+      ""scope"": ""Electrical Systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 1584"",
+      ""related_domains"": [""electrical safety"", ""arc flash""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Working Procedures on Underground Transmission Circuits with Induced Voltage must comply with IEEE 1727."",
+      ""scope"": ""Underground Transmission Circuits"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 1727"",
+      ""related_domains"": [""electrical safety"", ""transmission lines""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Extruded and Laminated Dielectric Shielded Cable Joints Rated 2.5 kV to 500 kV must comply with IEEE 404."",
+      ""scope"": ""Cable Joints"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 404"",
+      ""related_domains"": [""electrical infrastructure"", ""cable systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Point of Interconnection must comply with IEEE 519."",
+      ""scope"": ""Grid Interconnection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 519"",
+      ""related_domains"": [""electrical infrastructure"", ""grid interconnection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Design of DC Auxiliary Power Systems for Generating Stations must comply with IEEE 946."",
+      ""scope"": ""DC Auxiliary Power Systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 946"",
+      ""related_domains"": [""electrical infrastructure"", ""auxiliary power""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Safety in AC Substation Grounding must comply with IEEE 80."",
+      ""scope"": ""AC Substation Grounding"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 80"",
+      ""related_domains"": [""electrical safety"", ""grounding""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Qualifying Permanent Connections Used in Substation Grounding must comply with IEEE 837."",
+      ""scope"": ""Substation Grounding"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 837"",
+      ""related_domains"": [""electrical infrastructure"", ""grounding""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Installation Design and Installation of Vented Lead-Acid Batteries for Stationary Applications must comply with IEEE 44 (or 484)."",
+      ""scope"": ""Stationary Batteries"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE 44 (or 484)"",
+      ""related_domains"": [""electrical infrastructure"", ""battery systems""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Machinery safety must adhere to the general principles for design, risk assessment, and risk reduction as outlined in ISO 12100."",
+      ""scope"": ""Machinery"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 12100"",
+      ""related_domains"": [""safety"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Permanent means of access to machinery must comply with the requirements for choice of fixed means and general requirements of access as specified in ISO 14122-1."",
+      ""scope"": ""Machinery Access"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 14122-1"",
+      ""related_domains"": [""safety"", ""access""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Fixed ladders used for access to machinery must comply with ISO 14122-4."",
+      ""scope"": ""Fixed Ladders"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 14122-4"",
+      ""related_domains"": [""safety"", ""access""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Hydraulic fluid power systems and their components must adhere to the general rules and safety requirements specified in ISO 4413."",
+      ""scope"": ""Hydraulic Systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 4413"",
+      ""related_domains"": [""safety"", ""hydraulics""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Quality Management must comply with ISO 9001."",
+      ""scope"": ""Project Management"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 9001"",
+      ""related_domains"": [""quality management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,95,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""64"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Corrosion Protection (NACE RP-01)"",
+      ""scope"": ""Unspecified"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NACE RP-01"",
+      ""related_domains"": [""corrosion protection"", ""materials""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Enclosures for Electrical Equipment (1,000 Volts Maximum) must comply with NEMA 250."",
+      ""scope"": ""Electrical Equipment"",
+      ""numerical_value"": 1000,
+      ""unit"": ""Volts"",
+      ""source"": ""NEMA 250"",
+      ""related_domains"": [""electrical safety"", ""equipment specifications""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Degrees of Protection Provided by Enclosures must comply with NEMA ANSI/IEC 60529 (IP Code)."",
+      ""scope"": ""Enclosures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEMA ANSI/IEC 60529"",
+      ""related_domains"": [""electrical safety"", ""equipment specifications""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Electrical safety in the workplace must adhere to NFPA 70, Chapter 1, Articles 100-130 regarding working on or near live equipment."",
+      ""scope"": ""Workplace Electrical Safety"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 70"",
+      ""related_domains"": [""electrical safety"", ""occupational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Electrical Equipment Maintenance must adhere to NFPA 70B."",
+      ""scope"": ""Electrical Equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 70B"",
+      ""related_domains"": [""electrical safety"", ""maintenance""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Electrical safety in the workplace must adhere to NFPA 70E, Chapter 1, Articles 100-130 regarding working on or near live equipment."",
+      ""scope"": ""Workplace Electrical Safety"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 70E"",
+      ""related_domains"": [""electrical safety"", ""occupational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Electrical systems for industrial machinery must comply with NFPA 79."",
+      ""scope"": ""Industrial Machinery"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 79"",
+      ""related_domains"": [""electrical safety"", ""machinery""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Lightning Protection must comply with NFPA 780."",
+      ""scope"": ""Lightning Protection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 780"",
+      ""related_domains"": [""electrical safety"", ""lightning protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Clean Agent/Inert Gas Fire Suppression systems must comply with NFPA 2001."",
+      ""scope"": ""Fire Suppression"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 2001"",
+      ""related_domains"": [""fire safety"", ""safety systems""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Compliance with Occupational Safety and Health Standards (OSHA 29 CFR 1910)."",
+      ""scope"": ""Occupational Safety and Health"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA 29 CFR 1910"",
+      ""related_domains"": [""occupational safety"", ""health""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Compliance with regulations for Special Industries (OSHA 29 CFR 1910 Subpart R)."",
+      ""scope"": ""Special Industries"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA 29 CFR 1910 Subpart R"",
+      ""related_domains"": [""occupational safety"", ""industry specific regulations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Compliance with electrical safety regulations (OSHA 29 CFR 1910 Subpart S)."",
+      ""scope"": ""Electrical Systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA 29 CFR 1910 Subpart S"",
+      ""related_domains"": [""electrical safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Ladder usage must comply with OSHA 29 CFR 1910.23."",
+      ""scope"": ""Ladders"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA 29 CFR 1910.23"",
+      ""related_domains"": [""occupational safety"", ""access""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Personal Protection Equipment must comply with OSHA 29 CFR 1910.137."",
+      ""scope"": ""Personal Protection Equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA 29 CFR 1910.137"",
+      ""related_domains"": [""occupational safety"", ""PPE""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Lockout/Tagout (LO/TO) procedures must comply with OSHA 29 CFR 1910.147."",
+      ""scope"": ""Lockout/Tagout"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA 29 CFR 1910.147"",
+      ""related_domains"": [""occupational safety"", ""maintenance""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Fixed ladders inside wind turbine towers must comply with OSHA 29 CFR 1910.269(h) regulations for Electric Power Generation, Transmission, and Distribution."",
+      ""scope"": ""Wind Turbine Towers"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA 29 CFR 1910.269(h)"",
+      ""related_domains"": [""occupational safety"", ""access"", ""wind turbines""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NACE International"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""National Electrical Manufacturers Association (NEMA)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""National Fire Protection Association (NFPA)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""Occupational Safety and Health Administration (OSHA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+7,96,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""65"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Working on or near exposed energized parts"",
+      ""scope"": ""Construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA 29 CFR 1926.960"",
+      ""related_domains"": [""electrical safety"", ""worker safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with UL 1004 series for Rotating Electrical Machines."",
+      ""scope"": ""Electrical components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 1004 series"",
+      ""related_domains"": [""electrical engineering"", ""equipment certification""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with UL 1598 for Luminaires."",
+      ""scope"": ""Lighting equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 1598"",
+      ""related_domains"": [""electrical engineering"", ""lighting""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with UL 467 for Grounding and Bonding Equipment."",
+      ""scope"": ""Electrical systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 467"",
+      ""related_domains"": [""electrical safety"", ""grounding""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with UL 508 for Industrial Control Equipment."",
+      ""scope"": ""Control systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 508"",
+      ""related_domains"": [""industrial control"", ""automation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with UL 508A for Industrial Control Panels."",
+      ""scope"": ""Control panels"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 508A"",
+      ""related_domains"": [""industrial control"", ""electrical panels""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with UL 508C for Power Conversion Equipment."",
+      ""scope"": ""Power electronics"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 508C"",
+      ""related_domains"": [""power conversion"", ""electrical engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with UL 2277 for Construction Specifications."",
+      ""scope"": ""Construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 2277"",
+      ""related_domains"": [""construction management"", ""building codes""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Compliance with UL 6141 for Wind Turbines Permitting Entry of Personnel."",
+      ""scope"": ""Turbine access"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 6141"",
+      ""related_domains"": [""worker safety"", ""turbine maintenance""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Compliance with UL 61800-5-1 for Adjustable Speed Electrical Power Drive Systems - Part 5-1: Safety Requirements – Electrical, Thermal and Energy."",
+      ""scope"": ""Power drive systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 61800-5-1"",
+      ""related_domains"": [""electrical safety"", ""drive systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with UL 845 for Motor Control."",
+      ""scope"": ""Motor control systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 845"",
+      ""related_domains"": [""motor control"", ""electrical engineering""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Compliance with UL 1053 for Ground Fault Protection."",
+      ""scope"": ""Electrical systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 1053"",
+      ""related_domains"": [""electrical safety"", ""ground fault protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with UL 1558 for Metal-Enclosed Low-Voltage Power Circuit Breaker Switchgear."",
+      ""scope"": ""Switchgear"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 1558"",
+      ""related_domains"": [""electrical engineering"", ""switchgear""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Occupational Safety and Health Administration""
+    },
+    {
+      ""entity_name"": ""UL (Underwriters Laboratories)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,97,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,98,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,99,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""68"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Electrical Safety Oversight""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Offshore Wind Energy Management""
+    }
+  ]
+}
+```"
+7,100,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,101,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,102,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3-4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Unspecified""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Unspecified""
+    },
+    {
+      ""entity_name"": ""American National Standards Institute (ANSI)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,103,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,104,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Electrical Safety Standards Harmonization Workshop"",
+    ""document_number"": ""12-16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of the Interior (DOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulation and enforcement of safety and health requirements for outer continental shelf (OCS) renewable energy""
+    },
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Due diligence requirement to ensure safest standards are used; Review of industry submissions (construction and operations plans, facility design reports, fabrication and installation reports); Comparison of U.S. versus international electrical safety standards""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Due diligence requirement to ensure safest standards are used; Review of industry submissions (construction and operations plans, facility design reports, fabrication and installation reports)""
+    }
+  ]
+}
+```"
+7,105,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""17-20"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Outer Continental Shelf - USA"",
+      ""role"": ""Granting leases for offshore renewables and promulgating regulations""
+    },
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Outer Continental Shelf - USA"",
+      ""role"": ""Granting leases for offshore renewables and promulgating regulations""
+    }
+  ]
+}
+```"
+7,106,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Initiative on U.S. Offshore Wind Standards"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""30 CFR 585 rule covers the offshore wind facility development process cradle to grave"",
+      ""scope"": ""US Outer Continental Shelf and state waterways"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585"",
+      ""related_domains"": [""permitting"", ""construction"", ""operation"", ""decommissioning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+7,107,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,108,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Electrical Content in Draft OCRP ed. 2"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NFPA"",
+      ""jurisdiction"": ""US"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ANSI"",
+      ""jurisdiction"": ""US"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEEE"",
+      ""jurisdiction"": ""US"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""NEMA"",
+      ""jurisdiction"": ""US"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""UL"",
+      ""jurisdiction"": ""US"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""CIGRE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""US"",
+      ""role"": ""Standard setting body for Offshore O&G""
+    }
+  ]
+}
+```"
+7,109,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Appendix D"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,110,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,111,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""109"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,112,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Table D-1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Arc Flash Labelingi"",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61482-2, IEC TR 61641, IEC 62271-200, IEC 60909-0, Occupational Safety and Health (OSH) Framework Directive 89/391/EEC European Norm (EN) 50110-1, IEEE 1584, NFPA 70E, CSA Z462"",
+      ""related_domains"": [""electrical safety"", ""arc flash protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""breaker panels to include panel schedule labeling"",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE, NFPA"",
+      ""related_domains"": [""electrical safety"", ""labeling""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement (BSEE)"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Recommending body (specifically for arc flash labeling requirements)""
+    }
+  ]
+}
+```"
+7,113,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""110-111"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Certification should be carried out in accordance with the design standards used and employ nationally recognized testing laboratory (NRTL) approval if called for in those standards."",
+      ""scope"": ""Turbines and Substations, Emergency Stop Design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""certification"", ""safety systems""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,114,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A-3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Adequate Workspace around cabinets and compartments and equipment"",
+      ""scope"": ""Turbines and Substations - Low Voltage"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60364-7-729, IEC 61439"",
+      ""related_domains"": [""electrical safety"", ""maintenance access""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Adequate Workspace around cabinets and compartments and equipment"",
+      ""scope"": ""Turbines and Substations - High Voltage"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61482, IEC 60298, IEC 62271-200"",
+      ""related_domains"": [""electrical safety"", ""maintenance access""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Adequate Workspace around cabinets and compartments and equipment - Low Voltage"",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EN 50110-1, EU Directive 2014/35/EU"",
+      ""related_domains"": [""electrical safety"", ""maintenance access""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Adequate Workspace around cabinets and compartments and equipment - High Voltage"",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EN 50110-1"",
+      ""related_domains"": [""electrical safety"", ""maintenance access""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Adequate Workspace around cabinets and compartments and equipment - Low Voltage"",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEC (NFPA 70) Article 110.26, Article 110.34, NFPA 70B, NFPA 70E, OSHA 29 CFR 1910.269, OSHA 29 CFR 1910.305, OSHA 29 CFR 1926.403"",
+      ""related_domains"": [""electrical safety"", ""maintenance access""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Adequate Workspace around cabinets and compartments and equipment - High Voltage"",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEEE C2 (National Electrical Safety Code [NESC])"",
+      ""related_domains"": [""electrical safety"", ""maintenance access""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Certification should be carried out in accordance with the design standards used and employ NRTL approval if called for in those standards."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""certification"", ""quality assurance""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""EU"",
+      ""jurisdiction"": ""European Union"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Safety oversight and enforcement""
+    },
+    {
+      ""entity_name"": ""NFPA"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEEE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""NRTL"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Certification body""
+    }
+
+
+  ]
+}
+```"
+7,115,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""112-113"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Ground Fault Circuit Interrupter (GFCI) – Residual Current Device (RCD) required for Turbines and Substations."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 70E, UL 943, UL 1053, OSHA: 29 CFR 1926.404(b)(1)(ii)"",
+      ""related_domains"": [""electrical safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Protection against electrical shock as per IEC-60204-1 (referencing IEC-60364-4-41)."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC-60204-1, IEC-60364-4-41"",
+      ""related_domains"": [""electrical safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Trip time vs. fault current as defined in UL 943 must be fulfilled for RCDs and RCBO devices designed to IEC standards (e.g., IEC 60364-6)."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 943, IEC 60364-6"",
+      ""related_domains"": [""electrical safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Class C protection is sufficient when all relevant tools are double isolated and/or grounded."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NFPA 70/UL 943 selector guide"",
+      ""related_domains"": [""electrical safety"", ""tool safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""30 mA RCBOs designed toward IEC standards must fulfill the trip time vs. fault current requirements as defined for Class C."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": 30,
+      ""unit"": ""mA"",
+      ""source"": ""NFPA 70/UL 943 selector guide"",
+      ""related_domains"": [""electrical safety""]
+    }
+
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Occupational Safety and Health Administration""
+    },
+    {
+      ""entity_name"": ""Underwriters Laboratories (UL)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Safety Standards Development Organization""
+    },
+    {
+      ""entity_name"": ""NFPA"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standards Development Organization (National Fire Protection Association)""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standards Development Organization (International Electrotechnical Commission)""
+    },
+        {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight (Bureau of Safety and Environmental Enforcement)""
+    }
+  ]
+}
+```"
+7,116,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""114"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Certification should be carried out in accordance with the design standards used and employ NRTL approval if called for in those standards."",
+      ""scope"": ""Adjustable Speed Drives"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""certification"", ""electrical systems""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,117,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A-6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Switchgear should be designed and tested according to IEC 62271-200 for voltages below 52 kV."",
+      ""scope"": ""Switchgear for voltages < 52 kV"",
+      ""numerical_value"": 52,
+      ""unit"": ""kV"",
+      ""source"": ""IEC 62271-200"",
+      ""related_domains"": [""electrical safety"", ""grid connection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Switchgear should be designed and tested according to IEC 62271-203 for voltages above 52 kV (72.5 kV). Internal arc classification should be according to IEC 62271-200 and/or IEC 62271-203."",
+      ""scope"": ""Switchgear for voltages > 52 kV (72.5 kV)"",
+      ""numerical_value"": 52,
+      ""unit"": ""kV"",
+      ""source"": ""IEC 62271-203"",
+      ""related_domains"": [""electrical safety"", ""grid connection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Certification should be carried out in accordance with the design standards used and employ NRTL approval if called for in those standards."",
+      ""scope"": ""Switchgear"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""certification"", ""electrical safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,118,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""115-116"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Certification should be carried out in accordance with the design standards used and employ NRTL approval if called for in those standards."",
+      ""scope"": ""Switchgear (Medium Voltage)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""certification"", ""electrical safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NRTL"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Certification""
+    },
+    {
+      ""entity_name"": ""IEEE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ANSI"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""NEMA"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""NECA"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""CSA"",
+      ""jurisdiction"": ""Canada"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+        {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Regulatory oversight"" 
+    }
+
+
+  ]
+}
+```"
+7,119,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""117"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Certification should be carried out in accordance with the design standards used and employ NRTL approval if called for in those standards."",
+      ""scope"": ""Switchgear (Low Voltage)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""certification"", ""electrical safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,120,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A-9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Transformers shall comply with IEC 60076 series (IEC 60076-1, IEC 60076-11, IEC 60076-13, IEC 60076-3, IEC 60076-5, IEC 60076-8, IEC 60076-16, IEC 61936-1)."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60076 series, IEC 61936-1"",
+      ""related_domains"": [""electrical safety"", ""transformer design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Transformers shall comply with EN 60076-16, EN 61558-1, EN 61558-2-16, EN 61558-2-4, EN 61558-2-6, BS EN 60076-11, BS EN 60076-16, BS PD IEC TS 60076-20, DS/EN 60076-16, Austrian Standard (OVE/ONORM) EN 60076-16."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EN, BS, DS, OVE/ONORM standards"",
+      ""related_domains"": [""electrical safety"", ""transformer design""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""When installed inside the tower or nacelle, a dry transformer or a transformer with nonflammable liquid should be used."",
+      ""scope"": ""Turbine Nacelle and Tower"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""A-9 Comments"",
+      ""related_domains"": [""fire safety"", ""transformer design""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Liquids having a fire point higher than 300 C meet the requirements for “less-flammable” liquid."",
+      ""scope"": ""Turbine Nacelle and Tower"",
+      ""numerical_value"": 300,
+      ""unit"": ""°C"",
+      ""source"": ""A-9 Comments, NEC 450.23, IEC 61039"",
+      ""related_domains"": [""fire safety"", ""transformer design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Transformers shall comply with 29 CFR part 1910 subpart S Electrical section 305 (j) (5); National Electric Code (NEC) sections 450.21 through 450.27 and 450 Part III; NESC Rule 152 Location and arrangement of power transformers and regulators, and Rule 124 Guarding live parts UL 1561 UL 1562 IEEE/ANSI C57 Series IEEE/IEC 60076-16 IEEE 4 IEEE 259 IEEE 1276 IEEE 1538 IEEE C2 (NESC) Low Voltage UL 5085-1 UL 5085-2 UL 5085-3 CAN/CSA-C802.1 CSA-C22.2 No. 66.1 & .2 &.3"",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""US Regulations and Standards (CFR, NEC, NESC, UL, IEEE, ANSI, CSA)"",
+      ""related_domains"": [""electrical safety"", ""transformer design"", ""installation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,121,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""118-119"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Certification should be carried out in accordance with the design standards used and employ NRTL approval if called for in those standards."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""certification"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,122,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""120"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Lightning protection systems shall comply with IEC 61400-24, IEC 62305-3, and IEC 62305-4."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-24, IEC 62305-3, IEC 62305-4"",
+      ""related_domains"": [""lightning protection"", ""electrical safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Electrical enclosures/control panels shall comply with the degrees of protection specified in IEC 60529 and IEC 61936-1."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60529, IEC 61936-1"",
+      ""related_domains"": [""electrical safety"", ""equipment protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC (International Electrotechnical Commission)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,123,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""A-13"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Certification should be carried out in accordance with the design standards used and employ NRTL approval if called for in those standards."",
+      ""scope"": ""Wind turbine electrical systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""certification"", ""electrical systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""If using U.S. codes and regulations for the wind turbine electrical system, then an NRTL should be used to certify the electrical components of the system. If something has already been certified, then no reevaluation is needed unless it has been changed or there are details beyond what has been certified."",
+      ""scope"": ""Wind turbine electrical systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""certification"", ""electrical systems""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,124,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""121-122"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Certification should be carried out in accordance with the design standards used and employ NRTL approval if called for in those standards."",
+      ""scope"": ""Turbines and Substations, Fire Prevention and Fire Protection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""fire prevention"", ""certification""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,125,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Fixed ladders should comply with OSHA standards inside the United States and its waters."",
+      ""scope"": ""Fixed ladders inside wind turbines in the United States and its waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA"",
+      ""related_domains"": [""safety"", ""turbine access""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Safety regulation""
+    }
+  ]
+}
+```"
+7,126,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,127,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Working on or near live equipment must comply with IEC 60364-5-52, BS 6626, BS 7671, and EU Directive 2009/104/EC."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60364-5-52, BS 6626, BS 7671, EU Directive 2009/104/EC"",
+      ""related_domains"": [""electrical safety"", ""worker safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Working on or near live equipment must comply with OSHA 29 CFR 1926.960, OSHA 29 CFR 1910 Subparts R and S, and NFPA 70E Chapters 1, Articles 100-130."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSHA 29 CFR 1926.960, OSHA 29 CFR 1910 Subparts R, S, NFPA 70E Ch.1 Art.100-130"",
+      ""related_domains"": [""electrical safety"", ""worker safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Personnel Protective Equipment (PPE) must comply with IEC 61482-2 (European Equivalent to ASTM F1506) and OSH Framework Directive 89/391/EEC."",
+      ""scope"": ""Turbines and substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61482-2, OSH Framework Directive 89/391/EEC"",
+      ""related_domains"": [""PPE"", ""worker safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Personnel Protective Equipment (PPE) must comply with ASTM F1506, NEMA ABP 10, NFPA 2112, NFPA 70 NEC – Art. 110.16, NFPA 70B, NFPA 70E, and OSHA 29 CFR 1910.137 (which refers to Subpart I requirements, referencing ANSI and ASTM standards)."",
+      ""scope"": ""Turbines and substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM F1506, NEMA ABP 10, NFPA 2112, NFPA 70 NEC – Art. 110.16, NFPA 70B, NFPA 70E, OSHA 29 CFR 1910.137, Subpart I, ANSI, ASTM"",
+      ""related_domains"": [""PPE"", ""worker safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Regulatory oversight (preliminary assessment of standards)""
+    },
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Occupational Safety and Health Administration""
+    },
+    {
+      ""entity_name"": ""NFPA"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body (National Fire Protection Association)""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body (International Electrotechnical Commission)""
+    },
+    {
+      ""entity_name"": ""EU"",
+      ""jurisdiction"": ""European Union"",
+      ""role"": ""Standard setting body/Directive issuer""
+    },
+    {
+      ""entity_name"": ""ANSI"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body (American National Standards Institute)""
+    },
+    {
+      ""entity_name"": ""ASTM"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body (American Society for Testing and Materials)""
+    },
+    {
+      ""entity_name"": ""NEMA"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body (National Electrical Manufacturers Association)""
+    }
+
+  ]
+}
+```"
+7,128,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""124-125"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Follow NFPA 70E and OSHA standards for control of hazardous energies and LO/TO."",
+      ""scope"": ""Project site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""An industry safety manager recommendation (as cited in the document)"",
+      ""related_domains"": [""lockout-tagout"", ""safety"", ""hazardous energy control""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""OSHA"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Occupational Safety and Health Administration (Enforcement agency)""
+    },
+    {
+      ""entity_name"": ""NFPA"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""National Fire Protection Association (Standard setting body)""
+    }
+
+  ]
+}
+```"
+7,129,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Conseil International des Grands Réseaux Électriques (International Council for Large Electric Systems) (CIGRE)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEEE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+7,130,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""126"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Certification per OD- 501&2 should be done by an IECRE-accepted renewable energy certification body."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IECRE OD-502, IECRE OD-501"",
+      ""related_domains"": [""certification"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IECRE"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""DNVGL"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ANSI/International Electrical Testing Association (NETA)"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""CSA"",
+      ""jurisdiction"": ""International"", 
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""NFPA"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Regulatory agency""
+    }
+
+
+  ]
+}
+```"
+7,131,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""127"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The cable systems must be covered by an existing prequalification test and type test that is witnessed by a competent witnessing body or performed at an independent test laboratory."",
+      ""scope"": ""Submarine cable systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable testing"", ""quality assurance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,132,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""128"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The cable systems must be covered by an existing prequalification test and type test according to IEC 63026."",
+      ""scope"": ""Medium Voltage Submarine Cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 63026"",
+      ""related_domains"": [""cable testing"", ""electrical safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,133,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""129"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cables should be listed as a marine shipboard cable by an NRTL."",
+      ""scope"": ""Cabling"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable selection"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,134,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Certification should be carried out in accordance with the design standards used and employ NRTL approval if called for in those standards."",
+      ""scope"": ""Turbines, Systems of Insulating Materials"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 1446, IEEE 1776, IEC 61857-31, IEC 60721-1, IEC 60071-1&2, IEC 60664-1&3, IEC 60085"",
+      ""related_domains"": [""electrical safety"", ""insulation systems""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Certification should be carried out in accordance with the design standards used and employ NRTL approval if called for in those standards."",
+      ""scope"": ""Turbines and Substations, Uninterruptable Power Supplies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 62040‐1, IEC 61056-1, IEC 60896-21, BS EN 62040-5-3, BS EN 62040-1, UL 1778, UL 62109‐1, UL 6141, CAN/CSA-C813.1, CAN/CSA-C381.2, CSA-C22.2 No. 60896-21, IEEE 1106, IEEE 1184, IEEE 1115, NECA NEIS 411"",
+      ""related_domains"": [""electrical safety"", ""power systems""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,135,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+7,136,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The IEC slip rings standard IEC 60204-1 is acceptable."",
+      ""scope"": ""Slip Rings"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60204-1"",
+      ""related_domains"": [""electrical safety"", ""equipment standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The UL 6141 standard accepts either IEC 60204-1 or UL 508 compliance."",
+      ""scope"": ""Slip Rings"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 6141"",
+      ""related_domains"": [""electrical safety"", ""equipment standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing of the slip ring must consider the ratings/certifications of upstream overcurrent protection."",
+      ""scope"": ""Slip Rings"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 6141"",
+      ""related_domains"": [""electrical safety"", ""equipment testing""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The IEC Alternators, Generators, and Motors series of standards are acceptable."",
+      ""scope"": ""Alternators, Generators, and Motors"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60034 Series"",
+      ""related_domains"": [""electrical systems"", ""equipment standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The UL 6141 standard accepts compliance with either the UL 1004 series or IEC 60034 series."",
+      ""scope"": ""Alternators, Generators, and Motors"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 6141"",
+      ""related_domains"": [""electrical systems"", ""equipment standards""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing of the item must consider the ratings/certifications of upstream overcurrent protection."",
+      ""scope"": ""Alternators, Generators, and Motors"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 6141"",
+      ""related_domains"": [""electrical safety"", ""equipment testing""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,137,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""131-132"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""As required by UL 6141, the OEM needs to state which set of standards is used and remain consistent in the design."",
+      ""scope"": ""Turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 6141"",
+      ""related_domains"": [""design"", ""standards compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The requirements for wiring in Section 4.2 of UL 6141 address wiring design, installation, and marking."",
+      ""scope"": ""Turbine Wiring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 6141 Section 4.2"",
+      ""related_domains"": [""wiring"", ""electrical safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""NFPA 70 or IEC 60364‐5‐52 align with UL requirements"",
+      ""scope"": ""Turbine Wiring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 6141"",
+      ""related_domains"": [""wiring"", ""electrical safety""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""These standards apply only for voltages under 1,000 volts alternating current (VAC) (1,500 VDC)."",
+      ""scope"": ""Turbine Wiring"",
+      ""numerical_value"": 1000,
+      ""unit"": ""VAC"",
+      ""source"": ""C-13 Comments"",
+      ""related_domains"": [""wiring"", ""electrical safety"", ""voltage limits""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""These standards apply only for voltages under 1,500 VDC."",
+      ""scope"": ""Turbine Wiring"",
+      ""numerical_value"": 1500,
+      ""unit"": ""VDC"",
+      ""source"": ""C-13 Comments"",
+      ""related_domains"": [""wiring"", ""electrical safety"", ""voltage limits""]
+    }
+
+
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,138,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""133"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Surge Protection/Suppression Component must comply with IEC 61643‐11 IEC 60099-4 or UL 1449 IEEE C62.23 IEEE C62.21"",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BSEE’s preliminary assessment"",
+      ""related_domains"": [""electrical safety"", ""grid connection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Pitch, Yaw, and Other Control Panels must comply with IEC 61400-3 or UL 508A CAN/CSA-C22.2 No 14 CAN/CSA-C61400-3."",
+      ""scope"": ""Turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BSEE’s preliminary assessment"",
+      ""related_domains"": [""control systems"", ""safety systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Gearboxes must comply with IEC 61400-4 or ANSI/American Gear Manufacturers Association/American Wind Energy Association 6006-A03 UL 508 UL 73"",
+      ""scope"": ""Turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BSEE’s preliminary assessment"",
+      ""related_domains"": [""mechanical systems"", ""drivetrain""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BSEE"",
+      ""jurisdiction"": ""United States"",
+      ""role"": ""Preliminary assessment and standard acceptance""
+    }
+  ]
+}
+```"
+7,139,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""134"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Wind turbine tower elevators must comply with one of the following standards: EN 81-44, 2006/42/EC, EN 1808, CSA B44.8, ASME A17.8, ANSI/ASSP A10.4."",
+      ""scope"": ""Wind turbine tower elevators"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BSEE (with reference to listed standards)"",
+      ""related_domains"": [""safety"", ""elevator operation"", ""turbine access""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Hoists, winches, and cranes must comply with UL 1340."",
+      ""scope"": ""Hoists, winches, and cranes"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL 1340"",
+      ""related_domains"": [""lifting operations"", ""crane safety"", ""material handling""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,140,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""135"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Internal lighting fixtures – NEMA 4 protection (IP 65 can be accepted)"",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""lighting"", ""safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""External lighting fixtures – NEMA 6 protection (IP 67 can be accepted)"",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""lighting"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,141,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""136"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Emergency and standby power systems must comply with CSA-C282, CSA-C22.2 No. 141, NFPA 110, and NFPA 111."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""CSA, NFPA"",
+      ""related_domains"": [""safety"", ""power systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Power sockets and plugs must comply with UL 498, NFPA 70 (NEC), and NEMA 4X protection for receptacles."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL, NFPA, NEMA"",
+      ""related_domains"": [""electrical safety"", ""equipment compatibility""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable trays must comply with UL 2277 Outline, UL 6141, NEMA VE 1, NFPA 70 (NEC) Art.320, CSA C22.2 No. 230 & No.126.1."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""UL, NEMA, NFPA, CSA"",
+      ""related_domains"": [""electrical safety"", ""cable management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,142,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable cleats for electrical installations shall comply with IEC 61914, IEC 61238-1-1, IEC 61238-1-2, and IEC 61238-1-3."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61914, IEC 61238-1-1, IEC 61238-1-2, IEC 61238-1-3"",
+      ""related_domains"": [""electrical installations"", ""cable management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cathodic protection shall comply with one of the following: DNVGL-RP-B401, DS/EN 12473, EN 12495, ISO 12473, or BS/EN 13173."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-RP-B401, DS/EN 12473, EN 12495, ISO 12473, BS/EN 13173"",
+      ""related_domains"": [""corrosion protection"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Grounding and bonding shall comply with IEC 60364-5-54, IEC 60204-1, and IEC 60364-5-4."",
+      ""scope"": ""Turbines and Substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 60364-5-54, IEC 60204-1, IEC 60364-5-4"",
+      ""related_domains"": [""electrical safety"", ""grounding systems""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+7,143,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""137"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ANSI/NETA"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"

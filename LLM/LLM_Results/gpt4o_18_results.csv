@@ -1,0 +1,634 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"18",1,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""DRAFT Information Needed for Issuance of a Notice of Intent (NOI) Under the National Environmental Policy Act (NEPA) for a Construction and Operations Plan (COP)"",
+    ""document_number"": ""10/24/22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""BOEM’s decision to approve, disapprove, or approve with modifications a COP requires environmental reviews and consultations under NEPA and other applicable Federal statutes."",
+      ""scope"": ""Construction and Operations Plan (COP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management’s (BOEM’s) regulations"",
+      ""related_domains"": [""environmental impact assessment"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"18",2,"openai","gpt-4o",False,"`NO_RELEVANT_DATA_FOUND`"
+"18",3,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""BOEM expects to complete the EIS/EA with a record of decision within 2 years of an NOI publication."",
+      ""scope"": ""Environmental review phase"",
+      ""numerical_value"": 2,
+      ""unit"": ""years"",
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Revisions that narrow the project design envelope may be accepted without causing delays to the review schedule (six months after publication of the NOI)."",
+      ""scope"": ""Project design phase"",
+      ""numerical_value"": 6,
+      ""unit"": ""months"",
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""project management"", ""design review""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"18",4,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""An agency may not conduct or sponsor a collection of information unless it displays a currently valid information collection control number issued by the Office of Management and Budget (OMB)."",
+      ""scope"": ""Federal - USA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR part 585, subpart F"",
+      ""related_domains"": [""information collection"", ""administrative compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"18",5,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All COPs include the information outlined in 30 CFR §§ 585.626-.628, as further described in this NOI Checklist."",
+      ""scope"": ""Construction and Operations Plan (COP)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR §§ 585.626-.628"",
+      ""related_domains"": [""environmental impact assessment"", ""technical review""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Federal Permitting Improvement Steering Council (FPISC)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting coordination""
+    }
+  ]
+}
+```"
+"18",6,"openai","gpt-4o",False,"```
+NO_RELEVANT_DATA_FOUND
+```"
+"18",7,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""BOEM will not make a “covered project” determination if a COP does not meet the information requirements in 30 CFR §§ 585.626-.628."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR §§ 585.626-.628"",
+      ""related_domains"": [""project qualification"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The project description should include a complete, well-defined, and illustrated description of the project, including the Project Design Envelope (PDE) and the action area."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM NOI Checklist"",
+      ""related_domains"": [""project planning"", ""design documentation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All designs, layouts, and technologies proposed within the PDE should be described in a similar level of detail that is sufficient for BOEM to assess during the NEPA review."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM NOI Checklist"",
+      ""related_domains"": [""design assessment"", ""regulatory review""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""BOEM will generally allow narrowing of the PDE for up to 6 months after the NOI is published."",
+      ""scope"": ""Offshore wind farm projects"",
+      ""numerical_value"": 6,
+      ""unit"": ""months"",
+      ""source"": ""BOEM NOI Checklist"",
+      ""related_domains"": [""project planning"", ""design flexibility""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"18",8,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A project determined not to be ripe for NEPA review and/or a project with incomplete information relevant to its technical feasibility cannot be a covered project."",
+      ""scope"": ""Federal infrastructure projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FAST-41 Guidance, §§ 4.6 and 4.7"",
+      ""related_domains"": [""permitting process"", ""project feasibility""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The implementation of FAST-41 cannot have the effect of limiting the ability of an agency from meaningfully carrying out its obligations under other authorities."",
+      ""scope"": ""Federal agencies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FAST-41 Guidance at § 3.9"",
+      ""related_domains"": [""agency authority"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Office of Management & Budget and Council on Environmental Quality, Executive Office of the President"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Guidance issuance for environmental review and authorization process""
+    }
+  ]
+}
+```"
+"18",9,"openai","gpt-4o",False,"NO_RELEVANT_DATA_FOUND"
+"18",10,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An applicant should also submit a complete description of the preliminary area of potential effect (PAPE) before BOEM will initiate the section 106 process."",
+      ""scope"": ""Preliminary area of potential effect (PAPE)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""environmental impact assessment"", ""historic preservation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""There must be sufficient detail to support the environmental analyses required by NEPA and other relevant environmental laws."",
+      ""scope"": ""COP submission"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEPA"",
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"18",11,"openai","gpt-4o",False,"NO_RELEVANT_DATA_FOUND"
+"18",12,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The description should include sufficient information for the U.S. Army Corps of Engineers to conduct its dredged or fill material analysis under 40 CFR part 230."",
+      ""scope"": ""Activities requiring a permit under section 404 of the Clean Water Act"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 CFR part 230"",
+      ""related_domains"": [""environmental impact assessment"", ""dredging""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The proposed action and the alternatives should also address restrictions on discharge under 40 CFR § 230.10."",
+      ""scope"": ""Activities requiring a permit under section 404 of the Clean Water Act"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""40 CFR § 230.10"",
+      ""related_domains"": [""environmental impact assessment"", ""water quality""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    },
+    {
+      ""entity_name"": ""National Park Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"18",13,"openai","gpt-4o",False,"```
+NO_RELEVANT_DATA_FOUND
+```"
+"18",14,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""23"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""COP submittals should include a benthic habitat assessment that provides the information described in BOEM’s Guidelines for Providing Benthic Habitat Survey Information for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585 and Guidelines for Providing Geophysical, Geotechnical, and Geohazard Information Pursuant to 30 CFR Part 585."",
+      ""scope"": ""Atlantic Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s Guidelines for Providing Benthic Habitat Survey Information"",
+      ""related_domains"": [""environmental impact assessment"", ""geophysical survey"", ""geotechnical survey""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""BOEM recommends that the habitat assessment include multibeam and side scan sonar data for 100 percent of the project area."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": 100,
+      ""unit"": ""percent"",
+      ""source"": ""BOEM"",
+      ""related_domains"": [""geophysical survey"", ""habitat mapping""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The benthic habitat assessment should include all offshore, inshore, estuarine, and riverine areas within the project area."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""environmental impact assessment"", ""habitat mapping""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Benthic habitat data provided with the COP should be characterized according to the Coastal and Marine Ecological Classification Standard (CMECS)."",
+      ""scope"": ""Benthic habitats"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coastal and Marine Ecological Classification Standard (CMECS)"",
+      ""related_domains"": [""habitat mapping"", ""environmental classification""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Applicants should identify all essential fish habitat and habitat areas of particular concern (HAPC) in the project area."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""environmental impact assessment"", ""marine biology""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"18",15,"openai","gpt-4o",False,"NO_RELEVANT_DATA_FOUND"
+"18",16,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The MSIR included with the COP submission should include information on project-specific geologic conditions, shallow hazards, and a site investigation report based on site-specific data."",
+      ""scope"": ""Offshore wind farm project site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s guidance document Guidelines for Providing Geophysical, Geotechnical, and Geohazard Information"",
+      ""related_domains"": [""geological assessment"", ""site investigation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The COP should include an analysis of the risks that project subsea cables may present to other maritime users in the vicinity."",
+      ""scope"": ""Subsea cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigational safety"", ""maritime risk assessment""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The COP should include an NSRA that contains all the information required under the U.S. Coast Guard’s Navigation and Vessel Inspection Circular (NVIC) 01-19."",
+      ""scope"": ""Offshore wind energy project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Coast Guard’s Navigation and Vessel Inspection Circular (NVIC) 01-19"",
+      ""related_domains"": [""navigational safety"", ""risk assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"18",17,"openai","gpt-4o",False,"`NO_RELEVANT_DATA_FOUND`"
+"18",18,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""NVIC requires include a comprehensive traffic survey, an assessment of navigation within the project area and within close proximity to a structure, effects of meteorological and oceanographic conditions on navigation risks within vicinity of the project, risk of incidents (collision, allision, and grounding), and impacts to vessel-based navigation aids."",
+      ""scope"": ""Project area and vicinity, applicable during planning and operation phases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NVIC"",
+      ""related_domains"": [""navigational safety"", ""maritime risk assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The radar assessment should include all land-based radar systems potentially impacted by the project and identify the owners and users of those systems."",
+      ""scope"": ""Land-based radar systems potentially impacted by the project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NVIC"",
+      ""related_domains"": [""radar systems"", ""technical assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"18",19,"openai","gpt-4o",False,"```
+NO_RELEVANT_DATA_FOUND
+```"
+"18",20,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The applicant should consider developing a broad enough PAPE to allow flexibility for the development of alternatives and potential revisions to the specific siting of structures."",
+      ""scope"": ""Terrestrial and marine areas potentially impacted by ground or bottom-disturbing activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""project planning""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The applicant should submit the results of the historic property identification surveys within each element of the PAPE."",
+      ""scope"": ""Historic properties within the PAPE"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""36 CFR § 800.5"",
+      ""related_domains"": [""cultural heritage"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The COP should include a complete and sufficient marine acoustic modeling submission in support of BOEM’s completion of an Endangered Species Act effects analysis."",
+      ""scope"": ""Marine acoustic environment during construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM’s DRAFT Nationwide Recommendations for Impact Pile Driving Sound Exposure Modeling and Sound Field Measurement for Offshore Wind Construction and Operations Plans"",
+      ""related_domains"": [""marine biology"", ""acoustic impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"18",21,"openai","gpt-4o",False,"NO_RELEVANT_DATA_FOUND"
+"18",22,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Applicants should evaluate the effects of the project’s underwater noise generating activities with detail and sophistication appropriate for the level of effect possible."",
+      ""scope"": ""Underwater noise generating activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM guidance"",
+      ""related_domains"": [""environmental impact assessment"", ""marine life protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The applicant should include a description of critical habitat in the action area."",
+      ""scope"": ""Action area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (ESA) and NEPA Information"",
+      ""related_domains"": [""habitat protection"", ""species conservation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The applicant should include seasonal abundance and distribution of ESA-listed species in the action area."",
+      ""scope"": ""Action area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (ESA) and NEPA Information"",
+      ""related_domains"": [""species monitoring"", ""biodiversity""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The applicant should include in its COP the abundance and distribution of marine mammals in the action area."",
+      ""scope"": ""Action area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Marine Mammal Protection Act and NEPA Information"",
+      ""related_domains"": [""marine mammal protection"", ""biodiversity""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"18",23,"openai","gpt-4o",False,"NO_RELEVANT_DATA_FOUND"
+"18",24,"openai","gpt-4o",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Applicants proposing to submit data and information after their initial COP submission should include a written supplemental filing schedule with their first COP submission."",
+      ""scope"": ""COP submission process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""project planning"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Data and information submitted through supplemental filings should be submitted and determined sufficient by BOEM to allow BOEM adequate environmental and technical review time before an upcoming review milestone."",
+      ""scope"": ""COP submission process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""project planning"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Submission of a schedule that does not meet the timing of BOEM’s environmental and technical review or a failure to comply with the schedule submitted will likely result in BOEM delaying its environmental and/or technical reviews of the COP or in BOEM disapproving the COP."",
+      ""scope"": ""COP submission process"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""project planning"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""If the project is a covered project under title 41 of the Fixing America's Surface Transportation Act (FAST-41), a delay may result in the project being placed in a 'paused' status on the Federal Infrastructure Projects Permitting Dashboard."",
+      ""scope"": ""Projects under FAST-41"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FAST-41"",
+      ""related_domains"": [""project planning"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"18",25,"openai","gpt-4o",False,"NO_RELEVANT_DATA_FOUND"

@@ -1,0 +1,278 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"50","claude","claude-3-haiku-20240307",201673,105266,15,12,False,"{
+  ""document_metadata"": {
+    ""title"": ""BOEM and NOAA Fisheries North Atlantic Right Whale and Offshore Wind Strategy"",
+    ""project_name"": ""Offshore Wind Development"",
+    ""project_location"": ""U.S. Atlantic Coast""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Offshore wind turbines used to generate electricity"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Substations"",
+      ""description"": ""Offshore electrical substations to collect and transmit electricity from wind turbines"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Export Cables"",
+      ""description"": ""Subsea cables to transmit electricity from offshore substations to onshore grid connection points"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Floating Wind Technology"",
+      ""description"": ""Offshore wind turbines mounted on floating platforms in deeper waters"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Project Vessels"",
+      ""description"": ""Vessels used for site characterization, construction, and operations of offshore wind projects"",
+      ""source_section_number"": ""4.3""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Offshore wind turbine foundations should avoid the use of pile driving where feasible, in order to minimize noise impacts on North Atlantic right whales."",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Offshore wind lease areas"",
+      ""context_quote"": ""The agencies are committed to working with lessees to develop standards for determining where it would be preferred to use foundation designs that do not rely on pile driving (e.g., gravity-based foundations), as well as to not detonate UXOs when other means of removal are possible.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""If pile driving cannot be avoided, noise abatement systems (e.g., double big bubble curtains) must be used to reduce noise levels to the maximum extent practicable."",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Offshore wind lease areas"",
+      ""context_quote"": ""Where pile driving and UXO detonations cannot be avoided, lessees should use the most effective methodologies available to reduce noise to the maximum extent practicable, including, but not limited to, use of noise abatement systems (e.g., double big bubble curtains).""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Pile driving activities must be scheduled to avoid times of year when North Atlantic right whales are most likely to be present in the lease areas and along vessel transit routes."",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Offshore wind lease areas and vessel transit routes"",
+      ""context_quote"": ""Project schedules should avoid installing foundations during the time of year when NARWs are most likely to occur in the lease areas and along vessel routes, including known areas of higher NARW density and persistence, and including, but not limited to, Nantucket Shoals, Cape Cod Bay, calving grounds, and designated NARW critical habitat.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Project vessels must not exceed a speed of 10 knots when operating in areas where North Atlantic right whales may be present."",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Areas where North Atlantic right whales may be present"",
+      ""context_quote"": ""All vessels underway must slow to 10 knots or less at any time/location that NARWs may be present and at any time when visibility is poor.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Cable trenching activities are prohibited within 500 meters of identified historic shipwrecks."",
+      ""value"": 500,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Areas within 500 meters of identified historic shipwrecks"",
+      ""context_quote"": ""Furthermore, trenching activities are prohibited within 500 meters of the identified historic shipwreck (No. 551B) at all times.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Noise levels from pile driving activities must not exceed the NOAA Fisheries Level A permanent threshold shift limits for low-frequency cetaceans (such as North Atlantic right whales) at distances greater than 1,000 meters from each foundation."",
+      ""value"": 1000,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Areas within 1,000 meters of each wind turbine foundation"",
+      ""context_quote"": ""Sound fields generated during impact pile driving should be reduced to the maximum extent practicable with a goal of not exceeding NOAA Fisheries' Level A permanent threshold shift (PTS) limits for low frequency cetaceans (LFC) at distances greater than 1,000 meters from each foundation.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Project vessels must maintain a vigilant watch for North Atlantic right whales and take appropriate action to avoid striking them, regardless of vessel size."",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""All project vessel transit routes"",
+      ""context_quote"": ""Vessel captains, trained crew members, and PSOs should maintain a vigilant watch for all protected species and slow down, stop their vessel, or alter course, as appropriate and regardless of vessel size, to avoid striking any protected species.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Clearance zones must be established around pile driving activities, within which work must be delayed if a North Atlantic right whale is detected."",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Areas around pile driving activities"",
+      ""context_quote"": ""Clearance zones are an area around a pile (or detonation location), monitored by PSOs, wherein a detection (visual or acoustic) of a NARW triggers a delay of the start of the activity.""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Shutdown zones must be established around pile driving activities, within which work must be stopped if a North Atlantic right whale is detected."",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Areas around pile driving activities"",
+      ""context_quote"": ""Shutdown zones are an area around a pile (or other activity) that is monitored by PSOs, wherein a detection (visual or acoustic) of a NARW triggers a stop of the activity.""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Sound field verification monitoring must be conducted for pile driving and other noise-generating activities to ensure modeled noise levels are not exceeded."",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Areas around noise-generating activities"",
+      ""context_quote"": ""Sound field verification (SFV) will need to be conducted for activities the agencies deem necessary, including but not limited to pile driving, UXO detonation, and operations.""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Unexploded ordnance (UXO) must be addressed using the least impactful methods, prioritizing avoidance through micrositing and low-order incineration over high-order detonation."",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Offshore wind lease areas"",
+      ""context_quote"": ""The agencies are committed to working with Federal partners and lessees to develop and implement standard protocols for addressing unexploded ordinances, including implementation of best available technology to avoid or minimize exposure of NARWs and their sensitive habitats to in-situ disposal (low order incineration or high order detonation). If disposal is necessary, after demonstrating that avoidance through micrositing is not feasible, low order incineration is preferred over high order detonations.""
+    },
+    {
+      ""constraint_id"": ""C-012"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Routine clean-ups of abandoned, lost, or discarded fishing gear and other debris associated with offshore wind development must be implemented within lease areas."",
+      ""source_section_number"": ""4.3"",
+      ""geographic_scope"": ""Offshore wind lease areas"",
+      ""context_quote"": ""Implement routine clean ups of abandoned, lost, or otherwise discarded fishing gear and/or other debris associated with OSW development within the lease areas.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Manages energy and mineral resources of the Outer Continental Shelf, including offshore renewable energy development."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""entity_acronym"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Steward of the nation's living marine resources, including fisheries, marine mammals, and endangered species."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""NOAA Fisheries"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for the conservation and management of marine mammals and endangered species under the Endangered Species Act and Marine Mammal Protection Act."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Promotes safety, protects the environment, and conserves resources offshore through regulatory oversight and enforcement."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""NOAA Office of National Marine Sanctuaries"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Trustee for a network of underwater parks, including Stellwagen Bank and Gray's Reef National Marine Sanctuaries."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-06"",
+      ""entity_name"": ""Marine Mammal Commission"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Independent government agency charged with furthering the conservation of marine mammals and their environment."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-07"",
+      ""entity_name"": ""U.S. Navy"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for compliance with environmental laws and regulations related to marine mammals and endangered species."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-08"",
+      ""entity_name"": ""U.S. Department of Transportation's Maritime Administration"",
+      ""entity_acronym"": ""MARAD"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for America's waterborne transportation system."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-09"",
+      ""entity_name"": ""Department of Energy"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Supports offshore wind research, development, and demonstration projects."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-10"",
+      ""entity_name"": ""Environmental Protection Agency"",
+      ""entity_acronym"": ""EPA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Works to protect human health and the environment, including reviewing environmental impact statements."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-11"",
+      ""entity_name"": ""National Science Foundation"",
+      ""entity_acronym"": ""NSF"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Independent federal agency that promotes the progress of science."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-12"",
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Charged with developing and overseeing operational planning, policy, and international engagement related to maritime safety, security, and stewardship."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-13"",
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Authorizes certain components of offshore wind projects through implementation of the Rivers and Harbors Act and Clean Water Act."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-14"",
+      ""entity_name"": ""Federally Recognized Tribes"",
+      ""jurisdiction"": ""Tribal"",
+      ""role_description"": ""Critical partners for government-to-government consultation and engagement on offshore wind actions affecting North Atlantic right whales."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-15"",
+      ""entity_name"": ""U.S. States"",
+      ""jurisdiction"": ""State"",
+      ""role_description"": ""Set renewable energy goals, facilitate power purchase agreements, and review offshore wind projects under the Coastal Zone Management Act."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-16"",
+      ""entity_name"": ""Fisheries Management Organizations"",
+      ""jurisdiction"": ""Regional"",
+      ""role_description"": ""Advise NOAA Fisheries on the sustainable management of fisheries and work to reduce impacts on marine mammals and endangered species."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity"

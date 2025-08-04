@@ -1,0 +1,141 @@
+// *****************************************************************
+// *************** GeoSpatial rules ********************************
+// *****************************************************************
+
+@prefix Turbine: <http://www.cee.umd.edu/Energy/Turbine#>.
+@prefix WindFarm: <http://www.cee.umd.edu/Energy/WindFarm#>.
+@prefix MSP: <http://www.cee.umd.edu/Energy/MSP#>.
+@prefix SeaDepth: <http://www.cee.umd.edu/Energy/MSP/SeaDepth#>.
+@prefix Substation: <http://www.cee.umd.edu/Energy/Substation#>.
+@prefix ECC: <http://www.cee.umd.edu/Energy/MSP/ECC#>.
+@prefix Restricted: <http://www.cee.umd.edu/Energy/MSP/Restricted#>.
+@prefix WindLease: <http://www.cee.umd.edu/Energy/MSP/WindLease#>.
+@prefix EFH: <http://www.cee.umd.edu/Energy/MSP/EFH#>.
+@prefix NOAA: <http://www.cee.umd.edu/Energy/MSP/NOAA#>.
+@prefix WindSpeed: <http://www.cee.umd.edu/Energy/MSP/WindSpeed#>.
+@prefix Coral: <http://www.cee.umd.edu/Energy/MSP/Coral#>.
+@prefix Cable: <http://www.cee.umd.edu/Energy/MSP/Cable#>.
+@prefix Regulation: <http://www.cee.umd.edu/Energy/Regulation#>.
+@prefix Hurricane: <http://www.cee.umd.edu/Energy/Event/WeatherEvent/Hurricane#>.
+@prefix Event: <http://www.cee.umd.edu/Energy/Event/>.
+
+
+// ------------------ Wind Farm ----------------------------
+[rule1---Regulation--CoralProtectionArea:
+(?wf WindFarm:hasGeometry ?wfGeom)
+(?c Coral:hasGeometry ?cGeom)
+(?r Regulation:hasImpactAreaURI "http://www.cee.umd.edu/Energy/MSP/Coral#")
+isIntersect(?wfGeom, ?cGeom)
+->
+(?r Regulation:hasConflict "true")]
+
+[rule2---Regulation--EssentialFishHabit:
+(?wf WindFarm:hasGeometry ?wfGeom)
+(?efh EFH:hasGeometry ?efhGeom)
+(?r Regulation:hasImpactAreaURI "http://www.cee.umd.edu/Energy/MSP/EFH#")
+isIntersect(?wfGeom, ?efhGeom)
+->
+(?r Regulation:hasConflict "true")]
+
+[rule3---Regulation--NOAAMarineProtectedZone:
+(?wf WindFarm:hasGeometry ?wfGeom)
+(?efh NOAA:hasGeometry ?noaaGeom)
+(?r Regulation:hasImpactAreaURI "http://www.cee.umd.edu/Energy/MSP/NOAA#")
+isIntersect(?wfGeom, ?noaaGeom)
+->
+(?r Regulation:hasConflict "true")]
+
+[rule4---Regulation--ExclusionZone:
+(?wf WindFarm:hasGeometry ?wfGeom)
+(?re Restricted:hasGeometry ?reGeom)
+(?r Regulation:hasImpactAreaURI "http://www.cee.umd.edu/Energy/MSP/Restricted#")
+isIntersect(?wfGeom, ?reGeom)
+->
+(?r Regulation:hasConflict "true")]
+
+[rule5---Regulation--ExistingWindLease:
+(?wf WindFarm:hasGeometry ?wfGeom)
+(?wl WindLease:hasGeometry ?wlGeom)
+(?r Regulation:hasImpactAreaURI "http://www.cee.umd.edu/Energy/MSP/WindLease#")
+not(isOutside(?wfGeom, ?wlGeom))
+->
+(?r Regulation:hasConflict "true")]
+
+[rule6---FindWindZone-Turbines:
+(?t Turbine:hasGeometry ?tGeom)
+(?ws WindSpeed:hasGeometry ?wsGeom)
+isIntersect(?tGeom, ?wsGeom)
+->
+(?t Turbine:hasWindZone ?ws)]
+
+[rule6.1---OperationalWindZone-Turbines:
+(?t Turbine:hasWindZone ?ws)
+(?t Turbine:hasCutInWindSpeed ?cutIn)
+(?t Turbine:hasCutOutWindSpeed ?cutOut)
+(?ws WindSpeed:hasMinWindSpeed ?minSpeed)
+(?ws WindSpeed:hasMaxWindSpeed ?maxSpeed)
+(?r Regulation:hasImpactAreaURI "http://www.cee.umd.edu/Energy/MSP/WindSpeed#")
+not(greaterThan(?minSpeed, ?cutIn))
+not(lessThan(?maxSpeed, ?cutOut))
+->
+(?r Regulation:hasConflict "true")
+]
+
+[rule7---InRangeOfExportCables-Turbines:
+(?t Turbine:hasGeometry ?tGeom)
+(?ecc ECC:hasGeometry ?eccGeom)
+(?r Regulation:hasImpactAreaURI "http://www.cee.umd.edu/Energy/MSP/ECC#")
+not(isWithinDistance(?tGeom, ?eccGeom, 20, "km"))
+->
+(?r Regulation:hasConflict "true")]
+
+[rule8---InRangeOfExportCables-Substations:
+(?s Substation:hasGeometry ?sGeom)
+(?ecc ECC:hasGeometry ?eccGeom)
+not(isWithinDistance(?sGeom, ?eccGeom, 2, "km"))
+->
+(?s Substation:WithinCableRange "true")]
+
+[rule9---ConnectionToCable-Turbines:
+(?t Turbine:hasGeometry ?tGeom)
+(?c Cable:hasGeometry ?cGeom)
+(?r Regulation:hasImpactAreaURI "http://www.cee.umd.edu/Energy/MSP/Cable#")
+not(isTouching(?tGeom, ?cGeom))
+->
+(?r Regulation:hasConflict "true")]
+
+// ------------------ Wind Turbine Response to Hurricane ----------------------------
+[rule10---YawToHurricaneWindDirection-Turbines:
+(?t Turbine:hasYawAngle ?y)
+(?t Turbine:hasCutOutWindSpeed ?cow)
+(?h Hurricane:hasWindSpeed ?hws)
+(?h Hurricane:hasWindDirection ?hwd)
+(?e Event:hasStatus "Active")
+greaterThan(?hws, ?cow)
+changeTo(?t Turbine:hasYawAngle ?hwd ?newStatus)
+->
+(?t Turbine:hasYawAngle ?newStatus)]
+
+[rule11---Park-Turbines:
+(?t Turbine:hasTurbineStatus ?ts)
+(?t Turbine:hasCutOutWindSpeed ?cow)
+(?h Hurricane:hasWindSpeed ?hws)
+(?e Event:hasStatus "Active")
+greaterThan(?hws, ?cow)
+changeTo(?t Turbine:hasTurbineStatus "Parked" ?newStatus1)
+changeTo(?t Turbine:hasPowerOutput 0.0 ?newStatus2)
+->
+(?t Turbine:hasTurbineStatus ?newStatus1)
+(?t Turbine:hasPowerOutput ?newStatus2)]
+
+[rule12---FeatherBlades-Turbines:
+(?t Turbine:hasPitchAngle ?p)
+(?t Turbine:hasCutOutWindSpeed ?cow)
+(?h Hurricane:hasWindSpeed ?hws)
+(?e Event:hasStatus "Active")
+greaterThan(?hws, ?cow)
+changeTo(?t Turbine:hasPitchAngle 90.0 ?newStatus)
+->
+(?t Turbine:hasPitchAngle ?newStatus)]
+
+

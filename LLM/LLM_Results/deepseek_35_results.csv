@@ -1,0 +1,486 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"35",1,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a document, I'll analyze it and extract:
+1. Specific regulatory constraints with their exact requirements, scope, and numerical values where applicable
+2. All relevant regulatory entities with their jurisdictions and roles
+3. Proper classification of constraint types (Spatial, Technical, Environmental, etc.)
+
+The output will strictly follow your requested JSON schema and exclude any non-regulatory content. Would you like to provide a document for analysis now?"
+"35",2,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a technical document related to offshore wind farm planning, construction, or operation, I'll analyze it and extract the relevant regulatory entities and constraints according to the specified JSON format. The analysis will focus strictly on:
+- Formal regulatory requirements
+- Standards with compliance implications
+- Governing bodies with regulatory authority
+- Quantifiable constraints with clear jurisdiction
+
+Please share the document you'd like analyzed, and I'll provide the structured regulatory information extraction."
+"35",3,"deepseek","deepseek-chat",True,"Understood. Since no specific document has been provided for analysis, I cannot extract any regulatory entities or constraints. Here is the structured output with null values as instructed:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+If you provide a technical or regulatory document related to offshore wind farm planning, construction, or operation, I can analyze it and extract the relevant structured data according to the specified format. Let me know how you'd like to proceed!"
+"35",4,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null output as instructed. Here's the structured response:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a technical document related to offshore wind farm regulations, I'll analyze it and extract the relevant regulatory entities and constraints according to the specified JSON structure. The analysis will focus exclusively on:
+1) Clear regulatory requirements with specific constraints or standards
+2) Official regulatory bodies with authority over wind farm projects
+3) Offshore-specific regulations (excluding zoning ordinances)
+
+Please share the document you'd like analyzed, and I'll provide the structured extraction."
+"35",5,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a technical or regulatory document related to offshore wind farms, I'll analyze it and extract the relevant regulatory entities and constraints according to the specified JSON structure. The analysis will focus exclusively on:
+- Formal regulatory requirements
+- Authoritative standards
+- Jurisdictional rules
+- Technical specifications
+- Environmental protections
+- Safety regulations
+
+For offshore wind projects, I'll exclude any onshore zoning ordinances and focus on marine-specific regulations. Please share the document you'd like analyzed."
+"35",6,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a technical document related to offshore wind farm regulations, I'll analyze it and extract the relevant regulatory entities and constraints according to the specified JSON structure. The analysis will focus exclusively on:
+- Formal regulatory requirements with specific rules or standards
+- Authoritative bodies with regulatory jurisdiction
+- Technical specifications with measurable parameters
+- Environmental or safety mandates with enforceable provisions
+
+Would you like to upload a document for analysis now?"
+"35",7,"deepseek","deepseek-chat",True,"Understood. I'll analyze any document you provide and extract the requested regulatory information in the specified JSON format. 
+
+Since you haven't provided a specific document to analyze, here's an empty template showing how the output would be structured when no document is provided:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a document, I will:
+1. Carefully analyze the text for specific regulatory requirements
+2. Identify authoritative regulatory bodies
+3. Extract numerical values and units where present
+4. Structure all findings according to the required schema
+5. Exclude any non-regulatory or descriptive content
+
+Please provide the document you'd like analyzed, and I'll return the properly structured regulatory information extraction."
+"35",8,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a technical document related to offshore wind farm planning, construction, or operation, I'll analyze it and extract the relevant regulatory information according to the specified JSON structure. The analysis will focus on:
+- Identifying concrete regulatory requirements with their specific parameters
+- Cataloging authoritative regulatory bodies
+- Excluding non-regulatory descriptive content
+- Maintaining strict relevance to wind farm development regulations
+
+Please share the document you'd like analyzed, and I'll provide the structured extraction."
+"35",9,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as per instruction #2. When you provide a technical or regulatory document related to offshore wind farms, I'll extract the relevant information and structure it according to the specified JSON format.
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+Please share the document you'd like analyzed, and I'll extract the regulatory entities and constraints according to the given specifications. For offshore wind projects, I'll focus on:
+- Maritime spatial planning regulations
+- Grid connection standards
+- Vessel traffic safety rules
+- Marine habitat protection measures
+- International standards (e.g., IEC 61400-3 for offshore turbines)
+- Aviation and radar interference requirements"
+"35",10,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a document, I'll analyze it and extract the relevant regulatory information according to your specified format. Please upload or paste the text of the document you'd like analyzed, and I'll return the structured data accordingly.
+
+For offshore wind farm documents, I'll particularly focus on:
+- Marine spatial planning regulations
+- Grid connection standards
+- Environmental impact assessments
+- Safety zones around installations
+- International maritime regulations
+- Technical standards for offshore structures"
+"35",11,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. When you provide a technical or regulatory document related to offshore wind farms, I'll extract the relevant information and structure it according to the specified JSON format.
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+Please share the document you'd like analyzed, and I'll extract the regulatory entities and constraints according to the given schema. For offshore wind farms, I'll focus on relevant regulations while excluding zoning ordinances and including applicable standards."
+"35",12,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll demonstrate how I would process a hypothetical offshore wind farm regulatory document with placeholder content. When you provide an actual document, I'll extract the real regulatory information accordingly.
+
+Here's an example of how I would structure the output for a sample document:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": ""North Sea Offshore Wind Development Guidelines 2023"",
+    ""document_number"": ""NSOW-REG-2023-0042"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All turbine foundations must be designed to minimize seabed disturbance within protected marine habitats"",
+      ""scope"": ""North Sea Special Protection Areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""OSPAR Convention Annex V"",
+      ""related_domains"": [""environmental"", ""construction""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind turbines must withstand extreme wind speeds of 3-second gusts up to 70 m/s"",
+      ""scope"": ""All North Sea installations"",
+      ""numerical_value"": 70,
+      ""unit"": ""m/s"",
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""technical"", ""safety""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Minimum 1 km spacing required between turbine arrays and shipping lanes"",
+      ""scope"": ""Designated shipping routes in EEZ"",
+      ""numerical_value"": 1,
+      ""unit"": ""km"",
+      ""source"": ""IMO COLREG Annex I"",
+      ""related_domains"": [""navigation"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Marine Management Organisation (MMO)"",
+      ""jurisdiction"": ""UK Territorial Waters"",
+      ""role"": ""Licensing and environmental compliance""
+    },
+    {
+      ""entity_name"": ""Bundesamt für Seeschifffahrt und Hydrographie (BSH)"",
+      ""jurisdiction"": ""German EEZ"",
+      ""role"": ""Technical standards approval""
+    },
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Technical standards development""
+    }
+  ]
+}
+```
+
+Key features of this output:
+1. Only includes specific regulatory requirements (not general descriptions)
+2. Properly categorizes constraint types
+3. Includes both quantitative and qualitative requirements
+4. Lists authoritative sources for each constraint
+5. Identifies regulatory bodies with clear jurisdictions
+
+When you provide an actual document, I will:
+1. Carefully analyze the text for regulatory content
+2. Distinguish between binding requirements and guidance
+3. Extract only the specific rules that must be complied with
+4. Identify all relevant regulatory bodies mentioned
+5. Structure the information precisely according to your requested format
+
+Would you like to provide a document for analysis now?"
+"35",13,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a technical document related to offshore wind farm planning, construction, or operation, I'll analyze it and extract the relevant regulatory entities and constraints according to the specified JSON structure. The analysis will focus exclusively on:
+1) Clear regulatory requirements with specific rules or standards
+2) Authoritative bodies with jurisdiction over wind farm development
+3) Technical specifications that constitute binding requirements
+
+Please share the document you'd like analyzed, and I'll provide the structured extraction."
+"35",14,"deepseek","deepseek-chat",True,"Understood! Please provide the technical document or text you'd like me to analyze, and I will extract the relevant regulatory entities and constraints in the specified JSON format.  
+
+If no document is provided, here’s an example of an empty output (per your instructions):  
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```  
+
+When you share the document, I will:  
+1. Strictly extract enforceable rules or standards.  
+2. Categorize constraints into **Spatial**, **Technical**, **Environmental**, **Jurisdictional**, or **Safety**.  
+3. Exclude non-regulatory descriptions or zoning ordinances (for offshore projects).  
+4. Include standards (e.g., ISO 19901-4 for foundations) even without numerical values.  
+
+Let me know how you'd like to proceed!"
+"35",15,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a technical document related to offshore wind farm regulations, I'll analyze it and extract the relevant regulatory entities and constraints according to the specified JSON format. The analysis will focus strictly on:
+- Formal regulatory requirements with clear constraints
+- Authoritative regulatory bodies
+- Technical standards with measurable parameters
+- Jurisdictional boundaries and enforcement mechanisms
+
+Please share the document you'd like analyzed, and I'll provide the structured extraction."
+"35",16,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a document, I'll analyze it and extract the relevant regulatory information according to the specified format. Please share the document text or key details you'd like analyzed, and I'll return a properly structured response with any applicable regulations and entities.
+
+For offshore wind farm documents, I'll particularly focus on:
+- International maritime regulations
+- Environmental impact assessments
+- Grid connection standards
+- Safety requirements for offshore structures
+- Navigation protection rules
+While excluding any onshore zoning ordinances or irrelevant land-use regulations."
+"35",17,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a document containing offshore wind farm regulatory information, I'll extract and structure the relevant entities and constraints according to the specified format. Please share the document text or key passages you'd like analyzed."
+"35",18,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a document or specific content to analyze, I'll extract the relevant regulatory information according to the specified schema. Please share the document text or key passages you'd like me to process, and I'll return a properly structured analysis focusing on offshore wind farm regulations, entities, and constraints."
+"35",19,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as instructed. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a document or specific content to analyze, I'll extract the relevant regulatory information according to the specified format and instructions. Please note that for offshore wind farm documents, I'll particularly focus on:
+- International maritime regulations
+- Environmental impact requirements
+- Technical standards for offshore structures
+- Safety protocols for marine operations
+- Grid connection specifications
+
+Would you like to provide a document or specific content for analysis now?"
+"35",20,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll return a null response as per instruction #2. Here's the structured output:
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+When you provide a technical document related to offshore wind farm regulations, I'll analyze it and extract the relevant regulatory entities and constraints according to the specified JSON structure. The analysis will focus on:
+- Identifying authoritative regulatory bodies
+- Extracting specific numerical requirements and standards
+- Categorizing constraints by type (spatial, technical, environmental, etc.)
+- Documenting precise jurisdictional scopes and applicable domains
+
+Please share the document you'd like analyzed, and I'll provide the structured regulatory information extraction."
+"35",21,"deepseek","deepseek-chat",True,"Understood. Since you haven't provided a specific document for analysis, I'll demonstrate the output structure with null values as per instruction #2. When provided with an actual document, I would extract and populate the fields accordingly.
+
+```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+```
+
+To get a proper analysis, please provide:
+1. The document text you'd like analyzed
+2. Or a specific regulatory document reference (e.g., BOEM Renewable Energy Regulations, IEC 61400-3, etc.)
+
+For offshore wind projects, I'm particularly adept at analyzing:
+- BOEM (US Bureau of Ocean Energy Management) regulations
+- IMO (International Maritime Organization) guidelines
+- ISO 29400 series for offshore structures
+- National renewable energy policies
+- Marine spatial planning documents
+
+Would you like me to analyze a specific document or regulation set?"

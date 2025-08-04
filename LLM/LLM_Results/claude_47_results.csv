@@ -1,0 +1,766 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"47",1,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information related to offshore wind farm planning, construction, or operation. It appears to be a guidebook for managing marine protected areas (MPAs), which is outside the scope of the requested analysis. The document does not mention any regulatory entities or constraints specific to wind farm development. Therefore, I cannot provide the requested structured output based on the given document.
+
+{
+  ""document_metadata"": {
+    ""title"": ""A Guidebook for MPA Management Planning"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",2,"claude","claude-3-haiku-20240307",False,"Unfortunately, the given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be about the management of marine protected areas (MPAs) and does not mention anything about wind farms or their regulations. Therefore, I cannot extract any relevant regulatory entities or constraints from this document. The output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""How is Your MPA Managed?"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+This document does not seem to be relevant to the task of building a regulatory ontology and knowledge graph for offshore wind farm planning, construction, and operation. Please provide a document that is more directly related to the wind energy industry and its regulations."
+"47",3,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analysis of the provided document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Farm Planning Document"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Defining the legal framework for wind farm planning and development"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 1.1 Defining the Legal Framework"",
+      ""related_domains"": ""Jurisdictional""
+    },
+    {
+      ""type"": ""Stakeholder"",
+      ""requirement"": ""Engaging stakeholders in the planning process"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 1.3 Engaging Stakeholders"",
+      ""related_domains"": ""Jurisdictional, Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Developing issue statements, goals, and objectives for wind farm management"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Sections 3.1 and 3.3"",
+      ""related_domains"": ""Technical, Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Identifying site strengths and weaknesses, and developing management strategies"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Sections 4.1 and 4.2"",
+      ""related_domains"": ""Technical, Environmental""
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Prioritizing management strategies and assessing impacts on stakeholders"",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Sections 5.2 and 5.3"",
+      ""related_domains"": ""Technical, Stakeholder""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}
+
+The document does not contain any specific information about regulatory entities or numerical regulatory constraints. However, it does outline several general regulatory requirements and processes related to the planning and management of offshore wind farms, such as defining the legal framework, engaging stakeholders, and developing technical standards and strategies."
+"47",4,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be discussing marine protected areas (MPAs) and their management. There are no mentions of wind farms or any related regulatory entities or constraints. Therefore, I cannot provide any structured output as requested."
+"47",5,"claude","claude-3-haiku-20240307",False,"Unfortunately, the given document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be a collection of references related to marine and coastal protected areas, but does not mention anything about wind farm regulations or requirements.
+
+Therefore, the output in the requested JSON format would be:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+This document does not appear to be relevant to the task of extracting regulatory and technical information for offshore wind farm projects. The references provided are focused on marine conservation and protected areas, which is outside the scope of the requested analysis."
+"47",6,"claude","claude-3-haiku-20240307",False,"Unfortunately, the given document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be about the Large Marine Ecosystem (LME) concept and its application to regional marine resource management. It also includes some information about coastal management and community involvement in coastal resource management, but does not mention anything about wind farms or renewable energy.
+
+Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""The Large Marine Ecosystem (LME) Concept and its Application to Regional Marine Resource Management"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+As the document does not contain any information relevant to the specified task of extracting regulatory and technical information related to offshore wind farm planning, construction, and operation, the output reflects that there are no relevant regulatory constraints or entities found."
+"47",7,"claude","claude-3-haiku-20240307",False,"Unfortunately, the given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be about coastal resource management, community involvement, and marine protected areas, which are not relevant to the requested task.
+
+Since the document does not mention any regulatory entities or constraints related to offshore wind farms, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document does not provide any information that can be used to extract the requested regulatory and technical information for offshore wind farm projects. It is focused on a different domain entirely."
+"47",8,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be about the management planning process for marine protected areas in the Philippines. There are no regulatory entities or constraints relevant to the wind energy domain. Therefore, the output will be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Creating and managing marine protected areas in the Philippines"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",9,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be discussing the legal framework and management planning for marine protected areas (MPAs), which is not relevant to the requested analysis.
+
+Since the document does not contain any regulatory entities or constraints related to offshore wind farms, I will return a null response:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",10,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information directly relevant to offshore wind farm planning, construction, or operation. The document appears to be discussing marine protected areas and sustainable harvesting practices, but does not mention anything related to wind farms or their regulations.
+
+Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+This document does not contain the type of information needed to extract regulatory entities or constraints for offshore wind farm projects."
+"47",11,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to offshore wind farm planning, construction, or operation. It appears to be a document about managing marine protected areas (MPAs). The document does not mention any regulatory entities or constraints related to wind farms. Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""How's Your MPA Managed?"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",12,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""STEPS FOR DEVELOPING EFFECTIVE MANAGEMENT PLANS"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+
+The provided document does not contain any information related to regulatory entities or regulatory constraints for offshore wind farm planning, construction, and operation. The document appears to be a general handout on developing management plans, and does not discuss any specific wind farm regulations or requirements."
+"47",13,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information directly related to offshore wind farm regulations or technical requirements. The document appears to be a general guide or checklist for the management planning process of a Marine Protected Area (MPA). It does not mention any specific regulatory entities or constraints applicable to wind farm development. Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""MPA Management Planning Checklist"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",14,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be about different types of management plans and stakeholder analysis, which is not relevant to the requested task. Therefore, I cannot extract any regulatory entities or constraints from this document. The output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""DIFFERENT TYPES OF MANAGEMENT PLANS"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",15,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there does not appear to be any information related to offshore wind farm planning, construction, or operation. The document appears to be a worksheet for gathering information about a marine protected area (MPA) and its management plan. Therefore, I cannot extract any regulatory entities or constraints related to wind farms. The output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Getting Organized to Start Management Planning"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",16,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm regulations or technical requirements. The document appears to be a stakeholder analysis worksheet for a marine planning process, and does not mention any specific regulatory entities or constraints. Therefore, I cannot extract the requested information in the specified JSON format. The document does not seem to be relevant to the task of building a regulatory ontology and knowledge graph for offshore wind farm planning and operation."
+"47",17,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be about stakeholder involvement in the management of marine protected areas (MPAs). It does not mention any regulatory entities or constraints specific to wind farm development. Therefore, I cannot extract the requested information in the specified JSON format. The document is focused on the management planning process for MPAs and does not discuss wind farm regulations."
+"47",18,"claude","claude-3-haiku-20240307",False,"Unfortunately, the given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be focused on materials used for the Bahamas National Park System management planning training, as well as some general information on conservation action planning and community involvement in coastal management. There are no regulatory entities or constraints related to offshore wind farms mentioned in this document. Therefore, I cannot provide any structured output as requested."
+"47",19,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be about fishery co-management and marine protected areas. There are no regulatory entities or constraints related to wind farms that can be extracted from this text. Therefore, the output will be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Fishery co-management: A practical handbook"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",20,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information directly related to offshore wind farm regulations or technical requirements. The document appears to be discussing the process of conducting a front-end assessment for a marine protected area (MPA) management plan. It does not mention any specific regulatory entities or constraints for wind farm development. Therefore, I cannot provide any structured output in the requested JSON format. The document is focused on general MPA management planning and does not contain the type of technical or regulatory information needed for an offshore wind farm analysis."
+"47",21,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be discussing the process of identifying target resources and threats in the context of Marine Protected Areas (MPAs). There are no regulatory entities or constraints mentioned that are relevant to the wind farm domain. Therefore, the appropriate response is:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Re-Cap Module 2: Front-End Assessment Phase"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",22,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any regulatory information related to offshore wind farm planning, construction, or operation. The document appears to be a worksheet for selecting and ranking target resources, but does not mention any specific regulatory entities or constraints. Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""THREAT DIAGRAM EXAMPLE"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+This document does not seem to be relevant for the task of extracting regulatory and technical information for an offshore wind farm ontology and knowledge graph. Please provide a different document that is more focused on wind farm regulations and requirements."
+"47",23,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any clear regulatory information or constraints related to offshore wind farm planning, construction, and operation. The document appears to be a table with some text, but it does not seem to be a technical or regulatory document. 
+
+Since there are no identifiable regulatory entities or constraints in the given text, I cannot provide a structured output in the requested JSON format. The document does not appear to contain the type of information needed to build a regulatory ontology and knowledge graph for offshore wind farm projects.
+
+If you have a different document that is more relevant to wind farm regulations, I would be happy to analyze it and provide the requested structured output. Please let me know if you have any other documents you would like me to review."
+"47",24,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be discussing threats and management strategies for a seagrass bed ecosystem, and does not mention anything about wind farms or related regulations.
+
+Since the document does not contain the type of information requested, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document does not seem to be relevant to the task of extracting regulatory and technical information for offshore wind farm planning. Please provide a document that is more directly related to the requested topic."
+"47",25,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information related to offshore wind farm planning, construction, or operation. It appears to be a worksheet for prioritizing threats in a management plan, likely for a protected area or natural resource management context. This document does not contain the type of regulatory or technical information that I am designed to extract. Therefore, I cannot provide any structured output in the requested JSON format. The document does not mention any regulatory entities or constraints relevant to wind farm development."
+"47",26,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be about developing issue statements and management objectives for marine protected areas (MPAs). There are no regulatory entities or constraints mentioned that are relevant to the requested analysis. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""How Is Your MPA Mana ged?"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",27,"claude","claude-3-haiku-20240307",False,"Unfortunately, the given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be about management planning for the Bahamas National Park System and fishery co-management. It does not mention anything about wind farms or related regulations. Therefore, I cannot extract any regulatory entities or constraints from this document. The output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Materials used for the Bahamas National Park System management planning training"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",28,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be discussing management goals and objectives for a marine protected area (MPA), which is not relevant to the requested analysis.
+
+Since the document does not contain any regulatory entities or constraints pertaining to offshore wind farms, I will return the following null response:
+
+{
+  ""document_metadata"": {
+    ""title"": ""MPA Management Goals and Objectives"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document discusses general management planning concepts for MPAs, such as identifying goals, objectives, and desired outcomes. However, it does not mention any specific regulations, requirements, or authorities related to offshore wind farm development. Therefore, I am unable to extract the requested information from this document."
+"47",29,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be focused on marine conservation and fisheries management in Bai Long Bay. It does not mention any regulatory entities or constraints specific to wind farm development. Therefore, I cannot provide the requested structured output. The document does not contain the type of technical and regulatory information that I am designed to extract."
+"47",30,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be discussing goals, objectives, and issue statements in the context of marine protected areas (MPAs), which is not relevant to the requested analysis.
+
+Since the document does not contain any regulatory entities or constraints related to wind farms, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""N/A"",
+    ""document_number"": ""N/A"",
+    ""type_of_wind_farm"": ""N/A""
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",31,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be discussing issues related to seagrass beds and dive sites in Bai Long Bay, and does not mention anything about wind farms or their regulations. Therefore, I cannot extract any regulatory entities or constraints from this document. The output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Bai Long Bay seagrass beds"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",32,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be discussing the development of a management plan for a protected area, and does not mention any wind farm regulations or requirements. Therefore, I cannot extract any relevant regulatory entities or constraints from this document. The document is focused on identifying site strengths and weaknesses, management objectives, and management strategies, which are not within the scope of my expertise in analyzing wind farm regulations. I apologize that I cannot provide the requested structured output for this document."
+"47",33,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be discussing a SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis and the development of a management plan, but does not mention anything about wind farm regulations or requirements.
+
+Since there are no regulatory entities or constraints relevant to wind farm development, the JSON output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""SWOT Analysis and Management Plan"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document does not contain the type of technical and regulatory information that would be useful for building a wind farm regulatory ontology and knowledge graph. It appears to be focused on general management planning rather than specific wind farm regulations."
+"47",34,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be a general outline for a management plan, covering topics such as legal status, biophysical setting, socioeconomic and cultural setting, and conservation status. There are no specific regulatory entities or constraints mentioned that would be relevant to the wind farm domain.
+
+Therefore, the output in the requested JSON format would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Sample Contents of an Effective Management Plan"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+This document does not contain the type of information needed to build a regulatory ontology and knowledge graph for offshore wind farm projects. The content is focused on general management planning rather than wind farm-specific regulations."
+"47",35,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Special features at the site"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Map 2 - Land/water tenure and jurisdiction"",
+      ""scope"": ""Offshore wind farm site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Jurisdictional""
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Map 5/6 - Dominant plant and animal communities"",
+      ""scope"": ""Offshore wind farm site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Environmental""
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Map 3 - Land topography and seabed bathymetry"",
+      ""scope"": ""Offshore wind farm site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Spatial""
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Map 4 - Geology"",
+      ""scope"": ""Offshore wind farm site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Spatial""
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Map 7/8 - Major Cultural and socio-economic features"",
+      ""scope"": ""Offshore wind farm site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Jurisdictional, Socio-economic""
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Map 9 - Major commercial and non-commercial uses"",
+      ""scope"": ""Offshore wind farm site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Spatial, Commercial, Non-commercial""
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Map 10 - Major use conflicts and threatened resources"",
+      ""scope"": ""Offshore wind farm site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Spatial, Environmental, Commercial, Non-commercial""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}"
+"47",36,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be discussing user groups, their knowledge, and behavior in relation to environmental impacts, but does not mention any specific regulations or regulatory entities for wind farms. Therefore, I cannot extract the requested regulatory entities and constraints from this document. The document does not seem to be relevant to the task of building a regulatory ontology and knowledge graph for offshore wind farms.
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",37,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there does not appear to be any information directly related to offshore wind farm planning, construction, or operation. The document appears to be discussing marine protected areas (MPAs) and the various management tools and strategies that can be used to regulate activities within these areas.
+
+While the document mentions some general regulatory concepts such as permits, regulations, and zoning, these are discussed in the context of MPAs and not specifically for offshore wind farms. Therefore, I do not have any relevant regulatory entities or constraints to extract and report in the requested JSON format.
+
+If you have a different document that is more directly focused on offshore wind farm regulations, I would be happy to analyze that and provide the requested information. Please let me know if you have any other documents you would like me to review.
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",38,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be a worksheet for a SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis, and it discusses the management strategies for seagrass anchoring of dive boats. This document does not contain any regulatory entities or constraints relevant to the wind farm industry. Therefore, I cannot provide any structured output as requested."
+"47",39,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be discussing a zoning plan and management plan for a low impact tourism zone, which is not relevant to the requested task.
+
+Since the document does not contain any regulatory entities or constraints related to offshore wind farms, the output will be:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",40,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any specific regulatory information related to offshore wind farm planning, construction, or operation. The document appears to be a generic template with questions about management strategies, costs, user resistance, and the scope of affected user groups. There are no explicit references to any regulatory entities or constraints. Therefore, I cannot extract the requested structured data from this document. If you have a different document that contains relevant regulatory information, please provide that, and I will be happy to analyze it and extract the requested data."
+"47",41,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be focused on management strategies and indicators for a marine protected area, specifically related to dive boat operations and seagrass conservation. There are no regulatory entities or constraints mentioned that are relevant to the requested task of building a regulatory ontology and knowledge graph for offshore wind farms. Therefore, I cannot provide any structured output in the requested JSON format, as the document does not contain the necessary information."
+"47",42,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be about marine protected areas (MPAs) and their management strategies. There are no regulatory entities or constraints related to wind farms mentioned in the text. Therefore, I cannot provide any structured output as requested. The document is not relevant to the given task of extracting wind farm regulatory information.
+
+{
+  ""document_metadata"": {
+    ""title"": ""How Is Your MPA Managed?"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",43,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be focused on monitoring and evaluating marine protected areas, and does not mention any wind farm regulations or requirements. Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Manual for assessing fish stocks on Pacific coral reefs"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",44,"claude","claude-3-haiku-20240307",False,"Unfortunately, the given document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be discussing the development of a management plan for a marine protected area (MPA), and does not mention any wind farm regulations or requirements.
+
+Therefore, the structured output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Additional Management Strategies"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+This document does not contain the type of information I am designed to extract, as it is focused on MPA management rather than offshore wind farm regulations."
+"47",45,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be about the management of marine protected area (MPA) networks. There are no regulatory entities or constraints related to wind farms mentioned in the text. Therefore, the output in the requested JSON format would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""HOW IS YOUR MPA MANAGED? MODULE 5 · PAGE 121"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",46,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there is limited information that can be extracted into the requested JSON format. The document appears to be a general guideline or framework for project management and evaluation, rather than a technical document outlining specific regulatory requirements for offshore wind farm development.
+
+The document mentions some high-level concepts related to coordination, cost-sharing, and evaluation, but does not contain any specific regulatory entities or constraints that would be relevant for the requested analysis. Therefore, the output would be as follows:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Maintain effective coordination and linkages across sectors and jurisdictions"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document does not provide enough information to extract any meaningful regulatory entities or constraints related to offshore wind farm planning, construction, or operation. The content is more focused on general project management principles rather than technical or regulatory requirements."
+"47",47,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be about marine protected areas (MPAs) and their management strategies. There are no regulatory entities or constraints related to offshore wind farms mentioned in the text. Therefore, I cannot provide the requested structured output."
+"47",48,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be a collection of references and citations related to marine ecosystem management, but does not mention any wind farm regulations or requirements.
+
+Since there are no relevant regulatory entities or constraints found in the given text, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document does not seem to contain the type of information needed to build a regulatory ontology and knowledge graph for offshore wind farm projects. It would be necessary to provide a document that specifically discusses wind farm regulations, standards, or requirements in order to extract the requested structured data."
+"47",49,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be discussing zonal management in marine protected areas (MPAs), which is not relevant to the requested task. Therefore, I will return a null response.
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",50,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Documentation"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Make sure that zones adjacent to each other are also complementary, and the package as a whole works together, without leaving holes between zones."",
+      ""scope"": ""Multiple-use zoning within a management plan"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Management planning""
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Boundaries should be enforceable, and easy to describe to someone that does not have use to technology (use visual cues)."",
+      ""scope"": ""Boundary delineation for zones"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Management planning""
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Regulations should be written so they are clear about what activities can and cannot take place."",
+      ""scope"": ""Regulations for activities within zones"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": ""Management planning""
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": null,
+      ""role"": null
+    }
+  ]
+}"
+"47",51,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to offshore wind farm planning, construction, or operation. It appears to be about managing marine protected areas (MPAs). There are no regulatory entities or constraints related to wind farms mentioned in the text. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""How Is Your MPA Managed?"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",52,"claude","claude-3-haiku-20240307",False,"The given document does not contain any information related to offshore wind farm planning, construction, or operation. It appears to be a chapter from a publication discussing the evaluation of management effectiveness of marine protected areas (MPAs). There are no regulatory entities or constraints mentioned that are relevant to the requested task. Therefore, the output is:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Hockings et al. 2007 \""Evaluating Effectiveness\"" IUCN"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",53,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information related to offshore wind farm planning, construction, or operation. It appears to be discussing general concepts around monitoring, evaluation, and adaptive management in the context of environmental management. There are no regulatory entities or constraints mentioned that are relevant to the requested task. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""determining what needs to be monitored"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",54,"claude","claude-3-haiku-20240307",False,"Here is the structured output based on the analyzed document:
+
+{
+  ""document_metadata"": {
+    ""title"": ""SELECTING YOUR INDICATORS"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": [
+  ],
+  ""regulatory_entities"": [
+  ]
+}
+
+The given document does not contain any information related to regulatory entities or regulatory constraints for offshore or onshore wind farm planning, construction, and operation. The document is focused on the process of selecting indicators and planning an evaluation, which is not directly related to wind farm regulations."
+"47",55,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be discussing the implementation phase of a marine protected area (MPA) management plan. There are no regulatory entities or constraints mentioned that are relevant to the wind farm domain. Therefore, I will return a null response for this analysis.
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",56,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be focused on evaluating the management effectiveness of natural World Heritage Sites and Marine Protected Areas. There are no regulatory entities or constraints mentioned that are relevant to the wind farm industry. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""The World Heritage Management Effectiveness Workbook: how to build monitoring, assessment and reporting systems to improve the management effectiveness of natural World Heritage Sites"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",57,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be discussing the implementation phase of marine protected area (MPA) management plans. It does not mention any regulatory entities or constraints specific to the wind energy industry. Therefore, I cannot extract the requested information in the specified JSON format. The document is focused on the general challenges and planning processes for implementing MPA management plans, rather than wind farm regulations.
+
+{{
+  ""document_metadata"": {
+    ""title"": ""The Implementation Phase"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}}"
+"47",58,"claude","claude-3-haiku-20240307",False,"Based on the provided document, there does not appear to be any specific regulatory information related to offshore wind farm planning, construction, or operation. The document appears to be a general guide on management plan development and does not contain details on regulatory entities or constraints. Therefore, the output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Implementation Phase – sometimes difficult to anticipate what the challenges might be"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+The document discusses the implementation phase of a management plan, including considerations around who needs to sign off on the plan, how long the process might take, the source of funding, and the site's capacity to implement the plan. It also describes five-year and one-year work plans for prioritizing and implementing management strategies. However, it does not contain any information specifically related to offshore wind farm regulations or requirements."
+"47",59,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to define general terms and concepts related to protected areas and marine management, but does not mention any specific regulations or requirements for wind farms.
+
+Since the document does not contain the type of information I am designed to extract, I cannot provide a structured output in the requested JSON format. The document appears to be more focused on marine protected areas and ecosystem-based management, rather than offshore wind energy development.
+
+If you have a different document that is specifically focused on offshore wind farm regulations, I would be happy to analyze that and extract the relevant regulatory entities and constraints in the requested format. Please let me know if you have any other documents you would like me to review."
+"47",60,"claude","claude-3-haiku-20240307",False,"The provided document does not contain any information directly related to offshore wind farm planning, construction, or operation. The document appears to be discussing marine protected areas and related terminology. There are no regulatory entities or constraints mentioned that are relevant to the requested task of building a regulatory ontology and knowledge graph for offshore wind farms. Therefore, I will return a null response for this document.
+
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}"
+"47",61,"claude","claude-3-haiku-20240307",False,"Unfortunately, the provided document does not contain any information related to offshore wind farm planning, construction, or operation. The document appears to be discussing marine reserves and no-take zones, which is not relevant to the requested analysis. As a result, I cannot extract any regulatory entities or constraints from this document. The output would be:
+
+{
+  ""document_metadata"": {
+    ""title"": ""Marine Reserves; no-take zones, refugia, reserves, fully protected area"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": null
+  },
+  ""regulatory_constraints"": null,
+  ""regulatory_entities"": null
+}
+
+Since the document does not contain any information about wind farm regulations, there are no relevant entities or constraints to extract. The document is focused on marine protected areas, which is outside the scope of the requested analysis."

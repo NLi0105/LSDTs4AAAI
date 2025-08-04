@@ -1,0 +1,108 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+46,1,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,2,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,3,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,4,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,5,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,6,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,7,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,8,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,9,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6 of 16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""A minimum separation distance of 100 m between offshore installations is prescribed."",
+      ""scope"": ""Offshore installations"",
+      ""numerical_value"": 100,
+      ""unit"": ""m"",
+      ""source"": ""ISO 19901-7 [39]"",
+      ""related_domains"": [""spatial planning"", ""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A 50 m buffer radius around anchors and mooring lines, along with a 100 m safety distance between mooring systems, is considered appropriate."",
+      ""scope"": ""Mooring systems"",
+      ""numerical_value"": 50,
+      ""unit"": ""m"",
+      ""source"": ""[16]"",
+      ""related_domains"": [""mooring safety"", ""navigation safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Mooring lines must not be crossed within the mooring buffer zone."",
+      ""scope"": ""Mooring buffer zone"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""mooring safety"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The minimum distance between wind turbines is set to be 5 *D* (*D* represents the rotor diameter of wind turbine)"",
+      ""scope"": ""Wind turbine placement"",
+      ""numerical_value"": 5,
+      ""unit"": null,
+      ""source"": null, 
+      ""related_domains"": [""wind farm layout"", ""wake effects"", ""energy efficiency""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""No FOWT can be installed in the buffer zones of other FOWTs"",
+      ""scope"": ""FOWT buffer zones"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""wind farm layout"", ""wake effects"", ""energy efficiency""]
+    }
+
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+46,10,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,11,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,12,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,13,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,14,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,15,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,16,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,17,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,18,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,19,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,20,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,21,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,22,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,23,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,24,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,25,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+46,26,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+46,27,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND

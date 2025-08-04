@@ -1,0 +1,167 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"16","claude","claude-3-haiku-20240307",628506,138135,14,8,True,"{
+  ""document_metadata"": {
+    ""title"": ""Atlantic Shores Offshore Wind South Project Construction and Operations Plan"",
+    ""project_name"": ""Atlantic Shores Offshore Wind South Project"",
+    ""project_location"": ""Offshore New Jersey""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Offshore wind turbines that generate electricity"",
+      ""source_section_number"": ""3.1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Substation"",
+      ""component_acronym"": ""OSS"",
+      ""description"": ""Offshore electrical substations that collect and transmit electricity from the wind turbines"",
+      ""source_section_number"": ""3.1""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Export Cables"",
+      ""description"": ""Submarine cables that transmit electricity from the offshore substations to the onshore grid connection points"",
+      ""source_section_number"": ""2.5""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Meteorological Tower"",
+      ""component_acronym"": ""Met Tower"",
+      ""description"": ""Offshore meteorological tower to collect wind and weather data"",
+      ""source_section_number"": ""3.1""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Project Vessels"",
+      ""description"": ""Vessels used for construction, installation, operations, and maintenance activities"",
+      ""source_section_number"": ""4.7""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The Project 1 wind turbines shall have a maximum hub height of 522 feet (159 meters) above mean sea level and a maximum blade tip height of 932 feet (284 meters) above mean sea level."",
+      ""value"": 522,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Project 1"",
+      ""context_quote"": ""The Preferred Alternative would ... restrict the height of WTGs in Project 1 to a maximum hub height of 522 ft (159 m) AMSL and maximum blade tip height of 932 ft (284 m) AMSL.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The total number of permanent structures (WTGs, OSSs, and/or met tower) constructed for the Project shall not exceed 197."",
+      ""value"": 197,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Entire Project"",
+      ""context_quote"": ""The total number of permanent structures constructed (WTGs, OSSs, and/or met tower) may not exceed 197.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The wind turbines shall be arranged in a uniform grid pattern with rows oriented east-northeast to west-southwest spaced 1.0 nautical mile (1.9 kilometers) apart and rows oriented north to south spaced 0.6 nautical mile (1.1 kilometers) apart."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Entire Project"",
+      ""context_quote"": ""However, modifications would be made to the wind turbine array layout to require the proposed OSSs, met tower, and WTGs to be aligned in a uniform grid with rows in an east-northeast to west-southwest direction spaced 1.0 nautical mile (nmi) (1.0 km) apart and rows in an approximately north to south direction spaced 0.6 nmi (1.1 km) apart.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Up to 29 wind turbines, 1 offshore substation, and associated inter-array cables shall be microsited outside of the 1,000-foot (305-meter) buffer of the ridge and swale features within the NMFS-identified Areas of Concern 1 and 2."",
+      ""value"": 1000,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Areas of Concern 1 and 2"",
+      ""context_quote"": ""microsite up to 29 WTGs, 1 OSS, and associated interarray cables outside of the 1,000 foot (305-meter) buffer of the ridge and swale features within the NMFS-identified AOC 1 and AOC 2""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""A single wind turbine shall be removed from a location approximately 150 to 200 feet (45.8 to 61 meters) from the observed Fish Haven (Atlantic City Artificial Reef Site)."",
+      ""value"": 150,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Vicinity of the Fish Haven (Atlantic City Artificial Reef Site)"",
+      ""context_quote"": ""and the removal of a single turbine approximately 150 to 200 ft (45.8 to 61 m) from the observed Fish Haven (Atlantic City Artificial Reef Site)""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The Project shall include up to 383 nautical miles (710 kilometers) of submarine export cables, consisting of up to two routes to New Jersey."",
+      ""value"": 383,
+      ""unit"": ""nautical miles"",
+      ""source_section_number"": ""2.5"",
+      ""geographic_scope"": ""Export Cable Corridors"",
+      ""context_quote"": ""As proposed in the COP, the two Projects will include up to 383 nm (710 km) of submarine export cables, consisting of up to two routes to New Jersey.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The Project 1 export cable will interconnect in Atlantic City, New Jersey, and the Project 2 export cable will interconnect in Sea Girt, Monmouth County, New Jersey."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""2.5"",
+      ""geographic_scope"": ""Export Cable Landfall Locations"",
+      ""context_quote"": ""The COP further proposes that the Project 1 export cable will interconnect in Atlantic City, New Jersey, and the Project 2 export cable will interconnect in Sea Girt, Monmouth County, New Jersey.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""A minimum 0.81-nautical mile (1,500-meter) setback shall be provided between the wind turbines in the Atlantic Shores South Lease Area (OCS-A 0499) and the wind turbines in the Ocean Wind 1 Lease Area (OCS-A 0498)."",
+      ""value"": 0.81,
+      ""unit"": ""nautical miles"",
+      ""source_section_number"": ""3.1"",
+      ""geographic_scope"": ""Boundary between Atlantic Shores South and Ocean Wind 1 Lease Areas"",
+      ""context_quote"": ""and provide a minimum 0.81-nautical mile (1,500-meter) setback between the WTGs in Atlantic Shores South and the WTGs in Ocean Wind 1 (Lease Area OCS-A 0498) by removing two WTGs and micrositing one WTG from Project 1.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for approving the Construction and Operations Plan and issuing the lease for the project."",
+      ""source_section_number"": ""2.0""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for reviewing and approving various plans related to the project, including micrositing plans, boulder relocation plans, and benthic and fisheries monitoring plans."",
+      ""source_section_number"": ""5.4.4, 5.4.5, 5.5.3""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for issuing the Marine Mammal Protection Act authorization and reviewing various plans related to the protection of marine species."",
+      ""source_section_number"": ""5.6, 5.7.2.2""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""entity_acronym"": ""USACE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for permitting activities under Section 10 of the Rivers and Harbors Act, Section 14 of the Rivers and Harbors Act, Section 404 of the Clean Water Act, and Section 103 of the Marine Protection, Research, and Sanctuaries Act."",
+      ""source_section_number"": ""1.0""
+    }
+  ]
+}"

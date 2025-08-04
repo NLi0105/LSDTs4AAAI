@@ -1,0 +1,619 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+14,1,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Guidelines for Providing Information on Marine Mammals and Sea Turtles for Renewable Energy Development on the Atlantic Outer Continental Shelf Pursuant to 30 CFR Part 585"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Before the U.S. Department of the Interior, BOEM will approve the siting of a facility proposed for a renewable energy project on the Atlantic Outer Continental Shelf (OCS), a lessee must submit the results of its site characterization surveys to BOEM with its Site Assessment Plan (SAP), Construction and Operations Plan (COP), or General Activities Plan (GAP)."",
+      ""scope"": ""Atlantic Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR Part 585 Subpart F"",
+      ""related_domains"": [""marine mammal surveys"", ""sea turtle surveys"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    }
+  ]
+}
+```"
+14,2,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+14,3,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""a plan (SAP, COP, or GAP) must describe biological, social, and economic resource information potentially affected by activities proposed in the SAP, COP, or GAP"",
+      ""scope"": ""SAP, COP, or GAP"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.610(b)(5), 585.611(a),(b)(3), (5) and (7); COP – 30 CFR 585.626(a)(3), 585.627(a)(3), (5), and (7); and GAP – 30 CFR 585.645(a)(5), 585.646(c), (e) and (g)"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""socioeconomic impact assessment""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Any SAP, COP, or GAP must also demonstrate that activities proposed in the plan will be conducted in a manner that does not cause undue harm or damage to natural resources, wildlife, property, the marine, coastal, or human environment"",
+      ""scope"": ""SAP, COP, or GAP"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.606(a)(4) (SAP); 585.621(d) (COP); 585.641(d) (GAP)"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""wildlife protection""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""applicants must submit with SAPs and COPs “proposed measures for avoiding, minimizing, reducing, eliminating, and monitoring environmental impacts.”"",
+      ""scope"": ""SAPs and COPs"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.610(a)(8) (SAP) and 30 CFR 585.626(b)(15) (COP)"",
+      ""related_domains"": [
+        ""environmental mitigation"",
+        ""environmental monitoring""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Outer Continental Shelf (OCS)"",
+      ""role"": ""Environmental protection, resource conservation, permitting""
+    }
+  ]
+}
+```"
+14,4,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+14,5,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The lessee should include in their survey plan a description of the mitigation measures that will be followed to avoid or minimize adverse effects, including any potential incidental take, and environmental impacts to critical habitat as designated under the ESA."",
+      ""scope"": ""Survey activities within the lease area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.626(b)(15), 30 CFR 585.801 and 30 CFR 585.803"",
+      ""related_domains"": [""environmental impact assessment"", ""protected species"", ""habitat conservation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Lessees or grantees must comply with the terms of their lease or grant."",
+      ""scope"": ""Lease or grant area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Lease or grant agreement"",
+      ""related_domains"": [""lease compliance"", ""permitting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    },
+    {
+      ""entity_name"": ""USFWS (Fish and Wildlife Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, Consulting partner to BOEM""
+    },
+    {
+      ""entity_name"": ""NMFS (National Marine Fisheries Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, Consulting partner to BOEM""
+    }
+  ]
+}
+```"
+14,6,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+14,7,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""In accordance with the requirements to monitor environmental impacts (see 30 CFR 585.610(a)(8) (SAP) and 30 CFR 585.626(b)(15) (COP)), BOEM may require a lessee to conduct post-construction surveys to assess impacts of operations on a species as a condition of SAP or COP approval."",
+      ""scope"": ""Post-construction monitoring of offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.610(a)(8) (SAP) and 30 CFR 585.626(b)(15) (COP)"",
+      ""related_domains"": [""environmental impact assessment"", ""marine mammal protection"", ""sea turtle protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The marine mammal and sea turtle survey plan should include, but is not limited to, a description of the geographic area to be surveyed, issues to be investigated, hypotheses, assumptions, data collection techniques, standards, résumés of Protected Species Observers (PSOs) (to be forwarded for NMFS approval), analytical and statistical techniques, and measures to ensure quality control."",
+      ""scope"": ""Marine mammal and sea turtle survey plans for offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine mammal protection"", ""sea turtle protection"", ""survey methodology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For proposed actions that may impact these resources, the information submitted to BOEM must be commensurate to assess and monitor the level of impact anticipated to occur at any particular phase of lease development."",
+      ""scope"": ""Environmental impact assessment for offshore wind farm lease development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Protected species observer approval""
+    }
+  ]
+}
+```"
+14,8,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+14,9,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The lessee’s PSOs have been (1) trained in the shipboard identification and behavior of protected species, and (2) approved by NMFS."",
+      ""scope"": ""Personnel training for offshore wind lease operators"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM requirement for all commercial wind leases"",
+      ""related_domains"": [""protected species observation"", ""personnel training""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Obtain any required permits (e.g., Marine Mammal Protection Act Incidental Harassment Authorization (50 CFR Part 216 Subpart I))."",
+      ""scope"": ""Aerial and vessel-based surveys for marine mammals and sea turtles"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS and/or USFWS"",
+      ""related_domains"": [""environmental permitting"", ""marine mammal protection"", ""sea turtle protection"", ""surveys""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Submit a marine mammal and sea turtle survey plan at least 90 days in advance of the survey taking place."",
+      ""scope"": ""Survey planning for marine mammals and sea turtles"",
+      ""numerical_value"": 90,
+      ""unit"": ""days"",
+      ""source"": ""BOEM recommendation"",
+      ""related_domains"": [""survey planning"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and permitting authority, guidance provider""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Protected species approval, permitting related to marine mammals""
+    },
+    {
+      ""entity_name"": ""USFWS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting related to protected species, potentially including sea turtles""
+    }
+  ]
+}
+```"
+14,10,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+14,11,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Obtain all necessary permits prior to conducting surveys (e.g., MMPA and ESA scientific research permits)."",
+      ""scope"": ""Marine mammal and sea turtle surveys within the APE plus 10%"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine mammal protection"", ""sea turtle protection"", ""pre-construction surveys""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Surveys should be collected in a manner to be presented in a geo-spatial database."",
+      ""scope"": ""Marine mammal and sea turtle surveys within the APE plus 10%"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""data management"", ""environmental impact assessment"", ""pre-construction surveys""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Surveys should be conducted in all seasons, when practicable, but especially in seasons in which the species of interest are expected to be present."",
+      ""scope"": ""Marine mammal and sea turtle surveys within the APE plus 10%"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""pre-construction surveys""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Surveys should be conducted monthly in an effort to capture the peak annual abundance."",
+      ""scope"": ""Marine mammal and sea turtle surveys within the APE plus 10%"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""pre-construction surveys""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Minimum survey area is the APE plus 10% of the total APE."",
+      ""scope"": ""Marine mammal and sea turtle surveys"",
+      ""numerical_value"": 10,
+      ""unit"": ""%"",
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""pre-construction surveys""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design line-transect surveys to ensure that the data obtained are of sufficient quality so as to facilitate detection of marine mammals and sea turtles and to minimize bias associated with abundance and density estimates (i.e., Buckland et al., 2001; 2008; Roberts et al. 2016)."",
+      ""scope"": ""Marine mammal and sea turtle surveys within the APE plus 10%"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""pre-construction surveys"", ""survey methodology""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Surveys should start after sunrise when there is enough light to identify protected species."",
+      ""scope"": ""Marine mammal and sea turtle surveys within the APE plus 10%"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""pre-construction surveys""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use at least two qualified, experienced, NMFS-approved PSOs with reticle binoculars, to identify marine mammal and sea turtle species."",
+      ""scope"": ""Marine mammal and sea turtle surveys within the APE plus 10%"",
+      ""numerical_value"": 2,
+      ""unit"": ""PSOs"",
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""personnel requirements"", ""pre-construction surveys""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Personnel certification (PSOs)""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Review and approval of night-time operation plans""
+    }
+
+  ]
+}
+```"
+14,12,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Note any injured or dead protected species and immediately report these to BOEM and regional NMFS stranding hotline and record all details surrounding these events."",
+      ""scope"": ""Protected species observations during surveys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""protected species"", ""marine mammal monitoring"", ""sea turtle monitoring"", ""incident reporting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+14,13,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+14,14,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Surveys should be conducted in all seasons, when practicable, but especially in seasons in which the species of interest are expected to be present."",
+      ""scope"": ""Survey area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal protection"", ""sea turtle protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Minimum survey area is the APE plus 10% of the total APE."",
+      ""scope"": ""Survey area"",
+      ""numerical_value"": 10,
+      ""unit"": ""%"",
+      ""source"": null,
+      ""related_domains"": [""survey planning"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Completion of any necessary permit requirements (e.g., Marine Mammal Protection Act and Endangered Species Act scientific research permits)."",
+      ""scope"": ""Survey execution"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Marine Mammal Protection Act and Endangered Species Act"",
+      ""related_domains"": [""permitting"", ""environmental law""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Approval of aerial PSOs""
+    }
+  ]
+}
+```"
+14,15,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+14,16,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+14,17,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+14,18,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Two annual cycles of surveys to capture inter-annual and seasonal variation in counts."",
+      ""scope"": ""Baseline ambient sound levels and presence of vocalizing marine mammals"",
+      ""numerical_value"": 2,
+      ""unit"": ""annual cycles"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""acoustic assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""30 consecutive days of survey each season with random sampling within 30-day period."",
+      ""scope"": ""Baseline ambient sound levels and presence of vocalizing marine mammals"",
+      ""numerical_value"": 30,
+      ""unit"": ""days"",
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""acoustic assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Minimum survey area is the APE plus 10% of the total APE."",
+      ""scope"": ""Baseline ambient sound levels and presence of vocalizing marine mammals"",
+      ""numerical_value"": 110,
+      ""unit"": ""% of APE"",
+      ""source"": null,
+      ""related_domains"": [""survey area"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Surveys should be collected in a manner to be presented in a geo-spatial database."",
+      ""scope"": ""Baseline ambient sound levels and presence of vocalizing marine mammals"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""data management"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Surveys should be conducted in all seasons, but especially in seasons in which the species of interest are expected to be present."",
+      ""scope"": ""Baseline ambient sound levels and presence of vocalizing marine mammals"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""seasonal variation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Surveys should be conducted monthly in an effort to capture the peak annual abundance."",
+      ""scope"": ""Baseline ambient sound levels and presence of vocalizing marine mammals"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine mammal monitoring"", ""abundance estimation""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""Hydrophones must be able to record a large bandwidth or several bandwidths (using multiple receivers) and should be calibrated to sample at various times of the day and night and at different frequency ranges"",
+      ""scope"": ""Passive Acoustic Monitoring (PAM) equipment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""data acquisition""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A minimum of two hydrophones placed approximately six (6) miles apart."",
+      ""scope"": ""Hydrophone placement for PAM"",
+      ""numerical_value"": 2,
+      ""unit"": ""hydrophones"",
+      ""source"": null,
+      ""related_domains"": [""acoustic monitoring"", ""sensor placement""]
+    }
+
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Likely Federal - USA (inferred from context)"", 
+      ""role"": ""Technical guidance/recommendations provider (not explicitly stated as regulatory authority in this passage)""
+    }
+  ]
+}
+```"
+14,19,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Reports must include identification of all vocalizing species, if possible, but especially species of interest; descriptions of monthly and/or seasonal presence of all species; any trends in vocalization patterns; spatial presence of species; ambient noise analysis."",
+      ""scope"": ""Passive-acoustic monitoring data"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine biology"", ""acoustic monitoring""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""PAM data be provided to the National Oceanographic Data Center or other appropriate Federal data archive."",
+      ""scope"": ""Passive-acoustic monitoring data"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""data management"", ""data archiving""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    }
+  ]
+}
+```"
+14,20,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""11"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The lessee provide quarterly and annual progress reports to assist BOEM in tracking the progress and implementation of surveys, and to evaluate the quality of environmental information collected."",
+      ""scope"": ""Offshore wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""environmental monitoring"", ""reporting requirements"", ""marine mammal protection"", ""sea turtle protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Data elements that support the following objectives should be included in the marine mammal and sea turtle survey results submitted with a SAP, COP or GAP: characterization of marine mammal and sea turtle local and regional distribution and density/abundance; establishment of baseline ambient and project-associated sound levels, including, when possible, in the presence of vocalizing marine mammals; and comprehensive characterization of habitat use by marine mammals and sea turtles."",
+      ""scope"": ""Offshore wind farm development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM"",
+      ""related_domains"": [""environmental impact assessment"", ""marine mammal protection"", ""sea turtle protection"", ""acoustic monitoring"", ""habitat characterization""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and permitting""
+    },
+    {
+      ""entity_name"": ""USFWS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight (potentially)""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight (potentially)""
+    },
+    {
+      ""entity_name"": ""NPS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight (potentially)""
+    }
+  ]
+}
+```"
+14,21,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Comprehensive Annual Reports"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight and data management""
+    },
+    {
+      ""entity_name"": ""OMB (Office of Management and Budget)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Information collection approval""
+    }
+  ]
+}
+```"
+14,22,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+14,23,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+14,24,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND

@@ -1,0 +1,498 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"35",1,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Federal Register / Vol. 89, No. 204 / Tuesday, October 22, 2024 / Proposed Rules"",
+    ""document_number"": ""84316"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A safety zone established under 33 CFR part 147 may also include provisions to restrict, prevent, or control certain activities, including access by vessels or persons to maintain safety of life, property, and the environment."",
+      ""scope"": ""Safety zone around non-mineral energy resource structures during construction."",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""33 CFR part 147"",
+      ""related_domains"": [""navigational safety"", ""environmental protection"", ""construction safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority for establishing safety zones for offshore structures.""
+    },
+    {
+      ""entity_name"": ""Department of Homeland Security"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight and delegation of authority for safety regulations.""
+    }
+  ]
+}
+```"
+"35",2,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Discussion of Proposed Rule"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The District Commander is proposing to establish 55 temporary 500-meter safety zones around the construction of 54 wind turbine generators (WTGs) and one offshore substation (OSS)."",
+      ""scope"": ""Construction of 54 WTGs and one OSS on the OCS."",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""Coast Guard rulemaking"",
+      ""related_domains"": [""navigational safety"", ""construction safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Major construction activity could take place for a period lasting approximately 96 hours or more at several locations, sometimes simultaneously."",
+      ""scope"": ""Construction phase of 54 WTGs and one OSS."",
+      ""numerical_value"": 96,
+      ""unit"": ""hours"",
+      ""source"": ""Coast Guard rulemaking"",
+      ""related_domains"": [""construction safety"", ""project management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}"
+"35",3,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Safety Zone; Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Lease OCS–A 0512, Offshore New York and New Jersey, Atlantic Ocean"",
+    ""document_number"": ""Docket Number USCG–2024–0704"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The Coast Guard proposes to establish 55 temporary safety zones around the construction of each facility during the development of the Empire Wind 1 Wind Farm project area."",
+      ""scope"": ""Outer Continental Shelf, specifically in the Bureau of Ocean Energy Management Renewable Energy Lease Area OCS–A 0512, approximately 12 nautical miles south of Long Island, NY."",
+      ""numerical_value"": 55,
+      ""unit"": ""zones"",
+      ""source"": ""33 CFR Part 147"",
+      ""related_domains"": [""navigational safety"", ""construction safety"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""When enforced, only attending vessels and vessels with authorization are permitted to enter or remain in the temporary safety zones."",
+      ""scope"": ""Temporary safety zones during construction phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 CFR Part 147"",
+      ""related_domains"": [""navigational safety"", ""construction safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+"35",4,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""USCG–2024–0704"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority overseeing maritime safety and navigation""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Management of offshore energy resources""
+    },
+    {
+      ""entity_name"": ""Department of Homeland Security (DHS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight of national security and maritime safety""
+    }
+  ]
+}
+```"
+"35",5,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Proposed Rules"",
+    ""document_number"": ""Vol. 89, No. 204"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""establishment of 55 temporary safety zones through rulemaking is warranted to ensure the safety of life, property, and the project area"",
+      ""scope"": ""the area within 500 meters of the center point of the positions provided in the table below expressed in Degrees (°) Minutes (′) Seconds (″) (DMS) based on North American Datum 1983 (NAD 83)"",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""33 CFR 147.15"",
+      ""related_domains"": [""navigational safety"", ""construction safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""First Coast Guard District"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"35",6,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"35",7,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"35",8,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Proposed Rules"",
+    ""document_number"": ""Vol. 89, No. 204 / Tuesday, October 22, 2024"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The positions of the 55 proposed safety zones are shown on the chartlets below."",
+      ""scope"": ""Navigational safety zones in the vicinity of commercial shipping vessels and fishing activities."",
+      ""numerical_value"": ""500"",
+      ""unit"": ""meters"",
+      ""source"": ""Federal Register"",
+      ""related_domains"": [""navigational safety"", ""maritime operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+"35",9,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""This proposed rule does not have Tribal implications under Executive Order 13175 because it would not have a substantial direct effect on one or more Indian tribes."",
+      ""scope"": ""Federal Government and Indian tribes"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Executive Order 13175"",
+      ""related_domains"": [""tribal relations"", ""federalism""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""We have analyzed this proposed rule under Executive Order 13132 and have determined that it is consistent with the fundamental federalism principles and preemption requirements described in Executive Order 13132."",
+      ""scope"": ""National Government and States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Executive Order 13132"",
+      ""related_domains"": [""federalism"", ""government relations""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""We have analyzed this proposed rule under Department of Homeland Security Directive 023–01, Rev. 1, associated implementing instructions, and Environmental Planning COMDTINST 5090.1 (series)."",
+      ""scope"": ""Environmental compliance"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Department of Homeland Security Directive 023–01, Environmental Planning COMDTINST 5090.1"",
+      ""related_domains"": [""environmental impact assessment"", ""regulatory compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Homeland Security"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"35",10,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""No unauthorized vessel or person would be permitted to enter the safety zone without obtaining permission from the First Coast Guard District Commander or a designated representative."",
+      ""scope"": ""Safety zone around offshore wind farm operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""First Coast Guard District regulations"",
+      ""related_domains"": [""navigational safety"", ""maritime operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Persons or vessels seeking to enter the safety zone must request authorization from the First Coast Guard District Commander or designated representative via VHF–FM channel 16 or by phone."",
+      ""scope"": ""Safety zone around offshore wind farm operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""First Coast Guard District regulations"",
+      ""related_domains"": [""navigational safety"", ""maritime operations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If permission is granted, all persons and vessels shall comply with the instructions of the First Coast Guard District Commander or designated representative."",
+      ""scope"": ""Safety zone around offshore wind farm operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""First Coast Guard District regulations"",
+      ""related_domains"": [""navigational safety"", ""maritime operations""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""First Coast Guard District"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+"35",11,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The safety zones established would extend to a maximum distance of 500-meters around the OCS facility measured from its center point."",
+      ""scope"": ""Safety zones around offshore facilities during construction."",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""33 CFR 147.15"",
+      ""related_domains"": [""navigational safety"", ""maritime safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}"
+"35",12,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels would only be prohibited from the regulated zone during periods of actual construction activity."",
+      ""scope"": ""Safety zones around OCS facilities during construction activities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Coast Guard"",
+      ""related_domains"": [""navigational safety"", ""construction activity""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Vessels would also be able to request deviation from this rule to transit through a safety zone."",
+      ""scope"": ""Safety zones around OCS facilities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""U.S. Coast Guard"",
+      ""related_domains"": [""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}"
+"35",13,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Proposed Rules"",
+    ""document_number"": ""Vol. 89, No. 204"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The area within 500 meters of the center point of the positions provided in the table below is an individual safety zone."",
+      ""scope"": ""Empire Wind 1 Wind Farm Project Area, Outer Continental Shelf, Offshore New York and New Jersey, Atlantic Ocean."",
+      ""numerical_value"": 500,
+      ""unit"": ""meters"",
+      ""source"": ""33 CFR § 147.T01–0704"",
+      ""related_domains"": [""navigational safety"", ""marine safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}"
+"35",14,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""this action is one of a category of actions that do not individually or cumulatively have a significant effect on the human environment."",
+      ""scope"": ""Establishment of a safety zone around an OCS facility"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DHS Instruction Manual 023–01–001–01, Rev. 1"",
+      ""related_domains"": [""environmental impact assessment"", ""marine safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"35",15,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"35",16,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"35",17,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"35",18,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"
+"35",19,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Air Plan Approval; WA; Excess Emissions, Startup, Shutdown, and Malfunction Revisions, Energy Facility Site Evaluation Council"",
+    ""document_number"": ""EPA–R10–OAR–2024–0372; FRL–12293–01–R10"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The EPA found a substantially inadequate Washington SIP provision providing affirmative defenses that operate to limit the jurisdiction of the Federal court in an enforcement action related to excess emissions during startup, shutdown, and malfunction (SSM) events."",
+      ""scope"": ""State of Washington, related to air quality regulations for energy facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Environmental Protection Agency (EPA)"",
+      ""related_domains"": [""air quality"", ""environmental regulation"", ""energy facility oversight""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"35",20,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""No vessel may enter or remain in this safety zone except for the following: An attending vessel as defined in 33 CFR 147.20; A vessel authorized by the First Coast Guard District Commander or a designated representative."",
+      ""scope"": ""Safety zone during active construction or instances which may cause a hazard to navigation."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""First Coast Guard District Commander"",
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Persons or vessels seeking to enter the safety zone must request authorization from the First Coast Guard District Commander or a designated representative."",
+      ""scope"": ""Safety zone during active construction or instances which may cause a hazard to navigation."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""First Coast Guard District Commander"",
+      ""related_domains"": [""navigational safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The section will be effective from March 1, 2025, through 11:59 p.m. on February 29, 2028, but it will only be enforced during active construction or other instances which may cause a hazard to navigation deemed necessary by the First Coast Guard District Commander."",
+      ""scope"": ""Effective period for safety zones."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""First Coast Guard District Commander"",
+      ""related_domains"": [""navigational safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""First Coast Guard District Commander"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"
+"35",21,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""FR Doc. 2024–24393"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Violations of this section may be processed in accordance with 33 CFR 140.40 on civil and criminal penalty proceedings."",
+      ""scope"": ""General enforcement of safety regulations related to marine operations."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 CFR 140.40"",
+      ""related_domains"": [""navigational safety"", ""enforcement""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency""
+    }
+  ]
+}
+```"

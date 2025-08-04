@@ -1,0 +1,104 @@
+// --------------- GeoSpatial rules --------------------------------
+
+// ------------------ Turbine positions ------------------------------
+[ruleInside:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasGeometry> ?p)
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+isInside(?p, ?poly)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasInside> "true")]
+
+[ruleOutside:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasGeometry> ?p)
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+isOutside(?p, ?poly)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasOutside> "true")]
+
+[ruleIntersect:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasGeometry> ?p)
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+isIntersect(?p, ?poly)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasIntersect> "true")]
+
+[ruleTouch:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasGeometry> ?p)
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+isTouching(?p, ?poly)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasTouching> "true")]
+
+[ruleWithinDistance:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasGeometry> ?p)
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+isWithinDistance(?p, ?poly, 100.5)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasWithinDistance> "true")]
+
+// -------------------------------------------------------------------
+
+// --------------------- Wind Farm position --------------------------
+
+[rule---WindFarmWithinWindLeaseAreas:
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+(?l <http://www.cee.umd.edu/Energy/MSP/WindLease#hasGeometry> ?lease)
+isInside(?poly, ?lease)
+->
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasInsideLeaseArea> "true")]
+
+[rule---WindFarmInterfereNOAAMarineProtectedAreas:
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+(?n <http://www.cee.umd.edu/Energy/MSP/NOAA#hasGeometry> ?map)
+isIntersect(?poly, ?map)
+->
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasInterfereMAP> "true")]
+
+[rule---WindFarmInterfereEssentialFishHabitat:
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+(?e <http://www.cee.umd.edu/Energy/MSP/EFH#hasGeometry> ?efh)
+isIntersect(?poly, ?efh)
+->
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasInterfereEFH> "true")]
+
+[rule---WindFarmInterfereDangerZone:
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+(?d <http://www.cee.umd.edu/Energy/MSP/DangerZone#hasGeometry> ?dz)
+isIntersect(?poly, ?dz)
+->
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasInterfereDangerZone> "true")]
+
+[rule---WindFarmInterfereCoralProtection:
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?poly)
+(?c <http://www.cee.umd.edu/Energy/MSP/CoralProtection#hasGeometry> ?cp)
+isIntersect(?poly, ?cp)
+->
+(?w <http://www.cee.umd.edu/Energy/WindFarm#hasInterfereCoralProtection> "true")]
+
+// -------------------------------------------------------------------
+
+// --------------------- Wind Resource rules -------------------------
+[ruleWindFarmWindSpeed:
+  (?wf <http://www.cee.umd.edu/Energy/WindFarm#hasGeometry> ?wfGeom)
+  (?ws <http://www.cee.umd.edu/Energy/MSP/WindSpeed#hasGeometry> ?wsGeom)
+  (?ws <http://www.cee.umd.edu/Energy/MSP/WindSpeed#hasMinWindSpeed> ?minSpeed)
+  (?ws <http://www.cee.umd.edu/Energy/MSP/WindSpeed#hasMaxWindSpeed> ?maxSpeed)
+  isIntersect(?wfGeom, ?wsGeom)
+  ->
+  (?wf <http://www.cee.umd.edu/Energy/WindFarm#hasMinWindSpeed> ?minSpeed)
+  (?wf <http://www.cee.umd.edu/Energy/WindFarm#hasMaxWindSpeed> ?maxSpeed)
+]
+// -------------------------------------------------------------------
+
+// --------------------- Triple manipulation rules -------------------
+
+[ruleChangeValue:
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasTurbineStatus> ?ts)
+(?wr <http://www.cee.umd.edu/Energy/WindResource#hasWindSpeed50M> ?ws50)
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasCutOutWindSpeed> ?cw)
+greaterThan(?ws50, ?cw)
+changeTo(?t <http://www.cee.umd.edu/Energy/Turbine#hasTurbineStatus> "Not Active" ?newStatus)
+->
+(?t <http://www.cee.umd.edu/Energy/Turbine#hasTurbineStatus> ?newStatus)]
+
+// -------------------------------------------------------------------

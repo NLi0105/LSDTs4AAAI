@@ -1,0 +1,1819 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"33",1,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",2,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",3,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",4,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",5,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",6,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",7,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    """
+"33",8,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",9,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""US Wind intends to be the sole operator of the metocean buoy in compliance with the stipulations stated in the Lease and described in Section 1.1.4, as they relate to the SAP and SAP activities."",
+      ""scope"": ""metocean buoy operation, Site Assessment Plan (SAP) activities, Lease OCS-A 0490"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Lease, referenced by § 585.610(a)(3)"",
+      ""related_domains"": [
+        ""lease compliance"",
+        ""site assessment"",
+        ""metocean buoy operation""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Leasing authority; Regulatory oversight""
+    }
+  ]
+}
+```"
+"33",10,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",11,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",12,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",13,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",14,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",15,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",16,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",17,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",18,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document"
+"33",19,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",20,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",21,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""1.5 Other Information (§ 585.610(a)(16)) / 2.0 SURVEY RESULTS (§ 585.610(b))"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",22,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",23,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.3 Archeological Resources (§ 585.610(b)(3))"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": ["
+"33",24,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",25,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",26,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490, Page 1"
+"33",27,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",28,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",29,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",30,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",31,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",32,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",33,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",34,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",35,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",36,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",37,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",38,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",39,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",40,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",41,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",42,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",43,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",44,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",45,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""Page 26"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies are required to consult on activities that may adversely affect Essential Fish Habitat (EFH) designated in fishery management plans."",
+      ""scope"": ""Activities (e.g., wind farm projects) that may adversely affect EFH designated in fishery management plans near the Project Area (Maryland Lease)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""fisheries management"",
+        ""permitting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Fishery Management Councils"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body; Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Federal agencies"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Permitting authority""
+    }
+  ]
+}
+```"
+"33",46,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",47,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",48,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Compliance with Section 106 of the"
+"33",49,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",50,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",51,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",52,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",53,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",54,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490, Page 32"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental assessment and oversight""
+    }
+  ]
+}
+```"
+"33",55,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",56,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.1.10 Coastal and Marine Uses (§ 585.611(b)(8))"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (Offshore Continental Shelf)"",
+      ""role"": ""Regulatory authority; Environmental oversight""
+    }
+  ]
+}
+```"
+"33",57,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""SAP US Wind Lease OCS-A 0490"",
+    ""document_number"": ""33"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The placement of any metocean buoy within a TSS is prohibited."",
+      ""scope"": ""Any metocean buoy within a Traffic Separation Scheme (TSS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 U.S.C. Section 1223"",
+      ""related_domains"": [
+        ""navigational safety"",
+        ""spatial planning"",
+        ""offshore infrastructure""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",58,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",59,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",60,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",61,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",62,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 3.2.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      """
+"33",63,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",64,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",65,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490 (Page 37)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All SAP vessels will follow NOAA NMFS collision avoidance guidance, including vessel speed restrictions to minimize the risks to NARW and other marine mammals."",
+      ""scope"": ""All SAP vessels during SAP activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA NMFS collision avoidance guidance"",
+      ""related_domains"": [
+        ""marine mammal protection"",
+        ""vessel operations"",
+        ""environmental compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Guidance provider""
+    }
+  ]
+}
+```"
+"33",66,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",67,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",68,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",69,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.2.2.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, Permitting authority""
+    }
+  ]
+}
+```"
+"33",70,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",71,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",72,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",73,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",74,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",75,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",76,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",77,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior, Bureau of Ocean Energy Management, Office of Renewable Energy Program"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Program management""
+    }
+  ]
+}
+```"
+"33",78,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""SAP US Wind Lease OCS-A 0490, Page 44"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf, Atlantic OCS Region)"",
+      ""role"": ""Permitting authority; Environmental oversight; Resource management""
+    },
+    {
+      ""entity_name"": ""Minerals Management Service"",
+      ""jurisdiction"": ""Federal - USA (Federal Offshore Sand Resources)"",
+      ""role"": ""Resource management; Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Maryland Department of Natural Resources"",
+      ""jurisdiction"": ""State - Maryland, USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",79,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",80,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",81,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",82,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior (USDOI)"",
+      ""jurisdiction"": ""Federal - USA (Atlantic OCS)"",
+      ""role"": ""Environmental oversight, Permitting authority""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (Atlantic OCS)"",
+      ""role"": ""Environmental oversight, Permitting authority""
+    }
+  ]
+}
+```"
+"33",83,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",84,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers Wave Information Service (WIS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Provider of oceanographic data and modeling results for engineering design and planning""
+    },
+    {
+      ""entity_name"": ""National Oceanographic and Atmospheric Administration’s National Data Buoy Center (NOAA NDBC)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Provider of oceanographic data and measurements for engineering design and planning""
+    }
+  ]
+}
+```"
+"33",85,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",86,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",87,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If an Automatic Identification System (AIS) is equipped on the unit, its installation must be according to local requirements."",
+      ""scope"": ""AIS system on EOLOS unit/buoy"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""local requirements"",
+      ""related_domains"": ["
+"33",88,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",89,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",90,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",91,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",92,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",93,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",94,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",95,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",96,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",97,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",98,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",99,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",100,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",101,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area (MET Tower)"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"33",102,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area (MET Tower) Volume II: Geotechnical Results Report"",
+    ""document_number"": ""10451 (Final)-Rev1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Geotechnical results report and underlying investigations for offshore structures must be prepared in accordance with the requirements of BS EN ISO 19901."",
+      ""scope"": ""Geotechnical investigations and reporting for offshore wind energy area structures (specifically MET Towers)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BS EN ISO 19901"",
+      ""related_domains"": [
+        ""geotechnical engineering"",
+        ""offshore structures"",
+        ""design standards"",
+        ""site investigation""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",103,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",104,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",105,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",106,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",107,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",108,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""4"",
+    ""type_of_wind_farm"": ""Offshore""
+  を行い、
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Representative samples were extruded offshore and tested according to ASTM D2488-93 – Standard Practice for Description and Identification of Soils (Visual-Manual Procedure)."",
+      ""scope"": ""Offshore geotechnical investigations for soil description and identification."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D2488-93"",
+      ""related_domains"": [
+        ""geotechnical investigation"",
+        ""site characterization"",
+        ""technical standards"",
+        ""data quality""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",109,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",110,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",111,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",112,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",113,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",114,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",115,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",116,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",117,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",118,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area (MET Tower) Volume II: Geotechnical Results Report Ref 10451 (Final)-Rev1"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Bulk densities of soil samples must be measured and dry density calculated in accordance with ASTM D2488."",
+      ""scope"": ""Geotechnical site investigation for offshore wind energy area, specifically for natural moisture content and bulk/dry density measurements."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D2488"",
+      ""related_domains"": [
+        ""geotechnical engineering"",
+        ""site investigation"",
+        ""soil mechanics""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The liquid limit test for cohesive samples must be performed by the Casagrande method."",
+      ""scope"": ""Geotechnical site investigation for offshore wind energy area, specifically for Atterberg Limits testing."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Casagrande method"",
+      ""related_domains"": [
+        ""geotechnical engineering"",
+        ""site investigation"",
+        ""soil mechanics""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Atterberg Limits testing for cohesive samples must be carried out in accordance with ASTM D4318-10."",
+      ""scope"": ""Geotechnical site investigation for offshore wind energy area, specifically for Atterberg Limits testing."",
+      ""numerical_value"": null,
+      ""unit"": null,"
+"33",119,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",120,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area (MET Tower) Volume II: Geotechnical Results Report Ref 10451 (Final)-Rev1"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing was carried out in accordance with ASTM D854-10."",
+      ""scope"": ""Geotechnical testing for the Maryland Wind Energy Area (MET Tower) project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D854-10"",
+      ""related_domains"": [
+        ""geotechnical investigation"",
+        ""soil testing"",
+        ""technical standards""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing was carried out in accordance with manufacturer’s manual of operation."",
+      ""scope"": ""Pocket Penetrometer testing for the Maryland Wind Energy Area (MET Tower) project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""manufacturer’s manual of operation"",
+      ""related_domains"": [
+        ""geotechnical investigation"",
+        ""soil testing"",
+        ""equipment operation""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",121,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6.4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Geotechnical testing using the Fall Cone method must be carried out in accordance with ISO 17892-6 (2004)."",
+      ""scope"": ""Geotechnical investigations for wind farm foundations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 17892-6 (2004)"",
+      ""related_domains"": [
+        ""geotechnical engineering"",
+        ""foundation design"",
+        ""site investigation""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",122,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",123,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area (MET Tower) Volume II: Geotechnical Results Report Ref 10451 (Final)-Rev1"",
+    ""document_number"": ""10451 - Volume II"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing for cohesive soil was carried out in accordance with ASTM D4767."",
+      ""scope"": ""Geotechnical marine survey investigation; cohesive soil testing"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D4767"",
+      ""related_domains"": [
+        ""geotechnical investigation"",
+        ""site characterization"",
+        ""technical standards""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The calcium carbonate of all selected test specimens was determined in accordance with the ASTM D 4373-02 standard test method."",
+      ""scope"": ""Geotechnical marine survey investigation; calcium carbonate content determination"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D 4373-02"",
+      ""related_domains"": [
+        ""geotechnical investigation"",
+        ""site characterization"",
+        ""technical standards"",
+        ""chemical analysis""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",124,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",125,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",126,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area (MET Tower) Volume II: Geotechnical Results Report Ref 10451 (Final)-Rev1"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ASTM International"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",127,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",128,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",129,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",130,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",131,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",132,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",133,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",134,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",135,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",136,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",137,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",138,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",139,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",140,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",141,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Particle Size Distribution Analysis"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing in accordance with ASTM D422-63 (2007)"",
+      ""scope"": ""Particle size distribution analysis for geotechnical marine survey investigations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D422-63 (2007)"",
+      ""related_domains"": [
+        ""geotechnical engineering"",
+        ""site investigation"",
+        ""soil mechanics"",
+        ""technical standards""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",142,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",143,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Particle Size Distribution Analysis"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing in accordance with ASTM D422-63 (2007)"",
+      ""scope"": ""Geotechnical marine survey investigation for the Maryland Wind Energy Area, specifically particle size distribution analysis."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D422-63 (2007)"",
+      ""related_domains"": [
+        ""geotechnical investigation"",
+        ""soil mechanics"",
+        ""testing standards""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ASTM International"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",144,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing in accordance with ASTM D422-63 (2007)"",
+      ""scope"": ""Geotechnical marine survey investigation for the Maryland Wind Energy Area, specifically for particle size distribution analysis of soils."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D422-63 (2007)"",
+      ""related_domains"": [
+        ""geotechnical engineering"",
+        ""site investigation"",
+        ""foundation design""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",145,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",146,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",147,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",148,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",149,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",150,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",151,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",152,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",153,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Consolidated Undrained Triaxial Test with the Measurement of Pore Water Pressure"",
+    ""document_number"": ""Pages 2-4 of 4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Prepared and tested in accordance with ASTM D4767"",
+      ""scope"": ""Consolidated Undrained Triaxial Test for Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D4767"",
+      ""related_domains"": [
+        ""geotechnical engineering"",
+        ""site investigation"",
+        ""foundation design"",
+        ""quality control""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ASTM International"",
+      ""jurisdiction"": ""International (standard-setting body, relevant to US projects)"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",154,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Consolidated Anisotropic Undrained Triaxial Test with the Measurement of Pore Water Pressure"",
+    ""document_number"": ""1 of 4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Prepared and tested in accordance with ASTM D4767"",
+      ""scope"": ""Geotechnical marine survey investigation for the Maryland Wind Energy Area; specifically, soil triaxial testing for foundation design."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D4767"",
+      ""related_domains"": [
+        ""geotechnical engineering"",
+        ""site investigation"",
+        ""technical standards"",
+        ""foundation design""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",155,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2-4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Geotechnical samples for the Maryland Wind Energy Area must be prepared and tested in accordance with ASTM D4767."",
+      ""scope"": ""Geotechnical Marine Survey Investigation for the Maryland Wind Energy Area; specifically, soil testing for foundation design."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASTM D4767"",
+      ""related_domains"": [
+        ""geotechnical engineering"",
+        ""site investigation"",
+        ""structural integrity"",
+        ""foundation design""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",156,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",157,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",158,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",159,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",160,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",161,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",162,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",163,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",164,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",165,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",166,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",167,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",168,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",169,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",170,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",171,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Survey operations must be conducted in accordance with Bureau of Ocean Energy Management’s (BOEM) “Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585”."",
+      ""scope"": ""Marine survey investigations for wind energy development on the Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM) “Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585”, dated November 9, 2012."",
+      ""related_domains"": [
+        ""geophysical survey"",
+        ""geological survey"",
+        ""hazard assessment"",
+        ""archaeological assessment"",
+        ""site assessment"",
+        ""permitting""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Standard setting body; Regulatory oversight""
+    }
+  ]
+}
+```"
+"33",172,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",173,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",174,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",175,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",176,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey Maryland Wind Energy Area Alpine Report Ref 1751-2 (Draft)"",
+    ""document_number"": ""iv-v"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Leasing, permitting, and regulatory oversight for offshore energy development""
+    ,
+      ""entity_name"": ""Maryland Energy Administration"",
+      ""jurisdiction"": ""State - Maryland, USA"",
+      ""role"": ""State energy policy and development oversight, including renewable energy initiatives""
+    },
+    {
+      ""entity_name"": ""United States Coast Guard"",
+      ""jurisdiction"": ""Federal - USA (Maritime)"",
+      ""role"": ""Navigational safety, maritime law enforcement, and permitting for structures impacting navigation""
+    },
+    {
+      ""entity_name"": ""United States Geological Survey"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Scientific research and data provision (geological, hydrological, biological) relevant to environmental assessments and site characterization""
+    }
+  ]
+}
+```"
+"33",177,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",178,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",179,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey Maryland Wind Energy Area Alpine Report Ref 1751-2 (Draft)"",
+    ""document_number"": ""vi"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Surveys must be conducted in accordance with lease requirements (OCS-A 0489 and OCS-A 0490)."",
+      ""scope"": ""Maryland Wind Energy Area (WEA) on the Outer Continental Shelf (OCS) for High Resolution Geophysical (HRG), Geotechnical and Environmental surveys."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Lease requirements (OCS-A 0489 and OCS-A 0490)"",
+      ""related_domains"": [
+        ""geophysical survey"",
+        ""geotechnical survey"",
+        ""environmental survey"",
+        ""lease compliance""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Surveys must be conducted as modified by the US Wind Survey Plan that was approved by the Bureau of Ocean Energy Management (BOEM) on 3-June-2015."",
+      ""scope"": ""Maryland Wind Energy Area (WEA) on the Outer Continental Shelf (OCS) for High Resolution Geophysical (HRG), Geotechnical and Environmental surveys."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""US Wind Survey Plan approved by BOEM on 3-June-2015"",
+      ""related_domains"": [
+        ""geophysical survey"",
+        ""geotechnical survey"",
+        ""environmental survey"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Surveys must be conducted according to specifications described in BOEM’s 'Guidelines for Providing Geological and Geophysical"
+"33",180,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Surveys must include protected species mitigation measures as detailed in the lease and described in the Marine Mammal Mitigation Plan submitted to BOEM prior to the onset of the survey."",
+      ""scope"": ""Survey operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""lease, Marine Mammal Mitigation Plan, BOEM"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""marine mammal protection"",
+        ""survey operations""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Surveys must be conducted with continuous visual observations by qualified Protected Species Observers (PSO)."",
+      ""scope"": ""Survey operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Marine Mammal Mitigation Plan (implied), lease (implied)"",
+      ""related_domains"": [
+        ""environmental monitoring"",
+        ""marine mammal protection"",
+        ""survey operations""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A Passive Acoustic Monitoring system (PAMS) must be installed on the survey vessel with trained personnel operating the equipment at all times during survey operations, ramp ups and during shut downs."",
+      ""scope"": ""Survey operations, ramp-up procedures, shut-down procedures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Marine Mammal Mitigation Plan (implied), lease (implied)"",
+      ""related_domains"": [
+        ""environmental monitoring"",
+        ""marine mammal protection"",
+        ""survey operations"",
+        ""noise mitigation""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, Permitting authority""
+    }
+  ]
+}
+```"
+"33",181,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",182,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",183,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",184,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",185,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",186,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",187,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",188,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind SAP G&G Survey Maryland Wind Energy Area"",
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"","
+"33",189,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5.5.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USCG"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Provider of navigation services; maritime safety oversight""
+    }
+  ]
+}
+```"
+"33",190,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",191,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",192,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",193,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",194,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",195,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",196,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",197,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",198,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Alpine Report Ref 1751-2 (Draft)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Geological Survey"",
+      ""jurisdiction"": ""Maryland (State)"",
+      ""role"": ""Developed the Quaternary geologic sequence data for the work area (Maryland Wind Energy Area), which informs site assessment and regulatory decisions for offshore development.""
+    },
+    {
+      ""entity_name"": ""Minerals Management Service"",
+      ""jurisdiction"": ""Federal - USA (Continental Shelf)"",
+      ""role"": ""Managed and conducted programs (Continental Margin Program) related to offshore mineral and energy resources, including geological surveys relevant to offshore wind development.""
+    }
+  ]
+}
+```"
+"33",199,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",200,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""7.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Drilling operations began only after each location was reviewed and cleared of any potential hazards or cultural resources."",
+      ""scope"": ""geotechnical borehole locations during survey operations for offshore wind farm projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""cultural heritage protection"",
+        ""site safety"",
+        ""geotechnical investigation"",
+        ""pre-construction surveys"",
+        ""environmental impact assessment""
+      ]"
+"33",201,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",202,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",203,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",204,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",205,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",206,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",207,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",208,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",209,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",210,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",211,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",212,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",213,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",214,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",215,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",216,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",217,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",218,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",219,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",220,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",221,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",222,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",223,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",224,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",225,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",226,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",227,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",228,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",229,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",230,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",231,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",232,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",233,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",234,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",235,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",236,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",237,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",238,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",239,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",240,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",241,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",242,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",243,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",244,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",245,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",246,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",247,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",248,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",249,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",250,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",251,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"
+"33",252,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",253,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",254,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",255,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",256,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",257,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",258,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",259,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",260,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",261,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",262,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",263,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",264,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",265,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",266,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",267,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",268,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",269,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",270,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",271,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",272,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",273,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",274,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",275,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",276,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",277,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",278,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area (Met Tower) Volume III: Data Integration and Engineering Report Ref 10451 (Final) – Rev 2"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Data Integration and Engineering Report (Volume III) is prepared in accordance with BS EN ISO 19901."",
+      ""scope"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area (Met Tower) - Data Integration and Engineering Report"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BS EN ISO 19901"",
+      ""related_domains"": [
+        ""geotechnical engineering"",
+        ""offshore design"",
+        ""structural integrity"",
+        ""data integration""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",279,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",280,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",281,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",282,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",283,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",284,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",285,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",286,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",287,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",288,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area (Met Tower) Volume III: Data Integration and Engineering Report Ref 10451 (Final) – Rev 2"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The CPTUs were within accuracy Class 1 and 2, the appropriate classes for the tested soils as set out by ISO 22476-1:2012."",
+      ""scope"": ""CPTU tests conducted during geotechnical marine survey investigations for wind energy areas, specifically at the Met Tower location."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 22476-1:2012"",
+      ""related_domains"": [
+        ""geotechnical investigation"",
+        ""data quality"",
+        ""technical standards"",
+        ""site assessment""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Energy Administration"",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Governmental agency involved in energy resource surveys and administration""
+    }
+  ]
+}
+```"
+"33",289,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",290,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",291,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",292,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",293,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",294,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",295,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",296,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",297,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Geotechnical Marine Survey investigation for the Maryland Wind Energy Area Volume III: Data Integration and Engineering Report"",
+    ""document_number"": ""10451"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American Petroleum Institute"",
+      ""jurisdiction"": ""Global"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",298,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",299,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",300,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",301,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",302,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",303,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",304,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",305,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",306,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",307,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",308,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",309,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",310,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",311,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",312,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",313,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",314,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",315,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",316,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",317,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",318,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",319,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",320,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",321,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",322,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",323,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",324,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",325,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",326,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",327,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",328,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",329,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",330,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",331,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",332,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",333,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",334,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",335,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",336,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",337,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",338,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",339,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",340,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",341,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",342,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""US Wind Benthic Macroinvertebrate Community and Habitat Assessment"",
+    ""document_number"": ""Page 11"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maryland Energy Administration"",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Energy Development Oversight; Commissioning Authority""
+    },
+    {
+      ""entity_name"": ""Federal Geographic Data Committee"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard Setting Body; Data Standardization Body""
+    }
+  ]
+}
+```"
+"33",343,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",344,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",345,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",346,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",347,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",348,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",349,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",350,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",351,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",352,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",353,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",354,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",355,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",356,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",357,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",358,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",359,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",360,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",361,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",362,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",363,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",364,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",365,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",366,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",367,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",368,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.2 ESA - listed Marine Mammal Species Profiles"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Data collection and Reporting""
+    }
+  ]
+}
+```"
+"33",369,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",370,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Habitat designation""
+    },
+    {
+      ""entity_name"": ""Government of Canada"",
+      ""jurisdiction"": ""Federal - Canada"",
+      ""role"": ""Environmental oversight; Species recovery strategy development""
+    }
+  ]
+}
+```"
+"33",371,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All vessels greater than 19.8 meters (65 feet) in overall length must operate at speeds of 10 knots or less within these areas during seasonal time periods."",
+      ""scope"": ""Vessels greater than 19.8 meters (65 feet) in overall length, operating within Seasonal Management Areas (SMAs) in the U.S. and Canada, specifically active between November 1 and April 30 each year."",
+      ""numerical_value"": 10.0,
+      ""unit"": ""knots"",
+      ""source"": ""Designated by authorities in U.S. and Canada (via Seasonal Management Areas for reducing ship strikes of NARWs)"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""vessel operations"",
+        ""wildlife protection"",
+        ""navigational safety""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"33",372,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",373,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",374,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",375,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",376,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",377,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",378,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""10"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Environmental oversight""
+    }
+  ]
+}
+```"
+"33",379,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },"
+"33",380,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",381,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",382,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",383,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",384,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",385,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",386,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",387,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",388,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",389,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",390,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",391,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",392,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.1.2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Fish and Wildlife Service (USFWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",393,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""16"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USFWS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Species protection; Habitat designation authority""
+    }
+  ]
+}
+```"
+"33",394,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3.1.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The *rufa* red knot (*Calidris canutus rufa*) was added to the list of threatened species under the ESA."",
+      ""scope"": ""Projects impacting *rufa* red knot within the contiguous United States (U.S.)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (ESA); USDOI and USFWS (2014)"",
+      ""related_domains"": [
+        ""avian protection"",
+        ""environmental impact assessment"",
+        ""species conservation""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior (USDOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight"
+"33",395,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",396,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",397,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",398,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""18"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA (Offshore)"",
+      ""role"": ""Environmental oversight; Permitting authority""
+    }
+  ]
+}
+```"
+"33",399,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",400,"gemini","gemini-2.5-flash",False,"```json
+{
+  """
+"33",401,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",402,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""20"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA (Atlantic and Gulf of Mexico waters)"",
+      ""role"": ""Environmental oversight; Marine resource management; Scientific data provision for regulation""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA (Atlantic and Gulf of Mexico waters)"",
+      ""role"": ""Environmental oversight; Marine resource management; Marine mammal protection; Fisheries management""
+    }
+  ]
+}
+```"
+"33",403,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",404,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""21"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Ministry of the Environment"",
+      ""jurisdiction"": ""Bermuda"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Maryland Department of Natural Resources"",
+      ""jurisdiction"": ""Maryland, USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",405,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",406,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Species protection; Regulatory authority""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (USFWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Species protection; Regulatory authority""
+    },
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Species protection; Data provision""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Scientific research; Data provision""
+    }
+  ]
+}
+```"
+"33",407,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",408,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",409,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",410,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",411,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",412,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of the Interior (USDOI) and U.S. Fish and Wildlife Service (USFWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight; Species protection; Critical habitat designation""
+    }
+  ]
+}
+```"
+"33",413,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",414,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",415,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",416,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",417,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",418,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",419,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",420,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""United States Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maritime safety and navigation oversight; Permitting authority for aids to navigation and safety zones; Environmental protection enforcement""
+    }
+  ]
+}
+```"
+"33",421,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"33",422,"gemini","gemini-2.5-flash",False,"```json"
+"33",423,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"33",424,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",425,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",426,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Metocean Buoy Area Summary Letter"",
+    ""document_number"": ""AOSS-R-CLR-1751-03/2020.06.30/Rev. 1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Survey design for providing geological and geophysical, hazards, and archaeological information must be conducted with respect to the Bureau of Ocean Energy Management’s 09-Nov-2012 guidelines, 'Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585'."",
+      ""scope"": ""Geological and Geophysical, Hazards, and Archaeological Information surveys for offshore wind farm planning."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM) 09-Nov-2012 guidelines, 'Guidelines for Providing Geological and Geophysical, Hazards, and Archaeological Information Pursuant to 30 CFR Part 585'"",
+      ""related_domains"": [
+        ""geological survey"",
+        ""geophysical survey"",
+        ""hazard assessment"",
+        ""archaeological assessment"",
+        ""data acquisition standards""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"33",427,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",428,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",429,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",430,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",431,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"33",432,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"

@@ -1,0 +1,33 @@
+{
+  "total_original_constraints": 29254,
+  "regulatory_constraints": 10900,
+  "high_confidence_constraints": 5046,
+  "filter_efficiency_percent": 37.25986189922746,
+  "confidence_statistics": {
+    "mean": 0.771151376146789,
+    "median": 0.75,
+    "std": 0.17861802682606065,
+    "min": 0.5,
+    "max": 1.0
+  },
+  "methodology": {
+    "min_confidence_threshold": 0.5,
+    "regulatory_keywords_categories": 4,
+    "non_regulatory_patterns": 22
+  },
+  "output_columns": [
+    "model_name",
+    "document_number",
+    "type_of_wind_farm",
+    "chunk_number",
+    "document_id",
+    "constraint_type",
+    "requirement",
+    "scope",
+    "numerical_value",
+    "unit",
+    "source",
+    "related_domains"
+  ],
+  "filtering_date": "2025-07-31T19:20:37.412111"
+}

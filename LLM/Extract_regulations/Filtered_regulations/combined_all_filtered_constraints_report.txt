@@ -1,0 +1,244 @@
+COMPREHENSIVE FILTERED REGULATORY CONSTRAINTS REPORT
+============================================================
+
+📊 EXECUTIVE SUMMARY:
+  Total Constraints Analyzed: 29254
+  Constraints Meeting Criteria: 6152
+  Filter Efficiency: 21.0%
+  Score Range: 0.0500 - 0.2521
+  Generated: 2025-06-26 14:08:36
+
+🎯 FILTERING METHODOLOGY:
+  • TF-IDF Mean Similarity (40% weight)
+  • TF-IDF Max Similarity (30% weight)
+  • Jaccard Similarity (20% weight)
+  • Semantic Density (10% weight)
+  • Requires numerical values for actionability
+
+📋 CONSTRAINTS BY RELEVANCE CATEGORY:
+--------------------------------------------------
+
+🔴 VERY HIGH RELEVANCE (Threshold ≥0.2):
+Count: 12 constraints
+Score Range: 0.2035 - 0.2521
+
+  1. Score: 0.2521
+     Type: Technical
+     Numerical Value: 70.0 m/s
+     Requirement: current Class I turbine design threshold of 70 m/s gust speed...
+     Source: nan...
+
+  2. Score: 0.2453
+     Type: Spatial
+     Numerical Value: 35 km
+     Requirement: export cables within an export cable corridor of up to 35 km (21.7 mi) in length on the OCS...
+     Source: COP and ROD...
+
+  3. Score: 0.2435
+     Type: Technical
+     Numerical Value: 50.0 m/s
+     Requirement: current Class I turbine design threshold of 50 m/s mean wind speed and 70 m/s gust speed...
+     Source: nan...
+
+  4. Score: 0.2291
+     Type: Technical
+     Numerical Value: 2 corridors
+     Requirement: Two export cable corridors per lease....
+     Source: nan...
+
+  5. Score: 0.2289
+     Type: Jurisdictional
+     Numerical Value: 3.0 miles
+     Requirement: The federal government has jurisdiction over activities beyond three geographical miles out to the edge of the continental shelf....
+     Source: Outer Continental Shelf Lands Act...
+
+     ... and 7 more constraints
+
+
+🟠 HIGH RELEVANCE (Threshold ≥0.15):
+Count: 229 constraints
+Score Range: 0.1501 - 0.1993
+
+  1. Score: 0.1993
+     Type: Land Use
+     Numerical Value: 82 %
+     Requirement: The selection of Alternative C would reduce the need for coastal infrastructure in those states for survey vessels by approximately 82%....
+     Source: nan...
+
+  2. Score: 0.1987
+     Type: Jurisdictional
+     Numerical Value: 3 nautical miles
+     Requirement: All structures within this area are under BSEE / BOEM jurisdiction....
+     Source: Outer Continental Shelf Lands Act (OCSLA)...
+
+  3. Score: 0.1955
+     Type: Technical
+     Numerical Value: 320 kV
+     Requirement: The SRWEC would be one 320-kilovolt (kV) DC export cable bundle...
+     Source: nan...
+
+  4. Score: 0.1950
+     Type: Technical
+     Numerical Value: 10.0 minutes
+     Requirement: For design, the wind climate is represented by the long-term 10-minute mean wind speed U 10 and the standard deviation σ U of the wind speed....
+     Source: nan...
+
+  5. Score: 0.1949
+     Type: Spatial
+     Numerical Value: 50 meters
+     Requirement: There is a gap of around 50m between the cables from the two projects....
+     Source: nan...
+
+     ... and 224 more constraints
+
+
+🟡 MEDIUM-HIGH RELEVANCE (Threshold ≥0.1):
+Count: 2036 constraints
+Score Range: 0.1000 - 0.1499
+
+  1. Score: 0.1499
+     Type: Spatial
+     Numerical Value: 1 kilometers
+     Requirement: Minimum 1km spacing between turbines...
+     Source: North Sea Wind Power Consortium...
+
+  2. Score: 0.1499
+     Type: Spatial
+     Numerical Value: 4.8 km
+     Requirement: Approximately 4.8 km (3 mi) of the 26-km (16-mi) corridor traverse areas of wetlands which are often immediately adjacent to the roadway....
+     Source: Document...
+
+  3. Score: 0.1498
+     Type: Spatial
+     Numerical Value: 9 m
+     Requirement: The water depth at the exit must be 9 m (30 ft) for the Atlantic Ocean location....
+     Source: Table in the document...
+
+  4. Score: 0.1498
+     Type: Technical
+     Numerical Value: 25.0 NM
+     Requirement: Records documenting the make, model, maximum rated horsepower, engine displacement (L/cylinder), and manufacturing date of: engine(s) located on the OSS and WTG(s), all engines on vessels that meet th...
+     Source: Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05...
+
+  5. Score: 0.1497
+     Type: Environmental
+     Numerical Value: 9.3 km
+     Requirement: Approximately 9.3 km (5.8 mi) of the 27-km (17-mi) corridor traverse areas of wetlands which are often immediately adjacent to the roadway....
+     Source: nan...
+
+     ... and 2031 more constraints
+
+
+🟢 MEDIUM RELEVANCE (Threshold ≥0.08):
+Count: 1811 constraints
+Score Range: 0.0800 - 0.1000
+
+  1. Score: 0.1000
+     Type: Environmental
+     Numerical Value: 60.0 minutes
+     Requirement: Subsequent restart of the pile driving equipment may only occur following clearance of the exclusion zone of any marine mammal or sea turtle for at least 60 minutes....
+     Source: nan...
+
+  2. Score: 0.1000
+     Type: Environmental
+     Numerical Value: 20 kilometers
+     Requirement: Behavioral effects at ranges of the order of 20 km or more....
+     Source: Bailey et al., 2010...
+
+  3. Score: 0.1000
+     Type: Safety
+     Numerical Value: 10.0 kn
+     Requirement: If LOA Holder's vessel(s) are traveling at speeds greater than 10 kn in a transit corridor from a port to the Lease Area, in addition to the required dedicated visual observer, LOA Holder must monitor...
+     Source: nan...
+
+  4. Score: 0.1000
+     Type: Safety
+     Numerical Value: 10.0 kn
+     Requirement: If a plan is not submitted or approved by NMFS prior to vessel operations, all project vessels transiting, year round, must travel at speeds of 10-kn or less....
+     Source: 50 CFR 217.264(b)(16)...
+
+  5. Score: 0.1000
+     Type: Spatial
+     Numerical Value: 1 kilometers
+     Requirement: Minimum 1km spacing between turbines in predominant wind direction...
+     Source: BSH Standard 7005...
+
+     ... and 1806 more constraints
+
+
+🔵 LOW-MEDIUM RELEVANCE (Threshold ≥0.05):
+Count: 2064 constraints
+Score Range: 0.0500 - 0.0800
+
+  1. Score: 0.0800
+     Type: Safety
+     Numerical Value: 14 days
+     Requirement: Immediately report discrepancies in the status of all PATONs to the local USCG Sector Command Center (a timeline of when discrepancies can be resolved must be sent to USCG within 14 days of identifyin...
+     Source: nan...
+
+  2. Score: 0.0800
+     Type: Technical
+     Numerical Value: 150 ft
+     Requirement: Resurvey anchorages of semi-permanent meteorological buoys after storm events when archaeological resources are located within 150 ft....
+     Source: nan...
+
+  3. Score: 0.0799
+     Type: Environmental
+     Numerical Value: 60 minutes
+     Requirement: The lessee must ensure that visual monitoring begins no less than 60 minutes prior to the beginning of soft start and continue until pile driving operations cease or sighting conditions do not allow o...
+     Source: nan...
+
+  4. Score: 0.0799
+     Type: Safety
+     Numerical Value: 0.1 percent
+     Requirement: US Wind has committed to voluntarily implementing ADLS to reduce operational nighttime lighting impacts....
+     Source: Section 3.6.9, Visual Resources...
+
+  5. Score: 0.0799
+     Type: Environmental
+     Numerical Value: 10.0 knots
+     Requirement: Any vessel must steer a course away from any North Atlantic right whale at 10 knots (18.5 km/h) or less until the 500 meters (1,640 ft) minimum separation distance has been established....
+     Source: nan...
+
+     ... and 2059 more constraints
+
+
+🔬 SCIENTIFIC VALIDATION METRICS:
+Mean TF-IDF Similarity: 0.0040
+Mean Jaccard Similarity: 0.0263
+Mean Semantic Density: 0.4176
+Standard Deviation of Scores: 0.0274
+
+📈 CONSTRAINT TYPE DISTRIBUTION:
+  Technical: 2267
+  Environmental: 1632
+  Spatial: 797
+  Safety: 754
+  Jurisdictional: 559
+  Financial: 90
+  Temporal: 21
+  Reporting: 16
+  Cultural: 3
+  Traffic: 2
+  Economic: 2
+  Visual Impact: 1
+  Land Use: 1
+  Procedural: 1
+  [Constraint Type]: 1
+
+🌐 DOMAIN DISTRIBUTION:
+  environmental impact assessment: 880
+  marine mammal protection: 493
+  safety: 470
+  structural integrity: 314
+  navigational safety: 256
+  Technical: 248
+  Environmental: 224
+  structural engineering: 199
+  navigation safety: 164
+  marine biology: 160
+  regulatory compliance: 144
+  Safety: 143
+  environmental monitoring: 135
+  environmental: 130
+  air quality: 122

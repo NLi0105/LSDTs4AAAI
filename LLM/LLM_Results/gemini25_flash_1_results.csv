@@ -1,0 +1,1003 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"1",1,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"1",2,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Title 30 —Mineral Resources Chapter V —Bureau of Ocean Energy Management, Department of the Interior Subchapter B —Offshore Part 585 Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""Part 585"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Regulatory body; Permitting authority; Leasing authority; Data management""
+    }
+  ]
+}
+```"
+"1",3,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"1",4,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""30 CFR Part 585"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing authority; Permitting authority""
+    }
+  ]
+}
+```"
+"1",5,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"1",6,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""30 CFR Part 585"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Permitting authority; Granting authority; Oversight (for ROW grants, RUE grants, and leases); Approval authority (for assignments, suspensions)""
+    }
+  ]
+}
+```"
+"1",7,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"1",8,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"
+"1",9,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""page 4 of 98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Federal Government"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority""
+    }
+  ]
+}
+```"
+"1",10,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",11,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",12,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",13,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"1",14,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",15,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""30 CFR Part 585, page 7 of 98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Management of renewable energy development; Permitting authority; Issuance of leases, easements, and right-of-way""
+    }
+  ]
+}
+```"
+"1",16,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",17,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",18,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",19,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",20,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",21,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",22,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",23,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",24,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",25,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""30 CFR 585.112(b)(4)(ii)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal"
+"1",26,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"1",27,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"1",28,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",29,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",30,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {"
+"1",31,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""page 18 of 98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Activities on the OCS that support the production of energy, but do not result in the production of electricity or other energy product for sale, distribution, or other commercial use exceeding a limit specified in the lease."",
+      ""scope"": ""Activities conducted under a 'Limited lease' on the Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR Part 585 (definition of 'Limited lease')"",
+      ""related_domains"": [
+        ""Lease terms"",
+        ""Energy production"",
+        ""Commercial use""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Lease approval and oversight""
+    }
+  ]
+}
+```"
+"1",32,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",33,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",34,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.113 (page 19 of 98)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Issuing authority for right-of-use and easement (RUE) grants and right-of-way (ROW) grants for renewable energy activities on the OCS.""
+    }
+  ]
+}
+```"
+"1",35,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.114(a) (enhanced display) page 20 of 98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Secretary of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight and ultimate authority for offshore energy development""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Permitting authority; manages data and information disclosure for offshore energy projects""
+    }
+  ]
+}
+```"
+"1",36,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",37,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""pages 21-22 of 98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],"
+"1",38,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",39,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",40,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",41,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",42,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",43,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",44,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",45,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""§ 585.212"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Leasing and Permitting Authority; Environmental Oversight; Area Identification and Evaluation""
+    }
+  ]
+}
+```"
+"1",46,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.213(a) (page 27 of 98)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Leasing and Auction Authority, Regulatory Oversight""
+    }
+  ]
+}
+```"
+"1",47,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",48,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""§ 585.215"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Manages competitive leasing processes for offshore energy, assesses competitive interest in lease areas, determines lease award procedures, and issues related notices.""
+    }
+  ]
+}
+```"
+"1",49,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""How are bidding credits awarded and used?"",
+    ""document_number"": ""30 CFR 585.216"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Lease auction administrator; Authority for awarding bidding credits for renewable energy development""
+    }
+  ]
+}
+```"
+"1",50,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""§§ 585.217-585.221"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Bidders seeking to use bidding credits must establish that they meet the eligibility criteria for each bidding credit according to the FSN provisions."",
+      ""scope"": ""Bidders for offshore renewable energy leases"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FSN provisions"",
+      ""related_domains"": [
+        ""auction process"",
+        ""financial eligibility""
+      ]
+    },
+    {
+      ""type"": ""Financial"",
+      ""requirement"": ""A provisional winner who is awarded bidding credits must pay an amount equal to the cash component of its winning bid less any bid deposit retained by BOEM under § 585.501."",
+      ""scope"": ""Provisional winners of offshore renewable energy leases"",
+      ""numerical_value"": null"
+"1",51,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",52,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""§ 585.223"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Offshore)"",
+      ""role"": ""Offshore Lease Auction Administrator; Regulatory Authority for Offshore Energy Leasing""
+    }
+  ]
+}
+```"
+"1",53,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",54,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",55,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",56,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",57,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",58,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",59,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR Part 585, page 35 of 98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Execute and return the lease within 10 business days after receiving it."",
+      ""scope"": ""Lease acquisition phase"",
+      ""numerical_value"": 10,
+      ""unit"": ""business days"",
+      ""source"": ""30 CFR 585.231(h)(1)(i)"",
+      ""related_domains"": [
+        ""lease agreement"",
+        ""legal compliance"",
+        ""administrative process""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""File financial assurance as required under §§ 585.516 through 585.529 within 10 business days after receiving the lease."",
+      """
+"1",60,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""30 CFR 585.235(a)(1)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Juris"
+"1",61,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",62,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""§ 585.239"","
+"1",63,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",64,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf Regulations"",
+    ""document_number"": ""30 CFR Part 585, Sections 585.301-585.302 (page 38 of 98)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A ROW grant must be of a width sufficient to accommodate potential changes at the design and installation phases of the project."",
+      ""scope"": ""ROW grant corridor for cables, pipelines, or associated facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,"
+"1",65,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",66,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR Part 585, Sections 585.305-306 (page 39 of 98)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""You must submit a request for a new or modified ROW grant or RUE grant to BOEM pursuant to § 585.111."",
+      ""scope"": ""Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.305, referencing 30 CFR 585.111"",
+      ""related_domains"": [
+        ""permitting"",
+        ""regulatory compliance""
+      ]
+    },
+    {"
+"1",67,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""§ 585.307"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""You are responsible for submitting any required consistency certification and necessary data and information in a timely manner to BOEM and the applicable State CZMA agency pursuant to 15 CFR part 930, subpart D."",
+      ""scope"": ""Applicants for noncompetitive ROW/RUE grants for offshore projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": """
+"1",68,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",69,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",70,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",71,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",72,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",73,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR Part 585, page 43 of 98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""As assignor, you are liable for all obligations, monetary and nonmonetary, that accrued under your lease or grant before BOEM approves your assignment. BOEM's approval of the assignment does not relieve you of these accrued obligations. BOEM may require you to bring the lease or grant into compliance to the extent the obligation accrued before the effective date of your assignment if your assignee or subsequent assignees fail to perform any obligation under the lease or grant."",
+      ""scope"": ""Lease or grant holders (assignors) on the Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.411"",
+      ""related_domains"": [
+        ""legal liability"",
+        ""contractual obligations"",
+        ""regulatory compliance"",
+        ""lease management""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""As assignee, you are liable for all lease or grant obligations that accrue after BOEM approves the assignment."",
+      ""scope"": ""Lease or grant holders (assignees) on the Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.412(a)"",
+      ""related_domains"": [
+        ""legal liability"",
+        ""contractual obligations"",
+        ""regulatory compliance"",
+        ""lease management""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""As assignee, you must comply with all the terms and conditions of the lease or grant and"
+"1",74,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""§ 585.413"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""You are jointly and severally liable for the performance of all obligations under the lease or grant and under the regulations in this part and 30 CFR part 285 with each prior and subsequent lessee who held an interest from the time the obligation accrued until it is satisfied, unless this part provides otherwise."",
+      ""scope"": ""All lessees or grant holders of offshore wind energy leases/grants"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR part 585 (implied by 'this part') and 30 CFR part 285"",
+      ""related_domains"": [
+        ""legal liability"",
+        ""regulatory compliance"",
+        ""lease management""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The application [to consolidate leases or grants] must include a description of the leases or grants, or portions thereof, to be consolidated, including the relevant lease number, lease blocks, and aliquots."",
+      ""scope"": ""Lessees or grant holders applying for consolidation of offshore wind energy leases/grants"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.413(a)"",
+      ""related_domains"": [
+        ""administrative procedures"",
+        ""documentation"",
+        ""lease management""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Before BOEM will approve your consolidation request, BOEM will assess appropriate financial assurance obligations for the new lease or grant per §§ 585.516 and 585.517 or §§ 585.520 and 585.521."",
+      ""scope"": ""Lessees or grant holders seeking consolidation of offshore wind energy leases/grants"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.413(e) referencing §§ 585.516, 585.517, 585.520, and 585.521"",
+      ""related_domains"": [
+        ""financial management"",
+        ""decommissioning"",
+        ""lease management"",
+        ""regulatory compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"
+"1",75,"gemini","gemini-2.5-flash",False,"```json"
+"1",76,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",77,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",78,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",79,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",80,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",81,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""30 CFR Part 585, Sections 585.433-585.434 (page 48 of 98)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"","
+"1",82,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",83,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": """
+"1",84,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.500(c) (page 50 of 98)"",
+    ""type_of_wind_farm"": ""Offshore""
+  }},
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""For acquisition fees or the initial 12 months' rent paid for the preliminary period of your lease, you must make your electronic payments through the Fees for Services page on the BOEM website at https://www.boem.gov, and you must include one copy of the Pay.gov confirmation receipt page with your unsolicited request."",
+      ""scope"": ""Lease holders (preliminary period of lease)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.500(a)"",
+      ""related_domains"": [
+        ""financial compliance"",
+        ""administrative procedures""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""For all other required rent payments and for operating fee payments, you must make your payments as required in 30 CFR 1218.51."",
+      ""scope"": ""Lease holders (ongoing rent and operating fees)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.500(b) referencing 30 CFR 1218.51"",
+      ""related_domains"":"
+"1",85,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""30 CFR Part 585, page 51 of 98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Rent, unless otherwise provided in the terms of the lease, is $3 per acre per year."",
+      ""scope"": ""All leases (subsequent payments), upon COP or GAP approval, then annually."",
+      ""numerical_value"": 3.0,
+      ""unit"": ""USD per acre per year"",
+      ""source"": ""30 CFR 585.500(c)(4), 30 CFR 1218.51"",
+      ""related_domains"": [
+        ""financial regulation"",
+        ""lease agreements""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Rent for a project easement, unless otherwise provided in the terms of the grant, is the greater of $5 per acre per year or $450 per year."",
+      ""scope"": ""Project easements"",
+      ""numerical_value"": 5.0,
+      ""unit"": ""USD per acre per year"",
+      ""source"": ""30 CFR 585.500(c)(5), 30 CFR 1218.51, §§ 585.503, 585.504, 585.507"",
+      ""related_domains"": [
+        ""financial regulation"",
+        ""easement agreements""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Initial Rent for all ROW grants and RUE grants is the greater of $5 per acre per year or $450 per year, unless otherwise established in the grant."",
+      ""scope"": ""All ROW grants and RUE grants (initial payment upon grant execution)"",
+      ""numerical_value"": 5.0,
+      ""unit"": ""USD per acre per year"",
+      ""source"": ""3"
+"1",86,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",87,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",88,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",89,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""30 CFR 585.5"
+"1",90,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",91,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""page 55 of 98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdict"
+"1",92,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",93,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""30 CFR Part 585, pages 56-57"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""When requesting a deferral, reduction, or waiver of lease or grant payments, you must submit an application to BOEM that includes the number of the lease, ROW grant, or RUE grant involved; name of each lessee or grant holder of record; name of each operator; a demonstration that continued activities would be uneconomic without the requested deferral, reduction, or waiver, or that a deferral, reduction, or waiver is necessary to encourage additional activities; and any other information required by the Director."",
+      ""scope"": ""Commercial lease, ROW grant, or RUE grant holders on the Outer Continental Shelf (OCS) requesting payment deferral, reduction, or waiver."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.510(b)"",
+      ""related_domains"": [
+        ""financial management"",
+        ""regulatory compliance"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Financial"",
+      ""requirement"": ""No more than 6 years of your operations period will be subject to a full waiver of the operating fee."",
+      ""scope"": ""Operations period of commercial leases on the Outer Continental Shelf (OCS)."",
+      ""numerical_value"": 6,
+      ""unit"": ""years"",
+      ""source"": ""30 CFR 585.510(c)"",
+      ""related_domains"": [
+        ""financial management"",
+        ""regulatory compliance""
+      ]
+    },
+    {
+      ""type"": ""Financial"",
+      ""requirement"": ""Each bond or other authorized financial assurance must guarantee compliance with this part [30 CFR Part"
+"1",94,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",95,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",96,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",97,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",98,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",99,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",100,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.527 (page 61 of 98)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""You have an investment grade issuer credit rating."",
+      ""scope"": ""Entity (lessee/grantee) seeking to meet financial assurance requirements for OCS renewable energy leases/grants."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.527(a)"",
+      ""related_domains"": [
+        ""financial assurance"",
+        ""regulatory compliance"",
+        ""credit rating""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""If any Securities and Exchange Commission (SEC) recognized NRSRO provides a credit rating that differs from any other SEC-recognized NRSRO credit rating, BOEM will apply the highest rating for the purposes of determining your financial assurance requirements."",
+      ""scope"": ""BOEM's determination process for financial assurance requirements when multiple credit ratings exist."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.527(a)"",
+      ""related_domains"": [
+        ""financial assurance"",
+        ""regulatory compliance"",
+        ""credit rating""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""You have a proxy credit rating determined by BOEM, which must be based on audited financial information for the most recent fiscal year (which must include an income statement, balance sheet, statement of cash flows, and the auditor's certificate)."",
+      ""scope"": ""Entity (lessee/grantee) seeking to meet financial assurance requirements via a proxy credit rating."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.52"
+"1",101,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",102,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",103,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",104,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",105,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",106,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",107,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.538-585.539"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Offshore)"",
+      ""role"": ""Enforcement agency; Permitting authority""
+    }
+  ]
+}
+```"
+"1",108,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""30 CFR 585.540"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Revenue distribution authority; Lease and grant management; Project area determination; State eligibility determination""
+    }
+  ]
+}
+```"
+"1",109,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""§ 585.541 - § 585.542"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""To determine each eligible State's share of the 27 percent of the revenues for a qualified project, BOEM will use the inverse distance formula, which apportions shares according to the relative proximity of the nearest point on the coastline of each eligible State to the geographic center of the qualified project area. If S i is equal to the nearest distance from the geographic center of the project area to the i = 1, 2, * * * nth eligible State's coastline, then eligible State i would be entitled to the fraction F i of the 27-percent aggregate revenue share due to all the eligible States according to the following formula: F i = (1/S i ) ÷ (Σ i= 1* * * n (1/S i ))"",
+      ""scope"": ""Eligible coastal States' share of revenues from a qualified project"",
+      ""numerical_value"": 27,
+      ""unit"": ""percent"",
+      ""source"": ""paragraph (c)"",
+      ""related_domains"": [
+        ""revenue sharing"",
+        ""jurisdictional allocation"",
+        ""project finance""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A qualified project for the purpose of revenue sharing with eligible coastal States is one authorized under subsection 8(p) of the OCS Lands Act, which includes acreage within the area extending 3 miles seaward of State submerged lands."",
+      ""scope"": ""Qualified project for revenue sharing purposes"",
+      ""numerical_value"": 3,
+      ""unit"": ""miles"",
+      ""source"": ""subsection 8(p) of the OCS Lands Act, § 585.541"",
+      ""related_domains"": [
+        ""revenue sharing"",
+        ""project definition"",
+        ""jurisdictional boundaries""
+      ]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The entire area within a lease or grant for the qualified project, excluding project easements, is considered the qualified project area."",
+      ""scope"": ""Qualified project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""§ 585.541"",
+      ""related_domains"": [
+        ""spatial planning"",
+        ""lease area definition""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A qualified project is subject to revenue sharing with those States that are eligible for revenue sharing under § 585.542."",
+      ""scope"": ""States eligible for revenue sharing"",
+      ""numerical_value"": null,"
+"1",110,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",111,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",112,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",113,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",114,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",115,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.613"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The submitted Site Assessment Plan (SAP) must contain the information necessary for BOEM to conduct its technical and environmental reviews."",
+      ""scope"": ""Site Assessment Plan (SAP) submission phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.613(a)"",
+      ""related_domains"": [
+        ""site assessment"",
+        ""technical review"",
+        ""environmental review"",
+        ""permitting""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": """
+"1",116,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",117,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.617 (page 76 of 98)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Facilities installed on the seabed using a fixed-bottom foundation must undergo professional engineering design and assessment of sediment, meteorological, and oceanographic conditions as part of their design for an approved SAP."",
+      ""scope"": ""Offshore wind farm facilities with fixed-bottom foundations; Design phase."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.617(b) (implied from context of SAP approval)"",
+      ""related_domains"": [
+        ""engineering design"",
+        ""geotechnical assessment"",
+        ""meteorological assessment"",
+        ""oceanographic assessment"",
+        ""structural integrity""
+      ]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""If BOEM determines that the facilities described in a revised SAP are complex or significant, the developer must comply with § 585.614(b)."",
+      ""scope"": ""Offshore wind farm facilities; SAP revision process."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.617(b)(2)"",
+      ""related_domains"": [
+        ""regulatory compliance"","
+"1",118,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",119,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",120,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",121,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",122,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",123,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",124,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.631"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": """
+"1",125,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",126,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",127,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",128,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",129,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",130,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",131,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",132,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR Part 585 (up to date as of 2/18/2025)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""If applying for a project easement or installing a complex or significant facility (or combination) on a limited lease, you must comply with the requirements of 30 CFR part 285, subpart G, and submit your safety management system description required"
+"1",133,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",134,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",135,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",136,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Renewable Energy on the Outer Continental Shelf"",
+    ""document_number"": ""30 CFR 585.700-585.701, page 95 of 98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Comply with the Clean Air Act (42 U.S.C. 7409) and its implementing regulations in 40 CFR part 55."",
+      ""scope"": ""Activities proposed in your SAP, COP, or GAP regarding air quality."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.700(a), Clean Air Act (42 U.S.C. 7409), 40 CFR part 55"",
+      ""related_domains"": [
+        ""air quality"",
+        ""environmental compliance"",
+        ""regulatory compliance""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Submit to BOEM three copies of the modeling report and three sets of digital files as supporting information. The digital files must contain the formatted meteorological files used in the modeling runs, the model input file, and the model output file."",
+      ""scope"": ""Air quality modeling performed in support of activities proposed in the plan, specifically for projects in the western Gulf of Mexico (west of 87.5° west longitude) and offshore of the North Slope Borough of Alaska."",
+      ""numerical_value"": 3,
+      ""unit"": ""copies/sets"",
+      ""source"": ""30 CFR 585.700(b)"",
+      ""related_domains"": [
+        ""air quality modeling"",
+        ""data submission"",
+        ""regulatory reporting""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Not conduct any activity under your lease or grant that may affect threatened or endangered species, and designated critical habitat."",
+      ""scope"": ""Any activity under your lease or grant."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.701(a)"",
+      ""related_domains"": [
+        ""marine mammal protection"",
+        ""endangered species protection"",
+        ""habitat protection"",
+        ""environmental impact assessment""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Recipient of regulatory submissions; Oversight of offshore energy development""
+    }
+  ]
+}
+```"
+"1",137,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",138,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",139,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"1",140,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""30 CFR 585.703(c) (page 98 of 98)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If a biological survey is required, its methods, instrumentation, and the contents of the biological report must be conducted and prepared according to specifications provided by BOEM."",
+      ""scope"": ""Offshore wind farm development (pre-construction/planning phase, specifically for biological surveys)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.703(c)"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""biological surveys"",
+        ""regulatory compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Offshore)"",
+      ""role"": ""Regulatory authority; Environmental oversight; Standard setting body""
+    }
+  ]
+}
+```"

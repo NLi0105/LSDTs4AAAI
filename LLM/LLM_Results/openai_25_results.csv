@@ -1,0 +1,1198 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"25",1,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Offshore Wind Energy Development: Legal Framework"",
+    ""document_number"": ""R40175"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Secretary of the Interior has ultimate authority over offshore wind energy development."",
+      ""scope"": ""Offshore wind energy development in U.S. jurisdiction."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Energy Policy Act of 2005, Section 388"",
+      ""related_domains"": [""permitting process"", ""federal oversight""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM has promulgated rules and guidelines governing the permitting and operation of offshore wind facilities."",
+      ""scope"": ""Permitting and operation of offshore wind facilities."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""related_domains"": [""permitting process"", ""operation standards""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority for offshore wind energy development.""
+    },
+    {
+      ""entity_name"": ""Secretary of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Ultimate authority over offshore wind energy development.""
+    }
+  ]
+}
+```"
+"25",2,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy: Offshore Permitting"",
+    ""document_number"": ""1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Permitting"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""National Environmental Policy Act (NEPA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Coastal Zone Management Act"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Coastal management and oversight""
+    }
+  ]
+}
+```"
+"25",3,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy: Offshore Permitting"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"25",4,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A coastal nation may claim sovereignty over the air space, water, seabed, and subsoil within its territorial sea."",
+      ""scope"": ""U.S. territorial sea"",
+      ""numerical_value"": 12,
+      ""unit"": ""nautical miles"",
+      ""source"": ""1982 United Nations Convention on the Law of the Sea (UNCLOS)"",
+      ""related_domains"": [""offshore development"", ""sovereignty"", ""marine resources""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""A coastal nation may regulate to protect its territorial sea and to enforce its customs, fiscal, immigration, and sanitary laws."",
+      ""scope"": ""U.S. contiguous zone"",
+      ""numerical_value"": 24,
+      ""unit"": ""nautical miles"",
+      ""source"": ""U.S. regulations"",
+      ""related_domains"": [""customs"", ""fiscal laws"", ""immigration"", ""sanitary laws""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority for offshore renewable energy projects""
+    }
+  ]
+}
+```"
+"25",5,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy: Offshore Permitting"",
+    ""document_number"": ""1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Submerged Lands Act of 1953 assured coastal states control over the lands beneath coastal waters in an area stretching three nautical miles from the shore in most places, and nine nautical miles in others."",
+      ""scope"": ""Coastal waters within three to nine nautical miles from the shore"",
+      ""numerical_value"": 3,
+      ""unit"": ""nautical miles"",
+      ""source"": ""Submerged Lands Act of 1953"",
+      ""related_domains"": [""state jurisdiction"", ""offshore wind development""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""States may regulate the coastal waters within their jurisdiction, subject to federal regulation for 'commerce, navigation, national defense, and international affairs' and the power of the federal government to preempt state law."",
+      ""scope"": ""Coastal waters within state jurisdiction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal regulation"",
+      ""related_domains"": [""state regulation"", ""federal oversight""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The federal government has jurisdiction over the potential locations for offshore wind farms to the boundaries of its EEZ."",
+      ""scope"": ""Exclusive Economic Zone (EEZ)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal jurisdiction"",
+      ""related_domains"": [""offshore wind development"", ""federal authority""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Government"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority for offshore wind farm locations and federal waters""
+    },
+    {
+      ""entity_name"": ""Coastal States"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Regulatory authority for coastal waters within three to nine nautical miles""
+    }
+  ]
+}
+```"
+"25",6,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Any wind energy project or facility associated with such a project to be constructed in state waters, including any cables that would be necessary to transmit power back to shore, is subject to applicable state regulation or permitting requirements."",
+      ""scope"": ""State waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coastal Zone Management Act § 1301(a)(2)"",
+      ""related_domains"": [""permitting"", ""state regulation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""State coastal zone management programs that are approved by the Secretary of Commerce receive federal monetary and technical assistance."",
+      ""scope"": ""State coastal zone management programs"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coastal Zone Management Act § 1455(d)(11)"",
+      ""related_domains"": [""federal assistance"", ""coastal management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""State programs must designate conservation measures and permissible uses for land and water resources."",
+      ""scope"": ""Land and water resources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coastal Zone Management Act § 1302"",
+      ""related_domains"": [""resource conservation"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""State programs must address various sources of water pollution."",
+      ""scope"": ""Water resources"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Coastal Zone Management Act § 1302"",
+      ""related_domains"": [""water quality"", ""pollution control""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Secretary of Commerce"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Approves state coastal zone management programs""
+    }
+  ]
+}
+```"
+"25",7,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Coastal Zone Management Programs"",
+    ""document_number"": ""2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""the federal government and federally permitted activities be 'consistent to the maximum extent practicable with' that program"",
+      ""scope"": ""Federal waters and state coastal zones"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""16 U.S.C. § 1455(d)(2)"",
+      ""related_domains"": [""coastal zone management"", ""federal permitting"", ""state regulation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""states may participate in federal efforts to permit projects in federal waters to ensure that such projects are consistent with state coastal zone management regulation"",
+      ""scope"": ""Federal waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""16 U.S.C. § 1455(d)(16)"",
+      ""related_domains"": [""coastal zone management"", ""federal permitting"", ""state regulation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight of coastal zone management programs""
+    }
+  ]
+}
+```"
+"25",8,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""The Energy Policy Act of 2005 (EPAct)"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Corps has jurisdiction under these laws to permit obstructions to navigation within the 'navigable waters of the United States' and on the OCS."",
+      ""scope"": ""Outer Continental Shelf (OCS), navigable waters of the United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 10 of the Rivers and Harbors Act (RHA), as amended by the Outer Continental Shelf Lands Act (OCSLA)"",
+      ""related_domains"": [""navigational safety"", ""permitting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Lead role in the federal offshore wind energy permitting process""
+    },
+    {
+      ""entity_name"": ""Department of the Interior (DOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority for onshore wind projects on federal public lands""
+    }
+  ]
+}
+```"
+"25",9,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy: Offshore Permitting"",
+    ""document_number"": ""Section 388 of EPAct"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""It shall not be lawful to build or commence the building of any wharf, pier, dolphin, boom, weir, breakwater, bulkhead, jetty, or other structures in any port, roadstead, haven, harbor, canal, navigable river, or other water of the United States, outside established harbor lines, or where no harbor lines have been established, except on plans recommended by the Chief of Engineers and authorized by the Secretary of the Army."",
+      ""scope"": ""Navigable waters of the United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 U.S.C. § 403"",
+      ""related_domains"": [""navigational safety"", ""construction regulation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""It shall not be lawful to excavate or fill, or in any manner to alter or modify the course, location, condition, or capacity of, any port, roadstead, haven, harbor, canal, lake, harbor or refuge, or enclosure within the limits of any breakwater, or of the channel of any navigable water of the United States, unless the work has been recommended by the Chief of Engineers and authorized by the Secretary of the Army prior to beginning the same."",
+      ""scope"": ""Navigable waters of the United States"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 U.S.C. § 403"",
+      ""related_domains"": [""navigational safety"", ""construction regulation""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Section 388 authorized the Secretary of the Interior, in consultation with other federal agencies, to grant leases, easements, or rights-of-way on the OCS for certain activities—wind energy development among them—not authorized by other relevant statutes."",
+      ""scope"": ""Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Section 388 of EPAct"",
+      ""related_domains"": [""permitting"", ""offshore energy development""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Secretary of the Army"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Authorization of construction and alteration of navigable waters""
+    },
+    {
+      ""entity_name"": ""Secretary of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Granting leases, easements, or rights-of-way for offshore energy projects""
+    },
+    {
+      ""entity_name"": ""Chief of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Recommendation for construction and alteration of navigable waters""
+    }
+  ]
+}
+```"
+"25",10,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""offshore development continues to require a Corps permit pursuant to the RHA."",
+      ""scope"": ""Offshore development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""RHA"",
+      ""related_domains"": [""permitting"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies that take actions with respect to energy development must comply with environmental review requirements and species protection laws."",
+      ""scope"": ""Energy development activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal environmental laws"",
+      ""related_domains"": [""environmental impact assessment"", ""species protection""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The law directs the Secretary of the Interior to consult with other agencies as a part of its leasing, easement, and right-of-way granting process."",
+      ""scope"": ""Leasing, easement, and right-of-way granting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPAct"",
+      ""related_domains"": [""permitting"", ""inter-agency coordination""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""DOI is responsible for ensuring that activities carried out pursuant to its new authority provide for coordination with relevant federal agencies."",
+      ""scope"": ""Activities under DOI authority"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPAct"",
+      ""related_domains"": [""inter-agency coordination"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Financial"",
+      ""requirement"": ""The law also directs the Secretary to establish a system of royalties, fees, rentals, bonuses, or other payments that will ensure a fair return to the United States for any property interest granted under this provision."",
+      ""scope"": ""Property interests granted under EPAct"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPAct"",
+      ""related_domains"": [""financial regulation"", ""royalties""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""Department of the Interior (DOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Primary agency for offshore wind energy development""
+    }
+  ]
+}
+```"
+"25",11,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy: Offshore Permitting"",
+    ""document_number"": ""27"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The relevant property interest may only be issued if the OCS activity will support exploration, development, production, or storage of oil or natural gas, except that a lease, easement, or right-of-way shall not be granted in an area in which oil and gas preleasing, leasing, and related activities are prohibited by a moratorium."",
+      ""scope"": ""Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""43 U.S.C. § 1337(p)(1)(A)"",
+      ""related_domains"": [""oil and gas exploration"", ""leasing regulations""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The relevant property interest may only be issued if the OCS activity will support transportation of oil or natural gas, excluding shipping activities."",
+      ""scope"": ""Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""43 U.S.C. § 1337(p)(1)(B)"",
+      ""related_domains"": [""oil and gas transportation"", ""leasing regulations""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The relevant property interest may only be issued if the OCS activity will produce or support production, transportation, or transmission of energy from sources other than oil and gas."",
+      ""scope"": ""Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""43 U.S.C. § 1337(p)(1)(C)"",
+      ""related_domains"": [""renewable energy production"", ""energy transmission""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The relevant property interest may only be issued if the OCS activity will use, for energy-related purposes or for other authorized marine-related purposes, facilities currently or previously used for activities authorized under ... [the OCLSA], except that any oil and gas energy-related uses shall not be authorized in areas in which oil and gas preleasing, leasing, and related activities are prohibited by a moratorium."",
+      ""scope"": ""Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""43 U.S.C. § 1337(p)(1)(D)"",
+      ""related_domains"": [""marine facility usage"", ""energy-related activities""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"25",12,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Leases, easements, and rights-of-way are to be issued on a competitive basis, subject to limited exceptions."",
+      ""scope"": ""Offshore wind energy development"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPAct Section 388"",
+      ""related_domains"": [""property interests"", ""regulatory compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The allocation is based upon a formula that equitably distributes to states 27% of the revenues collected by the federal government."",
+      ""scope"": ""Revenue allocation for offshore wind projects"",
+      ""numerical_value"": 27,
+      ""unit"": ""%"",
+      ""source"": ""EPAct Section 388"",
+      ""related_domains"": [""financial regulation"", ""state revenue sharing""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""States that have a coastline that is located within 15 miles of the geographic center of the project are entitled to a revenue share."",
+      ""scope"": ""Revenue sharing eligibility based on project location"",
+      ""numerical_value"": 15,
+      ""unit"": ""miles"",
+      ""source"": ""EPAct Section 388"",
+      ""related_domains"": [""coastal management"", ""state revenue sharing""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Secretary of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Authorized to grant leases, easements, and rights-of-way for offshore wind energy development.""
+    }
+  ]
+}"
+"25",13,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The law requires the holder of a Section 388 property interest to 'provide for the restoration of the lease, easement, or right-of-way' and to furnish a surety bond or other form of security."",
+      ""scope"": ""Offshore Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPAct Section 388"",
+      ""related_domains"": [""financial assurance"", ""environmental protection"", ""public interest""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Secretary is empowered to impose 'such other requirements as the Secretary considers necessary to protect the interests of the public and the United States.'"",
+      ""scope"": ""Offshore Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPAct Section 388"",
+      ""related_domains"": [""public interest"", ""regulatory oversight""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Section 388 requires the Secretary of the Interior to provide for coordination and consultation with a state’s governor or the executive of any local government that may be affected by a lease, easement, or right-of-way granted under this new authority."",
+      ""scope"": ""Offshore Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPAct Section 388"",
+      ""related_domains"": [""state consultation"", ""permitting process""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Secretary of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority and regulatory oversight""
+    }
+  ]
+}"
+"25",14,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy: Offshore Permitting"",
+    ""document_number"": ""5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The law makes clear that it does not affect any state’s claim to jurisdiction over, or any right, title, or interest in, any submerged lands."",
+      ""scope"": ""Submerged lands"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""43 U.S.C. § 1337(p)(6)"",
+      ""related_domains"": [""jurisdiction"", ""property rights""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The rulemaking authorized BOEM to issue two types of OCS leases."",
+      ""scope"": ""Outer Continental Shelf (OCS) energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Final rule issued by DOI in 2009"",
+      ""related_domains"": [""permitting process"", ""energy production""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Limited leases grant access and operational rights to the lessee for activities related to the production of energy, including assessment and testing activities."",
+      ""scope"": ""Limited leases for energy production"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Final rule issued by DOI in 2009"",
+      ""related_domains"": [""energy assessment"", ""testing activities""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Commercial leases would give the lessee full rights to receive authorizations necessary to assess, test, and produce renewable energy on a commercial scale over the long term (approximately 30 years)."",
+      ""scope"": ""Commercial leases for renewable energy"",
+      ""numerical_value"": 30,
+      ""unit"": ""years"",
+      ""source"": ""Final rule issued by DOI in 2009"",
+      ""related_domains"": [""renewable energy production"", ""long-term planning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority for Outer Continental Shelf energy projects""
+    },
+    {
+      ""entity_name"": ""Department of the Interior (DOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight and rulemaking for energy projects""
+    }
+  ]
+}
+```"
+"25",15,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""BOEM shares 27% of revenues for any project located wholly or partially within the area extending three nautical miles seaward of State submerged lands with any eligible state."",
+      ""scope"": ""Area extending three nautical miles seaward of State submerged lands"",
+      ""numerical_value"": 27,
+      ""unit"": ""percent"",
+      ""source"": ""EPAct"",
+      ""related_domains"": [""revenue sharing"", ""state eligibility"", ""offshore wind projects""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""NEPA requires federal agencies to analyze and disclose the environmental consequences of their actions."",
+      ""scope"": ""Federal actions affecting the environment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Environmental Policy Act (NEPA)"",
+      ""related_domains"": [""environmental impact assessment"", ""federal actions""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority and revenue sharing for offshore renewable energy projects""
+    }
+  ]
+}"
+"25",16,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy: Offshore Permitting"",
+    ""document_number"": ""46 30 C.F.R. § 585.540"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""the preparation of an environmental impact statement (EIS), a document containing detailed analysis of the project as proposed, as well as other alternatives, including taking no action at all."",
+      ""scope"": ""Offshore wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 C.F.R. § 585.540"",
+      ""related_domains"": [""environmental impact assessment"", ""wildlife protection"", ""socioeconomic conditions"", ""air and water quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""an agency may prepare an environmental assessment (EA) to assess the impacts of the project, and proceed to an EIS only if necessary."",
+      ""scope"": ""Offshore wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 C.F.R. § 585.540"",
+      ""related_domains"": [""environmental impact assessment"", ""wildlife protection"", ""socioeconomic conditions"", ""air and water quality""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"25",17,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": ""Programmatic Environmental Impact Statement for Alternative Energy Development and Production and Alternate Use of Facilities on the Outer Continental Shelf"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Additional environmental review pursuant to the NEPA will be required for all future site-specific projects on the OCS."",
+      ""scope"": ""Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEPA"",
+      ""related_domains"": [""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The filing of a 'construction and operation plan' for commercial activity by a lessee necessitates a separate NEPA analysis that will likely take the form of an Environmental Impact Statement (EIS)."",
+      ""scope"": ""Commercial activity on the OCS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEPA"",
+      ""related_domains"": [""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    },
+    {
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"25",18,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy: Offshore Permitting"",
+    ""document_number"": ""56"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Note that the January 2023 proposed rule that would require BOEM to conduct long-term planning and scheduling of lease auction would likely also require preparation of an EIS."",
+      ""scope"": ""Lease auction planning and scheduling for offshore wind energy projects."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Renewable Energy Modernization Rule; Notice of Proposed Rulemaking, 88 Fed. Reg. 5968 (proposed Jan. 30, 2023)"",
+      ""related_domains"": [""environmental impact assessment"", ""lease management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Commercial Wind Lease Issuance and Site Assessment Activities on the Atlantic Outer Continental Shelf Offshore Rhode Island and Massachusetts; Notice of the Availability of a Revised Environmental Assessment and Finding of No Significant Impact."",
+      ""scope"": ""Offshore Rhode Island and Massachusetts."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""78 Fed. Reg. 33908 (June 5, 2013)"",
+      ""related_domains"": [""environmental impact assessment"", ""site assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Commercial Wind Lease Issuance and Site Assessment Activities on the Atlantic Outer Continental Shelf (OCS) Offshore New Jersey, Delaware, Maryland, and Virginia–Notice of Availability (NOA) of an Environmental Assessment (EA) and Finding of No Significant Impact."",
+      ""scope"": ""Offshore New Jersey, Delaware, Maryland, and Virginia."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""77 Fed. Reg. 5560 (Feb. 3, 2012)"",
+      ""related_domains"": [""environmental impact assessment"", ""site assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Commercial Wind Leasing and Site Assessment Activities on the Atlantic Outer Continental Shelf Offshore Massachusetts; Notice of Intent to Prepare an Environmental Assessment."",
+      ""scope"": ""Offshore Massachusetts."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""77 Fed. Reg. 5830 (Feb. 6, 2012)"",
+      ""related_domains"": [""environmental impact assessment"", ""site assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Notice of Intent to Prepare an Environmental Impact Statement for Vineyard Wind LLC’s Proposed Wind Energy Facility Offshore Massachusetts."",
+      ""scope"": ""Offshore Massachusetts."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""83 Fed. Reg. 13777 (Mar. 30, 2018)"",
+      ""related_domains"": [""environmental impact assessment"", ""project development""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"25",19,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies ensure that their actions do not jeopardize listed species or adversely modify or destroy critical habitat."",
+      ""scope"": ""Actions affecting endangered or threatened species and their critical habitat."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act, Section 7"",
+      ""related_domains"": [""environmental impact assessment"", ""species protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Consult with the U.S. Fish and Wildlife Service or the National Marine Fisheries Service about the potential effect of their actions on listed species and critical habitat."",
+      ""scope"": ""Actions affecting endangered or threatened species and their critical habitat."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act, Section 7"",
+      ""related_domains"": [""environmental impact assessment"", ""species protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NOAA Fisheries)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}"
+"25",20,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Section 7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A listed species or its designated critical habitat may be present in a project area."",
+      ""scope"": ""Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (ESA), 16 U.S.C. § 1531–1544"",
+      ""related_domains"": [""environmental impact assessment"", ""species protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Under the ESA, species are listed as either 'endangered' or 'threatened' based on the risk of their extinction."",
+      ""scope"": ""Species classification"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Endangered Species Act (ESA), 16 U.S.C. § 1532(6), (20)"",
+      ""related_domains"": [""species protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"25",21,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy: Offshore Permitting"",
+    ""document_number"": ""8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies must 'confer' with the appropriate Secretary if their actions are likely to jeopardize the continued existence of any proposed listed species or critical habitat."",
+      ""scope"": ""Actions by federal agencies that may affect listed species or critical habitat."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""16 U.S.C. § 1536(a)(4)"",
+      ""related_domains"": [""species protection"", ""habitat conservation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If the acting federal agency determines that a project may adversely affect a listed species or critical habitat, it must undertake formal consultation with the Services."",
+      ""scope"": ""Projects that may adversely affect listed species or critical habitat."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 C.F.R. § 402.12(c)"",
+      ""related_domains"": [""environmental impact assessment"", ""species protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The biological opinion, which is prepared by FWS or NMFS as appropriate, contains a detailed analysis of the effects of the agency action and determines whether the proposed action is likely to (1) jeopardize the species or (2) destroy or adversely modify its critical habitat."",
+      ""scope"": ""Biological opinions prepared for agency actions affecting listed species or critical habitat."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""16 U.S.C. § 1536(c)(1)"",
+      ""related_domains"": [""species protection"", ""habitat conservation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (FWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and consultation regarding listed species.""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and consultation regarding marine species.""
+    }
+  ]
+}
+```"
+"25",22,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The MMPA allows FWS and NMFS to authorize the incidental taking of small numbers of marine mammals for a period of not more than five consecutive years."",
+      ""scope"": ""U.S. waters and high seas"",
+      ""numerical_value"": 5,
+      ""unit"": ""years"",
+      ""source"": ""Marine Mammal Protection Act (MMPA)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Such incidental take may be authorized only upon certain findings, in particular that the take will have a negligible impact on the species or stock."",
+      ""scope"": ""U.S. waters and high seas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Marine Mammal Protection Act (MMPA)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)/National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (FWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"25",23,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Wind Energy: Offshore Permitting"",
+    ""document_number"": ""9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The statute defines *Secretary* as the Secretary of the department in which NOAA is operating (Commerce) for purposes of regulation related to all members of the order Cetacea (whales and porpoises) and all members, except walruses, of the order Pinnipedia (seals)."",
+      ""scope"": ""Regulation of marine mammals"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""16 U.S.C. § 1362(12)(A)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The statute defines *Secretary* as Secretary of the Interior (operating through the FWS) with respect to all other marine mammals (manatees, dugongs, polar bears, sea otters, and walruses)."",
+      ""scope"": ""Regulation of marine mammals"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""16 U.S.C. § 1362(12)(A)"",
+      ""related_domains"": [""marine mammal protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (FWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"25",24,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The MBTA generally prohibits the taking, killing, possession, or transportation of, and trafficking in, migratory birds, their eggs, parts, and nests unless authorized by a permit."",
+      ""scope"": ""Operation of permitted wind energy facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Migratory Bird Treaty Act (MBTA)"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The Secretary of the Interior is authorized to determine if, and by what means, the taking of migratory birds should be allowed."",
+      ""scope"": ""Permitting process for wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Migratory Bird Treaty Act (MBTA)"",
+      ""related_domains"": [""permitting"", ""avian protection""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""An applicant must make 'a sufficient showing of benefit to the migratory bird resource, important research reasons, reasons of human concern for individual birds, or other compelling justification.'"",
+      ""scope"": ""Application for special use permits under FWS regulations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 C.F.R. Part 21"",
+      ""related_domains"": [""permitting"", ""avian protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (FWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority for migratory bird protection""
+    },
+    {
+      ""entity_name"": ""Secretary of the Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Authority to determine conditions for the taking of migratory birds""
+    }
+  ]
+}"
+"25",25,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""the MBTA does not prohibit incidental take, including any resulting from wind-energy facilities."",
+      ""scope"": ""Offshore wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FWS rule issued on January 7, 2021"",
+      ""related_domains"": [""avian protection"", ""environmental compliance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""the MBTA’s broad prohibition on taking and killing migratory birds by any means and in any manner includes incidental taking and killing."",
+      ""scope"": ""Offshore wind energy projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DOI Solicitor legal opinion issued in 2017"",
+      ""related_domains"": [""avian protection"", ""environmental compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (FWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Department of the Interior (DOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Legal advisory and oversight""
+    }
+  ]
+}"
+"25",26,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Memorandum M–37050 from Principal Deputy Solicitor, DOI, to Sec. DOI"",
+    ""document_number"": ""90"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Regulations Governing Take of Migratory Birds, Final Rule, 86 Fed. Reg. 1134 (Jan. 7, 2021) (codifying DOI Solicitor’s Opinion M–37050)"",
+      ""scope"": ""Migratory bird take regulations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""86 Fed. Reg. 1134 (Jan. 7, 2021)"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""FWS finalized the proposed rule on October 4, 2021, revoking the January 7 rule effective December 3, 2021."",
+      ""scope"": ""Revocation of previous migratory bird regulations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FWS Final Rule"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (FWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Department of the Interior (DOI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority""
+    }
+  ]
+}
+```"
+"25",27,"openai","gpt-4o-mini",True,"{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""The EPAct of 2005 amended OCSLA to provide DOI with authority to grant offshore property interests for the purpose of wind energy development."",
+      ""scope"": ""Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EPAct of 2005"",
+      ""related_domains"": [""permitting"", ""offshore wind energy development""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The FWS has adopted voluntary guidelines for minimizing the wildlife impacts from wind energy turbines."",
+      ""scope"": ""Land-based projects (guidance may be applicable to offshore by extension)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""FWS Voluntary Guidelines"",
+      ""related_domains"": [""wildlife protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service (FWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight and permitting authority regarding migratory birds and eagles.""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Outer Continental Shelf - USA"",
+      ""role"": ""Permitting authority for offshore wind energy development.""
+    }
+  ]
+}"
+"25",28,"openai","gpt-4o-mini",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Regulations Governing Take of Migratory Birds; Revocation of Provisions"",
+    ""document_number"": ""94"",
+    ""type_of_wind_farm"": ""Unspecified""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The MBTA’s prohibition applies to incidental taking."",
+      ""scope"": ""Activities involving the take of migratory birds."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DOI Solicitor Opinion M-37041"",
+      ""related_domains"": [""avian protection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Current regulations authorize permits for take of migratory birds for activities such as scientific research, education, and depredation control."",
+      ""scope"": ""Permitting for activities involving migratory birds."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""69 Fed. Reg. 31074 (June 2, 2004)"",
+      ""related_domains"": [""permitting"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"25",29,"openai","gpt-4o-mini",False,"NO_RELEVANT_DATA_FOUND"

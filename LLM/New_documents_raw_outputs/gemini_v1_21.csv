@@ -1,0 +1,311 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"21","gemini","gemini-1.5-pro",333397,188064,3,3,False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""project_name"": ""Vineyard Wind 1 Offshore Wind Energy Project"",
+    ""project_location"": ""OCS offshore Massachusetts""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generator"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Generates electricity from wind."",
+      ""source_section_number"": ""Table 3 - 1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Export Cables"",
+      ""component_acronym"": null,
+      ""description"": ""Cables that transmit electricity from the wind farm to shore."",
+      ""source_section_number"": ""Table 3 - 1""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Electrical Service Platform"",
+      ""component_acronym"": ""ESP"",
+      ""description"": null,
+      ""source_section_number"": ""Appendix A""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Monopile Foundation"",
+      ""component_acronym"": null,
+      ""description"": null,
+      ""source_section_number"": ""Measure 28""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Jacket Foundation"",
+      ""component_acronym"": null,
+      ""description"": null,
+      ""source_section_number"": ""Measure 28""
+    },
+    {
+      ""component_id"": ""COMP-06"",
+      ""component_name"": ""Inter-array cable"",
+      ""component_acronym"": null,
+      ""description"": null,
+      ""source_section_number"": ""Measure 18""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""No surface occupancy in the northernmost portion of the project area (approximately six WTG locations)."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Table 3 - 1"",
+      ""geographic_scope"": ""Northernmost portion of the project area"",
+      ""context_quote"": ""Under Alternative C…no surface occupancy would occur in the northernmost portion of the proposed Project area…This alternative would result in the exclusion of approximately six of the northernmost WTG locations.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Minimum 1 nautical mile spacing between WTGs."",
+      ""value"": 1,
+      ""unit"": ""nmi"",
+      ""source_section_number"": ""Table 3 - 1"",
+      ""geographic_scope"": ""Project Area"",
+      ""context_quote"": ""Under Alternative D1, WTGs would have a minimum spacing of 1 nmi between them, and the lanes between turbines would also be a minimum of 1 nmi…""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""East-west orientation with 1 nautical mile minimum spacing."",
+      ""value"": 1,
+      ""unit"": ""nmi"",
+      ""source_section_number"": ""Table 3 - 1"",
+      ""geographic_scope"": ""Project Area"",
+      ""context_quote"": ""Under Alternative D2, the wind turbine layout would be arranged in an east-west orientation and all WTGs in the east-west direction would have a minimum spacing of 1 nmi between them…""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""No more than 84 WTGs."",
+      ""value"": 84,
+      ""unit"": ""WTGs"",
+      ""source_section_number"": ""Table 3 - 1"",
+      ""geographic_scope"": ""Project Area"",
+      ""context_quote"": ""Under Alternative E…the proposed Project would consist of no more than 84 WTGs…""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""No surface occupancy within vessel transit lane."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Table 3 - 1"",
+      ""geographic_scope"": ""Vessel transit lane through the WDA"",
+      ""context_quote"": ""Under Alternative F, a vessel transit lane through the WDA would be established in which no surface occupancy would occur.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Non-HDD cable laying in Nantucket Sound outside April to June."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Measure 11"",
+      ""geographic_scope"": ""Northern part of the offshore export cable area within Nantucket Sound waters"",
+      ""context_quote"": ""The non-HDD cable laying operations in the northern part of the offshore export cable area within Nantucket Sound waters will occur outside of April to June.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Cable protection in hard bottom must be natural or engineered stone."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Measure 14"",
+      ""geographic_scope"": ""Complex hard-bottom habitat"",
+      ""context_quote"": ""Cable protection measures within complex hard-bottom habitat…will consist of natural or engineered stone…""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Cable protection in Nantucket waters must be natural materials."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Measure 14"",
+      ""geographic_scope"": ""Town of Nantucket waters"",
+      ""context_quote"": ""Additionally, per the Nantucket Order of Conditions…cable protection, where required in Town of Nantucket waters, must consist of natural materials that mimic the surrounding seafloor.""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Six northeastern turbine placement locations removed."",
+      ""value"": 6,
+      ""unit"": null,
+      ""source_section_number"": ""Measure 65"",
+      ""geographic_scope"": ""Northeastern portion of the WDA"",
+      ""context_quote"": ""Require Vineyard Wind to not place turbines within the area defined by the six northeastern most turbine locations in the proposed layout…""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTGs painted no lighter than RAL 9010 Pure White and no darker than RAL 7035 Light Grey."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Measure 66"",
+      ""geographic_scope"": ""Project Area"",
+      ""context_quote"": ""Require Vineyard Wind to paint the WTGs off-white/light grey (no lighter than RAL 9010 Pure White and no darker than RAL 7035 Light Grey)…""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Safety Standard"",
+      ""description"": ""WTG rotors must have control mechanisms to shut down within an agreed upon time."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Measure 84"",
+      ""geographic_scope"": ""Project Area"",
+      ""context_quote"": ""Equip all WTG rotors (blade assemblies) with control mechanisms operable from the Vineyard Wind control centers…The control mechanisms shall enable control room operators to shut down the requested WTGs within an agreed upon time of notification between the USCG and Vineyard Wind.""
+    },
+    {
+      ""constraint_id"": ""C-012"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Safety Standard"",
+      ""description"": ""Each WTG and ESP must be marked with PATONs, subject to USCG approval."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Measure 83"",
+      ""geographic_scope"": ""Project Area"",
+      ""context_quote"": ""Each WTG and ESP will be marked with PATONs, subject to the approval of the Commander (dpw-1), First Coast Guard District.""
+    },
+    {
+      ""constraint_id"": ""C-013"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Safety Standard"",
+      ""description"": ""If ESPs include helicopter landing platforms, they must accommodate USCG HH60 helicopters."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Measure 93"",
+      ""geographic_scope"": ""Project Area"",
+      ""context_quote"": ""If Vineyard Wind's ESPs include helicopter-landing platforms, those platforms will be designed and built to accommodate USCG HH60 rescue helicopters.""
+    },
+    {
+      ""constraint_id"": ""C-014"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""No pile-driving from December 1 to April 30 (with exceptions)."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Measure 29"",
+      ""geographic_scope"": ""Project Area"",
+      ""context_quote"": ""No pile-driving activities may occur from December 1 to April 30 of any year.""
+    },
+    {
+      ""constraint_id"": ""C-015"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Export cable conduits installation not initiated between April 1 and August 31."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Measure 3"",
+      ""geographic_scope"": ""Project Area"",
+      ""context_quote"": ""Installation of export cable conduits is not expected to be initiated between April 1 and August 31.""
+    },
+    {
+      ""constraint_id"": ""C-016"",
+      ""linked_component_id"": null,
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Trees greater than 3 inches diameter at breast height not cleared from June 1 to July 31."",
+      ""value"": 3,
+      ""unit"": ""inches"",
+      ""source_section_number"": ""Measure 10"",
+      ""geographic_scope"": null,
+      ""context_quote"": ""Require that trees greater than 3 inches (7.6 centimeters) diameter at breast height not be cleared from June 1 to July 31.""
+    },
+    {
+      ""constraint_id"": ""C-017"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""500-meter clearance and shutdown zone for pile-driving for North Atlantic right whales."",
+      ""value"": 500,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""Measure 36"",
+      ""geographic_scope"": ""1000m from pile"",
+      ""context_quote"": ""For all pile-driving activities, any large whale that cannot be identified to species by a PSO must be treated as a NARW if it is visually sighted within 1,000 m of the pile for clearance and shutdown purposes any time of the year.""
+    },
+    {
+      ""constraint_id"": ""C-018"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Vessel speed 10 knots or less from November 1 through May 14 within the WDA (with exceptions)."",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""Measure 53"",
+      ""geographic_scope"": ""WDA (excluding Nantucket Sound unless an active DMA is in place)"",
+      ""context_quote"": ""From November 1 through May 14, all vessels must travel at 10 knots or less when transiting to, from. or within the WDA, except within Nantucket Sound (unless an active DMA is in place) and except crew transfer vessels as described below.""
+    },
+    {
+      ""constraint_id"": ""C-019"",
+      ""linked_component_id"": null,
+      ""category"": ""Safety Standard"",
+      ""description"": ""Vessels 65 feet or greater must comply with 10-knot speed restriction in SMAs."",
+      ""value"": 65,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""Measure 55"",
+      ""geographic_scope"": ""SMAs"",
+      ""context_quote"": ""All vessels greater than or equal to 65 feet (19.8 meter) in overall length must comply with the 10-knot speed restriction in any SMA…""
+    },
+    {
+      ""constraint_id"": ""C-020"",
+      ""linked_component_id"": ""COMP-06"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Initial inter-array and export cable inspection within 6 months of commissioning."",
+      ""value"": 6,
+      ""unit"": ""months"",
+      ""source_section_number"": ""Measure 18"",
+      ""geographic_scope"": ""Inter-array and export cable"",
+      ""context_quote"": ""In federal waters, the initial inter-array and export cable inspection will be carried out within 6 months of commissioning…""
+    },
+    {
+      ""constraint_id"": ""C-021"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""1640-foot clearance and shutdown zone for pile-driving for sea turtles."",
+      ""value"": 1640,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""Measure 34"",
+      ""geographic_scope"": ""500-meter radius around pile-driving activities"",
+      ""context_quote"": ""PSOs will establish a 1,640.4-foot (500-meter) clearance and shutdown zone for all pile-driving activities.""
+    },
+    {
+      ""constraint_id"": ""C-022"",
+      ""linked_component_id"": null,
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Vessels must maintain 328-foot separation distance from sea turtles."",
+      ""value"": 328,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""Measure 51"",
+      ""geographic_scope"": ""Project Area"",
+      ""context_quote"": ""All vessels must maintain a minimum separation distance of 328 feet (100 meters) from sea turtles whenever possible.""
+    },
+    {
+      ""constraint_id"": ""C-023"",
+      ""linked_component_id"": null,
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Vessels must avoid transiting through jellyfish aggregations or floating vegetation from June 1 to November 30."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Measure 51"",
+      ""geographic_scope"": ""Project Area"",
+      ""context_quote"": ""Between June 1 and November 30, vessels must avoid transiting through areas of visible jellyfish aggregations or floating vegetation lines or mats.""
+    },
+    {
+      ""constraint_id"": ""C-024"",
+      ""linked_component_id"": null,
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Vessels must reduce speed to 10 knots or less when mother/calf pairs, pods, or large assemblages of"

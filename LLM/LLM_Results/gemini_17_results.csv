@@ -1,0 +1,3284 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+17,1,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,2,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,3,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,4,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,5,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,6,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,7,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,8,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,9,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,10,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,11,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,12,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,13,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,14,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,15,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""ix"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEMRE"",
+      ""jurisdiction"": ""US Outer Continental Shelf (OCS)"",
+      ""role"": ""Contract issuer (implied regulatory influence through project objectives)""
+    }
+  ]
+}
+```"
+17,16,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The relevant load cases specified in IEC 61400-3"",
+      ""scope"": ""Offshore wind turbines, specifically bottom-founded turbines subjected to tropical hurricane conditions in US waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""structural integrity"", ""load calculations"", ""hurricane resilience""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,17,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""xi"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management, Regulation, and Enforcement (BOEMRE)"",
+      ""jurisdiction"": ""US Outer Continental Shelf (OCS)"",
+      ""role"": ""Regulation and Enforcement""
+    },
+    {
+      ""entity_name"": ""American Petroleum Institute (API)"",
+      ""jurisdiction"": ""US Outer Continental Shelf (OCS)"",
+      ""role"": ""Standard setting body (Recommended Practices)""
+    },
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,18,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""an offshore wind turbine support structure in US waters designed to ABS criteria is at least as safe as those designed to IEC 61400 3 (2009) under European offshore conditions"",
+      ""scope"": ""US waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ABS *Guide for Building and Classing Offshore Wind Turbine Installations* (2010)"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": ""International (with a focus on US waters in this context)"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,19,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Breaking wave load for design must be determined according to the guidelines provided."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2007) Annex D"",
+      ""related_domains"": [""structural integrity"", ""loads and responses""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,20,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+17,21,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American Bureau of Shipping (ABS)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Petroleum Institute (API)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,22,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,23,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,24,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,25,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Regional averaged extreme wind speeds in the GOM must comply with API Bulletin 2INT-MET (2007)."",
+      ""scope"": ""GOM (Gulf of Mexico)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API Bulletin 2INT-MET (2007)"",
+      ""related_domains"": [""structural design"", ""wind loading""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""100-year return wind speeds must comply with API RP 2A-WSD (2007)."",
+      ""scope"": ""US OCS (Outer Continental Shelf)"",
+      ""numerical_value"": 100,
+      ""unit"": ""years"",
+      ""source"": ""API RP 2A-WSD (2007)"",
+      ""related_domains"": [""structural design"", ""wind loading""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind speed requirements for various return periods for both on-land and coastal regions in the US must comply with ASCE-7 (2010)."",
+      ""scope"": ""US on-land and coastal regions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ASCE-7 (2010)"",
+      ""related_domains"": [""structural design"", ""wind loading""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,26,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,27,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,28,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,29,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,30,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""11"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+17,31,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""12"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""IEC 61400-3 recommends using Mann’s spectrum, but also makes a reference to Kaimal spectrum, for application to offshore wind turbine design."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""turbine design"", ""wind modeling""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,32,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The turbulent wind is represented by the NPD wind spectrum (also known as the Frøya wind model) and the two-point coherence function in conjunction with the logarithmic wind shear law."",
+      ""scope"": ""Design of offshore structures and structural elements for which the wind load induced dynamic responses need to be considered"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 2A-WSD (2007) [2.5], API Bulletin 2INT-MET (2007) [2.4] and ISO 19901-1 [2.41]"",
+      ""related_domains"": [""structural integrity"", ""wind load""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,33,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""13"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Hurricane generated waves will drive up surface roughness and lead to a steeper wind profile."",
+      ""scope"": ""Hurricane generated waves in offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Contract M10PC00105"",
+      ""related_domains"": [""meteorology"", ""wave modeling"", ""wind resource assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Charnock relation [should be used] for calculating surface roughness length over the sea."",
+      ""scope"": ""Calculating surface roughness length in offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 [2.40]"",
+      ""related_domains"": [""oceanography"", ""wind resource assessment"", ""turbine design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,34,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Along with the extreme wind, the parameters of extreme wave with various return periods are specified in API Bulletin 2INT-MET (2007) and API RP 2A-WSD (2007) for selected offshore sites on the US OCS."",
+      ""scope"": ""US OCS, Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API Bulletin 2INT-MET (2007) [2.4], API RP 2A-WSD (2007) [2.5]"",
+      ""related_domains"": [""metocean conditions"", ""structural design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,35,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,36,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,37,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,38,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""18"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The DLCs for the hurricane conditions must also take into account of the effects of the turbine’s operations during the hurricane’s passage."",
+      ""scope"": ""Offshore wind turbine support structure design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Contract M10PC00105: Design Standards for Offshore Wind Farms Final Report"",
+      ""related_domains"": [""structural integrity"", ""hurricane resilience"", ""turbine operation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,39,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""19"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Maintain the same 50-year return period and the same level of safety as required by IEC 61400-3 for hurricane conditions."",
+      ""scope"": ""Hurricane-prone regions, specifically the Gulf of Mexico"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""structural integrity"", ""safety"", ""extreme weather events""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,40,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Support structure designs based on the API 100-year conditions in conjunction with the API safety factors yield a reliability level comparable to that for designs based on IEC 61400-3 and ISO 19902."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": 100,
+      ""unit"": ""years"",
+      ""source"": ""API RP 2A-WSD"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Designs based on IEC 61400-3 and ISO 19902 provide a specific reliability level."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3, ISO 19902"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The design requirement for offshore wind turbine support structures in hurricane-prone regions is specifically defined."",
+      ""scope"": ""Offshore wind turbine support structures in hurricane-prone regions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""*ABS Guide for Building and Classing Offshore Wind Turbine Installations*"",
+      ""related_domains"": [""structural integrity"", ""extreme weather conditions""]
+    }
+
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""MMS/BOEMRE"",
+      ""jurisdiction"": ""US waters"",
+      ""role"": ""Regulatory oversight (implied)""
+    },
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": ""International (implied, due to the nature of classification societies)"",
+      ""role"": ""Standard setting body""
+    }
+
+  ]
+}
+```"
+17,41,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""20"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The definition of “Operating” and “Extreme” design conditions in API RP 2A-WSD (2007) is not directly applicable to offshore wind turbines because of the unique load characteristic of offshore wind turbines."",
+      ""scope"": ""Offshore wind turbines in US waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 2A-WSD (2007)"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""offshore wind turbines in US waters would not achieve the same level of safety as those in European waters if the existing IEC Ultimate Limit State (ULS) design criteria were applied without any modification"",
+      ""scope"": ""Offshore wind turbines in US waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC Ultimate Limit State (ULS) design criteria"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,42,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""21"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,43,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Turbine support structure design should be comparable in terms of strength to those designed to API RP 2A-WSD."",
+      ""scope"": ""Turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MMI Engineering (2009) [2.53] in relation to IEC 61400-3 and ISO 19902"",
+      ""related_domains"": [""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The “normal” and “abnormal” turbine operating conditions defined in IEC 61400-3 may be considered equivalent to the “operational” and “extreme” conditions defined in API RP 2A-WSD."",
+      ""scope"": ""Turbine operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MMI Engineering (2009) [2.53]"",
+      ""related_domains"": [""operational safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design should consider 50-year return environmental conditions with load factors from IEC 61400-3 and resistance factors from ISO 19902 (when using the IEC/ISO scheme)."",
+      ""scope"": ""Turbine design (IEC/ISO scheme)"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""MMI Engineering (2009) [2.53] referencing IEC 61400-3 and ISO 19902"",
+      ""related_domains"": [""structural design"", ""risk assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design should consider 100-year return conditions along with the safety factors defined in API RP 2A-WSD (when using the API scheme)"",
+      ""scope"": ""Turbine design (API scheme)"",
+      ""numerical_value"": 100,
+      ""unit"": ""years"",
+      ""source"": ""MMI Engineering (2009) [2.53] referencing API RP 2A-WSD"",
+      ""related_domains"": [""structural design"", ""risk assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,44,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""US Department of Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory agency""
+    },
+    {
+      ""entity_name"": ""German Federal Maritime and Hydrographic Agency (BSH)"",
+      ""jurisdiction"": ""Germany"",
+      ""role"": ""Regulatory agency""
+    },
+    {
+      ""entity_name"": ""Danish Energy Agency"",
+      ""jurisdiction"": ""Denmark"",
+      ""role"": ""Regulatory agency""
+    }
+  ]
+}
+```"
+17,45,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""23"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Applying IEC 61400-3 strength design criteria in combination with US metocean conditions could result in a design having much lower reliability than what is anticipated from a design in European waters."",
+      ""scope"": ""US Outer Continental Shelf (OCS)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,46,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,47,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,48,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""26"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The objective of the case studies is to assess the applicability of relevant load cases originally defined in IEC 61400-3 for bottom-founded offshore wind turbines and explore other potentially critical load cases for offshore wind turbines in the hurricane prone areas on the US OCS."",
+      ""scope"": ""Bottom-founded offshore wind turbines in hurricane prone areas on the US OCS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""structural integrity"", ""load cases"", ""design standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,49,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,50,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The normal and abnormal turbine operating modes correspond to the different safety factors as defined in IEC 61400-3 (2009) for the LRFD design approach and the ABS Guide (2010) for the WSD design approach."",
+      ""scope"": ""Turbine operating modes"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009), ABS Guide (2010)"",
+      ""related_domains"": [""safety factors"", ""structural integrity"", ""turbine operation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,51,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Desi g n Standards for Offshore Wind Farms Final Re p ort"",
+    ""document_number"": ""29"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,52,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,53,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""30-31"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+17,54,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""32"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+17,55,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""33"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA NDBC"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Data Collection and Meteorological Information""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""Industry - International"",
+      ""role"": ""Standard Setting Body""
+    }
+  ]
+}
+```"
+17,56,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,57,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""35"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Kaimal wind spectrum and the exponential coherence function referred in IEC 61400-1 (2005) are applied to all the site locations."",
+      ""scope"": ""Wind field simulation for all site locations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1 (2005)"",
+      ""related_domains"": [""wind resource assessment"", ""turbine design""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,58,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""36"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The slamming load calculation follows the guidance given in IEC 61400-3 Annex D."",
+      ""scope"": ""Breaking wave slamming load calculations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 Annex D"",
+      ""related_domains"": [""structural integrity"", ""loads analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,59,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,60,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,61,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,62,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Load and resistance factor design (LRFD) strength criteria specified by IEC 61400-3 (2009) in conjunction with ISO 19902 (2007)."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009), ISO 19902 (2007)"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Working stress design (WSD) strength criteria defined in the ABS Guide (2011)."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ABS Guide (2011)"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Strength criteria specified in API RP 2A-WSD (2007) for the extreme design condition."",
+      ""scope"": ""Offshore wind turbine support structures, extreme design condition"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 2A-WSD (2007)"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Extreme condition is defined as a 50-year return event."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural integrity"", ""risk assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,63,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""40"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""strength criteria, particularly the load factors, specified in IEC 61400-3 are used in the unity check using the IEC LRFD-based approach. These load factors are applied to the load cases for both the 50-year and the 100-year return conditions."",
+      ""scope"": ""Offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""structural integrity"", ""load calculations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,64,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""41"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The 1-hour mean wind speed at 10 m above the mean water level [...] is converted using the logarithmic wind shear equation defined in API RP 2A-WSD (2007)"",
+      ""scope"": ""Wind speed calculation for TX Site in the Gulf of Mexico"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 2A-WSD (2007)"",
+      ""related_domains"": [""wind resource assessment"", ""meteorological data analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The current speed, surge height and wave period of maximum wave height ( *T* *max* ) are approximately taken as the regional data for the GOM West Central at the water depth of 13.7 m as recommend in API Bulletin 2INT-MET (2007)."",
+      ""scope"": ""Metocean data for GOM West Central at 13.7m water depth"",
+      ""numerical_value"": 13.7,
+      ""unit"": ""m"",
+      ""source"": ""API Bulletin 2INT-MET (2007)"",
+      ""related_domains"": [""metocean conditions"", ""site assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,65,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""42"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""10-min mean wind speed at 10m above the mean water level is derived using the 1-hr mean wind speed at 10m above the mean water level [...] and the conversion equation specified in API RP 2A-WSD (2007)."",
+      ""scope"": ""Wind resource assessment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 2A-WSD (2007)"",
+      ""related_domains"": [""wind resource assessment"", ""meteorological data analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,66,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The 1-hour mean wind speed at 10 m above the mean water level [...] is converted using the logarithmic wind shear equation defined in API RP 2A-WSD (2007)"",
+      ""scope"": ""TX Site in GOM"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 2A-WSD (2007)"",
+      ""related_domains"": [""wind resource assessment"", ""meteorological data analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""10-min mean wind speed at 10m above the mean water level is derived using the 1-hr mean wind speed at 10m above the mean water level [...] and the conversion equation specified in API RP 2A-WSD (2007)."",
+      ""scope"": ""All locations listed in Table 2.5"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 2A-WSD (2007)"",
+      ""related_domains"": [""wind resource assessment"", ""meteorological data analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,67,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,68,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,69,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,70,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,71,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,72,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,73,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,74,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,75,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,76,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,77,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,78,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,79,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,80,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,81,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,82,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""62"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,83,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""63"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use Kaimal’s model and Mann’s model for wind models."",
+      ""scope"": ""Wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1 (2005)"",
+      ""related_domains"": [""wind modeling"", ""turbine design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The wind shear law is formulated in a power law format."",
+      ""scope"": ""Wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""wind modeling"", ""turbine design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use the extreme wind speed model (EWM) for wind shear."",
+      ""scope"": ""Wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1 (2005)"",
+      ""related_domains"": [""wind modeling"", ""turbine design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,84,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Desi g n Standards for Offshore Wind Farms Final Re p ort"",
+    ""document_number"": ""M10PC00105"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,85,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""65"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""In the API model, the one-point spectrum is defined for the energy density of the longitudinal wind speed fluctuations [Formula provided in document]"",
+      ""scope"": ""Wind resource assessment, Wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API model"",
+      ""related_domains"": [""wind resource assessment"", ""turbine design loads""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""A modified version of the Kaimal wind spectrum is provided in IEC 61400-1 (2005). The power spectral densities for the wind fluctuations in three dimensions are given as follows: [Formula provided in document]"",
+      ""scope"": ""Wind resource assessment, Wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1 (2005)"",
+      ""related_domains"": [""wind resource assessment"", ""turbine design loads""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,86,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""66"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The API wind model should be considered for floating wind turbines due to potential for higher responses compared to the IEC wind spectrum."",
+      ""scope"": ""Floating wind turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Contract M10PC00105: Design Standards for Offshore Wind Farms Final Report"",
+      ""related_domains"": [""structural integrity"", ""wind turbine design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The IEC wind spectral should be considered for bottom-founded wind turbine support structures due to potential for large structural responses."",
+      ""scope"": ""Bottom-founded wind turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Contract M10PC00105: Design Standards for Offshore Wind Farms Final Report"",
+      ""related_domains"": [""structural integrity"", ""wind turbine design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""Unspecified"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""Unspecified"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,87,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""67"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The longitudinal turbulence standard deviation, σ1, with the averaging duration of 10 minutes for the extreme wind model (EWM) is defined by σ1 = .011 * Vref"",
+      ""scope"": ""Extreme wind model (EWM) for offshore wind turbines"",
+      ""numerical_value"": 0.011,
+      ""unit"": null,
+      ""source"": ""IEC"",
+      ""related_domains"": [""structural design"", ""wind turbine design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The standard deviations of horizontal and vertical components are 80% and 50%, respectively, of the standard deviation of longitudinal components"",
+      ""scope"": ""Turbulence modeling for offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": ""%"",
+      ""source"": ""IEC"",
+      ""related_domains"": [""structural design"", ""wind turbine design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,88,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""68"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""null"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""null"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,89,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The squared correlation between the spectral energy densities S(f) of the longitudinal wind speed fluctuations between two points (xj, yj, zj), j = 1, 2, (in meter) in space is described by the two-point coherence function as follows: Coh(f) = exp{ -1/U0^2 * ∑[Ai]^2 } = exp{ -f/U0 * ∑[Ai] }"",
+      ""scope"": ""Wind coherence calculations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API Bulletin 2INT-MET (2007)"",
+      ""related_domains"": [""wind resource assessment"", ""turbine design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""An exponential coherence model is provided to account for the spatial correlation of the longitudinal wind speed: Coh(r, f) = exp[−12(f⋅r/Vhub)^2 + (0.012⋅r/Lc)^2]"",
+      ""scope"": ""Wind coherence calculations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1 (2005)"",
+      ""related_domains"": [""wind resource assessment"", ""turbine design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American Petroleum Institute (API)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,90,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,91,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""M10PC00105"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The jacket support structure must be designed to withstand the 100-year return turbulent wind condition in the GOM West Central region."",
+      ""scope"": ""Jacket support structure design for offshore wind farms in the GOM West Central region"",
+      ""numerical_value"": 100,
+      ""unit"": ""years"",
+      ""source"": ""Contract M10PC00105"",
+      ""related_domains"": [""structural integrity"", ""wind load analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind load analysis should consider both API and IEC wind models."",
+      ""scope"": ""Wind load analysis for offshore wind farms"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Contract M10PC00105"",
+      ""related_domains"": [""wind load analysis"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,92,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""72-73"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,93,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""74"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""±8 degrees should be considered for the turbulent wind condition [for yaw misalignment] in DLC 6.1a for normal turbine operating modes."",
+      ""scope"": ""Turbine yaw misalignment in normal operating modes under turbulent wind conditions"",
+      ""numerical_value"": 8,
+      ""unit"": ""degrees"",
+      ""source"": ""IEC 61400-3 (2009) DLC 6.1a"",
+      ""related_domains"": [""turbine control"", ""structural loads"", ""safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""±15 degrees of yaw misalignment should be considered [in DLC 6.1b and 6.1c where the steady-state wind model is applied]."",
+      ""scope"": ""Turbine yaw misalignment in companion load cases (DLC 6.1b and 6.1c) under steady-state wind conditions"",
+      ""numerical_value"": 15,
+      ""unit"": ""degrees"",
+      ""source"": ""IEC 61400-3 (2009) DLC 6.1b and 6.1c"",
+      ""related_domains"": [""turbine control"", ""structural loads"", ""safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Yaw misalignment up to ±180 degrees should be considered [in DLC 6.2a and 6.2b for abnormal turbine operating mode associated with loss of electrical grid connection] unless there are at least 6 hours of backup power supply to support the control and yaw systems."",
+      ""scope"": ""Turbine yaw misalignment in abnormal operating mode (loss of grid connection)"",
+      ""numerical_value"": 180,
+      ""unit"": ""degrees"",
+      ""source"": ""IEC 61400-3 (2009) DLC 6.2a and 6.2b"",
+      ""related_domains"": [""turbine control"", ""grid connection"", ""safety"", ""backup power systems""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Omni-directional wind and yaw misalignment up to ±180 degrees is in general required to be considered in the abnormal turbine operating mode as defined in DLC 6.2a and 6.2b."",
+      ""scope"": ""Turbine yaw misalignment in abnormal operating mode (DLC 6.2a and 6.2b)"",
+      ""numerical_value"": 180,
+      ""unit"": ""degrees"",
+      ""source"": ""ABS Guide for Building and Classing Offshore Wind Turbine Installations (2010)"",
+      ""related_domains"": [""turbine control"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ABS (American Bureau of Shipping)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+
+  ]
+}
+```"
+17,94,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""75"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Load calculations are to be based on the misalignment angle that results in the highest load acting on the Support Structure."",
+      ""scope"": ""Support Structure Design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""load calculations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The range of yaw misalignment assumed in the design of the Support Structure may be reduced to account for the contribution from an active or passive yaw control system, provided that the designer can justify that such a system is capable of achieving the assumed reduction of yaw misalignment under site specific conditions and an appropriate monitoring and maintenance program is implemented to maintain the effectiveness of yawing control during the service life of an offshore wind turbine."",
+      ""scope"": ""Yaw Control System, Support Structure Design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""yaw control system"", ""structural integrity"", ""monitoring and maintenance""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Omni-directional wind and a yaw misalignment with ± 180° is to be assumed for DLC 6.2a and 6.2b."",
+      ""scope"": ""Load Cases (DLC 6.2a and 6.2b)"",
+      ""numerical_value"": 180,
+      ""unit"": ""degrees"",
+      ""source"": null,
+      ""related_domains"": [""load calculations"", ""design load cases""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,95,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,96,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,97,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""78"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Account for up to ±8 degrees of yaw misalignment in the extreme storm design load case where the turbulent wind model is used in the design, provided that there are at least 6 hours of capacity of back-up power supply to the safety and control systems."",
+      ""scope"": ""Offshore wind turbine support structure design in extreme storm conditions"",
+      ""numerical_value"": 8,
+      ""unit"": ""degrees"",
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural integrity"", ""safety systems"", ""power supply""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Turbine support structure can be designed to accommodate the most unfavorable load conditions due to the yaw misalignment."",
+      ""scope"": ""Offshore wind turbine support structure design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009) (implied as alternative to backup power requirement)"",
+      ""related_domains"": [""structural integrity"", ""safety systems""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,98,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""79-80"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The turbine blades are normally feathered during the storm condition to minimize the load."",
+      ""scope"": ""Turbine operation during storm conditions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""turbine safety"", ""load mitigation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Pitch control failure and angle locking are normally not considered during the design of turbine support structure and thus not included in the IEC abnormal load cases."",
+      ""scope"": ""Turbine support structure design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC"",
+      ""related_domains"": [""structural integrity"", ""load cases""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""For abnormal turbine operating modes, the nacelle yaw misalignment (yaw error) is taken as 30 degrees. All blades are assumed in the feathered position with the pitch angle of 90 degrees."",
+      ""scope"": ""Load case definition for abnormal turbine operating modes"",
+      ""numerical_value"": 30,
+      ""unit"": ""degrees"",
+      ""source"": null,
+      ""related_domains"": [""load cases"", ""turbine operation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All blades are assumed in the feathered position with the pitch angle of 90 degrees (for abnormal turbine operating modes)."",
+      ""scope"": ""Load case definition for abnormal turbine operating modes"",
+      ""numerical_value"": 90,
+      ""unit"": ""degrees"",
+      ""source"": null,
+      ""related_domains"": [""load cases"", ""turbine operation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,99,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,100,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""81-82"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The wave slamming load is calculated according to IEC 61400-3 (2009)."",
+      ""scope"": ""Wave slamming load calculations for monopile support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural integrity"", ""loads analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,101,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,102,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,103,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,104,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""M10PC00105"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The design load case for the extreme storms defined in IEC 61400-3 refers to the 50-year return event."",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""structural integrity"", ""extreme event analysis""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The strength criterion defined in the API-WSD approach for the extreme design conditions is applied to both the normal and abnormal turbine operating modes while the support structures is under the 50-year return or 100-year return environmental conditions."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API-RP 2A-WSD"",
+      ""related_domains"": [""structural integrity"", ""extreme event analysis"", ""turbine operation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Petroleum Institute (API)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Bureau of Shipping (ABS)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""International Organization for Standardization (ISO)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+
+  ]
+}
+```"
+17,105,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""86-87"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The member strength criterion given by Eq. (13.3-8) in ISO 19902 (2007)"",
+      ""scope"": ""Monopile support structures"",
+      ""numerical_value"": 0.15,
+      ""unit"": null,
+      ""source"": ""ISO 19902 (2007)"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,106,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""88"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Monopile support structures must meet the requirements of ABS, API, and IEC/ISO codes."",
+      ""scope"": ""Monopile support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ABS, API, and IEC/ISO codes"",
+      ""related_domains"": [""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC/ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,107,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""89"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""IEC/ISO code check uses the load factors specified in IEC 61400-3 (2007) combined with the resistance factors and component strength criteria specified in ISO 19902 (2007)"",
+      ""scope"": ""Offshore wind farm design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2007) and ISO 19902 (2007)"",
+      ""related_domains"": [""structural integrity"", ""design standards""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,108,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The structure must be designed with a safety factor of 1.25 according to ABS standards."",
+      ""scope"": ""Turbine tower and foundation"",
+      ""numerical_value"": 1.25,
+      ""unit"": null,
+      ""source"": ""ABS"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The structure must be designed with a safety factor of 1.33 according to API standards."",
+      ""scope"": ""Turbine tower and foundation"",
+      ""numerical_value"": 1.33,
+      ""unit"": null,
+      ""source"": ""API"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The structure must be designed with a safety factor of 1.1 according to IEC standards."",
+      ""scope"": ""Turbine tower and foundation"",
+      ""numerical_value"": 1.1,
+      ""unit"": null,
+      ""source"": ""IEC"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    }
+
+  ]
+}
+```"
+17,109,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,110,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""91-92"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wave slamming loads calculated according to IEC 61400-3 (2009)."",
+      ""scope"": ""Tripod support structure design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural integrity"", ""loads analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,111,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""93-94"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+17,112,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,113,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.40, 2.41, 2.51, 2.9, 2.3.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS-WSD"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API-WSD"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC/ISO"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,114,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Desi g n Standards for Offshore Wind Farms Final Re p ort"",
+    ""document_number"": ""96-97"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC/ISO"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,115,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""98"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Load factors as specified in IEC 61400-3 (2007)"",
+      ""scope"": ""Tripod structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2007)"",
+      ""related_domains"": [""structural integrity"", ""load calculations""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Resistance factors and component strength criteria as specified in ISO 19902 (2007)"",
+      ""scope"": ""Tripod structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 19902 (2007)"",
+      ""related_domains"": [""structural integrity"", ""component design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American Bureau of Shipping (ABS)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Petroleum Institute (API)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""International Organization for Standardization (ISO)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,116,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC/ISO"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,117,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""ABS / SF 1.5"",
+      ""scope"": ""Unspecified"",
+      ""numerical_value"": 1.5,
+      ""unit"": null,
+      ""source"": ""ABS"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""API / AMOD 1.33"",
+      ""scope"": ""Unspecified"",
+      ""numerical_value"": 1.33,
+      ""unit"": null,
+      ""source"": ""API"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""IEC/Ƴf 1.35"",
+      ""scope"": ""Unspecified"",
+      ""numerical_value"": 1.35,
+      ""unit"": null,
+      ""source"": ""IEC"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    }
+
+  ]
+}
+```"
+17,118,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,119,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,120,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,121,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""103"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC/ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,122,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""104-105"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Load factors as specified in IEC 61400-3 (2007)"",
+      ""scope"": ""Jacket support structure design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2007)"",
+      ""related_domains"": [""structural integrity"", ""loads analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Resistance factors as specified in ISO 19902 (2007)"",
+      ""scope"": ""Jacket support structure design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 19902 (2007)"",
+      ""related_domains"": [""structural integrity"", ""component strength""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Component strength criteria as specified in ISO 19902 (2007)"",
+      ""scope"": ""Jacket support structure design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 19902 (2007)"",
+      ""related_domains"": [""structural integrity"", ""component strength""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,123,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""M10PC00105"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""ABS / SF: 1.5"",
+      ""scope"": ""Offshore wind farm design"",
+      ""numerical_value"": 1.5,
+      ""unit"": null,
+      ""source"": ""ABS"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""API / AMOD: 1.33"",
+      ""scope"": ""Offshore wind farm design"",
+      ""numerical_value"": 1.33,
+      ""unit"": null,
+      ""source"": ""API"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""IEC/Ƴf: 1.35"",
+      ""scope"": ""Offshore wind farm design"",
+      ""numerical_value"": 1.35,
+      ""unit"": null,
+      ""source"": ""IEC"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,124,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Apply a safety factor of 1.5 to loads when using ABS standards."",
+      ""scope"": ""Load calculations"",
+      ""numerical_value"": 1.5,
+      ""unit"": null,
+      ""source"": ""ABS"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Apply a load modification factor of 1.33 when using API standards."",
+      ""scope"": ""Load calculations"",
+      ""numerical_value"": 1.33,
+      ""unit"": null,
+      ""source"": ""API"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Apply a safety factor of 1.35 when using IEC standards."",
+      ""scope"": ""Load calculations"",
+      ""numerical_value"": 1.35,
+      ""unit"": null,
+      ""source"": ""IEC"",
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,125,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""106"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC / ISO"",
+      ""jurisdiction"": null,
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,126,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.9.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""50 year return period from IEC 61400-3"",
+      ""scope"": ""Extreme storm conditions"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""IEC 61400-3 (2007)"",
+      ""related_domains"": [""structural design"", ""safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""100-year return period commonly applied to high consequence (L-1) hydrocarbon-related offshore structures"",
+      ""scope"": ""Extreme storm conditions"",
+      ""numerical_value"": 100,
+      ""unit"": ""years"",
+      ""source"": ""Common practice for high consequence (L-1) hydrocarbon-related offshore structures"",
+      ""related_domains"": [""structural design"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,127,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,128,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""108"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""jacket platforms designed to API RP 2A-WSD in the GOM"",
+      ""scope"": ""Jacket support structures in the Gulf of Mexico"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 2A-WSD"",
+      ""related_domains"": [""structural design"", ""platform stability""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,129,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""109-110"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Support structures designed to 50-year return conditions as according to IEC 61400-3"",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""structural integrity"", ""design standards""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The aggregated nominal safety margin for the abnormal condition is approximately 25%"",
+      ""scope"": ""Offshore wind turbine support structures under abnormal conditions"",
+      ""numerical_value"": 25,
+      ""unit"": ""%"",
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""structural integrity"", ""design standards"", ""safety factors""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,130,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,131,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,132,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""114"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A safety factor of 1.5 is applied to the normal turbine operating mode with the yaw misalignment of 8 degrees, while 1.25 is applied to the abnormal turbine operating mode with the yaw misalignment of 30 degrees."",
+      ""scope"": ""Monopile, tripod and jacket support structures"",
+      ""numerical_value"": 1.5,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""A safety factor of 1.25 is applied to the abnormal turbine operating mode with the yaw misalignment of 30 degrees."",
+      ""scope"": ""Monopile, tripod and jacket support structures"",
+      ""numerical_value"": 1.25,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""safety factors""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""working stress design criteria specified in the ABS Guide (2011) [2.2]"",
+      ""scope"": ""Monopile, tripod and jacket support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ABS Guide (2011) [2.2]"",
+      ""related_domains"": [""structural design"", ""stress analysis""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": null, 
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,133,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,134,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,135,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,136,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,137,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""127-128"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""WMO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,138,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,139,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""130"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The definition of “Operating” and “Extreme” design criteria in API RP 2A-WSD (2007) using the return period of design environmental conditions is not directly applicable to offshore wind turbines."",
+      ""scope"": ""Offshore wind turbine design criteria"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 2A-WSD (2007)"",
+      ""related_domains"": [""design criteria"", ""structural design""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Applying the same design approach valid for offshore oil and gas platforms to offshore wind turbines will not result in the anticipated safety level."",
+      ""scope"": ""Offshore wind turbine design and safety"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null, 
+      ""related_domains"": [""design methodology"", ""safety standards"", ""structural design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American Petroleum Institute (API)"",
+      ""jurisdiction"": ""International (industry standard)"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,140,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""50-year return site specific environmental conditions should be used in the design of a medium consequence (L-2) platform."",
+      ""scope"": ""Medium consequence (L-2) platform design in the Gulf of Mexico"",
+      ""numerical_value"": 50,
+      ""unit"": ""years"",
+      ""source"": ""API RP 2A-WSD (2007)"",
+      ""related_domains"": [""structural integrity"", ""platform design""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""An offshore wind turbine support structure should at least survive a 100-year return hurricane with certain safety margins."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": 100,
+      ""unit"": ""years"",
+      ""source"": ""Implied safety level in IEC 61400-3, similar to API RP 2A-WSD (2007) and ISO 19902 (2007)"",
+      ""related_domains"": [""structural integrity"", ""hurricane resilience""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,141,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""131"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""the design requirement specified in IEC 61400-3 (2009) for the support structure of an offshore wind turbine has to be increased"",
+      ""scope"": ""Offshore wind turbine support structures in hurricane-prone US waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,142,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""132"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Applying the load factors specified in IEC 61400-3 (2009) in combination with the 100-year storm conditions in hurricane-prone regions on the US OCS."",
+      ""scope"": ""US Outer Continental Shelf (OCS), Hurricane-prone regions"",
+      ""numerical_value"": 100,
+      ""unit"": ""years"",
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural integrity"", ""safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use of site-specific 100-year return environmental conditions in the design."",
+      ""scope"": ""Site-specific locations"",
+      ""numerical_value"": 100,
+      ""unit"": ""years"",
+      ""source"": null,
+      ""related_domains"": [""metocean conditions"", ""structural design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,143,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""133"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The return period of site specific design environmental conditions should be 100 years."",
+      ""scope"": ""Bottom-founded offshore wind turbine support structure in hurricane-prone regions"",
+      ""numerical_value"": 100,
+      ""unit"": ""years"",
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""design criteria""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The difference between the normal and abnormal turbine operating conditions should be taken into account in the strength design criteria."",
+      ""scope"": ""Bottom-founded offshore wind turbine support structure in hurricane-prone regions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""design criteria"", ""turbine operation""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Either LRFD strength criteria, as specified in IEC 61400-3 (2009) in conjunction with ISO 19902 (2007), or the WSD strength criteria, as specified in the ABS Guide (2010), may be applied."",
+      ""scope"": ""Bottom-founded offshore wind turbine support structure in hurricane-prone regions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural integrity"", ""design criteria""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind models recommended in IEC 61400-1 (2005) should be used to generate the turbulent wind field as the input to aerodynamic load calculations."",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1 (2005)"",
+      ""related_domains"": [""aerodynamic loads"", ""wind modeling""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For those offshore wind turbines to be deployed in the open ocean with the minimum effect of coastal topology and onshore roughness, the wind model recommended in API Bulletin 2INT-MET (2007) and API RP 2A-WSD (2007) may be used as an alternative."",
+      ""scope"": ""Offshore wind turbines deployed in the open ocean"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API Bulletin 2INT-MET (2007)"",
+
+      ""related_domains"": [""aerodynamic loads"", ""wind modeling""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Wind and wave misalignment should be considered within the range between -90 degrees and +90 degrees. Load calculations should be based on the misalignment angle that results in the highest load acting on the support structure."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": 90,
+      ""unit"": ""degrees"",
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""load calculations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Both negative and positive storm surge should be considered in the design, particularly for those minimum support structures, such as monopiles and tripods."",
+      ""scope"": ""Minimum support structures (monopiles and tripods)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""storm surge analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The wave theory employed in the design should reflect the effect of water depth."",
+      ""scope"": ""Offshore wind turbine support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""wave modeling"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,144,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""134"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Effect of the nacelle yaw misalignment relative to the incoming wind direction should be adequately considered in the design, particularly for those minimum support structures such as monopiles and tripods."",
+      ""scope"": ""Turbine design, specifically nacelle yaw misalignment and support structures (monopiles and tripods)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Design Standards for Offshore Wind Farms Final Report"",
+      ""related_domains"": [""structural integrity"", ""turbine design""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The yaw misalignment between -180 degrees and +180 degrees in combination with 100-year return site conditions should be considered as one of the abnormal load cases in the design."",
+      ""scope"": ""Load calculations for support structures"",
+      ""numerical_value"": 180,
+      ""unit"": ""degrees"",
+      ""source"": ""Design Standards for Offshore Wind Farms Final Report"",
+      ""related_domains"": [""structural integrity"", ""load calculations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Load calculations should be based on the misalignment angle that results in the highest load acting on the support structure."",
+      ""scope"": ""Load calculations for support structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Design Standards for Offshore Wind Farms Final Report"",
+      ""related_domains"": [""structural integrity"", ""load calculations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The aerodynamic loads generated by a wind turbine subjected to strong hurricane wind conditions should be determined by using recognized simulation software."",
+      ""scope"": ""Aerodynamic load calculations under hurricane conditions"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Design Standards for Offshore Wind Farms Final Report"",
+      ""related_domains"": [""aerodynamic modeling"", ""load calculations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,145,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,146,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,147,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,148,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,149,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""138"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""ξo < 0.45 for spilling breaking waves"",
+      ""scope"": ""Breaking wave classification"",
+      ""numerical_value"": 0.45,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural design"", ""hydrodynamic loading""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""0.45 < ξo < 3.3 for plunging breaking waves"",
+      ""scope"": ""Breaking wave classification"",
+      ""numerical_value"": 3.3,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural design"", ""hydrodynamic loading""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""3.3 < ξo for surging breaking waves"",
+      ""scope"": ""Breaking wave classification"",
+      ""numerical_value"": 3.3,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural design"", ""hydrodynamic loading""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""ξb < 0.4 for spilling breaking waves"",
+      ""scope"": ""Breaking wave classification"",
+      ""numerical_value"": 0.4,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural design"", ""hydrodynamic loading""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""0.4 < ξb < 2.0 for plunging breaking waves"",
+      ""scope"": ""Breaking wave classification"",
+      ""numerical_value"": 2.0,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural design"", ""hydrodynamic loading""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""2.0 < ξb for surging breaking waves"",
+      ""scope"": ""Breaking wave classification"",
+      ""numerical_value"": 2.0,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural design"", ""hydrodynamic loading""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,150,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""139"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+17,151,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""140"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""US OCS"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,152,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,153,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,154,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,155,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,156,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,157,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,158,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""146"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,159,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,160,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,161,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,162,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,163,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,164,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,165,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,166,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,167,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,168,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""154"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""This approach is also suggested in IEC 61400-3 (2009) [3.40]."",
+      ""scope"": ""Offshore bottom-mounted wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural analysis"", ""wave-structure interactions""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,169,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,170,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,171,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,172,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,173,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,174,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,175,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,176,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,177,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,178,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,179,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,180,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,181,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,182,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,183,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,184,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""165"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The slamming local pressure is required to be applied on the width of member, i.e. 2 *R*, and from the still water level to the maximum wave crest height of design sea state."",
+      ""scope"": ""Slender tubular members"",
+      ""numerical_value"": 2,
+      ""unit"": null,
+      ""source"": ""ABS (2010a) [3.1]"",
+      ""related_domains"": [""structural integrity"", ""hydrodynamic loads""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Slamming coefficient *Cs* = *Cs,Local* = π"",
+      ""scope"": ""Slender tubular members in deep water"",
+      ""numerical_value"": 3.14159,
+      ""unit"": null,
+      ""source"": ""Derived from ABS (2010a) [3.1] as reformatted according to Equation (3.21) and (3.22)"",
+      ""related_domains"": [""structural integrity"", ""hydrodynamic loads""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Use Equation (3.21) with a slamming coefficient between *Cs* = 0.5π *–* 1.7π"",
+      ""scope"": ""Slamming force per unit length (or height) on a slender tubular member"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 2A-WSD (2007) [3.3] and ISO 19902 (2007) [3.42]"",
+      ""related_domains"": [""structural integrity"", ""hydrodynamic loads""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""For vertical slender cylinders, the slamming force per unit height is given by Equation (3.21) with a slamming coefficient up to 5.15"",
+      ""scope"": ""Vertical slender cylinders"",
+      ""numerical_value"": 5.15,
+      ""unit"": null,
+      ""source"": ""DNV (2010a,b) [3.24] [3.25] following Campbell and Weynberg, 1980 [3.11]"",
+      ""related_domains"": [""structural integrity"", ""hydrodynamic loads""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": ""International (Classification Society)"", 
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""API"",
+      ""jurisdiction"": ""International (Industry Association)"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""ISO"",
+      ""jurisdiction"": ""International (Standards Organization)"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""DNV"",
+      ""jurisdiction"": ""International (Classification Society)"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,185,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""166"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""NORSOK N-003 (2007) recommends using a minimum drag coefficient of 3 along with a dynamic amplification factor of at least 2, unless the dynamic response analysis can justify a smaller dynamic amplification effect."",
+      ""scope"": ""Design of offshore wind turbine support structures, specifically considering slamming force as Morison type of drag loads."",
+      ""numerical_value"": 3,
+      ""unit"": null,
+      ""source"": ""NORSOK N-003 (2007)"",
+      ""related_domains"": [""structural integrity"", ""slamming loads"", ""dynamic response analysis""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""NORSOK N-003 (2007) recommends a minimum dynamic amplification factor of at least 2, unless the dynamic response analysis can justify a smaller dynamic amplification effect."",
+      ""scope"": ""Design of offshore wind turbine support structures, specifically considering slamming force as Morison type of drag loads."",
+      ""numerical_value"": 2,
+      ""unit"": null,
+      ""source"": ""NORSOK N-003 (2007)"",
+      ""related_domains"": [""structural integrity"", ""slamming loads"", ""dynamic response analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,186,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""167"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Slamming Load Model calculations shall consider the Wienke-Oumeraci analytical model, with a time variant Slamming Coefficient (Cs) of 2π at t=0 for force per unit length, and wave particle velocity equal to wave celerity."",
+      ""scope"": ""Slamming load calculations for offshore wind farm structures"",
+      ""numerical_value"": 2,
+      ""unit"": ""π (pi)"",
+      ""source"": ""IEC 61400-3 (2009)"",
+      ""related_domains"": [""structural integrity"", ""loads analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Slamming Load Model calculations shall consider the Campbell-Weynberg analytical model, with a time variant Slamming Coefficient (Cs) of 5.15 at t=0 for force per unit length, and wave particle velocity equal to 1.2u and breaking wave height Hb calculated as Hb = 1.4Hbs (significant wave height) at a given return period."",
+      ""scope"": ""Slamming load calculations for offshore wind farm structures"",
+      ""numerical_value"": 5.15,
+      ""unit"": null,
+      ""source"": ""ISO 21650 (2007)"",
+      ""related_domains"": [""structural integrity"", ""loads analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Slamming Load Model calculations shall consider the Ochi-Tasi analytical model as a quasi-static load for determining scantling of tubular members, plates, stiffeners and girders in splash zone, with a Slamming Coefficient (Cs) of π for global forces per unit length on slender members, and wave particle velocity equal to 0.77u and breaking wave height Hb = 1.86Hs in deep water, where Hs is associated with 100-year return design sea state."",
+      ""scope"": ""Scantling of tubular members, plates, stiffeners, and girders in the splash zone of offshore wind farm structures."",
+      ""numerical_value"": 1.86,
+      ""unit"": null,
+      ""source"": ""GL (2005)"",
+      ""related_domains"": [""structural integrity"", ""loads analysis""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Slamming Load Model calculations shall consider the Sarpkaya analytical model as a quasi-static load for local structural sizing of horizontal members in the splash zone, with a Slamming Coefficient (Cs) ranging from 0.5π ~1.7π for force per unit length (π for dynamic analysis and 5.5 otherwise), and water particle velocity normal to the member axis at impact."",
+      ""scope"": ""Local structural sizing of horizontal members in the splash zone of offshore wind farm structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ABS (2010b)"",
+      ""related_domains"": [""structural integrity"", ""loads analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,187,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,188,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,189,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,190,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,191,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,192,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Desi g n Standards for Offshore Wind Farms Final Re p ort"",
+    ""document_number"": ""173"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The total slamming force *FI*  calculations shall adhere to the formulas defined in Annex D of IEC 61400-3 (2009) [3.40]."",
+      ""scope"": ""Monopile support structures subjected to slamming loads"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 (2009) Annex D"",
+      ""related_domains"": [""structural integrity"", ""loads and responses""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC (International Electrotechnical Commission)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,193,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,194,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,195,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,196,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,197,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,198,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,199,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,200,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,201,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,202,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,203,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Wienke model has been referenced [...] for offshore wind turbines"",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3 Annex D (2009), GL (2009), ABS (2010)"",
+      ""related_domains"": [""structural integrity"", ""slamming loads""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Campbell-Weynberg model may still be considered as an acceptable alternative for [slamming load calculations]"",
+      ""scope"": ""Offshore wind turbine design"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null, 
+      ""related_domains"": [""structural integrity"", ""slamming loads""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""IEC"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""GL"",
+      ""jurisdiction"": ""International"", 
+      ""role"": ""Standard setting body"" 
+    },
+    {
+      ""entity_name"": ""ABS"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+
+  ]
+}
+```"
+17,204,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,205,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""187"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The interaction between soil and pile foundation is based on the guidelines of API RP 2A-WSD (2007)."",
+      ""scope"": ""Turbine foundations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""API RP 2A-WSD (2007)"",
+      ""related_domains"": [""foundation design"", ""soil mechanics"", ""structural integrity""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,206,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,207,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""189"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American Bureau of Shipping (ABS)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Petroleum Institute (API)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Society of Civil Engineers (ASCE)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,208,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""190"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Recommendation for Technical Approval of Offshore Wind Turbines"",
+      ""scope"": ""Offshore Wind Turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Danish Energy Agency, 2001"",
+      ""related_domains"": [""technical approval"", ""turbine design"", ""offshore wind""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Danish Energy Agency"",
+      ""jurisdiction"": ""Denmark"",
+      ""role"": ""Technical Approval Authority""
+    }
+  ]
+}
+```"
+17,209,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,210,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""192"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design Requirements for Offshore Wind Turbines"",
+      ""scope"": ""Offshore Wind Turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3"",
+      ""related_domains"": [""structural integrity"", ""electrical safety"", ""mechanical safety""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design Requirements for Wind Turbines"",
+      ""scope"": ""Wind Turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1"",
+      ""related_domains"": [""structural integrity"", ""electrical safety"", ""mechanical safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Metocean design and operating considerations for offshore structures"",
+      ""scope"": ""Offshore Structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 19901-1"",
+      ""related_domains"": [""metocean conditions"", ""structural integrity"", ""safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Requirements for Fixed Steel Offshore Structures"",
+      ""scope"": ""Fixed Steel Offshore Structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 19902"",
+      ""related_domains"": [""structural integrity"", ""steel structures"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""International Organization for Standardization (ISO)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,211,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,212,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,213,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""195"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Renewable Energy Alternate Uses of Existing Facilities on the Outer Continental Shelf."",
+      ""scope"": ""Outer Continental Shelf"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""US Department of Interior, 30 CFR Part 285, 2009"",
+      ""related_domains"": [""leasing"", ""permitting"", ""renewable energy""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of Interior"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory authority""
+    },
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Guidance and resource provider""
+    }
+  ]
+}
+```"
+17,214,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,215,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""197"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American Bureau of Shipping (ABS)"",
+      ""jurisdiction"": ""International (Classification Society)"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Petroleum Institute (API)"",
+      ""jurisdiction"": ""USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,216,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,217,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,218,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""M10PC00105"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design requirements for wind turbines."",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-1: Wind Turbines – Part 1: Design Requirements, 3rd Edition (2005)"",
+      ""related_domains"": [""turbine design"", ""structural integrity"", ""electrical safety""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Design requirements for offshore wind turbines."",
+      ""scope"": ""Offshore wind turbines"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IEC 61400-3: Wind Turbines – Part 3: Design Requirements for Offshore Wind Turbines, 1st Edition (2009)"",
+      ""related_domains"": [""turbine design"", ""structural integrity"", ""electrical safety"", ""marine environment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Metocean design and operating considerations for offshore structures."",
+      ""scope"": ""Offshore structures in the petroleum and natural gas industries"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 19901-1: Petroleum and Natural Gas Industries - Specific Requirements for Offshore Structures Part 1: Metocean Design and Operating Considerations (2005)"",
+      ""related_domains"": [""metocean conditions"", ""structural design"", ""operations""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Requirements for fixed steel offshore structures."",
+      ""scope"": ""Fixed steel offshore structures in the petroleum and natural gas industries"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 19902: Petroleum and Natural Gas Industries - Fixed Steel Offshore Structures (2007)"",
+      ""related_domains"": [""structural design"", ""steel structures""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Consideration of actions from waves and currents on coastal structures."",
+      ""scope"": ""Coastal structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""ISO 21650: Actions from Waves and Currents on Coastal Structures (2007)"",
+      ""related_domains"": [""structural design"", ""hydrodynamics"", ""coastal engineering""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""International Electrotechnical Commission (IEC)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""International Organization for Standardization (ISO)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+17,219,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,220,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,221,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""203"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Actions and Action Effects"",
+      ""scope"": ""Offshore structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NORSOK Standard N-003, 2007. Edition 2. Standards Norway, Lysaker, Norway."",
+      ""related_domains"": [""structural design"", ""loads and actions""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+17,222,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,223,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,224,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Design Standards for Offshore Wind Farms Final Report"",
+    ""document_number"": ""206-208"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American Bureau of Shipping"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""American Petroleum Institute"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management, Regulation, and Enforcement"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory oversight""
+    },
+    {
+      ""entity_name"": ""Det Norske Veritas"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""Germanischer Lloyd"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""International Electrotechnical Commission"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""International Organization for Standardization"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Renewable Energy Laboratory"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Research and development""
+    },
+    {
+      ""entity_name"": ""US Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+17,225,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,226,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+17,227,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND

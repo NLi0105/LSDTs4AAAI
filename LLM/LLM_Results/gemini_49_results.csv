@@ -1,0 +1,3206 @@
+document_id,chunk_number,model_type,model_name,parsed_successfully,raw_output
+49,1,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,2,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,3,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+49,4,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,5,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,6,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,7,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,8,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,9,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,10,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""iv"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Acoustic Metrics and Thresholds for Fish for Impulsive Pile Driving"",
+      ""scope"": ""Fish, Impulsive Pile Driving"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Table 5-1"",
+      ""related_domains"": [""marine biology"", ""noise pollution"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Acoustic Ranges to Fish Thresholds for Monopile and Pin Pile Foundation Installation with 10 dB Attenuation (Two Monopiles/24 Hours or Three Pin Piles/24 Hours)"",
+      ""scope"": ""Fish, Monopile and Pin Pile Foundation Installation"",
+      ""numerical_value"": 10,
+      ""unit"": ""dB"",
+      ""source"": ""Table 5-3"",
+      ""related_domains"": [""marine biology"", ""noise pollution"", ""construction""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Maximum Ranges to Onset of Potential Mortal Injury and Mortality for Fish for UXO Charge Sizes with 10 dB Mitigation"",
+      ""scope"": ""Fish, UXO Charge detonation"",
+      ""numerical_value"": 10,
+      ""unit"": ""dB"",
+      ""source"": ""Table 5-4"",
+      ""related_domains"": [""marine biology"", ""explosives safety"", ""construction""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Acoustic Ranges to Fish Thresholds for Temporary Pier Piles, Casing Pipe, and HDD Goal Posts"",
+      ""scope"": ""Fish, Temporary Structures Installation (Pier Piles, Casing Pipe, HDD Goal Posts)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Table 5-5"",
+      ""related_domains"": [""marine biology"", ""noise pollution"", ""construction""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Annual Entrainment Estimates of Eight Fish Species Including Egg and Larval Stages and Adult Stages"",
+      ""scope"": ""Fish Entrainment"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Table 5-6"",
+      ""related_domains"": [""marine biology"", ""fisheries management"", ""environmental impact assessment""]
+    },
+        {
+      ""type"": ""Environmental"",
+      ""requirement"": ""APMs and Potential Mitigation Measures for Construction and Operation of the SRWF, SRWEC-OCS, and SRWEC-NYS Project Components"",
+      ""scope"": ""Construction and Operation of the SRWF, SRWEC-OCS, and SRWEC-NYS Project Components"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Table 6-1"",
+      ""related_domains"": [""environmental impact assessment"", ""mitigation measures""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""EPMs that BOEM Could Impose: General Avoidance/Minimization of Potential Impacts to EFH"",
+      ""scope"": ""Potential Impacts to EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Table 6-2"",
+      ""related_domains"": [""environmental impact assessment"", ""Essential Fish Habitat (EFH)""]
+    }
+
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+        {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+49,11,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,12,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""vi-vii"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""DEEP Department of Energy and Environmental Protection"",
+      ""jurisdiction"": ""null"",
+      ""role"": ""null""
+    },
+    {
+      ""entity_name"": ""EPA Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""Mid-Atlantic Fisheries Management Council (MAFMC)"",
+      ""jurisdiction"": ""null"",
+      ""role"": ""Fishery management""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Fishery management and conservation""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Ocean and atmospheric science and management""
+    },
+    {
+      ""entity_name"": ""New England Fishery Management Council (NEFMC)"",
+      ""jurisdiction"": ""null"",
+      ""role"": ""Fishery management""
+    }
+  ]
+}
+```"
+49,13,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Pro j ect"",
+    ""document_number"": ""viii-ix"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""promote the protection of Essential Fish Habitat (EFH) in the review of projects conducted under federal permits, licenses, or other authorities that affect or have the potential to affect such habitat."",
+      ""scope"": ""Projects conducted under federal permits, licenses, or other authorities that affect or have the potential to affect EFH"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Magnuson-Stevens Fishery Conservation and Management Act (MSA)"",
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,14,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Federal agencies must consult with the Secretary of Commerce, through the National Marine Fisheries Service (NMFS), with respect to “any action authorized, funded, or undertaken, or proposed to be authorized, funded, or undertaken, by such agency that may adversely affect any essential fish habitat identified under this Act\"""",
+      ""scope"": ""Any action that may adversely affect essential fish habitat"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""16 U.S.C. § 1855(b)(2)"",
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Each Fishery Management Plan (FMP) must identify and describe EFH for the managed fishery."",
+      ""scope"": ""Fishery Management Plans"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MSA"",
+      ""related_domains"": [""essential fish habitat"", ""fishery management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation on actions affecting essential fish habitat""
+    },
+    {
+      ""entity_name"": ""Secretary of Commerce"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Oversight of NMFS, consultation on actions affecting essential fish habitat""
+    },
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Lead Federal agency for consultation on actions affecting essential fish habitat""
+    },
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority (mentioned in context of consultation)""
+    },
+    {
+      ""entity_name"": ""U.S. Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority (mentioned in context of consultation)""
+    }
+
+  ]
+}
+```"
+49,15,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""1-1, 2-1, 2-2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An adverse effect may include direct or indirect physical, chemical, or biological alterations of the waters or substrate and loss of, or injury to, benthic organisms, prey species and their habitat and other ecosystems components, if such modifications reduce the quality and/or quantity of EFH."",
+      ""scope"": ""EFH (Essential Fish Habitat)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment"", ""marine ecosystem protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The loss of prey may have an adverse effect on EFH and managed species."",
+      ""scope"": ""EFH (Essential Fish Habitat)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""EFH final rule"",
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment"", ""marine ecosystem protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Actions that reduce the availability of prey species, either through direct harm or capture, or through adverse impacts to the prey species' habitat may also be considered adverse effects on EFH."",
+      ""scope"": ""EFH (Essential Fish Habitat)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""essential fish habitat"", ""environmental impact assessment"", ""marine ecosystem protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Permitting authority (evaluating the potential environmental effects of approval of the Construction and Operations Plan)""
+    }
+  ]
+}
+```"
+49,16,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and permitting authority""
+    }
+  ]
+}
+```"
+49,17,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,18,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,19,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-4, 2-5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,20,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,21,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,22,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,23,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,24,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,25,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": null,
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Jurisdictional oversight""
+    }
+  ]
+}
+```"
+49,26,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,27,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,28,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Should nighttime pile driving occur, the best currently available technology will be used to mitigate the potential impacts and result in the least practicable adverse impacts."",
+      ""scope"": ""Pile driving operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise pollution"", ""marine life disturbance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,29,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-13"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,30,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,31,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,32,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,33,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,34,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,35,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,36,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,37,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-17"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,38,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,39,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-18"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cables must be buried beneath the stable seafloor elevation to avoid cable exposure during the lifetime of the Project."",
+      ""scope"": ""Cable burial depth"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable integrity"", ""structural integrity""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The seafloor slop angles may be leveled to ensure burial tool maneuverability."",
+      ""scope"": ""Seafloor preparation for cable installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""seabed stability""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,40,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,41,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-19"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""prior to seafloor preparation, cable route, and micrositing of all assets, the Project would implement an MEC/UXO Risk Assessment with Risk Mitigation Strategy (RARMS) designed to evaluate and reduce risk in accordance with As Low As Reasonably Practicable risk mitigation principle"",
+      ""scope"": ""seafloor preparation, cable route, and micrositing of all assets"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""risk assessment"", ""unexploded ordnance"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,42,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,43,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,44,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-20"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The maximum total installed array cable length is 180 miles (289.7 km)."",
+      ""scope"": ""Inter-array cables"",
+      ""numerical_value"": 180,
+      ""unit"": ""miles"",
+      ""source"": null,
+      ""related_domains"": [""cable infrastructure"", ""electrical system""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,45,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""2.2.3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""The location of cable protection associated with the SRWEC would be provided to NOAA’s Office of Coast Survey after installation is completed so that they may be marked on nautical charts."",
+      ""scope"": ""Cable protection for SRWEC"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""COP Section 3.3.3; Sunrise Wind 2022"",
+      ""related_domains"": [""navigational safety"", ""cable protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA’s Office of Coast Survey"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Navigational safety information management""
+    }
+  ]
+}
+```"
+49,46,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-21"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Project review and permitting""
+    }
+  ]
+}
+```"
+49,47,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,48,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,49,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-22"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""vessels would install operational AIS"",
+      ""scope"": ""Vessel operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""navigation safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""all vessels would operate in accordance with applicable rules and regulations"",
+      ""scope"": ""Vessel operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""maritime safety"", ""vessel operations""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,50,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,51,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All facilities would need to be removed to a depth of 15 ft (4.6 m) below the mudline, unless otherwise authorized by BOEM"",
+      ""scope"": ""Decommissioning of all installations"",
+      ""numerical_value"": 15,
+      ""unit"": ""ft"",
+      ""source"": ""30 CFR § 585.910(a)"",
+      ""related_domains"": [""decommissioning"", ""site clearance""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Absent permission from BOEM, Sunrise Wind would complete decommissioning within two years of termination of the Lease."",
+      ""scope"": ""Decommissioning timeline"",
+      ""numerical_value"": 2,
+      ""unit"": ""years"",
+      ""source"": null,
+      ""related_domains"": [""decommissioning"", ""lease agreement""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""Sunrise Wind would develop a final decommissioning and removal plan for the facility that complies with all relevant permitting requirements. This plan would account for changing circumstances during the operational phase of the Project and would reflect new discoveries, particularly in the areas of marine environment, technological change, and any relevant amended legislation."",
+      ""scope"": ""Decommissioning plan"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""decommissioning"", ""planning""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Sunrise Wind would have to apply for and be granted an extension if it wanted to operate the proposed Project for more than the 25-year operations term stated in their lease."",
+      ""scope"": ""Operational lifespan extension"",
+      ""numerical_value"": 25,
+      ""unit"": ""years"",
+      ""source"": null,
+      ""related_domains"": [""lease agreement"", ""project lifespan""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and regulatory authority""
+    }
+  ]
+}
+```"
+49,52,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""2-23"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Sunrise Wind to submit a decommissioning application upon the earliest of the following dates: 2 years before the expiration of the lease, 90 days after completion of the commercial activities on the commercial lease, or 90 days after cancellation, relinquishment, or other termination of the lease"",
+      ""scope"": ""Decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.905"",
+      ""related_domains"": [""decommissioning""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""A separate EFH consultation would be conducted for the decommissioning phase of the Project."",
+      ""scope"": ""Decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""decommissioning""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Sunrise Wind would need to obtain separate and subsequent approval from BOEM to retire in place any portion of the proposed Project."",
+      ""scope"": ""Decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""decommissioning""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Approval of such activities would require compliance under NEPA and other federal statutes and implementing regulations."",
+      ""scope"": ""Decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEPA"",
+      ""related_domains"": [""environmental impact assessment"", ""decommissioning""]
+    },
+    {
+      ""type"": ""Financial"",
+      ""requirement"": ""If the COP is approved or approved with modifications, Sunrise Wind would have to submit a bond (or another form of financial assurance) that would be held by the U.S. government to cover the cost of decommissioning the entire facility"",
+      ""scope"": ""Decommissioning"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""decommissioning"", ""financial security""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+49,53,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,54,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,55,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,56,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,57,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,58,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,59,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,60,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+49,61,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,62,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,63,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,64,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,65,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,66,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,67,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,68,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,69,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,70,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,71,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-15"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""USFWS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+49,72,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,73,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,74,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,75,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,76,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,77,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""All native species of macroalgae, seagrasses, and freshwater and tidal macrophytes in any size bed, as well as loose aggregations, within adult and juvenile summer flounder EFH are designated as HAPC."",
+      ""scope"": ""Summer flounder HAPC in the vicinity of the SRWF Project area (Bellport Bay)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""MAFMC 2016"",
+      ""related_domains"": [""essential fish habitat"", ""habitat protection"", ""marine ecosystem""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Newly designated HAPC for cod spawning includes the entire lease area."",
+      ""scope"": ""Cod spawning HAPC within the SRWF project lease area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NEFMC 2017"",
+      ""related_domains"": [""essential fish habitat"", ""habitat protection"", ""cod spawning grounds""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""MAFMC"",
+      ""jurisdiction"": null, 
+      ""role"": ""Habitat designation (HAPC)""
+    },
+    {
+      ""entity_name"": ""NEFMC"",
+      ""jurisdiction"": null,
+      ""role"": ""Habitat designation (HAPC)""
+    }
+  ]
+}
+```"
+49,78,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,79,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,80,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-27"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,81,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,82,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-28"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NYSDEC"",
+      ""jurisdiction"": ""New York State"",
+      ""role"": ""Environmental oversight (designation of tidal wetland categories)""
+    },
+    {
+      ""entity_name"": ""National Wetlands Inventory (NWI)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Wetland identification and mapping""
+    }
+  ]
+}
+```"
+49,83,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,84,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,85,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-31"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,86,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""3-32"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+49,87,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,88,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,89,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,90,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,91,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,92,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,93,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,94,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3.3.7"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Essential Fish Habitat (EFH) designation""
+    }
+  ]
+}
+```"
+49,95,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,96,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,97,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,98,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,99,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Management of ocean quahogs""
+    }
+  ]
+}
+```"
+49,100,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,101,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,102,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,103,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,104,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-46"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,105,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,106,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-47"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""HAPCs are discrete subsets of EFH that provide important ecological functions or are especially vulnerable to degradation"",
+      ""scope"": ""Habitat Areas of Particular Concern (HAPCs) within and near the Sunrise Wind Offshore Wind Project area, specifically near the ICW-HDD and Bellport Bay."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 C.F.R. Part 600"",
+      ""related_domains"": [""essential fish habitat"", ""environmental protection"", ""habitat conservation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,107,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-48, 3-49"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The proposed Southern New England HAPC comprises all large-grained complex and complex benthic habitats used by Atlantic herring, Atlantic sea scallop, little skate, monkfish, ocean pout, red hake, silver hake, windowpane flounder, winter flounder, winter skate, and yellowtail flounder, wherever present within the area bounded by a 10-km (6.2-mile) buffer around the RI/MA and MA WEAs."",
+      ""scope"": ""Southern New England HAPC, within a 10-km buffer around the RI/MA and MA WEAs"",
+      ""numerical_value"": 10,
+      ""unit"": ""km"",
+      ""source"": ""NEFMC (Proposed Southern New England HAPC designation, July 20, 2022)"",
+      ""related_domains"": [""essential fish habitat"", ""marine conservation"", ""spatial planning""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NEFMC"",
+      ""jurisdiction"": ""Regional (New England)"",
+      ""role"": ""Fisheries management, HAPC designation""
+    },
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""HAPC approval authority""
+    }
+  ]
+}
+```"
+49,108,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""3-50"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New England Fishery Management Council (NEFMC)"",
+      ""jurisdiction"": null,
+      ""role"": ""Develops EFH designations""
+    },
+    {
+      ""entity_name"": ""Mid-Atlantic Fishery Management Council (MAFMC)"",
+      ""jurisdiction"": null,
+      ""role"": ""Develops EFH designations""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": null,
+      ""role"": ""Develops EFH designations""
+    }
+  ]
+}
+```"
+49,109,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""4-1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NEFMC"",
+      ""jurisdiction"": null,
+      ""role"": ""Management of resources under Northeast Multispecies FMP, Sea Scallop FMP, Monkfish FMP, Atlantic Herring FMP, Skate FMP, and Small-Mesh Multispecies FMP.""
+    },
+    {
+      ""entity_name"": ""MAFMC"",
+      ""jurisdiction"": null,
+      ""role"": ""Management of resources under Summer Flounder, Scup, Black Sea Bas FMP, Mackerel, Squid, and Butterfish FMP, Surfclams and Ocean Quahogs FMP, Bluefish FMP, and Monkfish FMP.""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": null,
+      ""role"": ""Management of resources under the Highly Migratory Species FMP.""
+    }
+  ]
+}
+```"
+49,110,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,111,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,112,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,113,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,114,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,115,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,116,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,117,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,118,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,119,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,120,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,121,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,122,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,123,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,124,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,125,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,126,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,127,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,128,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,129,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,130,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,131,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,132,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,133,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,134,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,135,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,136,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,137,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,138,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,139,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,140,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,141,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,142,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,143,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,144,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,145,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,146,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,147,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,148,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,149,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,150,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,151,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,152,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,153,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,154,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""4-25"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Habitat conservation""
+    },
+    {
+      ""entity_name"": ""Regional fisheries management councils"",
+      ""jurisdiction"": ""Regional - USA"",
+      ""role"": ""Habitat conservation""
+    },
+    {
+      ""entity_name"": ""MAFMC"",
+      ""jurisdiction"": ""Regional - USA"",
+      ""role"": ""Habitat conservation""
+    }
+  ]
+}
+```"
+49,155,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,156,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""The Southern New England HAPC comprises all large-grained complex and complex benthic habitats wherever present within the area bounded by a 10-km (6.2-mile) buffer around the RI/MA and MA WEAs (Plante 2022), including the SRWF."",
+      ""scope"": ""Southern New England HAPC, RI/MA and MA WEAs, SRWF"",
+      ""numerical_value"": 10,
+      ""unit"": ""km"",
+      ""source"": ""New England Fishery Management Council (NEFMC)"",
+      ""related_domains"": [""habitat protection"", ""benthic habitat"", ""offshore wind development""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The designation is intended to protect high-value complex habitats within this area, emphasizing currently known and potentially suitable areas used by Atlantic cod for spawning."",
+      ""scope"": ""Southern New England HAPC"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""New England Fishery Management Council (NEFMC)"",
+      ""related_domains"": [""habitat protection"", ""cod spawning"", ""offshore wind development""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Hard bottom substrates, defined by the Coastal and Marine Ecological Classification Standard (CMECS) as Substrate Class Rock Substrate and by the four Substrate Groups: Gravels, Gravel Mixes, Gravelly, and Shell."",
+      ""scope"": ""Southern New England HAPC"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""New England Fishery Management Council (NEFMC)"",
+      ""related_domains"": [""habitat classification"", ""substrate type"", ""offshore wind development""]
+    }
+
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New England Fishery Management Council (NEFMC)"",
+      ""jurisdiction"": ""Regional (New England, USA)"",
+      ""role"": ""Fisheries management, habitat protection, HAPC designation""
+    },
+    {
+      ""entity_name"": ""NMFS (National Marine Fisheries Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""HAPC approval""
+    },
+    {
+      ""entity_name"": ""NOAA (National Oceanic and Atmospheric Administration)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""HAPC approval""
+    }
+  ]
+}
+```"
+49,157,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""4-27"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New England Fishery Management Council (NEFMC)"",
+      ""jurisdiction"": ""Southern New England"",
+      ""role"": ""Fishery management, habitat management (although designation of Cox Ledge as a habitat management area was disapproved by NOAA)""
+    },
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA (implied, based on disapproval of NEFMC designation)"",
+      ""role"": ""Regulatory oversight of fishery management and habitat designation""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (implied, as they funded a study)"",
+      ""role"": ""Funding research related to habitat usage and potentially impacting wind farm development""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA (implied, as they are conducting the study with other entities)"",
+      ""role"": ""Conducting research related to habitat usage and potentially impacting wind farm development""
+    }
+  ]
+}
+```"
+49,158,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,159,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,160,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,161,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Adverse effects may include direct or indirect physical, chemical, or biological alterations of the waters or substrate as well as the loss of and/or injury to benthic organisms, prey species, their habitat, and other ecosystem components. Adverse effects may be site-specific or habitat-wide impacts including individual, cumulative, or synergistic consequences of actions"",
+      ""scope"": ""EFH for managed species and life stages in the Project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""50 CFR § 600.810"",
+      ""related_domains"": [""environmental impact assessment"", ""benthic habitat"", ""water quality"", ""species protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Definition of adverse effects on EFH""
+    }
+  ]
+}
+```"
+49,162,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,163,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,164,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,165,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,166,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,167,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""minimize disturbance to the seabed and sensitive habitat"",
+      ""scope"": ""Construction activities, Anchoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""benthic habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""avoid anchoring on sensitive habitat"",
+      ""scope"": ""Construction activities, Anchoring"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""benthic habitat protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""implement turbidity reduction measures to minimize impacts to sensitive habitat from construction activities"",
+      ""scope"": ""Construction activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""APM in Table 6-1 (referenced but not provided)"",
+      ""related_domains"": [""environmental impact assessment"", ""water quality""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": null, 
+      ""role"": null
+    }
+  ]
+}
+```"
+49,168,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Avoid large-grained complex and complex habitat to the extent practicable during anchoring activities."",
+      ""scope"": ""Anchoring activities during construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""benthic habitat protection"", ""environmental impact mitigation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,169,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-35"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,170,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,171,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-36"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Plan for avoidance of sensitive habitat when anchoring"",
+      ""scope"": ""Anchoring activities within EFH for Sessile Benthic/Epibenthic – Soft Bottom, Mobile Benthic/Epibenthic – Soft Bottom; Sessile Benthic/Epibenthic – Complex; Mobile Benthic/Epibenthic – Complex; Pelagic species groups; Prey Species – Benthic; Prey Species – Pelagic, Summer Flounder HAPC; Summer Flounder HAPC."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""essential fish habitat"", ""anchoring operations"", ""habitat avoidance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,172,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,173,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,174,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,175,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,176,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessels are required to adhere to existing state and federal regulations related to ballast and bilge water discharge"",
+      ""scope"": ""Ballast and bilge water discharge from vessels involved in the project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""invasive species"", ""ballast water management"", ""bilge water management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Adhere to U.S. Coast Guard ballast discharge regulations (33 CFR 151.2025)"",
+      ""scope"": ""Ballast water discharge from vessels involved in the project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""33 CFR 151.2025"",
+      ""related_domains"": [""invasive species"", ""ballast water management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Adhere to U.S. Environmental Protection Agency National Pollutant Discharge Elimination System (NPDES) Vessel General Permit standards"",
+      ""scope"": ""Vessel discharges involved in the project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NPDES Vessel General Permit"",
+      ""related_domains"": [""water pollution"", ""environmental protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Enforcement agency, ballast water discharge regulation""
+    },
+    {
+      ""entity_name"": ""U.S. Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority (NPDES), environmental protection""
+    }
+  ]
+}
+```"
+49,177,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,178,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,179,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,180,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-41"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For fish ≥ 2 grams, impulsive pile driving sound levels shall not exceed 206 dB re 1 µPa (Lpk) for physiological effects."",
+      ""scope"": ""Offshore wind farm construction (pile driving)"",
+      ""numerical_value"": 206,
+      ""unit"": ""dB re 1 µPa"",
+      ""source"": ""FHWG 2008"",
+      ""related_domains"": [""marine ecology"", ""noise pollution"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For fish ≥ 2 grams, impulsive pile driving sound exposure levels shall not exceed 187 dB re 1 µPa2s (Leq, 24hr) for physiological effects."",
+      ""scope"": ""Offshore wind farm construction (pile driving)"",
+      ""numerical_value"": 187,
+      ""unit"": ""dB re 1 µPa2s"",
+      ""source"": ""FHWG 2008"",
+      ""related_domains"": [""marine ecology"", ""noise pollution"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For fish ≥ 2 grams, impulsive and non-impulsive pile driving sound levels shall not exceed 150 dB re 1 µPa (Lp) for behavioral disturbance."",
+      ""scope"": ""Offshore wind farm construction (pile driving)"",
+      ""numerical_value"": 150,
+      ""unit"": ""dB re 1 µPa"",
+      ""source"": ""Andersson et al. 2007, Wysocki et al. 2007, Mueller-Blenkle et al. 2010, Purser"",
+      ""related_domains"": [""marine ecology"", ""noise pollution"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For fish < 2 grams, impulsive pile driving sound levels shall not exceed 206 dB re 1 µPa (Lpk) for physiological effects."",
+      ""scope"": ""Offshore wind farm construction (pile driving)"",
+      ""numerical_value"": 206,
+      ""unit"": ""dB re 1 µPa"",
+      ""source"": ""FHWG 2008"",
+      ""related_domains"": [""marine ecology"", ""noise pollution"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For fish < 2 grams, impulsive pile driving sound exposure levels shall not exceed 183 dB re 1 µPa2s (Leq, 24hr) for physiological effects."",
+      ""scope"": ""Offshore wind farm construction (pile driving)"",
+      ""numerical_value"": 183,
+      ""unit"": ""dB re 1 µPa2s"",
+      ""source"": ""FHWG 2008"",
+      ""related_domains"": [""marine ecology"", ""noise pollution"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""For fish < 2 grams, impulsive and non-impulsive pile driving sound levels shall not exceed 150 dB re 1 µPa (Lp) for behavioral disturbance."",
+      ""scope"": ""Offshore wind farm construction (pile driving)"",
+      ""numerical_value"": 150,
+      ""unit"": ""dB re 1 µPa"",
+      ""source"": ""Andersson et al. 2007, Wysocki et al. 2007, Mueller-Blenkle et al. 2010, Purser"",
+      ""related_domains"": [""marine ecology"", ""noise pollution"", ""fisheries management""]
+    }
+
+
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,181,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,182,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,183,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-43/5-44"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No pile installation will occur from 01 January to 30 April."",
+      ""scope"": ""Pile installation activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine ecosystem protection"", ""fish habitat protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,184,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,185,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-45"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,186,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,187,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,188,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,189,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,190,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,191,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,192,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,193,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,194,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,195,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,196,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,197,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,198,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,199,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,200,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,201,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,202,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,203,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,204,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-54"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Further coordination with the appropriate federal agencies (e.g., NMFS) would occur as appropriate if MEC/UXO mitigation requires action that was not considered in this consultation."",
+      ""scope"": ""MEC/UXO mitigation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""UXO/MEC mitigation""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+49,205,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""An APM of a dual noise-mitigation system with a 10 dB attenuation will be implemented during all detonation events"",
+      ""scope"": ""UXO detonation events"",
+      ""numerical_value"": 10,
+      ""unit"": ""dB"",
+      ""source"": null,
+      ""related_domains"": [""underwater noise mitigation"", ""marine wildlife protection"", ""explosives safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,206,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,207,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-56"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""no UXO detonations from December through April"",
+      ""scope"": ""UXO detonation activities related to Sunrise Wind Offshore Wind Project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise mitigation"", ""marine wildlife protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""UXO detonations during nighttime hours"",
+      ""scope"": ""UXO detonation activities related to Sunrise Wind Offshore Wind Project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise mitigation"", ""marine wildlife protection""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Sunrise Wind will use an NAS for all UXO detonation events and is committed to achieving the modeled ranges associated with 10 dB of noise attenuation."",
+      ""scope"": ""UXO detonation activities related to Sunrise Wind Offshore Wind Project"",
+      ""numerical_value"": 10,
+      ""unit"": ""dB"",
+      ""source"": null,
+      ""related_domains"": [""noise mitigation"", ""underwater acoustics""]
+    },
+        {
+      ""type"": ""Technical"",
+      ""requirement"": ""If a NAS system is not feasible, Sunrise Wind will implement mitigation measures for the larger unmitigated zone sizes, with deployment of vessels or use of an aerial platform adequate to cover the entire clearance zones."",
+      ""scope"": ""UXO detonation activities related to Sunrise Wind Offshore Wind Project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""noise mitigation"", ""underwater acoustics"", ""safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,208,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,209,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,210,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,211,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,212,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,213,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,214,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,215,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,216,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,217,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,218,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,219,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,220,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,221,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+49,222,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,223,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-65"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,224,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Onshore export cable corridors and landfall will be sited within existing rights-of-way or previously disturbed/developed lands to the extent practicable."",
+      ""scope"": ""Onshore cable landfall and export cable corridors"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""land use"", ""environmental impact""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Onshore, cable landfall and offshore facilities will be sited to avoid known locations of sensitive habitat (such as known nesting beaches) or species during sensitive periods (such as nesting season); important marine habitat such as high density, high value fishing grounds identified through a stakeholder and scientific review process and sensitive benthic habitat to the extent practicable."",
+      ""scope"": ""Onshore cable landfall and offshore facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact"", ""marine habitat protection"", ""fishing industry""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Efforts will be made to avoid hard-bottom habitats and seagrass communities, where practicable, and restore any damage to these communities."",
+      ""scope"": ""Offshore cable route"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine habitat protection"", ""environmental remediation""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Areas that would require extensive seabed or onshore alterations would be avoided to the extent practicable."",
+      ""scope"": ""Onshore and offshore cable routes"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact"", ""seabed alteration""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Onshore and offshore cables will be buried below the surface or seabed to the extent practicable."",
+      ""scope"": ""Onshore and offshore cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""fishing industry"", ""navigation safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Offshore cable burial depth will be periodically inspected during project operation to ensure that adequate coverage is maintained to avoid interference with fishing gear/activity."",
+      ""scope"": ""Offshore cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""fishing industry"", ""navigation safety"", ""cable maintenance""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,225,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-66"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,226,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,227,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,228,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,229,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,230,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-68"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Where HDD trenchless technology methods are used, develop, and implement an Inadvertent Return Plan that includes measures to prevent inadvertent returns of drilling fluid to the extent practicable and measures to be taken in the event of an inadvertent return."",
+      ""scope"": ""HDD trenchless technology methods"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental protection"", ""drilling operations"", ""water quality""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,231,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-69"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,232,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,233,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,234,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-71"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monitoring and mitigation measures will be implemented to mitigate impacts to fish during pile driving activity including soft-start techniques and seasonal restrictions (Sea Turtle and ESA-Listed Fish Species PSMMP)."",
+      ""scope"": ""Pile driving activity for temporary pier construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Sea Turtle and ESA-Listed Fish Species PSMMP"",
+      ""related_domains"": [""marine ecosystem protection"", ""fisheries management"", ""impact mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Time-of-year-in-water restrictions will be employed to the extent feasible to avoid or minimize direct impacts to species of concern, such as Atlantic sturgeon or winter flounder, during installation of the temporary pier."",
+      ""scope"": ""Installation of temporary pier"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null, 
+      ""related_domains"": [""marine ecosystem protection"", ""fisheries management"", ""impact mitigation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,235,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,236,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,237,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""While the project would avoid macroalgae and seagrass areas during construction, any impacts on macroalgae or aquatic vegetation would constitute an intermediate-term adverse effect on HAPC for this species."",
+      ""scope"": ""Nearshore terminus (estuarine portion) of the cable route, specifically macroalgae and seagrass areas overlapping with HAPC for summer flounder."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""habitat protection"", ""marine vegetation""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,238,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,239,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,240,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,241,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,242,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,243,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,244,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-75"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+49,245,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,246,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,247,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,248,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,249,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,250,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,251,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-78"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The OCS-DC cooling water intake was designed to maintain a through screen velocity less than 0.5 feet per second (ft/s) (0.1525 meter per second [m/s]) which is below the EPA threshold for new facilities and is protective against impingement of juvenile and adult fish."",
+      ""scope"": ""Cooling water intake system for the OCS-DC"",
+      ""numerical_value"": 0.5,
+      ""unit"": ""ft/s"",
+      ""source"": ""EPA"",
+      ""related_domains"": [""environmental impact assessment"", ""impingement protection"", ""cooling water intake design""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""EPA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+49,252,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""An NPDES permit application for the OCS-DC was submitted to the Environmental Protection Agency in December 2021"",
+      ""scope"": ""OCS-DC"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Environmental Protection Agency (NPDES permit)"",
+      ""related_domains"": [""water discharge"", ""pollution control"", ""environmental permitting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Environmental Protection Agency"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+49,253,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-79"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The NPDES permit included annual entrainment estimates of ichthyoplankton by grouping egg and larval stages."",
+      ""scope"": ""Entrainment of ichthyoplankton (egg and larval stages)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NPDES permit"",
+      ""related_domains"": [""environmental impact assessment"", ""marine ecology"", ""fisheries management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,254,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,255,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The location, design, and operation of the cooling water discharge (Dump Caisson) was selected to minimize degradation by minimizing the thermal plume size to the greatest extent practicable and preventing thermal plume migration to the surface waters or benthos."",
+      ""scope"": ""Cooling water discharge system"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""thermal plume"", ""water quality"", ""benthic habitat""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Dump Caisson needed to be sited deep enough that it would be submerged in the 100-year wave event"",
+      ""scope"": ""Dump Caisson siting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""coastal engineering""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Dump Caisson needed to be sited [...] at a sufficient distance away from the intake pipes to avoid heated effluent being subsequently withdrawn by the SWLP."",
+      ""scope"": ""Dump Caisson siting"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""thermal plume management"", ""cooling system efficiency""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,256,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,257,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,258,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,259,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Acoustic Telemetry – Sunrise Wind Export Cable"",
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,260,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,261,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,262,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,263,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,264,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,265,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,266,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,267,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,268,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,269,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-86"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""At least two field sampling events would occur after the proposed SRWEC-NYS has been installed."",
+      ""scope"": ""Post-construction monitoring"",
+      ""numerical_value"": 2,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""post-construction monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Post construction monitoring surveys would occur between August 1st and October 31st within 24 months of the Project’s commercial operational date."",
+      ""scope"": ""Post-construction monitoring"",
+      ""numerical_value"": 24,
+      ""unit"": ""months"",
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""post-construction monitoring""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""During the post-cable installation surveys, three stations would be sampled with SPI/PV in a transect perpendicular to the SRWEC-NYS, with one station as close as practicable to the centerline and one station approximately 100-ft on either side."",
+      ""scope"": ""Post-cable installation surveys"",
+      ""numerical_value"": 3,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""cable installation impact""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""These transects would repeat at 1,000-ft (305 m) intervals from the HDD exits offshore to the territorial limit of NYS waters."",
+      ""scope"": ""Post-cable installation surveys"",
+      ""numerical_value"": 1000,
+      ""unit"": ""ft"",
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""cable installation impact""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""At each SPI/PV station a minimum of three replicate images shall be collected and analyzed."",
+      ""scope"": ""Post-cable installation surveys"",
+      ""numerical_value"": 3,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""data acquisition""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""At each SPI/PV station, a conductivity, temperature, depth sensor would be used to measure the salinity and temperature through the water column to the sediment surface. Additionally, the temperature of the sediments would be measured at each SPI/PV station."",
+      ""scope"": ""Post-cable installation surveys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""data acquisition""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The SPI/PV sampling would be supplemented with sediment grab stations located at transects every 2,000-ft (610 m) along the SRWEC-NYS centerline, with one grab sample station as close as practicable to the centerline and one grab sample station approximately 100-ft (30.5 m) on the eastern side of the cable."",
+      ""scope"": ""Sediment sampling"",
+      ""numerical_value"": 2000,
+      ""unit"": ""ft"",
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""sediment sampling""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""At each grab station three replicate grab samples would be collected, sieved onboard, and preserved."",
+      ""scope"": ""Sediment sampling"",
+      ""numerical_value"": 3,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""sample handling""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,270,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,271,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""5-87"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""All facilities would need to be removed to a depth of 15 ft (4.6 m) below the mudline, unless otherwise authorized by BOEM"",
+      ""scope"": ""Decommissioning of offshore wind farm facilities"",
+      ""numerical_value"": 15,
+      ""unit"": ""ft"",
+      ""source"": ""30 CFR § 585.910(a)"",
+      ""related_domains"": [""decommissioning"", ""site remediation"", ""environmental impact""]
+    },
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Absent permission from BOEM, Sunrise Wind would complete decommissioning within two years of termination of the Lease."",
+      ""scope"": ""Decommissioning timeline"",
+      ""numerical_value"": 2,
+      ""unit"": ""years"",
+      ""source"": null,
+      ""related_domains"": [""decommissioning"", ""lease agreement""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting and regulatory oversight""
+    }
+  ]
+}
+```"
+49,272,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Monopole foundations would be cut below the seabed level in accordance with standard practices at the time of demolition."",
+      ""scope"": ""Turbine foundations (monopole)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""decommissioning"", ""marine environment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The scour protection placed around the base of each monopile would be removed during decommissioning, according to the best practices applicable at the time of decommissioning."",
+      ""scope"": ""Scour protection around monopiles"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""decommissioning"", ""marine environment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Offshore cables would either be left in-situ or removed, or a combination of both, depending on the regulatory requirements at the time of decommissioning."",
+      ""scope"": ""Offshore cables (array and export)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""decommissioning"", ""cable management""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Any cable ends would be weighed down and buried if the cables are to be left in-situ to ensure that the ends are not exposed or have the potential to become exposed post-decommissioning."",
+      ""scope"": ""Subsea cables left in-situ"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""decommissioning"", ""cable management"", ""navigation safety""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,273,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,274,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,275,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,276,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""6-1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+49,277,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Site onshore export cable corridors and landfall within existing rights-of-way or previously disturbed/developed lands to the extent practicable."",
+      ""scope"": ""Onshore export cable corridors and landfall"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""land use"", ""environmental impact""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Site onshore, cable landfall and offshore facilities to avoid known locations of sensitive habitat (such as known nesting beaches) or species during sensitive periods (such as nesting season); important marine habitat (such as high density, high value fishing grounds identified through a lengthy stakeholder and scientific review process when refining the RI-MA WEA- see Section 2.1.1 of the Sunrise Wind COP); and sensitive benthic habitat; to the extent practicable."",
+      ""scope"": ""Onshore facilities, cable landfall, offshore facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact"", ""marine ecology"", ""fisheries""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Avoid hard-bottom habitats and seagrass communities, where practicable, and restore any damage to these communities."",
+      ""scope"": ""Offshore facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact"", ""marine ecology""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Avoid areas that would require extensive seabed or onshore alterations to the extent practicable."",
+      ""scope"": ""Seabed, onshore areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact"", ""land use""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Bury onshore and offshore cables below the surface or seabed to the extent practicable"",
+      ""scope"": ""Onshore and offshore cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable installation"", ""environmental impact"", ""fisheries""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""inspect offshore cable burial depth periodically during project operation"",
+      ""scope"": ""Offshore cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""cable maintenance"", ""environmental impact"", ""fisheries""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Develop and implement a site-specific monitoring program to ensure that environmental conditions are monitored during construction, operation, and decommissioning phases"",
+      ""scope"": ""Project site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""impact assessment""]
+    },
+        {
+      ""type"": ""Environmental"",
+      ""requirement"": ""ensure environmental conditions are monitored and reasonable actions are taken to avoid and/or minimize seabed disturbance and sediment dispersion, consistent with permit conditions"",
+      ""scope"": ""Project site"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""impact assessment"", ""sediment control""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,278,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,279,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Implement aircraft detection lighting system (ADLS) or related means (e.g., dimming or shielding) on wind turbine generators (WTGs)."",
+      ""scope"": ""Wind turbine generators (WTGs)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal Aviation Administration (FAA), BOEM, and U.S. Coast Guard (USCG)"",
+      ""related_domains"": [""aviation safety"", ""navigation safety""]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Comply with Federal Aviation Administration (FAA), BOEM, and U.S. Coast Guard (USCG) lighting, marking and signage requirements to aid navigation per USCG navigation and inspection circular (NVIC) 02-07 (USCG 2007) and comply with any other applicable USCG requirements"",
+      ""scope"": ""Wind turbine generators (WTGs), above water obstructions, underwater cables"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Federal Aviation Administration (FAA), BOEM, U.S. Coast Guard (USCG) navigation and inspection circular (NVIC) 02-07 (USCG 2007)"",
+      ""related_domains"": [""navigation safety"", ""maritime safety""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""To the extent practicable, use appropriate installation technology designed to minimize disturbance to the seabed and sensitive habitat (such as beaches and dunes, wetlands and associated buffers, streams, hard-bottom habitats, seagrass beds, and the near- shore zone); avoid anchoring on sensitive habitat; and implement turbidity reduction measures to minimize impacts to sensitive habitat from construction activities."",
+      ""scope"": ""Installation and construction activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental protection"", ""habitat preservation"", ""water quality""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""During pile-driving activities, use ramp up procedures as agreed with National Marine Fisheries Service (NMFS) for activities covered by Incidental Take Authorizations, allowing mobile resources to leave the area before full-intensity pile-driving begins."",
+      ""scope"": ""Pile-driving activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""National Marine Fisheries Service (NMFS)"",
+      ""related_domains"": [""marine life protection"", ""noise pollution mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""If technically feasible, Sunrise Wind will also use shutdown procedures [during pile-driving activities]."",
+      ""scope"": ""Pile-driving activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""marine life protection"", ""noise pollution mitigation""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Prepare waste management plans and hazardous materials plans as appropriate for the Project."",
+      ""scope"": ""Project-wide"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""waste management"", ""hazardous materials management"", ""environmental protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Establish and implement erosion and sedimentation control measures in a Stormwater Pollution Prevention Plan (SWPPP, authorized by the State), and Spill Prevention, Control, and Countermeasures (SPCC) Plan to minimize impacts to water quality (prepared in accordance with applicable regulations or OCS Permit)."",
+      ""scope"": ""Project-wide"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""State (for SWPPP), OCS Permit (for SPCC)"",
+      ""related_domains"": [""water quality"", ""erosion control"", ""spill prevention""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Aviation Administration (FAA)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Aviation safety and airspace regulation""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Offshore energy management and regulation""
+    },
+    {
+      ""entity_name"": ""U.S. Coast Guard (USCG)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maritime safety and security, navigation""
+    },
+    {
+      ""entity_name"": ""National Marine Fisheries Service (NMFS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Marine resource management and protection""
+    }
+  ]
+}
+```"
+49,280,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,281,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Where HDD trenchless technology methods are used, develop, and implement an Inadvertent Return Plan that includes measures to prevent inadvertent returns of drilling fluid to the extent practicable and measures to be taken in the event of an inadvertent return."",
+      ""scope"": ""HDD trenchless technology methods"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental protection"",
+        ""water quality""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Restore disturbance areas in the Onshore Project Area to preexisting contours (maintaining natural surface drainage patterns) and allow vegetation to become reestablished once construction activities are completed, to the extent practicable."",
+      ""scope"": ""Onshore Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""habitat restoration"",
+        ""land management""
+      ]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Develop and implement a communication plan to inform the USCG, Department of Defense (DOD) headquarters, harbor masters, public, local businesses, commercial and recreational fishers, among others of construction and maintenance activities and vessel movements, as coordinated by the Marine Coordination Center and Marine Affairs."",
+      ""scope"": ""Construction and maintenance activities, vessel movements"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""navigation safety"",
+        ""communication protocols""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Develop and implement an Onshore Maintenance of Traffic Plan to minimize vehicular traffic impacts during construction."",
+      ""scope"": ""Onshore construction activities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""habitat protection"",
+        ""traffic management""
+      ]
+    },
+        {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Sunrise Wind would restore roadways to pre-construction conditions in accordance with NYSDOT Standard Specifications for Construction and Materials."",
+      ""scope"": ""Roadways within the project area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NYSDOT Standard Specifications for Construction and Materials"",
+      ""related_domains"": [
+        ""habitat restoration"",
+        ""roadway construction""
+      ]
+    },
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Prior to the start of operations, Sunrise Wind will hold training to establish responsibilities of each involved party, define the chains of command, discuss communication procedures, provide an overview of monitoring procedures, and review operational procedures. This training will include all relevant personnel, crew members and protected species observers (PSO). New personnel must be trained as they join the work in progress. Vessel operators, crew members and protected species observers shall be required to undergo training on applicable vessel guidelines and the standard operating"",
+      ""scope"": ""Operations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""personnel training"",
+        ""safety procedures"",
+        ""environmental protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,282,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""6-4/6-5"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Implement Project and site-specific safety plans (Safety Management System, Appendix E2)."",
+      ""scope"": ""Sunrise Wind Offshore Wind Project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""safety"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Avoid identified shallow hazards, to the extent feasible"",
+      ""scope"": ""Sunrise Wind Offshore Wind Project"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""site selection"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Reduce scouring action by ocean currents around foundations and to seabed topography by taking reasonable measures and employing periodic routine inspections to ensure structural integrity."",
+      ""scope"": ""Turbine foundations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""structural integrity"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Take reasonable actions (use BMPs) to minimize seabed disturbance and sediment dispersion during cable installation and construction of project facilities."",
+      ""scope"": ""Cable installation and project facility construction"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""construction""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Conduct periodic and routine inspections to determine if non-routine maintenance is required."",
+      ""scope"": ""Project facilities"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""maintenance"", ""structural integrity"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,283,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Coordinate with the New York Department of Environmental Conservation (NYSDEC), National Oceanic Atmospheric Administration (NOAA) Fisheries, and United States Fish and Wildlife Service (USFWS) to identify unique or protected habitat or known habitat for threatened or endangered and candidate species and avoid these areas to the extent practicable."",
+      ""scope"": ""SRWF, SRWEC- OCS, SRWEC- NYS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""habitat protection"", ""endangered species protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Conduct maintenance and repair activities in a manner to avoid or minimize impacts to sensitive species and habitat such as beaches, dunes, and the near-shore zone."",
+      ""scope"": ""SRWEC- NYS"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""habitat protection"", ""species protection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Conduct a submerged aquatic vegetation (SAV) survey of the proposed inshore export cable route."",
+      ""scope"": ""Inshore export cable route"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""habitat assessment"", ""environmental impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Evaluate geotechnical and geophysical survey results to identify sensitive habitats (e.g., shellfish and SAV beds) and avoid these areas during construction, to the extent practicable."",
+      ""scope"": ""Construction phase"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""habitat protection"", ""environmental impact assessment""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New York Department of Environmental Conservation (NYSDEC)"",
+      ""jurisdiction"": ""New York State"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""National Oceanic Atmospheric Administration (NOAA) Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Fisheries management and habitat protection""
+    },
+    {
+      ""entity_name"": ""United States Fish and Wildlife Service (USFWS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Wildlife conservation and endangered species protection""
+    }
+  ]
+}
+```"
+49,284,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,285,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Sunrise Wind will coordinate with NYSDEC, NMFS and USACE regarding time of year restrictions for summer flounder habitat areas of particular concern (HAPC)."",
+      ""scope"": ""Summer flounder HAPC"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""environmental protection"",
+        ""marine habitat""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Vessel operators will monitor NMFS North Atlantic right whale (NARW) reporting systems (e.g., the Early Warning System, Sighting Advisory System) [daily] for the presence of NARW during planning, construction, and operations within or adjacent to Seasonal Management Areas and/or Dynamic Management Areas."",
+      ""scope"": ""Seasonal Management Areas and/or Dynamic Management Areas"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS"",
+      ""related_domains"": [
+        ""marine mammal protection"",
+        ""navigation""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The Project will use NAS (e.g., bubble curtain, hydro-damper, AdBm, Helmholz resonator) to reduce noise propagation during monopile foundation pile driving. The Project is committed to achieving ranges associated with 10 dB of noise attenuation."",
+      ""scope"": ""Monopile foundation pile driving"",
+      ""numerical_value"": 10,
+      ""unit"": ""dB"",
+      ""source"": null,
+      ""related_domains"": [
+        ""noise mitigation"",
+        ""marine environment""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""4-hour PAM operator rotations for 24-hour operation vessels. There will be a PAM operator on duty conducting acoustic monitoring in coordination with the visual PSOs during all pre-start clearance periods, piling, and post-piling monitoring periods. Passive acoustic monitoring will include and extend beyond the largest shutdown zone for low- and mid-frequency cetaceans. Mitigation zones established for all species, including NARW will be applied accordingly depending on the season in which work is performed, summer (May-November) or winter (December-April)."",
+      ""scope"": ""Pile driving operations"",
+      ""numerical_value"": 4,
+      ""unit"": ""hours"",
+      ""source"": null,
+      ""related_domains"": [
+        ""marine mammal monitoring"",
+        ""noise mitigation""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No pile installation will occur from 01 January to 30 April."",
+      ""scope"": ""Pile installation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""marine environment"",
+        ""construction schedule""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Sunrise Wind will use an NAS for all UXO detonation events and is committed to achieving the modeled ranges associated with 10 dB of noise attenuation."",
+      ""scope"": ""UXO detonation events"",
+      ""numerical_value"": 10,
+      ""unit"": ""dB"",
+      ""source"": null,
+      ""related_domains"": [
+        ""noise mitigation"",
+        ""explosive handling""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NYSDEC"",
+      ""jurisdiction"": ""New York State"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    },
+    {
+      ""entity_name"": ""USACE"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+49,286,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Pro j ect"",
+    ""document_number"": ""6-7, 6-8"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""No UXO detonations are planned from December through April. No UXO will be detonated during nighttime hours."",
+      ""scope"": ""Sunrise Wind Farm area, Sunrise Wind Export Cable – Federal Waters, Sunrise Wind Export Cable – NY State Waters"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""marine wildlife protection"", ""essential fish habitat""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Potential Imposer of Environmental Protection Measures (EPMs)""
+    }
+  ]
+}
+```"
+49,287,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""All hydraulic dredge intakes should be covered with a mesh screen or screening device that is properly installed and maintained to minimize potential for impingement or entrainment of fish species."",
+      ""scope"": ""Inshore Hydraulic Dredges"",
+      ""numerical_value"": 1.25,
+      ""unit"": ""inches"",
+      ""source"": null,
+      ""related_domains"": [""environmental protection"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The screening device on the dredge intake should prevent the passage of any material greater than 1.25” in diameter, with a maximum opening of 1.25”x 6”."",
+      ""scope"": ""Inshore Hydraulic Dredges"",
+      ""numerical_value"": 6,
+      ""unit"": ""inches"",
+      ""source"": null,
+      ""related_domains"": [""environmental protection"", ""fisheries management""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,288,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""6-9/6-10"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Intake velocity should be limited to less than 0.5 ft/sec."",
+      ""scope"": ""Intake structures for cooling or other purposes"",
+      ""numerical_value"": 0.5,
+      ""unit"": ""ft/sec"",
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""fisheries management"", ""larval entrainment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""To the extent technically and economically feasible, the Lessee must ensure that all materials used for scour and cable protection consist of natural or engineered stone that does not inhibit epibenthic growth."",
+      ""scope"": ""Scour and cable protection"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""benthic habitat protection""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,289,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6.2.1"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""develop and implement a site-specific monitoring program to ensure that environmental conditions are monitored during construction, operation, and decommissioning phases"",
+      ""scope"": ""Sunrise Wind Farm"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Permit conditions"",
+      ""related_domains"": [""environmental monitoring"", ""construction"", ""operation"", ""decommissioning""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""ensure environmental conditions are monitored and reasonable actions are taken to avoid and/or minimize seabed disturbance and sediment dispersion"",
+      ""scope"": ""Sunrise Wind Farm"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Permit conditions"",
+      ""related_domains"": [""environmental monitoring"", ""seabed disturbance"", ""sediment dispersion""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,290,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,291,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,292,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,293,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,294,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,295,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,296,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,297,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,298,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,299,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+49,300,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""At least two field sampling events would occur after the proposed SRWEC-NYS has been installed."",
+      ""scope"": ""Post-construction monitoring of the SRWEC-NYS within NYS waters"",
+      ""numerical_value"": 2,
+      ""unit"": ""events"",
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""impact assessment""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Postconstruction monitoring surveys would occur between August 1st and October 31st each year within 24 months of the Sunrise Wind Farm Project’s commercial operational date."",
+      ""scope"": ""Post-construction monitoring surveys"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""temporal restrictions""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""During the post-cable installation surveys, three stations would be sampled with SPI/PV in a transect perpendicular to the SRWEC-NYS"",
+      ""scope"": ""Post-cable installation surveys"",
+      ""numerical_value"": 3,
+      ""unit"": ""stations"",
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""sampling methodology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""one station as close as practicable to the centerline and one station approximately 100 feet on either side."",
+      ""scope"": ""Sampling station placement"",
+      ""numerical_value"": 100,
+      ""unit"": ""feet"",
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""sampling methodology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""These transects would repeat at 1,000-ft intervals from the HDD exits offshore to the territorial limit of NYS waters."",
+      ""scope"": ""Sampling transect spacing"",
+      ""numerical_value"": 1000,
+      ""unit"": ""feet"",
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""sampling methodology""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""At each SPI/PV station a minimum of three replicate images shall be collected and analyzed."",
+      ""scope"": ""SPI/PV data acquisition"",
+      ""numerical_value"": 3,
+      ""unit"": ""images"",
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""data collection""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""At each grab station three replicate grab samples would be collected, sieved onboard, and preserved."",
+      ""scope"": ""Sediment grab sample collection"",
+      ""numerical_value"": 3,
+      ""unit"": ""samples"",
+      ""source"": null,
+      ""related_domains"": [""environmental monitoring"", ""sample handling""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""One replicate grab sample from each grab station would be analyzed for benthic community analysis by standard Environmental Protection Agency approved protocols"",
+      ""scope"": ""Benthic community analysis"",
+      ""numerical_value"": 1,
+      ""unit"": ""sample"",
+      ""source"": ""Environmental Protection Agency"",
+      ""related_domains"": [""environmental monitoring"", ""benthic analysis""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,301,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,302,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Exclusion of WTG positions within prioritized contiguous areas of complex habitat."",
+      ""scope"": ""WTG positions within Priority Area 1, specifically positions 87 to 94 (excluding 91) and position 96."",
+      ""numerical_value"": 8,
+      ""unit"": ""WTG positions"",
+      ""source"": ""BOEM (Bureau of Ocean Energy Management) in response to NMFS (National Marine Fisheries Service) identification of priority areas for conservation."",
+      ""related_domains"": [""environmental impact assessment"", ""habitat preservation"", ""fisheries management""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Prioritization of contiguous areas of complex habitat for exclusion from development to avoid and minimize impacts to complex fisheries habitats."",
+      ""scope"": ""Areas identified by NMFS based on Atlantic cod spawning activity, assumed hard bottom complex substrate, and presence of large boulders."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""BOEM, considering NMFS inputs."",
+      ""related_domains"": [""environmental impact assessment"", ""habitat preservation"", ""fisheries management""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, project development oversight""
+    },
+    {
+      ""entity_name"": ""NMFS (National Marine Fisheries Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight, fisheries management, providing recommendations for habitat conservation""
+    }
+  ]
+}
+```"
+49,303,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""6-17"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""certain WTG positions would be excluded from the identified priority areas in order to reduce impacts to sensitive benthic habitat and areas near where cod spawning has been detected"",
+      ""scope"": ""WTG placement within the Sunrise Wind Farm lease area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Sunrise Wind Farm COP (Sunrise Wind 2022)"",
+      ""related_domains"": [""environmental impact assessment"", ""fisheries habitat protection"", ""benthic habitat preservation""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""maintain a uniform east-west and north-south grid of 1 x 1 nm spacing between WTGs"",
+      ""scope"": ""WTG placement within the Sunrise Wind Farm lease area, Alternative C-1"",
+      ""numerical_value"": 1,
+      ""unit"": ""nm"",
+      ""source"": ""Sunrise Wind Farm COP (Sunrise Wind 2022)"",
+      ""related_domains"": [""spatial planning"", ""navigation safety""]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""8 WTG positions identified for exclusion from development in Alternative C-1 would remain the same, and an additional 12 WTG positions would be removed from the Priority Areas and relocated to the eastern side of the lease area"",
+      ""scope"": ""WTG placement within the Sunrise Wind Farm lease area, Alternative C-2"",
+      ""numerical_value"": null, 
+      ""unit"": null,
+      ""source"": ""Sunrise Wind Farm COP (Sunrise Wind 2022)"",
+      ""related_domains"": [""spatial planning"", ""fisheries habitat protection""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS"",
+      ""jurisdiction"": ""Likely Federal - USA (inferred from context related to fisheries)"",
+      ""role"": ""Environmental oversight and prioritization of habitat protection areas""
+    }
+  ]
+}
+```"
+49,304,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""6-18, 6-19, 6-20"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""WTG Exclusion in Priority Areas identified by NMFS."",
+      ""scope"": ""Sunrise Wind Lease Area, specifically Priority Areas identified for WTG Exclusion (refer to Figure 6-1 and Table 6-3)"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NMFS (National Marine Fisheries Service)"",
+      ""related_domains"": [""essential fish habitat"", ""marine ecosystem protection"", ""wind turbine siting""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NMFS (National Marine Fisheries Service)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight (specifically related to Essential Fish Habitat)""
+    }
+  ]
+}
+```"
+49,305,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,306,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,307,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,308,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,309,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,310,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""7-3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": []
+}
+```"
+49,311,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,312,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,313,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,314,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,315,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,316,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""9-3"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Construction and Operations Plan, 30 CFR Part 585"",
+      ""scope"": ""Construction and Operation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Bureau of Ocean Energy Management"",
+      ""related_domains"": [""environmental impact assessment"", ""construction permitting"", ""operational compliance""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+49,317,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,318,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,319,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,320,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,321,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,322,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,323,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,324,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,325,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,326,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,327,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,328,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,329,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,330,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,331,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,332,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,333,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,334,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""10-2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Individual boulders greater than or equal to 50 cm (0.5 m) in diameter were identified from the MBES and SSS data using manual detection methods to generate a “boulder pick” data set to accompany the boulder field dataset."",
+      ""scope"": ""Seafloor survey and assessment related to boulder identification"",
+      ""numerical_value"": 50,
+      ""unit"": ""cm"",
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""benthic habitat mapping""]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Boulder fields were generated using heatmaps in Global Mapper and were reviewed manually to finalize the boulder field polygons. Boulder fields represent aggregations of boulders where they were present in low (20 – 99 per 10,000 m2), medium (100 – 199 per 10,000 m2), or high (>199 per 10,000 m2) densities."",
+      ""scope"": ""Seafloor survey and assessment related to boulder field density"",
+      ""numerical_value"": null, 
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""benthic habitat mapping""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,335,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Federal Coastal and Ecological Marine Classification Standard (CMECS)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    },
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+49,336,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,337,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,338,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Essential Fish Habitat Assessment for Sunrise Wind Offshore Wind Project"",
+    ""document_number"": ""10-4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Delineations must be of a size appropriate both to the resolution of the data and to the subject of interpretation."",
+      ""scope"": ""Benthic habitat delineation"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [""environmental impact assessment"", ""habitat mapping""]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+49,339,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,340,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,341,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Magnuson-Stevens Fishery Conservation and Management Act"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Implementation of Essential Fish Habitat (EFH) regulations""
+    },
+    {
+      ""entity_name"": ""New England and Mid Atlantic Fishery Management Councils"",
+      ""jurisdiction"": ""Regional - USA (New England and Mid-Atlantic)"",
+      ""role"": ""Work with NOAA Fisheries to identify and describe EFH in published fisheries management plans""
+    },
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Works with Fishery Management Councils to identify and describe EFH""
+    }
+  ]
+}
+```"
+49,342,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,343,gemini,gemini-1.5-pro,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""The maximum potential acres that may be impacted by the Project be inventoried in terms of the NOAA Habitat Complexity Categories."",
+      ""scope"": ""Sunrise Wind Project Area"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""NOAA Habitat mapping recommendations (March 2021)"",
+      ""related_domains"": [""environmental impact assessment"", ""habitat protection"", ""benthic habitat""]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""NOAA Habitat"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+49,344,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,345,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,346,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,347,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,348,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,349,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,350,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,351,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,352,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,353,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,354,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,355,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,356,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,357,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,358,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,359,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,360,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND
+49,361,gemini,gemini-1.5-pro,False,NO_RELEVANT_DATA_FOUND

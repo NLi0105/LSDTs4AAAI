@@ -1,0 +1,1573 @@
+﻿"document_id","chunk_number","model_type","model_name","parsed_successfully","raw_output"
+"32",1,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F002"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory Oversight""
+    }
+  ]
+}
+```"
+"32",2,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",3,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",4,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",5,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",6,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",7,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",8,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",9,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",10,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",11,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",12,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",13,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",14,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",15,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",16,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",17,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",18,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",19,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",20,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",21,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",22,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Development Assessment Task Order 140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Management of offshore wind energy leases; Environmental and technical review of proposed offshore wind facilities; Granting leases for FOWT construction.""
+    }
+  ]
+}
+```"
+"32",23,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",24,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",25,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",26,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM Office of Renewable Energy Programs (OREP)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf, Pacific Region, Gulf of Maine)"",
+      ""role"": ""Management of offshore wind energy leases; Environmental and technical review of proposed offshore wind facilities""
+    }
+  ]
+}
+```"
+"32",27,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Development Assessment Task Order 140M0120F0021, Section 2"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (U.S. OCS)"",
+      ""role"": ""Planning/Permitting authority""
+    }
+  ]
+}
+```"
+"32",28,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Task Order 140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Leasing and resource management for offshore wind development""
+    }
+  ]
+}
+```"
+"32",29,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing authority""
+    }
+  ]
+}
+```"
+"32",30,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary Development Assessment Task Order 140M0120F0021"",
+    ""document_number"": ""4"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (Offshore)"",
+      ""role"": ""Leasing and Permitting Authority""
+    }
+  ]
+}
+```"
+"32",31,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",32,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",33,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",34,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",35,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",36,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",37,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",38,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",39,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",40,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",41,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",42,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",43,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",44,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",45,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",46,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",47,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",48,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",49,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",50,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",51,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",52,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",53,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",54,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",55,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",56,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",57,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",58,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""31"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Adherence to IECRE OD-502 (Operational Document), IEC System for Certification to Standards relating to Equipment for use in Renewable Energy applications (IECRE System): Project Certification Scheme."",
+      ""scope"": ""Floating Offshore Wind Turbines; Project Certification"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""IECRE OD-502"",
+      ""related_domains"": [
+        ""project certification"",
+        ""equipment standards"",
+        ""quality assurance""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with DNVGL-RP-0286, Coupled Analysis of Floating Wind Turbines."",
+      ""scope"": ""Floating Wind Turbines; Coupled Analysis"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""DNVGL-RP-0286"",
+      ""related_domains"": [
+        ""structural integrity"",
+        ""design analysis"",
+        ""floating structures""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Compliance with DNVGL-ST-0119, Floating Wind Turbine Structures."",
+      ""scope"": ""Floating Wind Turbine Structures"","
+"32",59,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",60,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",61,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",62,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",63,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",64,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",65,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Development Assessment Task Order 140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""a sufficient blade tip clearance with the water surface must be maintained."",
+      ""scope"": ""Offshore wind turbines, specifically blade tip clearance for growing rotor diameters and increasing machine rating."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Implied technical standard for offshore wind turbine design and operation."",
+      ""related_domains"": [
+        ""operational safety"",
+        ""design requirements"",
+        ""hydrodynamics""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""keeping modal frequencies away from wave excitation frequencies."",
+      ""scope"": ""Offshore wind turbine towers, particularly for large base diameters."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Implied technical standard for offshore wind turbine design and structural integrity."",
+      ""related_domains"": [
+        ""structural integrity"",
+        ""design requirements"",
+        ""vibration analysis"",
+        ""hydrodynamics""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"32",66,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",67,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",68,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",69,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",70,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 40"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Verify the American Bureau of Shipping (ABS) concrete design methodology for FOWTs."",
+      ""scope"": ""Floating Offshore Wind Turbines (FOWTs) concrete hull structures"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""American Bureau of Shipping (ABS)"",
+      ""related_domains"": [
+        ""structural integrity"",
+        ""design standards"",
+        ""materials engineering"",
+        ""certification""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""American Bureau of Shipping (ABS)"",
+      ""jurisdiction"": ""International"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"32",71,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",72,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",73,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",74,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",75,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",76,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",77,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",78,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",79,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",80,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"
+"32",81,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",82,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",83,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",84,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",85,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",86,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",87,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",88,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",89,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",90,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",91,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",92,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",93,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",94,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",95,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",96,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",97,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",98,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",99,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",100,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",101,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",102,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",103,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",104,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",105,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",106,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",107,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",108,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",109,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",110,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",111,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",112,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",113,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",114,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",115,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Task Order 140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Cable accessories must be compatible with the cable and equipment connected."",
+      ""scope"": ""Offshore wind farm power cable systems"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Floating Offshore Wind Turbine Final Report and Technical Summary, Section 4.3.2.4 Cable Accessories"",
+      ""related_domains"": [
+        ""electrical systems"",
+        ""component compatibility"",
+        ""offshore wind farm infrastructure""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"32",116,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",117,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""4.3.2.5 (Page 69)"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Equipment must be compatible with the rated voltage of the array and export cables."",
+      ""scope"": ""Electrical equipment for commercial-scale floating offshore wind farms (FOWFs), including substations, array cables, and export cables."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Document Section 4.3.2.5"",
+      ""related_domains"": [
+        ""electrical engineering"",
+        ""technical specifications"",
+        ""system integration"",
+        ""offshore wind farm design""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"32",118,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Development Assessment Task Order 140M0120F0021, Section 4.3.3, Page 70"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Testing and qualification is a key requirement for existing electrical equipment used on a floating substation."",
+      ""scope"": ""Existing electrical equipment on floating substations"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"
+"32",119,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",120,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The dynamic cable must allow for the platform’s horizontal and vertical movement, including a lateral radius of 75 meters."",
+      ""scope"": ""Dynamic cables for Floating Offshore Wind Turbines (FOWTs)"",
+      """
+"32",121,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",122,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""73"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Safety"",
+      ""requirement"": ""Collisions with neighboring risers and subsea infrastructure are not permissible under any conditions."",
+      ""scope"": ""Dynamic submarine cables, neighboring risers, and subsea infrastructure in offshore environments (design, installation, and operational phases)."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": null,
+      ""related_domains"": [
+        ""operational safety"",
+        ""subsea infrastructure protection"",
+        ""design integrity""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"32",123,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",124,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",125,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",126,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",127,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",128,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",129,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",130,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary Development Assessment Task Order 140M0120F0021"",
+    ""document_number"": ""77"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Current BOEM call areas limit water depth to 1,100 meters."",
+      ""scope"": ""BOEM call areas"",
+      ""numerical_value"": 1100,
+      ""unit"": ""meters"",
+      ""source"": ""BOEM"",
+      ""related_domains"": [
+        ""site selection"",
+        ""spatial planning""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Regulatory body""
+    }
+  ]
+}
+```"
+"32",131,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",132,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",133,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",134,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",135,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",136,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",137,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",138,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",139,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",140,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",141,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",142,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",143,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",144,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",145,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",146,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",147,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",148,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",149,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",150,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",151,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",152,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",153,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",154,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",155,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",156,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",157,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",158,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",159,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",160,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""100"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Maintain federal navigation channel depths and widths through regular dredging to ensure safe passage for offshore wind components.""
+    }
+  ]
+}
+```"
+"32",161,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",162,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",163,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",164,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",165,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",166,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",167,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",168,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",169,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",170,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",171,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",172,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",173,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",174,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",175,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",176,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",177,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",178,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",179,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",180,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",181,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",182,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"":"
+"32",183,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",184,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""The international guidelines for wind turbine design specify two turbulence models to be used for simulating atmospheric conditions for load calculations: the Mann uniform shear turbulence model, and the Kaimal Spectrum Exponential Coherence (KSEC) model."",
+      ""scope"": ""Wind turbine design, specifically for simulating atmospheric conditions for load calculations, applicable to floating offshore wind turbines."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""international guidelines for wind turbine design"",
+      ""related_domains"": [
+        ""structural integrity"",
+        ""aerodynamic loads"",
+        ""design standards"",
+        ""simulation and modeling""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"32",185,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",186,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",187,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",188,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",189,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",190,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",191,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",192,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",193,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",194,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",195,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",196,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",197,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",198,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",199,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",200,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",201,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",202,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",203,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",204,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",205,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",206,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",207,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",208,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",209,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",210,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",211,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",212,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",213,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",214,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",215,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",216,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",217,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",218,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",219,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Page 135"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Planning and permitting authority; Environmental impact assessment oversight""
+    },
+    {
+      ""entity_name"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Fisheries management; Data provision; Coordination""
+    },
+    {
+      ""entity_name"": ""USCG Waterways Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Navigational safety; Waterways management; Coordination""
+    },
+    {
+      ""entity_name"": ""state fisheries"",
+      ""jurisdiction"": ""State - USA"",
+      ""role"": ""Fisheries management; Data provision; Coordination""
+    },
+    {
+      ""entity_name"": ""NOAA"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Scientific research; Environmental oversight; Collaboration""
+    }
+  ]
+}
+```"
+"32",220,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",221,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",222,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",223,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",224,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""FOWT Mooring Systems and Dynamic Power cables impact on navigation and shipping"",
+    ""document_number"": ""140"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"
+"32",225,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",226,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",227,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",228,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",229,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",230,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",231,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",232,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",233,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",234,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",235,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",236,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Construction of mooring lines and cables in such a way that should a FOWT structure break away from its mooring or is disconnected for maintenance, the mooring lines, and cables sink to the bottom of the ocean rather than float on or near the surface where a marine mammal might encounter them."",
+      ""scope"": ""Floating Offshore Wind Turbine (FOWT) structures, mooring lines, and cables; applies during construction and maintenance phases; offshore environment."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Floating Offshore Wind Turbine Final Report and Technical Summary, Development Assessment Task Order 140M0120F0021"",
+      ""related_domains"": [
+        ""environmental protection"",
+        ""marine mammal protection"",
+        ""structural design"",
+        ""operational safety""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"32",237,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",238,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",239,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",240,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",241,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",242,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",243,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",244,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Development Assessment Task Order 140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - U.S. Outer Continental Shelf (OCS)"",
+      ""role"": ""Oversight and planning for offshore wind development; collaboration on research to minimize environmental impacts""
+    },
+    {
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""jurisdiction"": ""Federal - U.S."",
+      ""role"": ""Collaboration on fisheries and environmental impact research related to offshore wind""
+    },
+    {
+      ""entity_name"": ""State Fisheries Agencies"",
+      ""jurisdiction"": ""State - U.S."",
+      ""role"": ""Collaboration on fisheries impact research related to offshore wind""
+    }
+  ]
+}
+```"
+"32",245,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",246,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",247,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",248,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",249,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary Development Assessment Task Order 140M0120F0021"",
+    ""document_number"": ""158"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA (U.S. Outer Continental Shelf)"",
+      ""role"": ""Area identification and leasing authority""
+    }
+  ]
+}
+```"
+"32",250,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",251,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Spatial planning and permitting authority""
+    }
+  ]
+}
+```"
+"32",252,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",253,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",254,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",255,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",256,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",257,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",258,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",259,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Task Order 140M0120F0021, pg. 171"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Standard setting body""
+    }
+  ]
+}
+```"
+"32",260,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",261,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""173"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA (Offshore West Coast)"",
+      ""role"": ""Offshore Energy Planning and Assessment Authority""
+    }
+  ]
+}
+```"
+"32",262,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",263,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""Oregon Section"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Ports must meet specific depth and clearance requirements for staging and installing Floating Offshore Wind Turbines (FOWTs)."",
+      ""scope"": ""Ports along the Oregon coast intended for FOWT staging and installation."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Musial et al., 2019 (NREL economic feasibility study)"",
+      ""related_domains"": [
+        ""port infrastructure"",
+        ""logistics"",
+        ""navigational safety"",
+        ""project feasibility""
+      ]
+    },
+    {
+      ""type"": ""Technical"",
+      ""requirement"": ""Ports are unsuitable for FOWT staging and installation if a nearby bridge has a low clearance level."",
+      ""scope"": ""Newport port, Oregon coast, specifically for FOWT staging and installation."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Musial et al., 2019 (NREL economic feasibility study)"",
+      ""related_domains"": [
+        ""port infrastructure"",
+        ""logistics"",
+        ""navigational safety"",
+        ""project feasibility""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"32",264,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Development Assessment Task Order 140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Manages offshore energy development; designates call areas""
+    }
+  ]
+}
+```"
+"32",265,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Maine Department of Transportation"",
+      ""jurisdiction"": ""State - Maine, USA"",
+      ""role"": ""Assessment/Feasibility study (for offshore wind hub development)""
+    }
+  ]
+}
+```"
+"32",266,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",267,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",268,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",269,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",270,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing authority; Permitting authority""
+    }
+  ]
+}
+```"
+"32",271,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",272,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",273,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",274,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",275,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",276,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",277,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary Development Assessment Task Order 140M0120F0021"",
+    ""document_number"": ""183"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Leasing and Area Designation Authority""
+    }
+  ]
+}
+```"
+"32",278,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""6.4, p. 184"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""New York State Public Service Commission"",
+      ""jurisdiction"": ""New York State"",
+      ""role"": ""Grid planning and regulatory oversight""
+    }
+  ]
+}
+```"
+"32",279,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Current laws in all areas of interest keep the burden on the utility companies, forbidding them from raising prices should wind power drive up their costs unexpectedly."",
+      ""scope"": ""all areas of interest; utility companies"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Current laws"",
+      ""related_domains"": [
+        ""utility regulation"",
+        ""economic regulation"",
+        ""consumer protection""
+      ]
+    }
+  ],
+  ""regulatory_entities"": []
+}
+```"
+"32",280,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Development Assessment Task Order 140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Defense"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Spatial Planning Influence / Objection Authority""
+    }
+  ]
+}
+```"
+"32",281,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary Development Assessment Task Order 140M0120F0021"",
+    ""document_number"": ""186"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""A long-term moratorium on further wind energy development in military operating areas."",
+      ""scope"": ""Military operating areas in central and southern California, including Diablo Canyon and Morro Bay areas."",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Navy statement (September 2020, Braithwaite, 2020)"",
+      ""related_domains"": [
+        ""military operations"",
+        ""spatial planning"",
+        ""offshore wind development""
+      ]
+    },
+    {
+      ""type"": ""Spatial"",
+      ""requirement"": ""Limit offshore wind energy development to 3GW."",
+      ""scope"": ""Military operating areas in the vicinity of Morro Bay (and implicitly, central and southern California where Navy objects)."",
+      ""numerical_value"": 3,
+      ""unit"": ""GW"",
+      ""source"": ""Navy statement (September 2020, Braithwaite, 2020)"",
+      ""related_domains"": [
+        ""energy capacity planning"",
+        ""spatial planning"","
+"32",282,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""187"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Defense"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Spatial planning oversight""
+    },
+    {
+      ""entity_name"": ""U.S. Navy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Consultation body""
+    }
+  ]
+}
+```"
+"32",283,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",284,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""188"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Navy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Military operations oversight; Permitting consultation""
+    },
+    {
+      ""entity_name"": ""California State Government"",
+      ""jurisdiction"": ""State - California, USA"",
+      ""role"": ""Renewable energy policy setting; Project deployment oversight""
+    }
+  ]
+}
+```"
+"32",285,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",286,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",287,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",288,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",289,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""192"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Planning authority; Environmental oversight; Research coordination""
+    }
+  ]
+}
+```"
+"32",290,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",291,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",292,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",293,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",294,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical"
+"32",295,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",296,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",297,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",298,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""197"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of Energy (DOE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental assessment and project approval/permitting authority (evidenced by 'Public Scoping Process' for a 'Proposed Project Description')""
+    },
+    {
+      ""entity_name"": ""Marine Scotland"",
+      ""jurisdiction"": ""Scottish Waters"",
+      ""role"": ""Environmental oversight (evidenced by 'Dounreay Environmental Assessment' under 'Marine Scotland Information')""
+    },
+    {
+      ""entity_"
+"32",299,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",300,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",301,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",302,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final"
+"32",303,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",304,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": null,
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Federal agency responsible for managing offshore energy development, including leasing, environmental review, and contracting for studies related to offshore wind projects.""
+    },
+    {
+      ""entity_name"": ""Marine Scotland Information"",
+      ""jurisdiction"": ""Scotland"",
+      ""role"": ""Government body responsible for marine environmental management and providing information on environmental assessments for offshore projects"
+"32",305,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",306,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",307,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",308,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",309,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",310,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",311,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",312,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",313,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",314,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",315,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",316,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",317,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",318,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Development Assessment Task Order 140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    }
+  ]
+}
+```"
+"32",319,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",320,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",321,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",322,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""9"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority; Leasing authority; Resource management""
+    }
+  ]
+}
+```"
+"32",323,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",324,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",325,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",326,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",327,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",328,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",329,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",330,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",331,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",332,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",333,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",334,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",335,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",336,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",337,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",338,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",339,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",340,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",341,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",342,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",343,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",344,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",345,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",346,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",347,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",348,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""225"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Area designation and permitting authority for offshore energy development""
+    }
+  ]
+}
+```"
+"32",349,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",350,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",351,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",352,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",353,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",354,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",355,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",356,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",357,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",358,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",359,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",360,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""233"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (U.S. Outer Continental Shelf)"",
+      ""role"": ""Permitting authority, Environmental oversight""
+    }
+  ]
+}
+```"
+"32",361,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",362,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",363,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",364,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",365,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",366,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""237"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Ministry of the Environment (MOE)"",
+      ""jurisdiction"": ""National - Japan"",
+      ""role"": ""Environmental oversight; Site designation/approval""
+    }
+  ]
+}
+```"
+"32",367,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",368,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",369,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",370,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",371,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",372,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",373,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",374,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",375,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",376,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",377,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",378,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",379,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",380,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",381,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",382,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",383,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",384,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",385,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",386,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",387,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",388,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",389,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",390,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",391,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",392,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",393,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",394,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",395,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""254"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Marine Scotland"",
+      ""jurisdiction"": ""Scottish Waters"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"32",396,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""255"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Marine Scotland"",
+      ""jurisdiction"": ""Scottish Waters"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"32",397,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",398,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",399,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",400,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",401,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",402,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",403,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",404,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",405,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",406,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",407,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",408,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",409,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",410,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",411,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",412,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",413,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Task Order 140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""U.S. Department of Energy"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Environmental oversight""
+    }
+  ]
+}
+```"
+"32",414,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",415,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",416,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",417,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,"
+"32",418,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",419,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",420,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",421,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",422,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""273"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Projects are required to obtain state permits."",
+      ""scope"": ""French Floating Wind Projects"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""State authorities (implied by 'State Permits')"",
+      ""related_domains"": [
+        ""permitting"",
+        ""legal compliance""
+      ]
+    },
+    {
+      ""type"": ""Environmental"",
+      ""requirement"": ""Projects are required to conduct an Environmental Impact Survey."",
+      ""scope"": ""French Pilot Floater"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""Regulatory authorities (implied by 'Environmental Impact Survey')"",
+      ""related_domains"": [
+        ""environmental impact assessment"",
+        ""environmental compliance""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""European Commission"",
+      ""jurisdiction"": ""European Union"",
+      ""role"": ""Approving financial support for"
+"32",423,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",424,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""Development Assessment Task Order 140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Permitting authority""
+    }
+  ]
+}
+```"
+"32",425,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",426,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": null,
+    ""document_number"": ""277"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [
+    {
+      ""type"": ""Jurisdictional"",
+      ""requirement"": ""Applications for an Outer Continental Shelf Renewable Energy Commercial Lease must be submitted under 30 CFR 585.230."",
+      ""scope"": ""Outer Continental Shelf (OCS) - USA"",
+      ""numerical_value"": null,
+      ""unit"": null,
+      ""source"": ""30 CFR 585.230"",
+      ""related_domains"": [
+        ""leasing"",
+        ""permitting"",
+        ""federal regulation"",
+        ""offshore wind development""
+      ]
+    }
+  ],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf)"",
+      ""role"": ""Leasing authority"",
+      ""role"": ""Permitting authority"",
+      ""role"": ""Oversight of offshore renewable energy development""
+    }
+  ]
+}
+```"
+"32",427,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",428,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",429,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",430,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""280"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""BOEM (Bureau of Ocean Energy Management)"",
+      ""jurisdiction"": ""Federal - USA (Outer Continental Shelf Offshore California)"",
+      ""role"": ""Leasing and Permitting authority for offshore wind development""
+    }
+  ]
+}
+```"
+"32",431,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",432,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",433,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",434,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",435,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",436,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",437,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",438,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",439,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",440,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",441,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",442,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",443,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",444,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",445,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",446,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",447,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",448,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
+"32",449,"gemini","gemini-2.5-flash",True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""European Union"",
+      ""jurisdiction"": ""European Union"",
+      ""role"": ""Policy and Standard Setting; Research Funding""
+    }
+  ]
+}
+```"
+"32",450,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",451,"gemini","gemini-2.5-flash",False,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Floating Offshore Wind Turbine Final Report and Technical Summary"",
+    ""document_number"": ""293 / 140M0120F0021"",
+    ""type_of_wind_farm"": ""Offshore""
+  },
+  ""regulatory_constraints"": [],
+  ""regulatory_entities"": [
+    {
+      ""entity_name"": ""Department of Energy (DOE)"",
+      ""jurisdiction"": ""Federal - USA"",
+      ""role"": ""Funding and policy development for energy projects, including renewable energy; potential regulatory oversight for certain projects.""
+    },
+    {
+      ""entity_name"
+"32",452,"gemini","gemini-2.5-flash",False,"Error: Gemini query failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."
+"32",453,"gemini","gemini-2.5-flash",False,"NO_RELEVANT_DATA_FOUND"
