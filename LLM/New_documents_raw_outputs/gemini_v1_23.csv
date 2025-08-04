@@ -1,0 +1,217 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"23","gemini","gemini-1.5-pro",595001,57251,17,9,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""OCSLA Compliance Review of the Construction and Operations Plan for the New England Wind Farm and New England Wind Export Cable Project"",
+    ""project_name"": ""New England Wind Project"",
+    ""project_location"": ""Southern Wind Development Area (SWDA) offshore Massachusetts, within Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTGs"",
+      ""description"": ""Electricity-generating turbines"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Electrical Service Platforms"",
+      ""component_acronym"": ""ESPs"",
+      ""description"": ""Platforms for electrical service equipment"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Export Cables"",
+      ""component_acronym"": null,
+      ""description"": ""Cables for transmitting electricity onshore"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Offshore Export Cable Corridor"",
+      ""component_acronym"": ""OECC"",
+      ""description"": ""Designated corridor for export cables"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Substations"",
+      ""component_acronym"": null,
+      ""description"": ""Onshore electrical substations"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""component_id"": ""COMP-06"",
+      ""component_name"": ""Foundations"",
+      ""component_acronym"": null,
+      ""description"": ""Foundations for WTGs and ESPs"",
+      ""source_section_number"": ""Appendix B""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Phase 1 will have 41 to 62 WTGs."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""Phase 1 Lease Area"",
+      ""context_quote"": ""Phase 1, which is also known as the Park City Wind Project, would be developed immediately southwest of Vineyard Wind 1 in Lease Area OCS-A 0534. Phase 1 would have a total generating capacity of up to 804 MW and consist of 41 to 62 Wind Turbine Generators (WTGs) and 2 Electrical Service Platforms (ESPs) and a maximum of 2 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Phase 2 will have up to 88 WTGs."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""Phase 2 Lease Area"",
+      ""context_quote"": ""Phase 2, which is also known as the Commonwealth Wind Project, would be developed immediately southwest of Phase 1 in the portion of Lease Area OCS-A 0534 that is not developed as part of Phase 1. Phase 2 would deliver at least 1,232 MW of power and consist of up to 88 WTGs and 3 ESPs and a maximum of 3 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Phase 1 will have 2 ESPs."",
+      ""value"": 2,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""Phase 1 Lease Area"",
+      ""context_quote"": ""Phase 1, which is also known as the Park City Wind Project, would be developed immediately southwest of Vineyard Wind 1 in Lease Area OCS-A 0534. Phase 1 would have a total generating capacity of up to 804 MW and consist of 41 to 62 Wind Turbine Generators (WTGs) and 2 Electrical Service Platforms (ESPs) and a maximum of 2 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Phase 2 will have 3 ESPs."",
+      ""value"": 3,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""Phase 2 Lease Area"",
+      ""context_quote"": ""Phase 2, which is also known as the Commonwealth Wind Project, would be developed immediately southwest of Phase 1 in the portion of Lease Area OCS-A 0534 that is not developed as part of Phase 1. Phase 2 would deliver at least 1,232 MW of power and consist of up to 88 WTGs and 3 ESPs and a maximum of 3 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Phase 1 will have a maximum of 2 export cables."",
+      ""value"": 2,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""Phase 1 Lease Area"",
+      ""context_quote"": ""Phase 1, which is also known as the Park City Wind Project, would be developed immediately southwest of Vineyard Wind 1 in Lease Area OCS-A 0534. Phase 1 would have a total generating capacity of up to 804 MW and consist of 41 to 62 Wind Turbine Generators (WTGs) and 2 Electrical Service Platforms (ESPs) and a maximum of 2 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Phase 2 will have a maximum of 3 export cables."",
+      ""value"": 3,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""Phase 2 Lease Area"",
+      ""context_quote"": ""Phase 2, which is also known as the Commonwealth Wind Project, would be developed immediately southwest of Phase 1 in the portion of Lease Area OCS-A 0534 that is not developed as part of Phase 1. Phase 2 would deliver at least 1,232 MW of power and consist of up to 88 WTGs and 3 ESPs and a maximum of 3 offshore export cables.""
+    },
+
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-06"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will have up to 132 foundations."",
+      ""value"": 132,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""SWDA"",
+      ""context_quote"": ""In total, both phases combined would include up to 132 total foundations for 125 to 129 WTGs and 1 to 5 ESPs to be installed in 130 positions""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTG micrositing may occur within 500 feet from each proposed WTG location."",
+      ""value"": 500,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""SWDA"",
+      ""context_quote"": ""In accordance with 30 CFR § 585.634(c)(6), micrositing of WTG foundations may occur within 500 feet from each proposed WTG location.""
+    },
+        {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to three new or upgraded substations will be installed in Barnstable County, Massachusetts."",
+      ""value"": 3,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""Barnstable County, Massachusetts"",
+      ""context_quote"": ""Onshore electrical cables, grid interconnection cables, and up to three new or upgraded substations would be installed in Barnstable County, Massachusetts.""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Vessel operators must reduce speed to 10 knots or less while operating in any Seasonal Management Area (SMA) and Dynamic Management Area (DMA) or Slow Zone for North Atlantic right whales."",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""5.11.1"",
+      ""geographic_scope"": ""Seasonal Management Area (SMA), Dynamic Management Area (DMA), and Slow Zone for North Atlantic right whales"",
+      ""context_quote"": ""Regardless of vessel size, vessel operators must reduce vessel speed to 10 knots (18.5 mph) or less while operating in any Seasonal Management Area (SMA) and Dynamic Management Area (DMA) or Slow Zone for North Atlantic right whales, unless the vessel is operating in a designated DMA or Slow Zone where right whales have not been detected and it is not reasonable to expect the presence of North Atlantic right whales (e.g., Long Island Sound, shallow harbors).""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""entity_acronym"": ""DOI"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Approving the Construction and Operations Plan (COP)"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Overseeing renewable energy leasing, easements, and rights-of-way for OCS activities"",
+      ""source_section_number"": ""Appendix B.1""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Reviewing and potentially requiring cessation of operations based on surveillance records or Conformity Statements"",
+      ""source_section_number"": ""5.3.5.9""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issuing Biological Opinions for Endangered Species Act (ESA)-listed species"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""entity_acronym"": ""USFWS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issuing Biological Opinions for Endangered Species Act (ESA)-listed species"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""entity_id"": ""E-06"",
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""entity_acronym"": ""USACE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Permitting authority for discharges of dredged and/or fill material"",
+      ""source_section_number"": ""Appendix B""
+    }
+  ]
+}
+```"

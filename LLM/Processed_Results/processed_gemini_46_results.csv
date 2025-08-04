@@ -1,0 +1,6 @@
+model_name,document_number,type_of_wind_farm,chunk_number,document_id,constraint_type,requirement,scope,numerical_value,unit,source,related_domains
+gemini-1.5-pro,6 of 16,Offshore,9,46,Spatial,A minimum separation distance of 100 m between offshore installations is prescribed.,Offshore installations,100.0,m,ISO 19901-7 [39],spatial planning; navigational safety
+gemini-1.5-pro,6 of 16,Offshore,9,46,Safety,"A 50 m buffer radius around anchors and mooring lines, along with a 100 m safety distance between mooring systems, is considered appropriate.",Mooring systems,50.0,m,[16],mooring safety; navigation safety
+gemini-1.5-pro,6 of 16,Offshore,9,46,Safety,Mooring lines must not be crossed within the mooring buffer zone.,Mooring buffer zone,,,,mooring safety; structural integrity
+gemini-1.5-pro,6 of 16,Offshore,9,46,Spatial,The minimum distance between wind turbines is set to be 5 *D* (*D* represents the rotor diameter of wind turbine),Wind turbine placement,5.0,,,wind farm layout; wake effects; energy efficiency
+gemini-1.5-pro,6 of 16,Offshore,9,46,Spatial,No FOWT can be installed in the buffer zones of other FOWTs,FOWT buffer zones,,,,wind farm layout; wake effects; energy efficiency

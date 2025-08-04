@@ -1,0 +1,202 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"2","claude","claude-3-haiku-20240307",617384,72968,48,25,False,"{
+  ""document_metadata"": {
+    ""title"": ""Pre-Publication Notice - Joint BOEM/BSEE Final Rule"",
+    ""project_name"": ""Offshore Renewable Energy Projects"",
+    ""project_location"": ""Outer Continental Shelf (OCS)""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Site Assessment Plan (SAP)"",
+      ""component_acronym"": ""SAP"",
+      ""description"": ""Plan for conducting site assessment and technology testing activities on a commercial lease"",
+      ""source_section_number"": ""20, 295""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Construction and Operations Plan (COP)"",
+      ""component_acronym"": ""COP"",
+      ""description"": ""Plan for the construction and operation of commercial energy facilities on a commercial lease"",
+      ""source_section_number"": ""295, 308""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Export Cable"",
+      ""description"": ""Cable used to transmit electricity from the offshore facilities to the onshore grid"",
+      ""source_section_number"": ""309""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""General Activities Plan (GAP)"",
+      ""component_acronym"": ""GAP"",
+      ""description"": ""Plan for activities on a limited lease, right-of-way (ROW) grant, or right-of-use and easement (RUE) grant"",
+      ""source_section_number"": ""323""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Project Vessels"",
+      ""description"": ""Vessels used to support project activities"",
+      ""source_section_number"": ""299""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The Site Assessment Plan (SAP) must include a description of the site assessment or technology testing concept, including the objectives, proposed activities, and schedule."",
+      ""source_section_number"": ""295"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your SAP must include the following information, as applicable. (a) For all activities you propose to conduct under your SAP, you must provide the following information: (2) The site assessment or technology testing concept; a discussion of the objectives; description of the proposed activities, including the technology you will use; and proposed schedule from start to completion.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The SAP must include a location plat showing the surface location and water depth for all proposed and existing structures, facilities, and appurtenances located both offshore and onshore."",
+      ""source_section_number"": ""295"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your SAP must include the following information, as applicable. (a) For all activities you propose to conduct under your SAP, you must provide the following information: (5) A location plat; the surface location and water depth for all proposed and existing structures, facilities, and appurtenances located both offshore and onshore.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""The SAP must include a description of the measures the lessee will use to avoid, minimize, reduce, eliminate, and monitor environmental impacts."",
+      ""source_section_number"": ""295"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your SAP must include the following information, as applicable. (a) For all activities you propose to conduct under your SAP, you must provide the following information: (8) Your proposed measures for avoiding, minimizing, reducing, eliminating, and monitoring environmental impacts; a description of the measures you will use to avoid or minimize adverse effects and any potential incidental take, before you conduct activities on your lease, and how you will mitigate environmental impacts from your proposed activities, including a description of the measures you will use as required by part 285, subpart H, of this title.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The SAP must include information on the general structural and project design, fabrication, and installation for each type of facility associated with the project."",
+      ""source_section_number"": ""295"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your SAP must include the following information, as applicable. (a) For all activities you propose to conduct under your SAP, you must provide the following information: (6) General structural and project design, fabrication, and installation; information for each type of facility associated with your project.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The SAP must include information on the deployment activities, including safety, prevention, and environmental protection features or measures that will be used."",
+      ""source_section_number"": ""295"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your SAP must include the following information, as applicable. (a) For all activities you propose to conduct under your SAP, you must provide the following information: (7) Deployment activities; a description of the safety, prevention, and environmental protection features or measures that you will use.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The SAP must include information on the decommissioning and site clearance procedures."",
+      ""source_section_number"": ""295"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your SAP must include the following information, as applicable. (a) For all activities you propose to conduct under your SAP, you must provide the following information: (11) Decommissioning and site clearance procedures; a discussion of methodologies.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Regulatory Requirement"",
+      ""description"": ""The SAP must include a listing of all federal, state, and local authorizations or approvals required to conduct site assessment activities on the lease, and a statement indicating whether such authorization or approval has been applied for or obtained."",
+      ""source_section_number"": ""295"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your SAP must include the following information, as applicable. (a) For all activities you propose to conduct under your SAP, you must provide the following information: (13) A listing of all Federal, State, and local authorizations or approvals required to conduct site assessment activities on your lease; a statement indicating whether such authorization or approval has been applied for or obtained.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Regulatory Requirement"",
+      ""description"": ""The SAP must include statements attesting that the activities and facilities proposed in the SAP are or will be covered by an appropriate bond or other approved security."",
+      ""source_section_number"": ""295"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your SAP must include the following information, as applicable. (a) For all activities you propose to conduct under your SAP, you must provide the following information: (15) Financial assurance information; statements attesting that the activities and facilities proposed in your SAP are or will be covered by an appropriate bond or other approved security, as required in §§ 585.515 and 585.516.""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The Construction and Operations Plan (COP) must include the results of shallow hazards surveys, showing information sufficient to determine the presence and likely effects of various seafloor and subsurface features."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""308"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your COP must include the following information: (a) You must submit the results of the following surveys for the proposed site(s) of your facility(ies). (1) Shallow hazards; the results of the shallow hazards survey with supporting data; information sufficient to determine the presence of the following features and their likely effects on your proposed facility, including: (i) Shallow faults; (ii) Gas seeps or shallow gas; (iii) Slump blocks or slump sediments; (iv) Hydrates; or (v) Ice scour of seabed sediments.""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The COP must include the results of a geological survey relevant to the design and siting of the facility, including assessments of seismic activity, fault zones, seabed subsidence, and faulting attenuation effects."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""308"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your COP must include the following information: (a) You must submit the results of the following surveys for the proposed site(s) of your facility(ies). (2) Geological survey relevant to the design and siting of your facility; the results of the geological survey with supporting data; assessment of: (i) Seismic activity at your proposed site; (ii) Fault zones; (iii) The possibility and effects of seabed subsidence; and (iv) The extent and geometry of faulting attenuation effects of geologic conditions near your site.""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The COP must include the results of a biological survey, describing the presence of live bottoms, hard bottoms, topographic features, and other marine resources such as fish, marine mammals, sea turtles, and seabirds."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""308"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your COP must include the following information: (a) You must submit the results of the following surveys for the proposed site(s) of your facility(ies). (3) Biological; the results of the biological survey with supporting data; a description of the results of biological surveys used to determine the presence of live bottoms, hard bottoms, and topographic features, and surveys of other marine resources such as fish populations (including migratory populations), marine mammals, sea turtles, and sea birds.""
+    },
+    {
+      ""constraint_id"": ""C-012"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The COP must include the results of a geotechnical survey program to investigate the seafloor and subsurface conditions, including in-situ testing, boring, and sampling at each foundation location."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""308"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your COP must include the following information: (a) You must submit the results of the following surveys for the proposed site(s) of your facility(ies). (4) Geotechnical survey; the results of your sediment testing program with supporting data, the various field and laboratory test methods employed, and the applicability of these methods as they pertain to the quality of the samples, the type of sediment, and the anticipated design application. You must explain how the engineering properties of each sediment stratum affect the design of your facility. In your explanation, you must describe the uncertainties inherent in your overall testing program, and the reliability and applicability of each test method.""
+    },
+    {
+      ""constraint_id"": ""C-013"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The COP must include the results of an archaeological resources survey, describing any historic and prehistoric archaeological resources."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""308"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your COP must include the following information: (a) You must submit the results of the following surveys for the proposed site(s) of your facility(ies). (5) Archaeological resources; the results of the archaeological resource survey with supporting data; a description of the historic and prehistoric archaeological resources, as required by the NHPA (16 U.S.C. 470 et. seq.), as amended.""
+    },
+    {
+      ""constraint_id"": ""C-014"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The COP must include an overall site investigation report that integrates the findings of the shallow hazards, geological, and geotechnical surveys, and analyzes the potential for various seafloor and subsurface conditions that could affect the facility design."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""308"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your COP must include the following information: (a) You must submit the results of the following surveys for the proposed site(s) of your facility(ies). (6) Overall site investigation; an overall site investigation report for your facility that integrates the findings of your shallow hazards surveys and geologic surveys, and, if required, your subsurface surveys with supporting data; an analysis of the potential for: (i) Scouring of the seabed; (ii) Hydraulic instability; (iii) The occurrence of sand waves; (iv) Instability of slopes at the facility location; (v) Liquefaction, or possible reduction of sediment strength due to increased pore pressures; (vi) Degradation of subsea permafrost layers; (vii) Cyclic loading; (viii) Lateral loading; (ix) Dynamic loading; (x) Settlements and displacements; (xi) Plastic deformation and formation collapse mechanisms; and (xii) Sediment reactions on the facility foundations or anchoring systems.""
+    },
+    {
+      ""constraint_id"": ""C-015"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The COP must include information on all cables and pipelines, including their location, design, installation methods, testing, maintenance, repair, safety devices, exterior corrosion protection, inspections, and decommissioning."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""309"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your COP must include the following information: (b) Your COP must include the following project-specific information, as applicable. (7) All cables and pipelines, including cables on project easements; location, design and installation methods, testing, maintenance, repair, safety devices, exterior corrosion protection, inspections, and decommissioning.""
+    },
+    {
+      ""constraint_id"": ""C-016"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The COP must include a reasonable schedule of construction activity showing significant milestones leading to the commencement of commercial operations."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""310"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Your COP must include the following information: (b) Your COP must include the following project-specific information, as applicable. (21) Construction schedule; a reasonable schedule of construction activity showing significant milestones leading to the"

@@ -1,0 +1,259 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"17","gemini","gemini-1.5-pro",169105,133732,10,6,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Bay State Wind Offshore Wind Farm Site Assessment Plan (Ver. No. 2653866B)"",
+    ""project_name"": ""Bay State Wind Offshore Wind Farm"",
+    ""project_location"": ""Within Official Protraction Diagrams Providence NK19-07 and Block Island Shelf NK19-10, Blocks 6021 and 6976, contained within the Bay State Wind Offshore Wind Farm Lease Area as defined under the Commercial Lease of Submerged Lands for Renewable Energy Development on the Outer Continental Shelf (OCS-A 0500)""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Floating Light and Detection Ranging Buoys (FLIDARs)"",
+      ""component_acronym"": ""FLIDARs"",
+      ""description"": ""Meteorological and metocean data collection buoys."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Metocean/Current Buoy"",
+      ""description"": ""Meteorological and metocean data collection buoy."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""AXYS WindSentinel™ FLIDAR"",
+      ""description"": ""Floating LiDAR system for wind data collection."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""TRIAXYS Wave and Current Buoy"",
+      ""component_acronym"": ""TRIAXYS Buoy"",
+      ""description"": ""Buoy for measuring directional waves, currents, and water temperature."",
+      ""source_section_number"": ""1""
+    },
+        {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Met Buoys"",
+      ""description"": ""Collective term for the meteorological and metocean data collection buoys (FLIDARs and TRIAXYS Buoy)."",
+      ""source_section_number"": ""1""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The WindSentinel™ hull is made of marine-grade 5086 aluminum."",
+      ""source_section_number"": ""3"",
+      ""geographic_scope"": ""WindSentinel™ Buoy"",
+      ""context_quote"": ""The hull consists of marine-grade 5086 aluminum""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The WindSentinel™ is 20.7 feet long and 10.5 feet wide."",
+      ""value"": 20.7,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""3"",
+      ""geographic_scope"": ""WindSentinel™ Buoy"",
+      ""context_quote"": ""measures 20.7 feet (ft) (6.3 meters [m]) long by 10.5 ft (3.2 m) wide""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The TRIAXYS Buoy is 3.6 feet in diameter."",
+      ""value"": 3.6,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""3"",
+      ""geographic_scope"": ""TRIAXYS Buoy"",
+      ""context_quote"": ""The TRIAXYS Buoy is a 3.6 ft (1.1 m) round buoy""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The Met Buoys will be deployed in May 2017."",
+      ""source_section_number"": ""3.2"",
+      ""geographic_scope"": ""Met Buoy Installation Areas"",
+      ""context_quote"": ""Bay State Wind LLC plans to deploy the Met Buoys in May 2017.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The operational life of the WindSentinel™ is expected to be two years."",
+      ""value"": 2,
+      ""unit"": ""years"",
+      ""source_section_number"": ""3.2"",
+      ""geographic_scope"": ""WindSentinel™ Buoy"",
+      ""context_quote"": ""The operational lives of the WindSentinel™ and TRIAXYS Buoy are expected to be two and four years, respectively.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The operational life of the TRIAXYS Buoy is expected to be four years."",
+      ""value"": 4,
+      ""unit"": ""years"",
+      ""source_section_number"": ""3.2"",
+      ""geographic_scope"": ""TRIAXYS Buoy"",
+      ""context_quote"": ""The operational lives of the WindSentinel™ and TRIAXYS Buoy are expected to be two and four years, respectively.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The WindSentinel™ will be located at Northing 4531687, Easting 337506 (UTM 19N NAD83), in OCS Lease Block 6021, Aliquot M, at a depth of 180.4 ft."",
+      ""value"": 180.4,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""3.3"",
+      ""geographic_scope"": ""F1 Installation Area"",
+      ""context_quote"": ""WindSentinel™|F1|4531687|337506|180.4 ft (55 m)|6021|M""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The WindSentinel™ will be located at Northing 4553210, Easting 367027 (UTM 19N NAD83), in OCS Lease Block 6976, Aliquot F, at a depth of 136.5 ft."",
+      ""value"": 136.5,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""3.3"",
+      ""geographic_scope"": ""F2 Installation Area"",
+      ""context_quote"": ""WindSentinel™|F2|4553210|367027|136.5 ft (41.6 m)|6976|F""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The TRIAXYS Buoy will be located at Northing 4552562, Easting 366402 (UTM 19N NAD83), in OCS Lease Block 6976, Aliquot I, at a depth of 135.5 ft."",
+      ""value"": 135.5,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""3.3"",
+      ""geographic_scope"": ""B2 Installation Area"",
+      ""context_quote"": ""TRIAXYS Buoy|B2|4552562|366402|135.5 ft (42.2 m)|6976|I""
+    },
+{
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Vessels must maintain a 500-meter separation distance from North Atlantic right whales."",
+      ""value"": 500,
+      ""unit"": ""m"",
+      ""source_section_number"": ""4.4"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Lessee must ensure all survey vessels maintain a separation distance of 500 m (1,640 ft) or greater from any sighted North Atlantic right whale.""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Vessels must maintain a 100-meter separation distance from non-delphinoid cetaceans (excluding North Atlantic right whales)."",
+      ""value"": 100,
+      ""unit"": ""m"",
+      ""source_section_number"": ""4.4"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Lessee must ensure all vessels maintain a separation distance of 100 m (328 ft) or greater from any sighted non-delphinoid cetacean.""
+    },
+        {
+      ""constraint_id"": ""C-012"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Vessels must maintain a 50-meter separation distance from delphinoid cetaceans, sea turtles, and pinnipeds."",
+      ""value"": 50,
+      ""unit"": ""m"",
+      ""source_section_number"": ""4.4"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""The Lessee must ensure all vessels maintain a separation distance of 50 m (164 ft) or greater from any sighted delphinoid cetacean.""
+    },
+{
+      ""constraint_id"": ""C-013"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Vessels must travel at 10 knots or less in Dynamic Management Areas and from November 1 through July 31."",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""4.4"",
+      ""geographic_scope"": ""Dynamic Management Areas and Lease Area (November 1 - July 31)"",
+      ""context_quote"": ""The Lessee must ensure that all vessel operators comply with 10 knot (<18. Km/hr) speed restrictions in any Dynamic Management Area 1. In addition, the Lessee must ensure that all vessels operating from November 1 through July 31 will operate at speeds of 10 knots (<18.5 km/hr) or less.""
+    }
+
+
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Regulates offshore energy development."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""entity_acronym"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Consults on endangered species and essential fish habitat."",
+      ""source_section_number"": ""1.2""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Consults on endangered species and marine mammal protection."",
+      ""source_section_number"": ""1.2""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issues permits for activities affecting navigable waters."",
+      ""source_section_number"": ""1.2""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""United States Coast Guard"",
+      ""entity_acronym"": ""USCG"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Approves private aids to navigation."",
+      ""source_section_number"": ""1.2""
+    },
+    {
+      ""entity_id"": ""E-06"",
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""entity_acronym"": ""USFWS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Consults on endangered species."",
+      ""source_section_number"": ""1.2""
+    },
+    {
+      ""entity_id"": ""E-07"",
+      ""entity_name"": ""Massachusetts Office of Coastal Zone Management"",
+      ""jurisdiction"": ""State"",
+      ""role_description"": ""Issues Coastal Zone Program Consistency Certifications."",
+      ""source_section_number"": ""1.2""
+    },
+{
+      ""entity_id"": ""E-08"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Reviews and approves Oil Spill Response Plans."",
+      ""source_section_number"": ""1.3""
+    },
+{
+      ""entity_id"": ""E-09"",
+      ""entity_name"": ""Fleet Forces Atlantic Exercise Coordination Center at Naval Air Station Oceana"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Coordinates with project regarding potential conflicts with military operations."",
+      ""source_section_number"": ""4.1""
+    }
+
+  ]
+}
+```"

@@ -1,0 +1,119 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"3","openai","gpt-4o-mini",814885,53679,37,31,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Recommended Practices for Wind Energy Projects"",
+    ""project_name"": ""Wind Energy Project"",
+    ""project_location"": ""Not specified""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Gear Oil"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Lubrication system for wind turbine gearboxes."",
+      ""source_section_number"": ""RP 106""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Wind Turbine Blades"",
+      ""component_acronym"": ""WTB"",
+      ""description"": ""Aerodynamic structures that convert wind energy into rotational energy."",
+      ""source_section_number"": ""RP 301""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Wind Turbine Reliability"",
+      ""component_acronym"": ""WTR"",
+      ""description"": ""Monitoring and maintenance of turbine performance and reliability."",
+      ""source_section_number"": ""RP 503""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Substation"",
+      ""component_acronym"": ""SUB"",
+      ""description"": ""Facility for transforming and distributing electrical energy."",
+      ""source_section_number"": ""RP 510""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Transmission Line"",
+      ""component_acronym"": ""TL"",
+      ""description"": ""Infrastructure for transporting electricity from the generation site to the grid."",
+      ""source_section_number"": ""Transmission Line""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Water content in gear lube oil must be below 300 ppm."",
+      ""value"": 300,
+      ""unit"": ""ppm"",
+      ""source_section_number"": ""RP 105"",
+      ""geographic_scope"": ""Gear lubrication system"",
+      ""context_quote"": ""Water|Water ASTM D6304-C|ppm|300 to 600|600""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Foam levels in gear lube oil must be less than 10 ml after 10 minutes."",
+      ""value"": 10,
+      ""unit"": ""ml"",
+      ""source_section_number"": ""RP 105"",
+      ""geographic_scope"": ""Gear lubrication system"",
+      ""context_quote"": ""Foam (@10 min settle)|ASTM D892|ml|<10|>10""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Total Acid Number in gear lube oil must not exceed 1.5 mg/g KOH over new."",
+      ""value"": 1.5,
+      ""unit"": ""mg/g KOH"",
+      ""source_section_number"": ""RP 105"",
+      ""geographic_scope"": ""Gear lubrication system"",
+      ""context_quote"": ""Total Acid Number|ASTM D664|mg/g KOH|1.5 over new|2.0 over new""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Wind turbine blades must be visually inspected for cracks and erosion every 2 years."",
+      ""source_section_number"": ""RP 301"",
+      ""geographic_scope"": ""Blade Body"",
+      ""context_quote"": ""Blade Body|visual evidence of cracks, air pockets, delamination, drainage, protective film and erosion of the leading edge|Minimum Inspection Frequency Every 2 Years""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Event data must be recorded for each downtime event for maintenance analysis."",
+      ""source_section_number"": ""RP 503"",
+      ""geographic_scope"": ""Turbine Operations"",
+      ""context_quote"": ""A record of each downtime event should be made.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Substation maintenance tasks must be performed according to a 6-year maintenance cycle."",
+      ""source_section_number"": ""Substation Inspection and Maintenance Intervals"",
+      ""geographic_scope"": ""Substation"",
+      ""context_quote"": ""Recommended Substation Maintenance Tasks and Intervals|Installation & Commissioning|5W (Monthly)|3M (Quarterly)|1Y (Yearly)|3 Years|6 Years|12 Years|24 Years""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Transmission line inspections must include torque checks and verification every 3 years."",
+      ""source_section_number"": ""Transmission Line Tasks"",
+      ""geographic_scope"": ""Transmission Line"",
+      ""context_quote"": ""Re-torque hardware at all jointed connections of the frame.|X||||X|X|X""
+    }
+  ],
+  ""governing_entities"": []
+}
+```"

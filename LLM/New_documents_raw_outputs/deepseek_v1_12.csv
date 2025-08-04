@@ -1,0 +1,129 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"12","deepseek","deepseek-chat",201673,105266,15,12,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""BOEM and NOAA Fisheries North Atlantic Right Whale and Offshore Wind Strategy"",
+    ""project_name"": ""Offshore Wind Development in the Atlantic Outer Continental Shelf"",
+    ""project_location"": ""Atlantic Outer Continental Shelf (OCS), U.S.""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Fixed foundation turbines for offshore wind energy generation."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Export Cable Corridors"",
+      ""description"": ""Routes for cables transmitting energy from offshore wind farms to land."",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Substation Foundations"",
+      ""description"": ""Structures supporting offshore substations for energy transmission."",
+      ""source_section_number"": ""2.4""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Sound fields during impact pile driving should not exceed NOAA Fisheries’ Level A permanent threshold shift limits for low frequency cetaceans at distances greater than 1,000 meters."",
+      ""value"": 1000,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""Lease areas"",
+      ""context_quote"": ""Sound fields generated during impact pile driving should be reduced to the maximum extent practicable with a goal of not exceeding NOAA Fisheries’ Level A permanent threshold shift (PTS) limits for low frequency cetaceans (LFC) at distances greater than 1,000 meters from each foundation.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Foundation installation should avoid times when North Atlantic right whales are most likely to occur in lease areas."",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""Lease areas"",
+      ""context_quote"": ""Project schedules should avoid installing foundations during the time of year when NARWs are most likely to occur in the lease areas and along vessel routes, including known areas of higher NARW density and persistence, and including, but not limited to, Nantucket Shoals, Cape Cod Bay, calving grounds, and designated NARW critical habitat.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Vessels must slow to 10 knots or less when North Atlantic right whales may be present."",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""Transit routes"",
+      ""context_quote"": ""All vessels should have a dedicated lookout or PSO watching for NARWs at all times and slow to 10 knots or less at any time/location that NARWs may be present and at any time when visibility is poor.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Use of noise abatement systems during pile driving of turbine and substation foundations."",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""Lease areas"",
+      ""context_quote"": ""Although developers are already committing to using quieting technology (e.g., noise abatement systems during pile driving of turbine and substation foundations), the effectiveness of such technology can be improved by broadening the scope of quieting actions and through further technological innovation, especially with respect to lower frequency hearing specialists like NARWs.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Low order incineration is preferred over high order detonations for UXO disposal."",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""Lease areas"",
+      ""context_quote"": ""If disposal is necessary, after demonstrating that avoidance through micrositing is not feasible, low order incineration is preferred over high order detonations.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Manages energy and mineral resources of the OCS and promotes energy independence, environmental protection, and economic development."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Oceanic and Atmospheric Administration Fisheries"",
+      ""entity_acronym"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Steward of the Nation’s living marine resources, including fisheries, most marine mammals, and endangered and threatened species."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Promotes safety, protects the environment, and conserves resources offshore through regulatory oversight and enforcement."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""Marine Mammal Commission"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Independent government agency charged by the MMPA to further the conservation of marine mammals and their environment."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""U.S. Navy"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for compliance with Federal environmental laws and regulations that apply to marine mammals and other marine protected species."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-06"",
+      ""entity_name"": ""Department of Energy"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Supports a broad portfolio of OSW research, development, and demonstration projects."",
+      ""source_section_number"": ""4.1""
+    }
+  ]
+}
+```"

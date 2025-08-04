@@ -1,0 +1,188 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"6","deepseek","deepseek-chat",1002887,723474,24,20,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Final Environmental Assessment"",
+    ""project_name"": ""Commercial Wind Lease Issuance and Site Assessment Activities on the Atlantic Outer Continental Shelf Offshore New Jersey, Delaware, Maryland and Virginia"",
+    ""project_location"": ""Atlantic Outer Continental Shelf offshore New Jersey, Delaware, Maryland, and Virginia""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Energy Areas"",
+      ""component_acronym"": ""WEAs"",
+      ""description"": ""Areas identified as suitable for commercial wind energy leasing consideration."",
+      ""source_section_number"": ""1.5""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Meteorological Tower"",
+      ""component_acronym"": null,
+      ""description"": ""Structure used for characterizing wind conditions, mounted on a fixed or pile-supported platform."",
+      ""source_section_number"": ""3.1.3.1""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Meteorological Buoy"",
+      ""component_acronym"": null,
+      ""description"": ""Anchored device used for meteorological resource data collection."",
+      ""source_section_number"": ""3.1.3.2""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""High-resolution Geophysical Surveys"",
+      ""component_acronym"": ""HRG Surveys"",
+      ""description"": ""Surveys conducted to acquire geophysical shallow hazards data, archaeological resource information, and bathymetric charting."",
+      ""source_section_number"": ""3.1.2.1""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Sub-bottom Sampling"",
+      ""component_acronym"": null,
+      ""description"": ""Sampling to assess the suitability of shallow foundation soils to support structures or transmission cables."",
+      ""source_section_number"": ""3.1.2.2""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Exclusion of areas within 7 nautical miles from shore due to high avian densities, shipwrecks, reefs, and shoals."",
+      ""value"": 7,
+      ""unit"": ""nautical miles"",
+      ""source_section_number"": ""1.5"",
+      ""geographic_scope"": ""New Jersey WEA"",
+      ""context_quote"": ""BOEM has excluded the area from the state boundary to the 7 nm limit due to high avian densities, the numerous shipwrecks, reefs, and shoals that occur in this zone, as well as the high level of recreational and commercial vessel activity.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Avoidance of shipping lanes, traffic separation schemes, pipelines, and cables."",
+      ""source_section_number"": ""1.5"",
+      ""geographic_scope"": ""New Jersey WEA"",
+      ""context_quote"": ""The New Jersey WEA was designed to avoid the following areas: 1. Shipping lanes, traffic separation schemes (TSS), areas in close proximity to pipelines and cables, artificial reefs and shipwrecks;""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Height of meteorological towers above mean sea level."",
+      ""value"": 90,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""3.1.3.1"",
+      ""geographic_scope"": ""All WEAs"",
+      ""context_quote"": ""Once installed, the top of a meteorological tower would be 90-100 m (295-328 ft) above mean sea level.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Foundation piles driven into the seafloor."",
+      ""value"": 25,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""3.1.3.1"",
+      ""geographic_scope"": ""All WEAs"",
+      ""context_quote"": ""The foundation pile(s) for a fixed platform could range from either a single 10-ft (3-m) diameter monopile to four 3-ft (0.9-m) diameter piles (jacket). These piles would be driven anywhere from 25 to 100 ft (7.6 to 30.5 m) below the seafloor with a pile driving hammer typically used in marine construction operations.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Installation time for meteorological towers."",
+      ""value"": 8,
+      ""unit"": ""days"",
+      ""source_section_number"": ""3.1.3.1"",
+      ""geographic_scope"": ""All WEAs"",
+      ""context_quote"": ""Total installation time for one meteorological tower would take eight days to ten weeks depending on the type of structure installed, and the weather and sea state conditions.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Installation time for meteorological buoys."",
+      ""value"": 1,
+      ""unit"": ""day"",
+      ""source_section_number"": ""3.1.3.2"",
+      ""geographic_scope"": ""All WEAs"",
+      ""context_quote"": ""Buoys would typically take one day to install.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Line spacing for geophysical data collection for shallow hazards assessments."",
+      ""value"": 150,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""3.1.2.1"",
+      ""geographic_scope"": ""All WEAs"",
+      ""context_quote"": ""For the collection of geophysical data for shallow hazards assessments, side-scan sonar/ sub-bottom profilers would be flown at 150-meter (m) line spacing over the lease area;""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Line spacing for collecting geophysical data for archaeological resources assessments."",
+      ""value"": 30,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""3.1.2.1"",
+      ""geographic_scope"": ""All WEAs"",
+      ""context_quote"": ""For collecting geophysical data for archaeological resources assessments, magnetometers, side-scan sonar and all sub-bottom profilers would be flown at 30 meter line spacing;""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Number of sub-bottom samples anticipated per lease."",
+      ""value"": 1,
+      ""unit"": ""sample"",
+      ""source_section_number"": ""3.1.2.2"",
+      ""geographic_scope"": ""All WEAs"",
+      ""context_quote"": ""This scenario assumes that one sub-bottom sample would be taken at the foundation location for each anticipated meteorological tower and/or buoy.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Prepares environmental assessments and issues leases for renewable energy development on the OCS."",
+      ""source_section_number"": ""1.1.2""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""entity_acronym"": ""USCG"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Identifies areas that pose navigational safety issues and regulates Private Aids to Navigation."",
+      ""source_section_number"": ""2.3""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provides concurrence on impacts to marine mammals and sea turtles."",
+      ""source_section_number"": ""5.2.1""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""entity_acronym"": ""USFWS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provides concurrence on impacts to birds."",
+      ""source_section_number"": ""5.2.1""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""Federal Aviation Administration"",
+      ""entity_acronym"": ""FAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Regulates the marking and lighting of meteorological towers taller than 199 feet."",
+      ""source_section_number"": ""3.1.3.1""
+    }
+  ]
+}
+```"

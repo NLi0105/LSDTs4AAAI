@@ -1,0 +1,32 @@
+model_name,document_number,type_of_wind_farm,chunk_number,document_id,constraint_type,requirement,scope,numerical_value,unit,source,related_domains
+gemini-1.5-pro,8 of 26,Offshore,11,19,Spatial,"Exclusion distance of 17,000 m from civil/military aviation areas.",Offshore wind farms,17000.0,m,"[31, 60]",aviation safety; spatial planning
+gemini-1.5-pro,8 of 26,Offshore,11,19,Environmental,"Exclusion distance of 0 m from protected environmental areas, bird habitats and migration corridors.",Offshore wind farms,0.0,m,"[5, 8, 23, 24, 28, 30-33, 36, 40, 43, 60]",environmental protection; avian protection; spatial planning
+gemini-1.5-pro,8 of 26,Offshore,11,19,Spatial,Exclusion distance of 0 m from agricultural land.,Offshore wind farms,0.0,m,"[2, 5, 25, 29, 30, 37]",spatial planning; agriculture
+gemini-1.5-pro,8 of 26,Offshore,11,19,Spatial,Exclusion distance of 0 m from military zones.,Offshore wind farms,0.0,m,"[23, 24, 32, 43]",security; spatial planning
+gemini-1.5-pro,8 of 26,Offshore,11,19,Spatial,Minimum water depth of 5 m.,Offshore wind farms,5.0,m,"Table 3, MEC 1",navigation safety; structural integrity
+gemini-1.5-pro,8 of 26,Offshore,11,19,Spatial,Maximum water depth of 62 m.,Offshore wind farms,62.0,m,"Table 3, MEC 1",navigation safety; structural integrity
+gemini-1.5-pro,8 of 26,Offshore,11,19,Spatial,Exclusion distance of 0 m from protected environmental areas.,Offshore wind farms,0.0,m,"Table 3, MEC 2",environmental protection; spatial planning
+gemini-1.5-pro,8 of 26,Offshore,11,19,Spatial,Exclusion distance of 0 m from verified shipping routes.,Offshore wind farms,0.0,m,"Table 3, MEC 3",navigation safety; spatial planning
+gemini-1.5-pro,8 of 26,Offshore,11,19,Technical,Minimum wind velocity of 3 m/s.,Offshore wind farms,3.0,m/s,"Table 3, MEC 4",energy efficiency
+gemini-1.5-pro,8 of 26,Offshore,11,19,Technical,Maximum wind velocity of 7 m/s.,Offshore wind farms,7.0,m/s,"Table 3, MEC 4",energy efficiency
+gemini-1.5-pro,,Offshore,12,19,Spatial,Minimum distance of 500m from Military zones.,Offshore wind farm placement,500.0,m,MEC 5,military exclusion zones; security
+gemini-1.5-pro,,Offshore,12,19,Environmental,"Maintain a distance of 1000m to 25,000m for Landscape protection and acoustic/visual disturbance.",Offshore wind farm placement,1000.0,m,MEC 6,landscape protection; noise pollution; visual impact
+gemini-1.5-pro,,Offshore,12,19,Environmental,Minimum distance of 3000m from Bird habitats and migration corridors.,Offshore wind farm placement,3000.0,m,MEC 7,avian protection; ecological impact
+gemini-1.5-pro,,Offshore,12,19,Spatial,Minimum distance of 500m from underwater cables and pipelines.,Offshore wind farm placement,500.0,m,MEC 8,subsea infrastructure; navigation
+gemini-1.5-pro,,Offshore,12,19,Spatial,"Distance between 20,000m and 200,000m from local ports (upper limit).",Offshore wind farm placement,20000.0,m,MEC 9,port operations; navigation
+gemini-1.5-pro,,Offshore,12,19,Jurisdictional,Project must be within Territorial Waters (TW) or Exclusive Economic Zone (EEZ).,Offshore wind farm placement,,,MEC 10,maritime boundaries; legal compliance
+gemini-1.5-pro,,Offshore,12,19,Spatial,Minimum distance of 500m from Fishing areas.,Offshore wind farm placement,500.0,m,MEC 12,fishing industry; economic impact
+gemini-1.5-pro,,Offshore,12,19,Technical,Minimum distance of 1000m from the high-voltage electricity grid (lower limit).,Offshore wind farm connection,1000.0,m,MEC 13,grid connection; power transmission
+gemini-1.5-pro,,Offshore,12,19,Technical,"Distance between 20,000m and 100,000m from the high-voltage electricity grid (upper limit).",Offshore wind farm connection,20000.0,m,MEC 13,grid connection; power transmission
+gemini-1.5-pro,,Offshore,12,19,Spatial,Minimum distance of 1000m to 1500m from Urban and residential areas.,Offshore wind farm placement,1000.0,m,MEC 14,social impact; noise pollution; visual impact
+gemini-1.5-pro,,Offshore,12,19,Safety,Avoid construction in High Seismic Hazard Zones (HSHZ).,Offshore wind farm placement,,,MEC 15,seismic risk; structural integrity
+gemini-1.5-pro,,Offshore,12,19,Spatial,Minimum area of 25 km² for the wind farm.,Offshore wind farm size,25.0,km²,MEC 18,project planning; capacity
+gemini-1.5-pro,9 of 26,Offshore,13,19,Spatial,"The most restrictive limit of MEC was 25,000 m from the shore… to protect the landscape, and avoid visual and acoustic disturbances.",Offshore wind farms,25000.0,m,,landscape protection; visual impact; noise pollution
+gemini-1.5-pro,9 of 26,Offshore,13,19,Spatial,The least restrictive (and predominant) limit was 0 m… applied from protected environmental areas… verified shipping routes… military zones… bird habitats and migration corridors… pipelines and underwater cables… and fishing areas.,Offshore wind farms,0.0,m,,environmental protection; navigation safety; military operations; avian protection; subsea infrastructure; fishing industry
+gemini-1.5-pro,9 of 26,Offshore,13,19,Technical,"For MEC 1, an upper limit for economic and technical reasons was frequently applied",MEC 1 (unspecified parameter),,,,economic feasibility; technical feasibility
+gemini-1.5-pro,9 of 26,Offshore,13,19,Technical,"…in some cases, for technical reasons and social causes, a lower limit was set (for MEC 1).",MEC 1 (unspecified parameter),,,,technical feasibility; social impact
+gemini-1.5-pro,9 of 26,Offshore,13,19,Safety,"for MEC 13, a lower limit for safety reasons… was typically applied.",MEC 13 (unspecified parameter),,,,safety
+gemini-1.5-pro,9 of 26,Offshore,13,19,Technical,for MEC 13… an upper limit for economic and technical causes was typically applied.,MEC 13 (unspecified parameter),,,,economic feasibility; technical feasibility
+gemini-1.5-pro,9 of 26,Offshore,13,19,Spatial,MEC 9 is minimization and it obtained an upper exclusion limit.,MEC 9 (unspecified parameter),,,,spatial planning
+gemini-1.5-pro,9 of 26,Offshore,13,19,Technical,exclusion limits greater than 60 m water depth,Floating offshore wind farms,60.0,m,,water depth; structural design
+gemini-1.5-pro,,Offshore,35,19,Jurisdictional,"Proper national laws, regulations, or policies are either missing or should be globally reinforced in several countries and regions (i.e., in Asian, North American, and African countries).","Asian, North American, and African countries",,,,policy; legal framework

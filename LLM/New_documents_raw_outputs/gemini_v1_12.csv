@@ -1,0 +1,140 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"12","gemini","gemini-1.5-pro",201673,105266,15,12,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""BOEM and NOAA Fisheries North Atlantic Right Whale and Offshore Wind Strategy"",
+    ""project_name"": ""Offshore Wind Strategy"",
+    ""project_location"": ""U.S. Atlantic Outer Continental Shelf (OCS)""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Structures for generating electricity from wind"",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Substations"",
+      ""description"": ""Electrical infrastructure located offshore"",
+      ""source_section_number"": ""Construction and Operation""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Export Cables"",
+      ""description"": ""Submarine cables for transmitting electricity to shore"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Foundations"",
+      ""description"": ""Supporting structures for wind turbines and substations"",
+      ""source_section_number"": ""Construction and Operation""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Project Vessels"",
+      ""description"": ""Vessels involved in project activities"",
+      ""source_section_number"": ""2.4""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Preference for foundation designs that do not require pile driving."",
+      ""source_section_number"": ""Construction and Operation"",
+      ""geographic_scope"": ""U.S. Atlantic OCS"",
+      ""context_quote"": ""The agencies are committed to working with lessees to develop standards for determining where it would be preferred to use foundation designs that do not rely on pile driving (e.g., gravity-based foundations)""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Sound fields generated during impact pile driving should not exceed NOAA Fisheries’ Level A permanent threshold shift (PTS) limits for low frequency cetaceans (LFC) at distances greater than 1,000 meters from each foundation."",
+      ""value"": 1000,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""Construction and Operation"",
+      ""geographic_scope"": ""1000 meters from each foundation"",
+      ""context_quote"": ""Sound fields generated during impact pile driving should be reduced to the maximum extent practicable with a goal of not exceeding NOAA Fisheries’ Level A permanent threshold shift (PTS) limits for low frequency cetaceans (LFC) at distances greater than 1,000 meters from each foundation.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Vessels should slow to 10 knots or less when North Atlantic right whales (NARWs) may be present or when visibility is poor."",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""Construction and Operation"",
+      ""geographic_scope"": ""Areas where NARWs may be present"",
+      ""context_quote"": ""All vessels should have a dedicated lookout or PSO watching for NARWs at all times and slow to 10 knots or less at any time/location that NARWs may be present and at any time when visibility is poor.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Project schedules should avoid installing foundations during times when NARWs are most likely to occur in lease areas and along vessel routes."",
+      ""source_section_number"": ""Construction and Operation"",
+      ""geographic_scope"": ""Lease areas and vessel routes"",
+      ""context_quote"": ""Project schedules should avoid installing foundations during the time of year when NARWs are most likely to occur in the lease areas and along vessel routes, including known areas of higher NARW density and persistence, and including, but not limited to, Nantucket Shoals, Cape Cod Bay, calving grounds, and designated NARW critical habitat.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Baseline data collection on NARW presence should cover at least 3 years prior to environmental review."",
+      ""value"": 3,
+      ""unit"": ""years"",
+      ""source_section_number"": ""Project-Specific Monitoring Measures"",
+      ""geographic_scope"": ""Lease areas and surrounding waters"",
+      ""context_quote"": ""Ensure all environmental reviews are informed by baseline data on the use of the project area by NARWs, to include at least 3 years of baseline data.""
+    },
+        {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Post-construction monitoring of NARW presence and habitat use should continue for at least 3 years."",
+      ""value"": 3,
+      ""unit"": ""years"",
+      ""source_section_number"": ""Project-Specific Monitoring Measures"",
+      ""geographic_scope"": ""Project area"",
+      ""context_quote"": ""Implement continued monitoring during the construction period and for at least 3 years post construction to assess impact of the project on NARWs and their habitat.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Manages energy and mineral resources of the OCS, promotes energy independence, environmental protection, and economic development."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Oceanic and Atmospheric Administration Fisheries"",
+      ""entity_acronym"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Steward of the Nation’s living marine resources, including fisheries, most marine mammals, and endangered and threatened species."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Promotes safety, protects the environment, and conserves resources offshore through regulatory oversight and enforcement."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""Marine Mammal Commission"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provides science-based oversight of policies and actions of Federal agencies related to marine mammals."",
+      ""source_section_number"": ""4.1""
+    }
+  ]
+}
+```"

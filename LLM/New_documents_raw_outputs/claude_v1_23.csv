@@ -1,0 +1,240 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"23","claude","claude-3-haiku-20240307",595001,57251,17,9,False,"{
+  ""document_metadata"": {
+    ""title"": ""New England Wind Project Construction and Operations Plan"",
+    ""project_name"": ""New England Wind Project"",
+    ""project_location"": ""Offshore Massachusetts""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Offshore wind turbines that generate electricity"",
+      ""source_section_number"": ""Appendix B.1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Electrical Service Platforms"",
+      ""component_acronym"": ""ESP"",
+      ""description"": ""Offshore substations that collect and transmit electricity from the wind turbines"",
+      ""source_section_number"": ""Appendix B.1""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Offshore Export Cables"",
+      ""description"": ""Subsea cables that transmit electricity from the offshore substations to the onshore grid"",
+      ""source_section_number"": ""Appendix B.1""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will install between 125 to 129 wind turbine generators"",
+      ""value"": 125,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501"",
+      ""context_quote"": ""The Selected Alternative would allow for up to 130 foundations for the installation of 125 to 129 WTGs and 1 to 5 ESPs within Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501 (collectively the Southern Wind Development Area [SWDA]) offshore Massachusetts.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will install between 1 to 5 electrical service platforms"",
+      ""value"": 1,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501"",
+      ""context_quote"": ""The Selected Alternative would allow for up to 130 foundations for the installation of 125 to 129 WTGs and 1 to 5 ESPs within Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501 (collectively the Southern Wind Development Area [SWDA]) offshore Massachusetts.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will install up to 5 offshore electrical transmission cables in the offshore export cable corridor"",
+      ""value"": 5,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Offshore Export Cable Corridor"",
+      ""context_quote"": ""Five offshore electrical transmission cables, including two for Phase 1 and three for Phase 2, would be installed in an offshore export cable corridor (OECC).""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The offshore export cables will make landfall in Barnstable County, Massachusetts, with the possibility of a landing site in Bristol County as well"",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Barnstable County and potentially Bristol County, Massachusetts"",
+      ""context_quote"": ""Intended landing sites for Phase 2 cables would also be in Barnstable County, with the possibility of a landing site in Bristol County as well.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The South Coast Variant (SCV) offshore export cable route is a contingency option that could include up to 3 offshore electrical transmission cables for Phase 2 only, with a cable landing site, onshore transmission cable, grid interconnection, and new or upgraded substations in Bristol County, Massachusetts"",
+      ""value"": 3,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""South Coast Variant (SCV) offshore export cable route"",
+      ""context_quote"": ""The SCV could include up to three offshore electrical transmission cables for Phase 2 only (in lieu of or in addition to the proposed route through Muskeget Channel) with a cable landing site, onshore transmission cable, grid interconnection, and new or upgraded substations in Bristol County, Massachusetts.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The minimum nameplate capacity of each wind turbine generator is 16 MW"",
+      ""value"": 16,
+      ""unit"": ""MW"",
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501"",
+      ""context_quote"": ""This equates to an approximate minimum nameplate capacity of 16 MW per WTG.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will install between 41 to 62 wind turbine generators in Phase 1"",
+      ""value"": 41,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Phase 1 of the project within Lease Area OCS-A 0534"",
+      ""context_quote"": ""Phase 1 would have a total generating capacity of up to 804 MW and consist of 41 to 62 Wind Turbine Generators (WTGs) and 2 Electrical Service Platforms (ESPs) and a maximum of 2 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Phase 1 will install 2 electrical service platforms"",
+      ""value"": 2,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Phase 1 of the project within Lease Area OCS-A 0534"",
+      ""context_quote"": ""Phase 1 would have a total generating capacity of up to 804 MW and consist of 41 to 62 Wind Turbine Generators (WTGs) and 2 Electrical Service Platforms (ESPs) and a maximum of 2 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Phase 1 will install a maximum of 2 offshore export cables"",
+      ""value"": 2,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Phase 1 of the project within Lease Area OCS-A 0534"",
+      ""context_quote"": ""Phase 1 would have a total generating capacity of up to 804 MW and consist of 41 to 62 Wind Turbine Generators (WTGs) and 2 Electrical Service Platforms (ESPs) and a maximum of 2 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Phase 2 will install up to 88 wind turbine generators"",
+      ""value"": 88,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Phase 2 of the project within Lease Area OCS-A 0534"",
+      ""context_quote"": ""Phase 2 would deliver at least 1,232 MW of power and consist of up to 88 WTGs and 3 ESPs and a maximum of 3 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Phase 2 will install 3 electrical service platforms"",
+      ""value"": 3,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Phase 2 of the project within Lease Area OCS-A 0534"",
+      ""context_quote"": ""Phase 2 would deliver at least 1,232 MW of power and consist of up to 88 WTGs and 3 ESPs and a maximum of 3 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-012"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Phase 2 will install a maximum of 3 offshore export cables"",
+      ""value"": 3,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Phase 2 of the project within Lease Area OCS-A 0534"",
+      ""context_quote"": ""Phase 2 would deliver at least 1,232 MW of power and consist of up to 88 WTGs and 3 ESPs and a maximum of 3 offshore export cables.""
+    },
+    {
+      ""constraint_id"": ""C-013"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The Phase 1 offshore export cables will be installed in the Eastern Muskeget OECC"",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Eastern Muskeget Offshore Export Cable Corridor"",
+      ""context_quote"": ""For Phase 1, two cables would be installed in the Eastern OECC in Muskeget Channel.""
+    },
+    {
+      ""constraint_id"": ""C-014"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The Phase 2 offshore export cables may be installed in the Eastern Muskeget OECC, the Western Muskeget Variant OECC, and/or the South Coast Variant OECC"",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Eastern Muskeget OECC, Western Muskeget Variant OECC, and/or South Coast Variant OECC"",
+      ""context_quote"": ""For Phase 2, three cables would be installed in various proposed configurations in the Eastern OECC in Muskeget Channel, the Western Variant in Muskeget Channel and/or the South Coast Variant (SCV), which runs to the south and west of Martha's Vineyard, through Rhode Island Sound.""
+    },
+    {
+      ""constraint_id"": ""C-015"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will install up to 132 total foundations for 125 to 129 wind turbine generators and 1 to 5 electrical service platforms"",
+      ""value"": 132,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501"",
+      ""context_quote"": ""In total, both phases combined would include up to 132 total foundations for 125 to 129 WTGs and 1 to 5 ESPs to be installed in 130 positions, generating at least 2,036 MW and up to 2,600 MW of electricity to meet existing and potential future offtake demands for New England states.""
+    },
+    {
+      ""constraint_id"": ""C-016"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will install the 132 total foundations in 130 positions"",
+      ""value"": 130,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501"",
+      ""context_quote"": ""In total, both phases combined would include up to 132 total foundations for 125 to 129 WTGs and 1 to 5 ESPs to be installed in 130 positions, generating at least 2,036 MW and up to 2,600 MW of electricity to meet existing and potential future offtake demands for New England states.""
+    },
+    {
+      ""constraint_id"": ""C-017"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The project will generate at least 2,036 MW and up to 2,600 MW of electricity"",
+      ""value"": 2036,
+      ""unit"": ""MW"",
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501"",
+      ""context_quote"": ""In total, both phases combined would include up to 132 total foundations for 125 to 129 WTGs and 1 to 5 ESPs to be installed in 130 positions, generating at least 2,036 MW and up to 2,600 MW of electricity to meet existing and potential future offtake demands for New England states.""
+    },
+    {
+      ""constraint_id"": ""C-018"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Micrositing of wind turbine foundations may occur within 500 feet from each proposed location to avoid seafloor hazards"",
+      ""value"": 500,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""Appendix B.1"",
+      ""geographic_scope"": ""Within 500 feet of each proposed wind turbine location"",
+      ""context_quote"": ""In accordance with 30 CFR § 585.634(c)(6), micrositing of WTG foundations may occur within 500 feet from each proposed WTG location. WTG micrositing would be performed on a case-by-case basis to avoid significant seafloor hazards such as surface and subsurface boulders (see COP Section 2.2.1.1).""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for reviewing and approving the Construction and Operations Plan for the New England Wind Project"",
+      ""source_section_number"": ""Appendix B.1""
+    },
+    {
+      ""entity_id"": """

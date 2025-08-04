@@ -1,0 +1,5 @@
+model_name,document_number,type_of_wind_farm,chunk_number,document_id,constraint_type,requirement,scope,numerical_value,unit,source,related_domains
+deepseek-chat,OWED-2023-001,Offshore,10,34,Environmental,Wind turbines must maintain a minimum distance of 1 km from known marine mammal migration routes.,North Atlantic offshore wind lease areas,1,km,Bureau of Ocean Energy Management (BOEM),wildlife protection; marine ecosystems
+deepseek-chat,OWED-2023-001,Offshore,10,34,Technical,All offshore wind structures must comply with ISO 19901-5 for structural integrity under cyclic loading.,Global offshore wind installations,,,International Organization for Standardization (ISO),structural engineering; safety
+deepseek-chat,NS-OWF-2023-01,Offshore,19,34,Environmental,All turbine foundations must undergo marine mammal impact assessment prior to installation,North Sea Exclusive Economic Zone,,,OSPAR Convention Annex IV,environmental; construction
+deepseek-chat,NS-OWF-2023-01,Offshore,19,34,Technical,Substation platforms shall withstand wave heights with 100-year return period,All offshore installations,16.2,meters,IEC 61400-3-1,structural engineering; safety

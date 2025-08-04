@@ -1,0 +1,129 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"19","openai","gpt-4o-mini",380361,380319,1,1,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Coastal Virginia Offshore Wind Project (CVOW) RAP Amendment"",
+    ""project_name"": ""Coastal Virginia Offshore Wind Project (CVOW)"",
+    ""project_location"": ""Approximately 27 miles offshore of Virginia Beach, Virginia""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Two 6 MW wind turbine generators to be installed offshore."",
+      ""source_section_number"": ""3.2.1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Export Cable"",
+      ""component_acronym"": ""EC"",
+      ""description"": ""34.5 kV submarine transmission cable conveying electricity from offshore WTGs to shore."",
+      ""source_section_number"": ""3.3.4""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Onshore Interconnection Cable"",
+      ""component_acronym"": ""OIC"",
+      ""description"": ""Cable connecting offshore facilities to onshore electrical infrastructure."",
+      ""source_section_number"": ""3.1.2""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTGs will have a maximum height ranging from 591 to 617 feet."",
+      ""value"": 617,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""3.2.1"",
+      ""geographic_scope"": ""Offshore Project Area"",
+      ""context_quote"": ""The maximum height of each turbine is proposed to range from 591 to 617 feet (ft) (180 to 188 meters [m]), measured from mean sea level (MSL) to rotor tip.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Export Cable will be buried to a target depth of approximately 6.6 ft."",
+      ""value"": 6.6,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""3.3.4.3"",
+      ""geographic_scope"": ""Export Cable Corridor"",
+      ""context_quote"": ""The target depth of burial for the Export Cable remains approximately 6.6 ft (2 m), as previously approved in the RAP.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Onshore Interconnection Cable Route must avoid wetlands and other jurisdictional waterbodies."",
+      ""source_section_number"": ""4.8"",
+      ""geographic_scope"": ""Onshore Interconnection Cable Route"",
+      ""context_quote"": ""All onshore construction activities will still occur along existing road rights-of-way and/or within previously disturbed areas as described in the approved RAP, and will still avoid wetlands.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Bubble curtains will be used during pile driving to minimize acoustic impacts."",
+      ""source_section_number"": ""4.15.2"",
+      ""geographic_scope"": ""Pile Driving Area"",
+      ""context_quote"": ""Dominion has also committed to use of a double bubble curtain during pile driving activities to minimize acoustic impacts.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Pile driving will occur only during daylight hours."",
+      ""source_section_number"": ""3.3.4.2"",
+      ""geographic_scope"": ""Pile Driving Area"",
+      ""context_quote"": ""Pile driving activities will occur during daylight hours only, starting approximately 30 minutes after dawn and ending approximately 30 minutes prior to dusk.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Onshore Interconnection Cable will require a 30 ft temporary construction right-of-way."",
+      ""value"": 30,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""3.1.2"",
+      ""geographic_scope"": ""Onshore Interconnection Cable Route"",
+      ""context_quote"": ""To support the construction and operation of the Onshore Interconnection Cable and Fiber Optic Cable, Dominion proposes a 30 ft (9.1 m) temporary construction right-of-way along the entirety of the route for installation of the cable.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Regulatory authority overseeing offshore energy projects."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Oceanic and Atmospheric Administration National Marine Fisheries Service"",
+      ""entity_acronym"": ""NOAA Fisheries"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for marine mammal protection and consultation under the Marine Mammal Protection Act."",
+      ""source_section_number"": ""4.15.2""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Virginia Department of Environmental Quality"",
+      ""entity_acronym"": ""VDEQ"",
+      ""jurisdiction"": ""State"",
+      ""role_description"": ""State regulatory authority for environmental quality and permits."",
+      ""source_section_number"": ""1.3.1""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""Virginia Department of Historic Resources"",
+      ""entity_acronym"": ""VDHR"",
+      ""jurisdiction"": ""State"",
+      ""role_description"": ""State agency responsible for historic preservation and cultural resource management."",
+      ""source_section_number"": ""4.9""
+    }
+  ]
+}
+```"

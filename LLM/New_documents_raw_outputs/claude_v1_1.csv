@@ -1,0 +1,277 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"1","claude","claude-3-haiku-20240307",113745,113396,1,1,False,"{
+  ""document_metadata"": {
+    ""title"": ""Rafael Monteiro de Vasconcelos et al. Energy Policy 171 (2022) 113248"",
+    ""project_name"": ""Offshore Wind Power"",
+    ""project_location"": ""Global""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Offshore Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Offshore wind turbines used to generate electricity"",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Wind Farm Cables"",
+      ""component_acronym"": ""Cables"",
+      ""description"": ""Cables used to transmit electricity from the offshore wind turbines to the onshore grid"",
+      ""source_section_number"": ""4.1.2""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Cable Trenching"",
+      ""description"": ""The process of burying offshore wind farm cables in the seabed"",
+      ""source_section_number"": ""4.1.2""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Offshore Wind Farm Project"",
+      ""description"": ""The overall offshore wind energy development project"",
+      ""source_section_number"": ""4.1.1, 4.2.1, 4.3.1, 4.4.1""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Project Vessels"",
+      ""description"": ""Vessels used during the construction, operation, and maintenance of the offshore wind farm"",
+      ""source_section_number"": ""4.1.2""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Offshore wind turbines must be installed between 12 and 200 nautical miles off the German coast in the North and Baltic Seas"",
+      ""value"": 12,
+      ""unit"": ""nautical miles"",
+      ""source_section_number"": ""4.2.1"",
+      ""geographic_scope"": ""German Economic Exclusive Zone (EEZ) in the North and Baltic Seas"",
+      ""context_quote"": ""Since 1997, offshore wind farms in the German EEZ, between 12 and 200 nautical miles in the North and Baltic Seas, are regulated by the BSH, a branch of the Federal Ministry for Economic Affairs and Energy (BMWi), and the Federal Waterways and Shipping Administration (WSV), pursuant to the Federal Marine Installations Ordinance (SeeAnlV).""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Offshore wind turbines must have a minimum intended capacity of at least 100 MW"",
+      ""value"": 100,
+      ""unit"": ""MW"",
+      ""source_section_number"": ""4.1.1, 4.2.1"",
+      ""geographic_scope"": ""United Kingdom, Germany"",
+      ""context_quote"": ""Applications must have a minimum intended capacity of at least 100MW.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Offshore wind turbines taller than 50 meters must undergo an Environmental Impact Assessment (EIA)"",
+      ""value"": 50,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""4.1.1, 4.2.1"",
+      ""geographic_scope"": ""United Kingdom, Germany"",
+      ""context_quote"": ""More than 20 wind turbines taller than 50 m must undergo an EIA.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Cable trenching activities are prohibited within 500 meters of the identified historic shipwreck (No. 551B)"",
+      ""value"": 500,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""4.1.2"",
+      ""geographic_scope"": ""Area within 500 meters of historic shipwreck (No. 551B)"",
+      ""context_quote"": ""Furthermore, trenching activities are prohibited within 500 meters of the identified historic shipwreck (No. 551B) at all times.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Project vessels must not travel faster than 10 knots while in the Block Island Sound Transit Lane"",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""4.1.2"",
+      ""geographic_scope"": ""Block Island Sound Transit Lane"",
+      ""context_quote"": ""To protect sensitive habitats, vessel speeds for all project vessels shall not exceed 10 knots within the Block Island Sound Transit Lane.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Offshore wind farm projects in the UK between 1 MW and 100 MW are consented by the Marine Management Organisation (MMO), and projects over 100 MW are classified as Nationally Significant Infrastructure Projects (NSIPs) and are processed by the Planning Inspectorate for England and Wales (PINS)"",
+      ""value"": 100,
+      ""unit"": ""MW"",
+      ""source_section_number"": ""4.1.1"",
+      ""geographic_scope"": ""England, Wales, and Northern Ireland"",
+      ""context_quote"": ""In England and Wales, any offshore energy project between 1 and 100MW is consented by the Marine Management Organisation (MMO). Projects over 100MW are classified as a Nationally Significant Infrastructure Project (NSIP) and are processed by the Planning Inspectorate for England and Wales (PINS).""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Regulatory Requirement"",
+      ""description"": ""Offshore wind farm projects in Scotland are consented by the Marine Scotland Licensing Operations Team (MS-LOT) in a one-stop-shop procedure"",
+      ""source_section_number"": ""4.1.1"",
+      ""geographic_scope"": ""Scotland"",
+      ""context_quote"": ""In Scotland, marine licenses are issued by the Marine Scotland Licensing Operations Team (MS-LOT) in a one-stop-shop procedure.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Regulatory Requirement"",
+      ""description"": ""Offshore wind farm developers in Scotland must submit a Supply Chain Development Statement (SCDS) outlining the anticipated level and location of supply chain impact from their proposed project"",
+      ""source_section_number"": ""4.1.1"",
+      ""geographic_scope"": ""Scotland"",
+      ""context_quote"": ""CES also requires developers to submit a Supply Chain Development Statement (SCDS), outlining the anticipated level and location of supply chain impact from their proposed project, broken down by project stage (development and consenting, construction, operation, and maintenance) and must be updated as project development progresses.""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Regulatory Requirement"",
+      ""description"": ""Offshore wind farm projects in Germany are regulated by the Federal Maritime and Hydrographic Agency (BSH), a branch of the Federal Ministry for Economic Affairs and Energy (BMWi), and the Federal Waterways and Shipping Administration (WSV)"",
+      ""source_section_number"": ""4.2.1"",
+      ""geographic_scope"": ""Germany"",
+      ""context_quote"": ""Since 1997, offshore wind farms in the German EEZ, between 12 and 200 nautical miles in the North and Baltic Seas, are regulated by the BSH, a branch of the Federal Ministry for Economic Affairs and Energy (BMWi), and the Federal Waterways and Shipping Administration (WSV), pursuant to the Federal Marine Installations Ordinance (SeeAnlV).""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Regulatory Requirement"",
+      ""description"": ""Offshore wind farm projects in Denmark are regulated by the Danish Energy Agency (DEA) in cooperation with the Danish Environmental Protection Agency (EPA), Danish Maritime Authority (DMA), and Danish Working Environment Authority (DWEA)"",
+      ""source_section_number"": ""4.3.1"",
+      ""geographic_scope"": ""Denmark"",
+      ""context_quote"": ""The rights to exploit energy from the wind in Danish territorial waters and in the EEZ are coordinated by DEA under the 2015 Danish Renewable Energy Promotion Act (RE Act), in co-operation with the Danish Environmental Protection Agency (EPA), Danish Maritime Authority (DMA) and Danish Working Environment Authority (DWEA).""
+    },
+    {
+      ""constraint_id"": ""C-011"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Regulatory Requirement"",
+      ""description"": ""Offshore wind farm projects in Taiwan are regulated by the Bureau of Energy (BoE) of the Ministry of Economic Affairs (MoEA), the Industrial Development Bureau (IDB), Taiwan Power Company (TPC), and the Taiwanese Environmental Protection Administration (EPA)"",
+      ""source_section_number"": ""4.4.1"",
+      ""geographic_scope"": ""Taiwan"",
+      ""context_quote"": ""In Taiwan, the Bureau of Energy (BoE) of the Ministry of Economic Affairs (MoEA) is responsible for setting policies for electricity businesses and issues, regulations, and electricity generation licenses. The Industrial Development Bureau (IDB), Taiwan Power Company (TPC) and the Taiwanese Environmental Protection Administration (EPA) are the entities that coordinate the permits for OWP.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""The Crown Estate"",
+      ""entity_acronym"": ""TCE"",
+      ""jurisdiction"": ""England, Wales, and Northern Ireland"",
+      ""role_description"": ""Manages the rights to generate electricity from wind, waves, and tides on the continental shelf"",
+      ""source_section_number"": ""4.1.1""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""Crown Estate Scotland"",
+      ""entity_acronym"": ""CES"",
+      ""jurisdiction"": ""Scotland"",
+      ""role_description"": ""Manages the rights to generate electricity from wind, waves, and tides on the Scottish seabed"",
+      ""source_section_number"": ""4.1.1""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Marine Management Organisation"",
+      ""entity_acronym"": ""MMO"",
+      ""jurisdiction"": ""England and Wales"",
+      ""role_description"": ""Consents offshore energy projects between 1 MW and 100 MW"",
+      ""source_section_number"": ""4.1.1""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""Planning Inspectorate for England and Wales"",
+      ""entity_acronym"": ""PINS"",
+      ""jurisdiction"": ""England and Wales"",
+      ""role_description"": ""Processes offshore energy projects over 100 MW as Nationally Significant Infrastructure Projects (NSIPs)"",
+      ""source_section_number"": ""4.1.1""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""Marine Scotland Licensing Operations Team"",
+      ""entity_acronym"": ""MS-LOT"",
+      ""jurisdiction"": ""Scotland"",
+      ""role_description"": ""Issues marine licenses for offshore wind farm projects in a one-stop-shop procedure"",
+      ""source_section_number"": ""4.1.1""
+    },
+    {
+      ""entity_id"": ""E-06"",
+      ""entity_name"": ""Federal Maritime and Hydrographic Agency"",
+      ""entity_acronym"": ""BSH"",
+      ""jurisdiction"": ""Germany"",
+      ""role_description"": ""Regulates offshore wind farms in the German Economic Exclusive Zone (EEZ)"",
+      ""source_section_number"": ""4.2.1""
+    },
+    {
+      ""entity_id"": ""E-07"",
+      ""entity_name"": ""Federal Ministry for Economic Affairs and Energy"",
+      ""entity_acronym"": ""BMWi"",
+      ""jurisdiction"": ""Germany"",
+      ""role_description"": ""Regulates offshore wind farms in the German Economic Exclusive Zone (EEZ) through the BSH"",
+      ""source_section_number"": ""4.2.1""
+    },
+    {
+      ""entity_id"": ""E-08"",
+      ""entity_name"": ""Federal Waterways and Shipping Administration"",
+      ""entity_acronym"": ""WSV"",
+      ""jurisdiction"": ""Germany"",
+      ""role_description"": ""Regulates offshore wind farms in the German Economic Exclusive Zone (EEZ) through the BSH"",
+      ""source_section_number"": ""4.2.1""
+    },
+    {
+      ""entity_id"": ""E-09"",
+      ""entity_name"": ""Danish Energy Agency"",
+      ""entity_acronym"": ""DEA"",
+      ""jurisdiction"": ""Denmark"",
+      ""role_description"": ""Coordinates the rights to exploit energy from wind in Danish territorial waters and the EEZ"",
+      ""source_section_number"": ""4.3.1""
+    },
+    {
+      ""entity_id"": ""E-10"",
+      ""entity_name"": ""Danish Environmental Protection Agency"",
+      ""entity_acronym"": ""EPA"",
+      ""jurisdiction"": ""Denmark"",
+      ""role_description"": ""Cooperates with the DEA in regulating offshore wind farm projects"",
+      ""source_section_number"": ""4.3.1""
+    },
+    {
+      ""entity_id"": ""E-11"",
+      ""entity_name"": ""Danish Maritime Authority"",
+      ""entity_acronym"": ""DMA"",
+      ""jurisdiction"": ""Denmark"",
+      ""role_description"": ""Cooperates with the DEA in regulating offshore wind farm projects"",
+      ""source_section_number"": ""4.3.1""
+    },
+    {
+      ""entity_id"": ""E-12"",
+      ""entity_name"": ""Danish Working Environment Authority"",
+      ""entity_acronym"": ""DWEA"",
+      ""jurisdiction"": ""Denmark"",
+      ""role_description"": ""Cooperates with the DEA in regulating offshore wind farm projects"",
+      ""source_section_number"": ""4.3.1""
+    },
+    {
+      ""entity_id"": ""E-13"",
+      ""entity_name"": ""Bureau of Energy"",
+      ""entity_acronym"": ""BoE"",
+      ""jurisdiction"": ""Taiwan"",
+      ""role_description"": ""Sets policies for electricity businesses and issues regulations and electricity generation licenses"",
+      ""source_section_number"": ""4.4.1""
+    },
+    {
+      ""entity_id"": ""E-14"",
+      ""entity_name"": ""Ministry of Economic Affairs"",
+      ""entity_acronym"": ""MoEA"",
+      ""jurisdiction"": ""Taiwan"",
+      ""role_description"": ""Oversees the BoE, which is responsible for offshore wind power development"",
+      ""source_section_number"": ""4.4.1""
+    },
+    {
+      ""entity_id"": ""E-15"",
+      ""entity_name"": ""Industrial Development Bureau"",
+      ""entity_acronym"": ""IDB"",
+      ""jurisdiction"": ""Taiwan"",
+      ""role_description"": ""Promotes and implements Taiwan's plan for the development of the offshore wind supply chain"",
+      ""source_section_number"": ""4.4.1""
+    },
+    {
+      ""entity_id"": ""E-16"","

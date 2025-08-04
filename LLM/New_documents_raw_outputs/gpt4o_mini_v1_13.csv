@@ -1,0 +1,110 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"13","openai","gpt-4o-mini",354345,28005,8,6,True,"{
+  ""document_metadata"": {
+    ""title"": ""Ocean SAMP Documentation"",
+    ""project_name"": ""Ocean SAMP"",
+    ""project_location"": ""Ocean SAMP area""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Offshore Wind Energy Facility"",
+      ""description"": ""A facility consisting of multiple wind turbines for generating renewable energy."",
+      ""source_section_number"": ""8.4.4""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Seaducks are primarily found foraging in waters less than 20 meters deep."",
+      ""value"": 20,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""8.4.4(E)(1)"",
+      ""geographic_scope"": ""Ocean SAMP waters"",
+      ""context_quote"": ""Figure 8.39 in § 8.4.4(F)(1) of this Part illustrates the areas within the Ocean SAMP boundary with water depths less than 20 m (66 feet) and therefore is thought to represent the primary foraging habitat for the thousands of seaducks that winter in the Ocean SAMP waters.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Common eiders forage in water less than 10 meters deep during winter."",
+      ""value"": 10,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""8.4.4(E)(1)"",
+      ""geographic_scope"": ""Ocean SAMP waters"",
+      ""context_quote"": ""Common eiders forage in water less than 10 m (33 feet) during the winter when diving over rocky substrate and kelp beds.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Scoters typically forage in waters less than 20 meters deep, especially during winter."",
+      ""value"": 20,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""8.4.4(E)(1)"",
+      ""geographic_scope"": ""Ocean SAMP waters"",
+      ""context_quote"": ""Maximum diving depths of scoters are about 25 m (82 feet), although most birds probably forage in water less than 20 meters (66 feet) deep, particularly during the winter months.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Seaducks may be found in waters up to 25 meters deep, but foraging behavior is uncertain."",
+      ""value"": 25,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""8.4.4(E)(1)"",
+      ""geographic_scope"": ""Ocean SAMP waters"",
+      ""context_quote"": ""Paton et al. (2010) did detect seaducks in waters up to 25 meters (82 feet) deep during aerial surveys, although it was unclear from the aerial surveys if the seaducks were foraging or engaging in other behaviors such as roosting.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Common eiders are 100% found in waters less than 16 meters deep."",
+      ""value"": 16,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""8.4.4(E)(1)"",
+      ""geographic_scope"": ""Ocean SAMP waters"",
+      ""context_quote"": ""Common Eider 100% <16 m (52.5 feet) deep.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Black scoters are 100% found in waters less than 20 meters deep."",
+      ""value"": 20,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""8.4.4(E)(1)"",
+      ""geographic_scope"": ""Ocean SAMP waters"",
+      ""context_quote"": ""Black Scoter 100% <20 m (66 feet) deep.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""National Oceanic and Atmospheric Administration (NOAA)"",
+      ""entity_acronym"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for the management and conservation of marine resources."",
+      ""source_section_number"": ""8.4.5(D)(1)""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""Bureau of Ocean Energy Management (BOEM)"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Regulates offshore energy development and ensures environmental protection."",
+      ""source_section_number"": ""8.4.5(D)(1)""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Rhode Island Coastal Resources Management Council (CRMC)"",
+      ""entity_acronym"": ""CRMC"",
+      ""jurisdiction"": ""State"",
+      ""role_description"": ""Oversees coastal and marine resource management in Rhode Island."",
+      ""source_section_number"": ""8.4.5(D)(1)""
+    }
+  ]
+}"

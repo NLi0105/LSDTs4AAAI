@@ -1,0 +1,131 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"8","claude","claude-3-haiku-20240307",75754,6096,3,3,False,"{
+  ""document_metadata"": {
+    ""title"": ""Revolution Wind, LLC Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05"",
+    ""project_name"": ""Revolution Wind"",
+    ""project_location"": ""Outer Continental Shelf""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Offshore Substation (OSS)"",
+      ""component_acronym"": ""OSS"",
+      ""description"": ""Offshore substation that houses medium and high-voltage gas insulated switchgears"",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Wind Turbine Generator"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Wind turbine generators located offshore"",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Offshore Export Cable"",
+      ""component_acronym"": ""OEC"",
+      ""description"": ""Subsea cables that transmit power from the offshore substation to the onshore grid"",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Offshore Array Cable"",
+      ""component_acronym"": ""OAC"",
+      ""description"": ""Subsea cables that connect the individual wind turbines to the offshore substation"",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Marine Vessels"",
+      ""description"": ""Various vessels used for construction, installation, and maintenance activities"",
+      ""source_section_number"": ""1""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The medium and high-voltage gas insulated switchgears (GISs) on the OSS have the potential to emit SF6, which is considered a greenhouse gas (GHG)."",
+      ""source_section_number"": ""1"",
+      ""geographic_scope"": ""Offshore Substation (OSS)"",
+      ""context_quote"": ""The medium and high-voltage gas insulated switchgears (""GISs"") on the OSS have the potential to emit SF 6, which is considered a GHG.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""The wind turbine generators (WTGs) will not utilize SF6 within the gas insulated switchgear (GIS), which are typically located at the base of the turbine."",
+      ""source_section_number"": ""1"",
+      ""geographic_scope"": ""Wind Turbine Generators (WTGs)"",
+      ""context_quote"": ""Per the permit application, the facility has stated that the WTGs will not utilize SF 6 within the GIS, which are typically located at the base of the turbine.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Regulatory Requirement"",
+      ""description"": ""The Revolution Wind project is required to apply Best Available Control Technology (BACT) to all new emission units on the OSS that emit nitrogen oxides (NOx), carbon monoxide (CO), particulate matter (PM10 and PM2.5), and greenhouse gases (GHG)."",
+      ""source_section_number"": ""1"",
+      ""geographic_scope"": ""Offshore Substation (OSS)"",
+      ""context_quote"": ""The Revolution Wind project is required to apply BACT to all the new emission units proposed in this project which emit NO 2, CO, PM 10, PM 2.5, and GHG.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Regulatory Requirement"",
+      ""description"": ""The Revolution Wind project is required to apply Lowest Achievable Emission Rate (LAER) to all new emission units on the OSS that emit nitrogen oxides (NOx) and volatile organic compounds (VOC)."",
+      ""source_section_number"": ""1"",
+      ""geographic_scope"": ""Offshore Substation (OSS)"",
+      ""context_quote"": ""The Revolution Wind project is required to apply LAER to all the new emission units proposed in this project which emit NO X and VOC.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Regulatory Requirement"",
+      ""description"": ""State BACT requirements derived from Massachusetts' regulations apply to all new emission units on the OSS that emit sulfur dioxide (SO2)."",
+      ""source_section_number"": ""1"",
+      ""geographic_scope"": ""Offshore Substation (OSS)"",
+      ""context_quote"": ""State BACT requirements derived from Massachusetts' regulations apply to all the new emission units proposed in this project which emit SO 2.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The construction equipment engines on the OSS and WTGs have a rated power ranging from 24 kW (32 hp) to 597 kW (800 hp)."",
+      ""value"": 597,
+      ""unit"": ""kW"",
+      ""source_section_number"": ""1"",
+      ""geographic_scope"": ""Offshore Substation (OSS) and Wind Turbine Generators (WTGs)"",
+      ""context_quote"": ""The Project's emission sources will primarily be compression-ignition internal combustion engines (""CI-ICE""). These include engines on vessels while operating as OCS source(s) and engines on the WTGs and OSSs.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""The marine vessels used for the Revolution Wind project have main engine ratings ranging from 1,825 kW to 34,560 kW, and auxiliary engine ratings ranging from 4 kW to 3,600 kW."",
+      ""value"": 34560,
+      ""unit"": ""kW"",
+      ""source_section_number"": ""1"",
+      ""geographic_scope"": ""Marine Vessels"",
+      ""context_quote"": ""The following tables are a narrative description of the proposed equipment in the permit application for the RW project. The list of equipment and descriptions are intended for informational purposes only.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Massachusetts Department of Environmental Protection"",
+      ""entity_acronym"": ""MassDEP"",
+      ""jurisdiction"": ""State"",
+      ""role_description"": ""Regulates the application of BACT requirements for sulfur dioxide (SO2) emissions"",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issued the Outer Continental Shelf Preconstruction Air Permit No. OCS-R1-05 for the Revolution Wind project"",
+      ""source_section_number"": ""1""
+    }
+  ]
+}"

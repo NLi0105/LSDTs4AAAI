@@ -1,0 +1,186 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"24","gemini","gemini-1.5-pro",595001,57251,17,9,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Appendix B. OCSLA Compliance Review of the Construction and Operations Plan for the New England Wind Farm and New England Wind Export Cable Project"",
+    ""project_name"": ""New England Wind"",
+    ""project_location"": ""Southern Wind Development Area (SWDA) offshore Massachusetts, within Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTGs"",
+      ""description"": ""Electricity-generating turbines"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Electrical Service Platforms"",
+      ""component_acronym"": ""ESPs"",
+      ""description"": ""Platforms for electrical service equipment"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Export Cables"",
+      ""component_acronym"": ""OECC"",
+      ""description"": ""Offshore electrical transmission cables"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Onshore Electrical Cables"",
+      ""description"": ""Cables for onshore transmission"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Grid Interconnection Cables"",
+      ""description"": ""Cables for grid interconnection"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""component_id"": ""COMP-06"",
+      ""component_name"": ""Substations"",
+      ""description"": ""Electrical substations"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""component_id"": ""COMP-07"",
+      ""component_name"": ""Foundations"",
+      ""description"": ""Foundations for WTGs and ESPs"",
+      ""source_section_number"": ""Appendix B""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Between 125 and 129 WTGs will be installed."",
+      ""value"": 125,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""SWDA"",
+      ""context_quote"": ""In total, both phases combined would include up to 132 total foundations for 125 to 129 WTGs and 1 to 5 ESPs to be installed in 130 positions""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Between 1 and 5 ESPs will be installed."",
+      ""value"": 1,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""SWDA"",
+      ""context_quote"": ""In total, both phases combined would include up to 132 total foundations for 125 to 129 WTGs and 1 to 5 ESPs to be installed in 130 positions""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-07"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 130 foundations will be installed."",
+      ""value"": 130,
+      ""unit"": null,
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""SWDA"",
+      ""context_quote"": ""DOI has decided to approve, with modifications, the COP for New England Wind, adopting the Preferred Alternative... allow for up to 130 foundations for the installation of 125 to 129 WTGs and 1 to 5 ESPs within Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Two export cables will be installed for Phase 1."",
+      ""value"": 2,
+      ""unit"": ""cables"",
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""Eastern OECC in Muskeget Channel"",
+      ""context_quote"": ""For Phase 1, two cables would be installed in the Eastern OECC in Muskeget Channel.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Three export cables will be installed for Phase 2."",
+      ""value"": 3,
+      ""unit"": ""cables"",
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""Eastern OECC in Muskeget Channel, Western Variant in Muskeget Channel, and/or the South Coast Variant"",
+      ""context_quote"": ""For Phase 2, three cables would be installed in various proposed configurations in the Eastern OECC in Muskeget Channel, the Western Variant in Muskeget Channel and/or the South Coast Variant (SCV)""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Minimum nameplate capacity of 16 MW per WTG."",
+      ""value"": 16,
+      ""unit"": ""MW"",
+      ""source_section_number"": ""Appendix B"",
+      ""geographic_scope"": ""SWDA"",
+      ""context_quote"": ""This equates to an approximate minimum nameplate capacity of 16 MW per WTG.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Vessel operators must reduce speed to 10 knots or less in Seasonal and Dynamic Management Areas."",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""5.11.1"",
+      ""geographic_scope"": ""Seasonal Management Area (SMA) and Dynamic Management Area (DMA)"",
+      ""context_quote"": ""Regardless of vessel size, vessel operators must reduce vessel speed to 10 knots (18.5 mph) or less while operating in any Seasonal Management Area (SMA) and Dynamic Management Area (DMA)""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""U.S. Department of the Interior"",
+      ""entity_acronym"": ""DOI"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Approving the Construction and Operations Plan (COP)"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Overseeing renewable energy leasing and development on the Outer Continental Shelf"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Reviewing and potentially requiring cessation of operations based on surveillance records"",
+      ""source_section_number"": ""5.3.5.9""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issuing Biological Opinions and incidental take authorizations"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""entity_acronym"": ""USACE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Permitting for discharges of dredged and/or fill material"",
+      ""source_section_number"": ""Appendix B""
+    },
+    {
+      ""entity_id"": ""E-06"",
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""entity_acronym"": ""USFWS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issuing Biological Opinions for Endangered Species Act-listed species"",
+      ""source_section_number"": ""Appendix B""
+    }
+  ]
+}
+```"

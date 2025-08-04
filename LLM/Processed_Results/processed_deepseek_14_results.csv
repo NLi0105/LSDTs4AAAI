@@ -1,0 +1,5 @@
+model_name,document_number,type_of_wind_farm,chunk_number,document_id,constraint_type,requirement,scope,numerical_value,unit,source,related_domains
+deepseek-chat,EWEA-2023-001,Offshore,4,14,Environmental,All wind turbines must maintain a minimum clearance of 500 meters from identified marine mammal habitats,North Sea development zones,500,meters,OSPAR Convention Annex VII,environmental; safety
+deepseek-chat,EWEA-2023-001,Offshore,4,14,Technical,Substation foundations must comply with ISO 19902 for fixed steel offshore structures,All offshore installations,,,International Organization for Standardization,technical; safety
+deepseek-chat,NSOWDG-2023-0042,Offshore,15,14,Environmental,All turbine foundations must demonstrate less than 1.5 dB increase in underwater noise during construction,North Sea Exclusive Economic Zones,1.5,dB,OSPAR Convention Annex 7,marine life; construction standards
+deepseek-chat,NSOWDG-2023-0042,Offshore,15,14,Technical,Substation platforms must comply with IEC 61400-3 design requirements,All offshore installations,,,International Electrotechnical Commission,electrical systems; safety

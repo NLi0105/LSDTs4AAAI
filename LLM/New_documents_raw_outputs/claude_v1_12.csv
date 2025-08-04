@@ -1,0 +1,187 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"12","claude","claude-3-haiku-20240307",201673,105266,15,12,True,"{
+  ""document_metadata"": {
+    ""title"": ""BOEM and NOAA Fisheries North Atlantic Right Whale and Offshore Wind Strategy"",
+    ""project_name"": ""Offshore Wind Development"",
+    ""project_location"": ""U.S. Atlantic Coast""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Offshore wind turbines used to generate electricity"",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Substations"",
+      ""description"": ""Offshore electrical substations to collect and transmit electricity from wind turbines"",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Export Cables"",
+      ""description"": ""Subsea cables to transmit electricity from offshore substations to onshore grid connection points"",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Unexploded Ordnance (UXO)"",
+      ""description"": ""Unexploded military munitions present in the seafloor"",
+      ""source_section_number"": ""3.4""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Project Vessels"",
+      ""description"": ""Vessels used for site characterization, construction, and operations activities"",
+      ""source_section_number"": ""3.4""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Developers should evaluate multiple project design options for wind turbines, including type, number, size, location, and orientation, with a focus on avoiding and minimizing impacts to North Atlantic right whales (NARWs) and their habitat."",
+      ""source_section_number"": ""3.2"",
+      ""geographic_scope"": ""Lease areas"",
+      ""context_quote"": ""Developers should evaluate multiple project design options such as the type, number, size (physical dimensions and power output), location, and orientation of wind turbines and offshore substations, with a focus on identifying design options that avoid and minimize impacts to NARWs and their habitat within and with adjacent projects; tradeoffs for other resources need to be evaluated during project planning.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Avoid installing wind turbine foundations during times of year when NARWs are most likely to be present in the lease areas and along vessel routes."",
+      ""source_section_number"": ""3.4"",
+      ""geographic_scope"": ""Lease areas and vessel transit routes"",
+      ""context_quote"": ""Project schedules should avoid installing foundations during the time of year when NARWs are most likely to occur in the lease areas and along vessel routes, including known areas of higher NARW density and persistence, and including, but not limited to, Nantucket Shoals, Cape Cod Bay, calving grounds, and designated NARW critical habitat.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Noise levels generated during wind turbine foundation installation (e.g., pile driving) must be reduced to the maximum extent practicable, with a goal of not exceeding NOAA Fisheries' Level A permanent threshold shift limits for low-frequency cetaceans at distances greater than 1,000 meters."",
+      ""source_section_number"": ""3.4"",
+      ""geographic_scope"": ""Within 1,000 meters of foundation installation"",
+      ""context_quote"": ""Sound fields generated during impact pile driving should be reduced to the maximum extent practicable with a goal of not exceeding NOAA Fisheries' Level A permanent threshold shift (PTS) limits for low frequency cetaceans (LFC) at distances greater than 1,000 meters from each foundation.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Unexploded ordnance (UXO) must be addressed using the least impactful methods, prioritizing avoidance through micrositing, then low-order incineration over high-order detonation."",
+      ""source_section_number"": ""3.4"",
+      ""geographic_scope"": ""Lease areas"",
+      ""context_quote"": ""The agencies are committed to working with Federal partners and lessees to develop and implement standard protocols for addressing unexploded ordinances, including implementation of best available technology to avoid or minimize exposure of NARWs and their sensitive habitats to in-situ disposal (low order incineration or high order detonation). If disposal is necessary, after demonstrating that avoidance through micrositing is not feasible, low order incineration is preferred over high order detonations.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Project vessels must maintain a speed of 10 knots or less when NARWs may be present or when visibility is poor."",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""3.4"",
+      ""geographic_scope"": ""Anywhere NARWs may be present"",
+      ""context_quote"": ""All vessels underway must not divert their course to approach any protected species. All vessels should have a dedicated lookout or PSO watching for NARWs at all times and slow to 10 knots or less at any time/location that NARWs may be present and at any time when visibility is poor.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Cable trenching is prohibited within 500 meters of the identified historic shipwreck (No. 551B)."",
+      ""value"": 500,
+      ""unit"": ""meters"",
+      ""source_section_number"": ""3.4"",
+      ""geographic_scope"": ""Area within 500 meters of historic shipwreck (No. 551B)"",
+      ""context_quote"": ""Furthermore, trenching activities are prohibited within 500 meters of the identified historic shipwreck (No. 551B) at all times.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Manages energy and mineral resources on the Outer Continental Shelf, including offshore renewable energy development."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""entity_acronym"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Steward of the nation's living marine resources, including fisheries, marine mammals, endangered species, and their habitats."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""NOAA Fisheries"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for managing and protecting marine mammals and endangered species under the Endangered Species Act and Marine Mammal Protection Act."",
+      ""source_section_number"": ""2.2""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Promotes safety, protects the environment, and conserves resources offshore through regulatory oversight and enforcement."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""entity_acronym"": ""USCG"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for maritime safety, security, and environmental stewardship."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-06"",
+      ""entity_name"": ""Federally Recognized Tribes"",
+      ""jurisdiction"": ""Tribal"",
+      ""role_description"": ""Critical partners for consultation and engagement on actions affecting North Atlantic right whales."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-07"",
+      ""entity_name"": ""Atlantic States Marine Fisheries Commission"",
+      ""jurisdiction"": ""Multi-State"",
+      ""role_description"": ""Works closely with NOAA on sustainable fisheries, wildlife conservation, and habitat conservation."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-08"",
+      ""entity_name"": ""Fisheries Management Organizations"",
+      ""jurisdiction"": ""Regional"",
+      ""role_description"": ""Advise NOAA Fisheries and states on the sustainable management of fisheries."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-09"",
+      ""entity_name"": ""Northeast Regional Ocean Council"",
+      ""entity_acronym"": ""NROC"",
+      ""jurisdiction"": ""Regional"",
+      ""role_description"": ""State and federal partnership that addresses ocean and coastal issues from a regional perspective."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-10"",
+      ""entity_name"": ""Mid-Atlantic Regional Council on the Ocean"",
+      ""entity_acronym"": ""MARCO"",
+      ""jurisdiction"": ""Regional"",
+      ""role_description"": ""State and federal partnership that addresses ocean and coastal issues from a regional perspective."",
+      ""source_section_number"": ""4.1""
+    },
+    {
+      ""entity_id"": ""E-11"",
+      ""entity_name"": ""Fisheries and Oceans Canada"",
+      ""jurisdiction"": ""International"",
+      ""role_description"": ""Responsible for safeguarding Canadian waters and managing Canada's fisheries and oceans resources, collaborating with NOAA Fisheries on transboundary research and management efforts."",
+      ""source_section_number"": ""4.1""
+    }
+  ]
+}"

@@ -1,0 +1,186 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"19","deepseek","deepseek-chat",380361,380319,1,1,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Coastal Virginia Offshore Wind Project – Modifications to Research Activities Plan"",
+    ""project_name"": ""Coastal Virginia Offshore Wind Project (CVOW)"",
+    ""project_location"": ""Approximately 24 nautical miles offshore of Virginia Beach, Virginia""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generator"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Two 6 MW wind turbine generators with monopile foundations."",
+      ""source_section_number"": ""Section 3.2.1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Export Cable"",
+      ""component_acronym"": null,
+      ""description"": ""34.5 kV submarine transmission cable conveying energy to shore."",
+      ""source_section_number"": ""Section 3.3.4.3""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Onshore Interconnection Cable"",
+      ""component_acronym"": null,
+      ""description"": ""Cable connecting the offshore Export Cable to the onshore electrical infrastructure."",
+      ""source_section_number"": ""Section 3.1.2""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Wave and Current Buoy"",
+      ""component_acronym"": null,
+      ""description"": ""Temporary buoy deployed to monitor real-time weather conditions prior to and during construction."",
+      ""source_section_number"": ""Section 1.1""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Hub height of the WTG ranges from 341 to 364 ft (104 to 111 m)."",
+      ""value"": 341,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""Revised Table 3.2-1"",
+      ""geographic_scope"": ""WTG locations"",
+      ""context_quote"": ""Hub height (from mean sea level [MSL]) 341-364 ft (104-111 m)""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Rotor diameter of the WTG is 505 ft (154 m)."",
+      ""value"": 505,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""Revised Table 3.2-1"",
+      ""geographic_scope"": ""WTG locations"",
+      ""context_quote"": ""Rotor diameter 505 ft (154 m)""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Operational cut-in wind speed is 6.7 mph (3 m/s)."",
+      ""value"": 6.7,
+      ""unit"": ""mph"",
+      ""source_section_number"": ""Revised Table 3.2-1"",
+      ""geographic_scope"": ""WTG locations"",
+      ""context_quote"": ""Operational Cut-in Wind Speed/Cut-Out Wind Speed 6.7 mph (3 m/s) / 56 mph (25 m/s)""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Operational cut-out wind speed is 56 mph (25 m/s)."",
+      ""value"": 56,
+      ""unit"": ""mph"",
+      ""source_section_number"": ""Revised Table 3.2-1"",
+      ""geographic_scope"": ""WTG locations"",
+      ""context_quote"": ""Operational Cut-in Wind Speed/Cut-Out Wind Speed 6.7 mph (3 m/s) / 56 mph (25 m/s)""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Export Cable will be located within a 200-ft (61-m) wide right-of-way."",
+      ""value"": 200,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""Section 3.3.4.3"",
+      ""geographic_scope"": ""Export Cable route"",
+      ""context_quote"": ""As approved in the RAP, the Export Cable will be located within a 200-ft (61-m) wide right-of-way (ROW).""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Target depth of burial for the Export Cable is approximately 6.6 ft (2 m)."",
+      ""value"": 6.6,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""Section 3.3.4.3"",
+      ""geographic_scope"": ""Export Cable route"",
+      ""context_quote"": ""The target depth of burial for the Export Cable remains approximately 6.6 ft (2 m), as previously approved in the RAP.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Onshore Interconnection Cable will be installed in separate boreholes approximately 3 ft (0.9 m) apart."",
+      ""value"": 3,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""Section 3.1.2"",
+      ""geographic_scope"": ""Onshore Interconnection Cable route"",
+      ""context_quote"": ""The Onshore Interconnection Cable and Fiber Optic Cable will be installed in separate boreholes approximately 3 ft (0.9 m) apart.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Onshore Interconnection Cable will be buried to a minimum depth of 3.3 ft (1 m)."",
+      ""value"": 3.3,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""Section 3.1.2"",
+      ""geographic_scope"": ""Onshore Interconnection Cable route"",
+      ""context_quote"": ""The Onshore Interconnection Cable and Fiber Optic Cable will be installed in separate boreholes approximately 3 ft (0.9 m) apart and buried to a minimum depth of 3.3 ft (1 m) to be consistent with local utility standards.""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Wave buoy diameter will be 1.6 to 4.9 ft (0.5 to 1.5 m)."",
+      ""value"": 1.6,
+      ""unit"": ""ft"",
+      ""source_section_number"": ""Section 1.1"",
+      ""geographic_scope"": ""Deployment location"",
+      ""context_quote"": ""Depending on the selected buoy type, its diameter will be 1.6 to 4.9 ft (0.5 to 1.5 m).""
+    },
+    {
+      ""constraint_id"": ""C-010"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Wave buoy will be deployed for less than 1 year."",
+      ""value"": 1,
+      ""unit"": ""year"",
+      ""source_section_number"": ""Section 1.1"",
+      ""geographic_scope"": ""Deployment location"",
+      ""context_quote"": ""The buoy will be temporarily deployed within the area that has been previously surveyed and evaluated in support of the Project. The buoy will remain in place for less than 1 year.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Regulatory authority for offshore wind projects."",
+      ""source_section_number"": ""Document Start""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Oceanic and Atmospheric Administration"",
+      ""entity_acronym"": ""NOAA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provides technical guidance for assessing effects of anthropogenic sound on marine mammals."",
+      ""source_section_number"": ""Section 4.15.2""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Virginia Department of Environmental Quality"",
+      ""entity_acronym"": ""VDEQ"",
+      ""jurisdiction"": ""State"",
+      ""role_description"": ""Responsible for water quality certification and air permitting."",
+      ""source_section_number"": ""Revised Table 1.3.1""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""entity_acronym"": ""USACE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issues permits under Section 10 of the Rivers and Harbors Act and Section 404 of the Clean Water Act."",
+      ""source_section_number"": ""Revised Table 1.3.1""
+    }
+  ]
+}
+```"

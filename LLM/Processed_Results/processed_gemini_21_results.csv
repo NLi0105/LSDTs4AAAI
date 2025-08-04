@@ -1,0 +1,402 @@
+model_name,document_number,type_of_wind_farm,chunk_number,document_id,constraint_type,requirement,scope,numerical_value,unit,source,related_domains
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",Offshore,15,21,Technical,Developers of offshore wind facilities must develop Facility Design Reports.,Offshore wind facilities in U.S. federal Outer Continental Shelf (OCS) waters,,,"Code of Federal Regulations, 30 CFR 585.700",design; reporting
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",Offshore,15,21,Technical,Developers of offshore wind facilities must develop Construction and Operations Plans.,Offshore wind facilities in U.S. federal Outer Continental Shelf (OCS) waters,,,"Code of Federal Regulations, 30 CFR 585.600",construction; operations; planning
+gemini-1.5-pro,Page 8,Offshore,17,21,Technical,"In case of conflict between requirements of this guideline and a referenced code, the requirements of the code with the latest revision date shall prevail.",General,,,This guideline,general requirements; standards compliance
+gemini-1.5-pro,,Offshore,18,21,Technical,Project certification of wind power plants is addressed.,Wind power plants,,,DNVGL-SE-0190,certification
+gemini-1.5-pro,,Offshore,18,21,Technical,Certification of meteorological masts is required.,Meteorological masts,,,DNVGL-SE-0420,certification; meteorological data
+gemini-1.5-pro,,Offshore,18,21,Safety,Standards for marine operations and marine warranty are defined.,Marine operations,,,DNVGL-ST-N001,marine operations; safety
+gemini-1.5-pro,,Offshore,18,21,Technical,Standards for transport and installation of wind power plants are specified.,Transport and installation,,,DNVGL-ST-0054,installation; transport
+gemini-1.5-pro,,Offshore,18,21,Technical,Design requirements for floating wind turbine structures are outlined.,Floating wind turbine structures,,,DNVGL-ST-0119,structural design
+gemini-1.5-pro,,Offshore,18,21,Technical,Requirements for support structures for wind turbines are provided.,Support structures,,,DNVGL-ST-0126,structural design
+gemini-1.5-pro,,Offshore,18,21,Technical,Standards for offshore substations are defined.,Offshore substations,,,DNVGL-ST-0145,electrical infrastructure
+gemini-1.5-pro,,Offshore,18,21,Technical,Loads and site conditions for wind turbines are specified.,Wind turbines,,,DNVGL-ST-0437,site conditions; structural loads
+gemini-1.5-pro,,Offshore,18,21,Technical,Design standards for offshore wind farms are provided.,Offshore wind farms,,,TAP 670aa,design
+gemini-1.5-pro,Page 20,Offshore,34,21,Technical,Site specific conditions representative of the offshore wind facility site shall therefore be taken into account in the design.,Design of wind turbine structure and other components of an offshore wind facility,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",structural integrity; design requirements
+gemini-1.5-pro,Page 20,Offshore,34,21,Safety,"To ensure the appropriate level of safety and reliability, site specific conditions representative of the offshore wind facility site shall therefore be taken into account in the design.",Design of wind turbine structure and other components of an offshore wind facility,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",safety; design requirements
+gemini-1.5-pro,,Offshore,35,21,Environmental,Developers of offshore wind facilities in federal waters on the OCS are required to submit relevant information to support evaluation of the plans and designs for the facility.,Offshore wind facilities in federal waters on the OCS,,,30 CFR 585,environmental impact assessment
+gemini-1.5-pro,,Offshore,35,21,Environmental,A Site Assessment Plan (SAP) or Construction and Operations Plan (COP) shall include information regarding meteorological and oceanographic hazards to support BOEM’s National Environmental Protection Act (NEPA) review process.,Site Assessment Plan (SAP) and Construction and Operations Plan (COP),,,30 CFR 585.611 and 585.627,environmental impact assessment; meteorological data; oceanographic data
+gemini-1.5-pro,,Offshore,35,21,Environmental,The SAP or COP shall include a description of conditions that could destabilize planned activities or facilities.,Site Assessment Plan (SAP) and Construction and Operations Plan (COP),,,BOEM guidance (https://www.boem.gov/COP Guidelines/),environmental impact assessment; stability analysis
+gemini-1.5-pro,,Offshore,35,21,Technical,"A summary of the environmental data used in the design or analysis of the facility should be provided including information on: 1. Extreme weather, 2. Seafloor conditions, 3. Waves, wind, current, tides, temperature, snow and ice effects, marine growth, and water depth.",Facility Design Report (FDR),,,30 CFR 585.701,structural design; environmental data; meteorological data; oceanographic data
+gemini-1.5-pro,Page 21,Offshore,36,21,Technical,the SAP and COP shall include information regarding meteorological and oceanographic hazards,Planning phase documentation (SAP and COP),,,,metocean data; hazard assessment; environmental impact assessment
+gemini-1.5-pro,2.2,Offshore,42,21,Safety,"include information on tides, tidal streams and currents; weather, including visibility; and ice conditions to support assessment of navigational risks associated with an offshore wind facility",Offshore wind facility,,,NVIC 02-07,navigational safety; metocean conditions
+gemini-1.5-pro,2.2,Offshore,42,21,Technical,a 50-year recurrence period is applied for turbine foundation design,Turbine foundation design,50.0,years,DNVGL-ST-0437,structural integrity; foundation design
+gemini-1.5-pro,2.2,Offshore,42,21,Technical,a 100-year recurrence period is applied for offshore substation design,Offshore substation design,100.0,years,DNVGL-ST-0145,structural integrity; substation design
+gemini-1.5-pro,2.2,Offshore,42,21,Technical,a 500-year recurrence period is applied for robustness check at sites with possible tropical cyclones,Offshore wind facility at sites with possible tropical cyclones,500.0,years,API RP 2A-WSD 22. Edition and IEC 61400-3-1,structural integrity; robustness check; extreme weather conditions
+gemini-1.5-pro,2.2,Offshore,42,21,Technical,a 500-year recurrence period is applied for accidental limit states,Accidental limit states,500.0,years,DNVGL-ST-0119,structural integrity; safety
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 25",Offshore,43,21,Technical,"Site-specific metocean data shall be established containing information associated with wind conditions, marine conditions, and the correlation of wind and wave statistics.",Offshore wind facilities design,,,DNV GL – Document No.: 10039663-HOU-01,meteorological data; oceanographic data; wind resource assessment; wave resource assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 25",Offshore,43,21,Technical,The correlation of wind and wave statistics shall be established for normal and extreme conditions.,Offshore wind facilities design,,,DNV GL – Document No.: 10039663-HOU-01,metocean data analysis; structural loading; wind resource assessment; wave resource assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 25",Offshore,43,21,Technical,Correlation of wind and waves shall also consider their respective directions.,Offshore wind facilities design,,,DNV GL – Document No.: 10039663-HOU-01,metocean data analysis; structural loading; wind resource assessment; wave resource assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 26",Offshore,44,21,Technical,"In an offshore wind facility consisting of several wind turbines the metocean conditions and the water depth vary from turbine to turbine. If the metocean design conditions are determined for only one or a few locations (typically located at the facility’s corners), it should be ensured that the metocean parameters at these locations are conservative for design of the remaining turbine positions.","Offshore wind turbine design, Metocean conditions",,,,metocean engineering; structural design
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 26",Offshore,44,21,Technical,Consideration shall be given to metocean conditions for any cable routes associated with an offshore wind facility.,Offshore wind farm cable routes,,,,cable design; metocean engineering
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 26",Offshore,44,21,Technical,"For design, the wind climate is represented by the long-term 10-minute mean wind speed U 10 and the standard deviation σ U of the wind speed.",Wind turbine design,10.0,minutes,,wind resource assessment; structural design
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 26",Offshore,44,21,Technical,"Various gust events are necessary for design, for example the extreme coherent gust with a time scale of 10.5 seconds for power production, the extreme operating gust with a time scale of 10.0 seconds for occurrence of fault during power production as well as for start-up and shut-down of the wind turbines, as defined in DNVGL-ST-0437 and IEC 61400-1, and extreme gusts with 3 second time scale for various recurrence periods, e.g., 50 years.","Wind turbine design, Gust loads",,,DNVGL-ST-0437 and IEC 61400-1,structural design; power production; safety systems
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 27",Offshore,46,21,Technical,The data period underlying extreme value estimates should preferably be 10 years or more.,Extreme value estimates for wind data,10.0,years,DNV GL Standard DNVGL-ST-0437,wind resource assessment; structural design
+gemini-1.5-pro,2.2.2.2,Offshore,47,21,Technical,"If hindcast is used, the hindcast model shall be validated against measured data to ensure that the hindcast results comply with available measured data.",Wind resource assessment,,,,wind resource assessment; modelling and simulation
+gemini-1.5-pro,2.2.2.2,Offshore,47,21,Technical,"For the purposes of assessment of ambient turbulence, if measurements of mean wind speed standard deviation conditioned on 10-minute mean wind speed are not available, measurements from similar sites may be utilized. It is important that the sites have similar characteristics relating to parameters important for turbulence, for example regarding distance to land, as turbulence over land is higher than turbulence over sea, and wave climate, as this affects the surface roughness.",Turbulence assessment,,,,wind resource assessment; turbulence modelling
+gemini-1.5-pro,2.2.2.2,Offshore,47,21,Technical,"Simultaneous observations of metocean data (wind, waves, current, water level) may be obtained to establish correlations.",Metocean data collection,,,,metocean data; site assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 28",Offshore,48,21,Technical,"An appropriate interval of wind speed bin and wind direction sectors used...should be chosen. As an example, 2 m/s or less for wind speed bins and 30° or less for wind direction sectors is consistent with DNVGL-ST-0437 and IEC 61400-3.",Wind resource assessment and data analysis,2.0,m/s,DNVGL-ST-0437 and IEC 61400-3,wind resource assessment; data analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 28",Offshore,48,21,Technical,"An appropriate interval of wind speed bin and wind direction sectors used...should be chosen. As an example, 2 m/s or less for wind speed bins and 30° or less for wind direction sectors is consistent with DNVGL-ST-0437 and IEC 61400-3.",Wind resource assessment and data analysis,30.0,°,DNVGL-ST-0437 and IEC 61400-3,wind resource assessment; data analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 28",Offshore,48,21,Technical,"All parameters, except air density, should be available as functions of wind direction, given as 10-minute averages.",Wind resource data reporting,10.0,minutes,DNV GL – Document No.: 10039663-HOU-01,data analysis; wind resource assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 29",Offshore,49,21,Technical,"Where site-specific extreme average wind speeds are available only for averaging periods longer than 10 minutes, conversion factors shall be used to estimate the extreme 10-minute wind speed.",Offshore wind turbine design,10.0,minutes,Section 5.1 of DNV GL – Document No.: 10039663-HOU-01,wind resource assessment; structural design
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 30",Offshore,51,21,Technical,"Sea currents shall be assessed taking account of components associated with tidal, storm surge, wind generated, and wave induced surf currents, where these are relevant to the wind turbine site.",Offshore wind turbine site assessment,,,,site assessment; hydrodynamic loads; scouring
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 30",Offshore,51,21,Technical,"A deterministic design wave shall be specified by its height H, period T and direction θ.",Design wave specification,,,,wave modelling; structural design
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 31",Offshore,52,21,Technical,"The following components of sea current velocity shall be taken into account when relevant:
+
+  - Sub-surface currents generated by tides, storm surge, and atmospheric pressure variations, etc.
+
+  - Wind generated, near surface currents
+
+  - Near shore, wave induced surf currents running parallel to the coast: In the case where an offshore
+wind turbine is to be sited near a coastal breaking wave zone, consideration shall be given to the
+surf currents generated by the shear forces of the breaking waves; see Section 5.3.",Offshore wind turbine design and hydrodynamic loading calculations,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",hydrodynamic loading; sea current velocity; structural design
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 31",Offshore,52,21,Technical,The total current velocity is the vector sum of these components.,Offshore wind turbine design and hydrodynamic loading calculations,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",hydrodynamic loading; sea current velocity; structural design
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 31",Offshore,52,21,Technical,Wave induced water particle velocities and current velocities shall be added vectorially.,Offshore wind turbine design and hydrodynamic loading calculations,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",hydrodynamic loading; wave-current interaction; structural design
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 31",Offshore,52,21,Technical,"The variation of the current with the water depth shall be considered when relevant. This is done by applying an appropriate current speed profile, either decided by measurements or from literature.",Offshore wind turbine design and hydrodynamic loading calculations,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",hydrodynamic loading; sea current velocity profile; structural design
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 31",Offshore,52,21,Technical,"For the calculation of the hydrodynamic loading of an offshore wind turbine, the variation in water level (if significant) at the site shall be taken into account.",Offshore wind turbine design and hydrodynamic loading calculations,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",hydrodynamic loading; water level variation; structural design
+gemini-1.5-pro,Page 32,Offshore,53,21,Technical,"The mean and fluctuation in water level at the facility site shall be assessed in order to determine the following parameters relative to MLLW:
+  - MSL
+  - HAT and LAT
+  - Highest still water level (HSWL) including extreme positive storm surge and tide level (HAT or MHHW)
+  - Lowest still water level (LSWL) including extreme negative storm surge and tide level (LAT or MLLW).",Water level assessment,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",metocean conditions; structural design
+gemini-1.5-pro,Page 32,Offshore,53,21,Technical,These parameters shall be determined from the site-specific metocean data.,Metocean data requirements,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",data acquisition; site assessment
+gemini-1.5-pro,Page 32,Offshore,53,21,Technical,The correlation between water level data and wind data shall be accounted for in design when relevant.,Design considerations,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",structural design; wind loading
+gemini-1.5-pro,,Offshore,54,21,Technical,Site-specific measured marine data over sufficiently long periods with minimal or no gaps should be applied.,Offshore wind farm design and assessment,,,,data acquisition; marine environment; structural integrity
+gemini-1.5-pro,,Offshore,54,21,Technical,The data period underlying extreme value estimates should preferably be 10 years or more.,Extreme value analysis for offshore wind farm design,10.0,years,DNVGL-ST-0437,extreme value analysis; structural integrity; risk assessment
+gemini-1.5-pro,,Offshore,54,21,Technical,"The chosen measurement period shall include all load-relevant aspects. These are, in particular: Seasonal and diurnal effects; Thermal effects.",Load calculations for offshore wind farms,,,,structural loading; thermal analysis; environmental conditions
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 33",Offshore,55,21,Technical,"When no site-specific marine data are available and data from adjacent locations are to be capitalized on instead, proper transformation of such other data shall be performed to account for possible differences due to, for example, sea bed morphology.","Offshore wind turbine design, Marine data assessment",,,DNV GL – Document No.: 10039663-HOU-01,metocean data analysis; site assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 33",Offshore,55,21,Technical,"If hindcast is used, the hindcast model shall be validated and if necessary calibrated against measured data to ensure that the hindcast results comply with available measured data.","Offshore wind turbine design, Marine data assessment",,,DNV GL – Document No.: 10039663-HOU-01,metocean data analysis; model validation; site assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 33",Offshore,55,21,Technical,The measurement period used for calibration shall not also be used for validation.,"Offshore wind turbine design, Marine data assessment, Hindcast model validation",,,DNV GL – Document No.: 10039663-HOU-01,metocean data analysis; model validation
+gemini-1.5-pro,,Offshore,56,21,Technical,The range of associated wave periods to each of these individual maximum wave heights shall be considered.,Design calculations for offshore wind facilities,,,,structural integrity; load calculations
+gemini-1.5-pro,,Offshore,56,21,Technical,Design calculations shall be based on values of the associated wave period which result in the highest loads or load effects in the structure.,Design calculations for offshore wind facilities,,,,structural integrity; load calculations
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 34",Offshore,57,21,Technical,Load calculations shall be undertaken based on the water levels which result in the highest loads acting on an offshore wind turbine.,Offshore wind turbine design,,,DNV GL – Document No.: 10039663-HOU-01,structural integrity; load calculations
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 34",Offshore,57,21,Technical,The correlation between wave data and wind data shall be accounted for in design.,Offshore wind turbine design,,,DNV GL – Document No.: 10039663-HOU-01,structural integrity; meteorological data analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 34",Offshore,57,21,Technical,Consideration of mean wind and wave directions shall be made.,Offshore wind turbine design,,,DNV GL – Document No.: 10039663-HOU-01,structural integrity; meteorological data analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 34",Offshore,57,21,Technical,"Wind and wave directionality have significant impact on floating structures behaviour and shall, thus, be considered in the analysis.",Floating offshore wind turbine design,,,DNV GL – Document No.: 10039663-HOU-01,structural integrity; hydrodynamics; floating structures
+gemini-1.5-pro,Page 35,Offshore,58,21,Technical,Simultaneous observations of wave and wind data in terms of simultaneous values of *H* *S* and *U* *10* shall be obtained and directionality of wind and waves shall be simultaneously recorded.,Data collection for wind and wave conditions,,,,metocean data; site assessment
+gemini-1.5-pro,Page 35,Offshore,58,21,Technical,"The significant wave height, peak spectral period and direction for each normal sea state shall be selected, together with the associated mean wind speed, based on the long-term joint probability distribution of metocean parameters appropriate to the anticipated site.",Data analysis for normal sea states,,,,metocean data; site assessment
+gemini-1.5-pro,Page 35,Offshore,58,21,Technical,"The extreme event of conditional wind and waves with a 50-year recurrence period is often referred to as the Severe Sea State (SSS) model, (DNVGL-ST-437 and IEC 61400-3). These sea states are used in combination with normal wind conditions for calculation of the ultimate loading of an offshore wind turbine during power production, by associating a severe sea state with each mean wind speed in the range corresponding to power production.",Load calculations for offshore wind turbines,50.0,years,DNVGL-ST-437 and IEC 61400-3,structural integrity; load calculations; extreme events
+gemini-1.5-pro,2.2.5,Offshore,59,21,Technical,The load effect from the combination of the significant wave height and the 10-minute mean wind speed *U* *10* has a return period of 50 years.,Design criteria for metocean data,50.0,years,,structural integrity; metocean engineering
+gemini-1.5-pro,2.2.5,Offshore,59,21,Technical,The extreme values of wind speed under tropical cyclone conditions are based on the 1-minute mean wind speed at 10m above mean sea level.,Design criteria for wind speed under tropical cyclone conditions,,,,metocean engineering; structural integrity
+gemini-1.5-pro,2.2.5,Offshore,59,21,Technical,"Gust factors shall be estimated from a relation or spectra formulation, with the estimated 1-minute extreme wind speed (TAP 670aa).",Gust factor estimation,,,TAP 670aa,metocean engineering; structural integrity
+gemini-1.5-pro,2.2.5,Offshore,59,21,Technical,The monthly extreme value analysis shall assess the seasonal variability in terms of severity and also in terms of directionality if prevailing tracks occur and change during the year.,Extreme value analysis,,,,metocean engineering
+gemini-1.5-pro,2.2.5,Offshore,59,21,Technical,"The methodology to assess the directionality shall be chosen by considering characteristics of the location of the facility, especially the presence of islands and coast.",Directionality assessment methodology,,,,metocean engineering; site assessment
+gemini-1.5-pro,2.2.5,Offshore,59,21,Technical,"The extreme 10-minute average wind speed at hub height with specified recurrence periods (for example 50-year, 100-year, 500-year, and 1,000-year return periods) should be estimated.",Wind speed estimation at hub height,,,,metocean engineering; structural integrity
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 36",Offshore,60,21,Technical,Site specific studies shall estimate the extreme current over the water column under cyclonic conditions.,"Offshore wind facility site, current estimation under cyclonic conditions",,,,hydrodynamic modelling; structural integrity
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 37",Offshore,61,21,Technical,The vertical reference level shall be decided and referred to in a consistent manner.,Design,,,DNV GL – Document No.: 10039663-HOU-01,design; survey
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 37",Offshore,61,21,Technical,The horizontal and vertical accuracy of applied surveys shall be included in the design.,Design of offshore structures,,,DNV GL – Document No.: 10039663-HOU-01,design; survey
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 37",Offshore,61,21,Technical,The stability of the seabed shall be assessed.,Offshore wind farm design,,,DNV GL – Document No.: 10039663-HOU-01,geotechnical engineering; site assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 37",Offshore,61,21,Technical,It shall be determined whether the bathymetry at the site is stable or if it changes during the lifetime of the offshore wind asset.,Offshore wind farm design,,,DNV GL – Document No.: 10039663-HOU-01,geotechnical engineering; site assessment
+gemini-1.5-pro,,Offshore,62,21,Technical,The influence of breaking waves shall be assessed during the design of an offshore wind turbine.,Offshore wind turbine design,,,,structural integrity; hydrodynamic loading
+gemini-1.5-pro,,Offshore,62,21,Technical,The influence of sea ice shall be assessed during the design of the support structure of an offshore wind turbine that will be installed at a site where sea ice is expected to occur.,Offshore wind turbine support structure design in locations with sea ice,,,,structural integrity; ice loading
+gemini-1.5-pro,,Offshore,62,21,Technical,The designer shall describe in the design documentation the sea ice properties assumed.,Offshore wind turbine support structure design documentation in locations with sea ice,,,,documentation; ice loading
+gemini-1.5-pro,Page 38,Offshore,63,21,Technical,"For the design of offshore wind turbines, loads caused by ice accretion from sea spray, snow, rain, and air humidity shall be considered where relevant.",Offshore wind turbine design,,,,structural integrity; icing loads
+gemini-1.5-pro,Page 38,Offshore,63,21,Technical,"The thickness and density of ice and snow accretion and its dependence on height above sea level shall be assessed, based on applicable recommendations, local experience, and existing measurements.",Offshore wind turbine design,,,,structural integrity; icing loads; meteorological data
+gemini-1.5-pro,Page 38,Offshore,63,21,Technical,Marine growth shall be factored into the design of the support structure.,Offshore wind turbine support structure design,,,,structural integrity; marine environment; hydrodynamic loads
+gemini-1.5-pro,Page 39,Offshore,64,21,Technical,"The thickness of marine growth and its dependence on depth below sea level shall be assessed, based on applicable recommendations, local experience, and existing measurements.",Offshore wind turbine support structures,,,,structural integrity; maintenance
+gemini-1.5-pro,Page 39,Offshore,64,21,Safety,"Due to the uncertainties involved in assumptions regarding marine growth, a strategy for inspection and possible removal of marine growth should be planned as part of the support structure design.",Offshore wind turbine support structures,,,,structural integrity; maintenance; risk assessment
+gemini-1.5-pro,Page 39,Offshore,64,21,Technical,"The frequency, inspection method and growth removal criteria shall be based on the impact of marine growth on the structural reliability of an offshore wind turbine, and the extent of experience with marine growth under the specific conditions prevailing at the site.",Offshore wind turbine support structures,,,,structural integrity; maintenance; inspection
+gemini-1.5-pro,2.2.8 - 2.2.9,Offshore,65,21,Technical,The site-specific metocean data shall include information on all metocean parameters relevant for design.,Offshore wind farm design,,,,metocean data; design requirements
+gemini-1.5-pro,"10039663-HOU-01, Issue: D, Status: FINAL, Page 40",Offshore,66,21,Technical,"If the metocean design conditions are only determined for one or a few locations, it should be ensured that the metocean parameters at these locations are conservative for design of the remaining turbine positions.",Metocean design conditions for offshore wind turbines,,,,metocean engineering; structural design
+gemini-1.5-pro,"10039663-HOU-01, Issue: D, Status: FINAL, Page 40",Offshore,66,21,Technical,"If site-specific measurements are used, the results should generally be correlated with data from a nearby location for which long-term measurements exist, unless the results can otherwise be shown to be conservative.",Site-specific metocean data for offshore wind turbines,,,,metocean data analysis; data validation
+gemini-1.5-pro,"10039663-HOU-01, Issue: D, Status: FINAL, Page 40",Offshore,66,21,Technical,The monitoring period for the site-specific measurements should be sufficient to ensure reliable statistics for the individual parameters.,Site-specific metocean measurements for offshore wind turbines,,,,data acquisition; statistical analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Pages 41-42",Offshore,68,21,Technical,The installation phase needs to be described in the Fabrication and Installation Report submitted to BOEM.,Installation phase,,,BOEM,reporting; installation
+gemini-1.5-pro,2.3.2,Offshore,69,21,Safety,Safe operating limits will be pre-determined and written into construction contracts/charters,"Construction phase, crane operations",,,,crane operations; contractual obligations; safety management
+gemini-1.5-pro,2.3.2,Offshore,69,21,Safety,"Construction and Operations Plans require developers to describe safety, prevention, and pollution control features or practices that will be used.",Construction and Operation Plans,,,,safety management; pollution control; emergency preparedness
+gemini-1.5-pro,Page 43,Offshore,70,21,Safety,"arrangements should be made for receiving weather forecasts at regular intervals before, and during, the marine operations. Such weather forecasts should be from recognized sources and be project specific. Weather forecast procedures should consider the nature and duration of the planned operation.",Offshore wind farm installation,,,,weather forecasting; marine operations; safety procedures
+gemini-1.5-pro,Page 43,Offshore,70,21,Technical,"metocean conditions should be continuously measured and recorded, as a minimum including wind, wave, water level, and current conditions",Offshore wind farm installation,,,,metocean monitoring; data acquisition; real-time monitoring
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 44",Offshore,71,21,Technical,The data arising from the monitoring during the operational phase shall provide the information needed to analyze the performance of the offshore wind facility and to analyze specific meteorological or oceanographic events (leading to damage or failure for example).,Operational phase monitoring data,,,,performance analysis; incident analysis; meteorological data analysis; oceanographic data analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 44",Offshore,71,21,Technical,Revision of Metocean data should be performed to confirm or revise criteria and fatigue life estimations.,Operational phase data analysis,,,,metocean data; fatigue life estimation; design criteria
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 44",Offshore,71,21,Technical,"Periodic monitoring and scheduled maintenance of wind turbines, substation, power cables, and control station shall be planned by considering the duration and environmental limitations of each task, and weather",Operation and Maintenance,,,,maintenance planning; environmental limitations
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 45",Offshore,72,21,Safety,"In areas within tropical cyclone basins, receiving tropical cyclone warnings is necessary, to be obtained from the relevant government agency and updated every 3 to 6 hours.",Offshore wind farms in tropical cyclone basins,3.0,hours,,weather monitoring; emergency preparedness; personnel safety
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 45",Offshore,72,21,Safety,"For scheduling of maintenance operations involving personnel working on turbines at height, expected lightning occurrence shall be considered and lightning forecast obtained as necessary.",Maintenance operations on offshore wind turbines,,,,lightning protection; personnel safety; maintenance procedures
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 48",Offshore,75,21,Safety,Appropriate actions should be taken to notify mariners and properly mark any devices deployed,Offshore wind farm instrumentation deployment,,,,navigational safety; maritime regulations
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 49",Offshore,76,21,Technical,"Wind speeds should be sampled at 1 Hz and 10-minute records of average, maximum, minimum, and standard deviation should be stored.",Wind speed data acquisition,1.0,Hz,,data acquisition; wind resource assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 49",Offshore,76,21,Technical,Wind gusts should also be recorded and shall be defined by a 3-second maximum wind speed [IEC 61400-1:2005,Wind gust data acquisition,3.0,seconds,IEC 61400-1:2005,data acquisition; wind resource assessment
+gemini-1.5-pro,,Offshore,77,21,Technical,The cup anemometers should be calibrated at a MEASNET-accredited facility before being installed.,Wind resource assessment,,,MEASNET “Site Evaluation of site specific wind conditions” (ESSWC),wind data collection; instrumentation
+gemini-1.5-pro,,Offshore,77,21,Technical,"For the campaign to be IEC compliant, the primary and control anemometers shall also be calibrated in the same measurement campaign.",Wind resource assessment,,,IEC 61400-12-1:2017 (implied),wind data collection; instrumentation
+gemini-1.5-pro,,Offshore,77,21,Technical,A cup or sonic anemometer shall be used to measure horizontal wind speeds.,Wind resource assessment,,,IEC 61400-12-1:2017,wind data collection; instrumentation
+gemini-1.5-pro,,Offshore,77,21,Technical,Cup anemometers should be replaced biannually as their calibration expires after two years.,Wind resource assessment,2.0,years,MEASNET “Site Evaluation of site specific wind conditions” (ESSWC) (implied),wind data collection; instrumentation; maintenance
+gemini-1.5-pro,,Offshore,81,21,Technical,"In addition to manufacturer calibrations, a lidar device shall be validated before deployment at a stand-alone offshore location.","Offshore wind farm, Lidar equipment",,,,measurement and instrumentation; data quality
+gemini-1.5-pro,Page 53,Offshore,83,21,Technical,"Only FLDs that have reached a “Commercial” maturity stage, such as Scenarios E, F, and G in Table 3-1 below, should be used without undergoing a validation period with a trusted reference measurement system.",Floating LiDAR (FLD) measurements for wind data acquisition in offshore wind farms,,,OWA roadmap for the commercial acceptance of floating LIDAR technology (CTC819),wind resource assessment; data acquisition; measurement accuracy
+gemini-1.5-pro,,Offshore,86,21,Technical,"The preferred primary wind speed measurement is from a hub-height MEASNET-calibrated cup anemometer [IEC 61400-12-1, MEASNET ESSWC].",Wind speed measurement,,,"IEC 61400-12-1, MEASNET ESSWC",wind resource assessment; data acquisition
+gemini-1.5-pro,Page 57,Offshore,89,21,Technical,"all wind, temperature, pressure, and humidity measurements should be completed at or near hub height, if possible, as well as at lower heights",Met-mast instrumentation,,,DNV GL – Document No.: 10039663-HOU-01,meteorological data collection; wind resource assessment
+gemini-1.5-pro,Page 57,Offshore,89,21,Technical,A simple met-mast should include the following: 2x anemometers at hub height,Met-mast instrumentation,2.0,,DNV GL – Document No.: 10039663-HOU-01,wind resource assessment; anemometry
+gemini-1.5-pro,Page 57,Offshore,89,21,Technical,A simple met-mast should include the following: 2x vanes at or near hub height,Met-mast instrumentation,2.0,,DNV GL – Document No.: 10039663-HOU-01,wind resource assessment; wind direction measurement
+gemini-1.5-pro,Page 57,Offshore,89,21,Technical,A simple met-mast should include the following: 2x temperature sensors near or at hub height,Met-mast instrumentation,2.0,,DNV GL – Document No.: 10039663-HOU-01,meteorological data collection; temperature measurement
+gemini-1.5-pro,Page 57,Offshore,89,21,Technical,A simple met-mast should include the following: 2x barometric pressure sensors near or at hub height,Met-mast instrumentation,2.0,,DNV GL – Document No.: 10039663-HOU-01,meteorological data collection; pressure measurement
+gemini-1.5-pro,Page 57,Offshore,89,21,Technical,A simple met-mast should include the following: 2x anemometers at mid-blade,Met-mast instrumentation,2.0,,DNV GL – Document No.: 10039663-HOU-01,wind resource assessment; anemometry
+gemini-1.5-pro,Page 57,Offshore,89,21,Technical,A simple met-mast should include the following: 2x anemometers at blade tip,Met-mast instrumentation,2.0,,DNV GL – Document No.: 10039663-HOU-01,wind resource assessment; anemometry
+gemini-1.5-pro,"10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 58",Offshore,90,21,Technical,The configuration should meet the requirements outlined in Annex G of IEC 61400-12 Ed. 2 and MEASNET ESSWC document for met-mast equipment.,Met mast equipment,,,IEC 61400-12 Ed. 2 and MEASNET ESSWC,met mast design; data acquisition
+gemini-1.5-pro,"10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 58",Offshore,90,21,Technical,DNVGL-SE-0420 specifies requirements for certification of meteorological masts,Meteorological masts,,,DNVGL-SE-0420,certification; mast design; manufacturing; transportation/installation; commissioning; in-service
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 59",Offshore,92,21,Technical,"The instrumentation suite utilized shall achieve the goals of a wind resource assessment and fulfill requirements of industry standards and best practices [IEC 61400-12-1, MEASNET ESSWC].",Offshore wind measurement campaign,,,"IEC 61400-12-1, MEASNET ESSWC",wind resource assessment; instrumentation
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 59",Offshore,92,21,Technical,"An offshore wind measurement campaign at minimum should include measurements of horizontal wind speed and wind direction from blade tip to at least hub height, 3-second maximum wind gust at hub height, and measurements of temperature and pressure at ideally hub height.",Offshore wind measurement campaign,3.0,seconds,,wind resource assessment; instrumentation; meteorological data
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 60",Offshore,94,21,Technical,Measurements of wind conditions (and other meteorological data) should be performed in accordance with IEC 61400-12-1 and should follow MEASNET ESSWC procedures.,Wind condition measurements,,,"IEC 61400-12-1, MEASNET ESSWC",resource assessment; data acquisition
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 60",Offshore,94,21,Technical,"In situations where other measurements are used that are not performed in accordance with IEC 61400-12-1 and MEASNET ESSWC (e.g. in case of historical measurements by NOAA or other organizations), the quality of such measurements shall be considered in the analysis and interpretation of such data.",Wind condition measurements using non-standard data sources,,,"IEC 61400-12-1, MEASNET ESSWC",resource assessment; data quality; data analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 64",Offshore,101,21,Technical,The requirements for data collection are set out in ISO 19901-1:2015,Wave data collection,,,ISO 19901-1:2015,data acquisition; measurement systems
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 67",Offshore,105,21,Technical,"Ocean currents should be measured at fixed depths (or bins), and include at least three depths in shallow waters: near-surface, mid-depth, and near-bottom.",Ocean current measurement in shallow waters,3.0,depths,ISO 19901-1:2015,site assessment; environmental monitoring; resource assessment
+gemini-1.5-pro,,Offshore,106,21,Technical,"For future floating wind facility applications, where measurements in deeper waters will be required, the following depths should be considered in addition to near-surface and near-bottom: 50 m, 100 m, 150 m, 200 m, 300 m, and every 200 m thereafter to 3 m above the seabed.","Floating wind facility applications in deeper waters, current measurements",,,ISO 19901-1:2015,resource assessment; metocean data collection
+gemini-1.5-pro,,Offshore,106,21,Technical,"The mean speed and direction of ocean currents should be recorded at least once per hour for a duration of at least 10-20 minutes, or more often if possible.",Ocean current measurement,,,,resource assessment; metocean data collection
+gemini-1.5-pro,,Offshore,106,21,Technical,Water levels offshore should be measured with a resolution and instrument accuracy of ±1 cm.,Offshore water level measurement,1.0,cm,,metocean data collection
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 68",Offshore,107,21,Technical,"Air density shall be derived from measurement of air temperature, air pressure, and relative humidity.",Air density measurement,,,,meteorological data; resource assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 68",Offshore,107,21,Technical,"As an alternative to the humidity measurement, an assumed value of 50% relative humidity may be used if humidity is not measured.",Air density measurement,50.0,%,,meteorological data; resource assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 68",Offshore,107,21,Technical,The air density shall be calculated according to Equation (3-1),Air density calculation,,,,meteorological data; resource assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 68",Offshore,107,21,Technical,The air temperature and humidity sensor shall be mounted within the upper 10 m of the measurement mast or at least at 10 m height.,Sensor placement,10.0,m,,meteorological data; data acquisition
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 68",Offshore,107,21,Technical,Air pressure measurements shall be always corrected to the appropriate hub height according to ISO 2533.,Air pressure measurement,,,ISO 2533,meteorological data; data acquisition
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 68",Offshore,107,21,Technical,The measurement period should cover at least 12 complete months in order to appropriately assess seasonal variations.,Measurement period,12.0,months,,meteorological data; long-term monitoring
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 69",Offshore,108,21,Technical,"Air temperature, air pressure, humidity, and precipitation may be sampled at a slower rate than 1 Hz, but at least once per minute.",Meteorological data acquisition,1.0,Hz,,data acquisition; meteorological monitoring
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 69",Offshore,108,21,Technical,"The data acquisition system shall store either sampled data or statistics of data sets as follows:
+  - Mean value
+  - Standard deviation
+  - Maximum value
+  - Minimum value",Meteorological data acquisition,,,,data acquisition; meteorological monitoring; data analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 69",Offshore,108,21,Technical,Selected data sets shall be based on 10-minute periods derived from contiguous measured data.,Meteorological data analysis,10.0,minutes,,data analysis; meteorological monitoring
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 70",Offshore,109,21,Technical,"If a CTD is used, the data should be stored at least for every 50kPa increase in pressure.","Sea-water temperature, density, and salinity data collection",50.0,kPa,,metocean data collection; environmental monitoring
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 70",Offshore,109,21,Technical,"The requirements for data collection are set out in ISO 19901-1:2015 (Annex A.11, Table A.8, in turn based on Annex 1.B, pp 19-24, Chapter 1, of WMO-No. 8:2008)",Sea-water temperature and salinity data collection,,,"ISO 19901-1:2015, WMO-No. 8:2008",metocean data collection; environmental monitoring
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+Page 71",Offshore,111,21,Technical,"only a high-quality database, checked for accuracy against in-situ measurements and having undergone strict quality control by the provider, should be used.",Data usage for wind farm development,,,,data quality; measurement accuracy
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 73",Offshore,113,21,Technical,The data acquisition system should be able to store all recorded data between site inspections.,Data acquisition system,,,,data management; monitoring
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 73",Offshore,113,21,Technical,"It should also have the ability to be remotely operated or accessed to modify programming, synchronize the clock, or download data.",Data acquisition system,,,,data management; remote operation; monitoring
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 73",Offshore,113,21,Technical,"Documentation shall include commissioning reports, inspection and maintenance logs, and decommissioning reports.",Project documentation,,,,documentation; reporting; maintenance
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 74",Offshore,114,21,Technical,The Report for a Metocean Study involving collection of metocean data through in-situ measurements should as a minimum (in addition to any data results reported) contain: Specification of the requirements set out at the beginning of the metocean measurement campaign.,Metocean data collection,,,DNV GL – Document No.: 10039663-HOU-01,metocean data; measurement campaign
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 74",Offshore,114,21,Technical,"The Report for a Metocean Study [...] should as a minimum [...] contain: Choice of instrument selection to fulfill the requirements, including explanation of the choice and comparison with other options available.",Metocean data collection,,,DNV GL – Document No.: 10039663-HOU-01,instrument selection; measurement campaign
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 74",Offshore,114,21,Technical,"The Report for a Metocean Study [...] should as a minimum [...] contain: Details of the instrumentation, including as a minimum the provider, key data facts of each instrument, calibration, expected performance.",Metocean data collection,,,DNV GL – Document No.: 10039663-HOU-01,instrumentation details; measurement campaign
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 74",Offshore,114,21,Technical,"The Report for a Metocean Study [...] should as a minimum [...] contain: Instrumentation deployment report, including details and photos of the vessel and operation.",Metocean data collection,,,DNV GL – Document No.: 10039663-HOU-01,instrument deployment; measurement campaign
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 74",Offshore,114,21,Technical,The Report for a Metocean Study [...] should as a minimum [...] contain: Maintenance record of the instrumentation as appropriate.,Metocean data collection,,,DNV GL – Document No.: 10039663-HOU-01,instrument maintenance; measurement campaign
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 74",Offshore,114,21,Technical,"The Report for a Metocean Study [...] should as a minimum [...] contain: Instrumentation recovery report, including details and photos of the vessel and operation and any observed failures or damage to the instrument.",Metocean data collection,,,DNV GL – Document No.: 10039663-HOU-01,instrument recovery; measurement campaign
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 74",Offshore,114,21,Technical,"The Report for a Metocean Study [...] should as a minimum [...] contain: Measured dataset details, including data return achieved and overall success of data collection campaign.",Metocean data collection,,,DNV GL – Document No.: 10039663-HOU-01,data reporting; measurement campaign
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 74",Offshore,114,21,Technical,The Report for a Metocean Study [...] should as a minimum [...] contain: Any post-processing or quality control procedures undertaken after data collection.,Metocean data collection,,,DNV GL – Document No.: 10039663-HOU-01,data quality; measurement campaign
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL Page 74",Offshore,114,21,Technical,The Report for a Metocean Study [...] should as a minimum [...] contain: Any other information not mentioned above relevant to the end-user of the datasets.,Metocean data collection,,,DNV GL – Document No.: 10039663-HOU-01,data reporting; measurement campaign
+gemini-1.5-pro,,Offshore,115,21,Technical,"The models shall be calibrated and compared with measurements to verify/justify choice of parametrizations, grid scale and/or domain sizes.",Numerical modeling for metocean studies,,,,metocean studies; model validation; data analysis
+gemini-1.5-pro,Page 78,Offshore,122,21,Technical,Use the highest possible spatial and temporal resolution.,Mesoscale atmospheric modeling for offshore wind sites,,,,meteorological modeling; resource assessment
+gemini-1.5-pro,Page 78,Offshore,122,21,Technical,Use a 1-3 km horizontal grid increment for mesoscale modeling.,Mesoscale atmospheric modeling for offshore wind sites,,km,,meteorological modeling; resource assessment
+gemini-1.5-pro,Page 78,Offshore,122,21,Technical,"Provide output from mesoscale models with high temporal frequency, preferably with hourly or finer outputs (e.g., 10 minutes).",Mesoscale atmospheric modeling for offshore wind sites,,,,meteorological modeling; resource assessment
+gemini-1.5-pro,Page 78,Offshore,122,21,Technical,Suppliers should clearly specify the spatial and temporal resolution used for the modeling.,Mesoscale atmospheric modeling data reporting for offshore wind sites,,,,meteorological modeling; data reporting; resource assessment
+gemini-1.5-pro,Page 80,Offshore,126,21,Technical,Have spatial resolution of less than 5 km,Wave model for detailed design criteria estimations,5.0,km,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL",wave modelling; design criteria
+gemini-1.5-pro,Page 80,Offshore,126,21,Technical,"Use reliable wind forcing, for example from mesoscale modelling",Wave model for detailed design criteria estimations,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL",wave modelling; wind data; design criteria
+gemini-1.5-pro,Page 80,Offshore,126,21,Technical,Take into account water level variation,Wave model for detailed design criteria estimations,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL",wave modelling; hydrodynamics; design criteria
+gemini-1.5-pro,Page 80,Offshore,126,21,Technical,"If large eddies or velocities are expected in the area, also take current into account",Wave model for detailed design criteria estimations,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL",wave modelling; hydrodynamics; ocean currents; design criteria
+gemini-1.5-pro,Page 80,Offshore,126,21,Technical,Wave measurements are necessary to calibrate the model and/or correct the output times series at the location of interest.,Wave model validation,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL",wave measurement; model calibration; data validation
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 84",Offshore,132,21,Technical,"In areas with bed forms such as sand dunes or banks, the resolution of the HD model shall be sufficiently detailed to describe the local variations.",Hydrodynamic modelling for areas with bed forms like sand dunes or banks,,,,hydrodynamic modelling; site assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 85",Offshore,133,21,Technical,The seabed bathymetry and the numerical resolution within the local hindcast model shall be sufficiently detailed to correctly describe the local ocean conditions.,"Offshore wind farm design, wave hindcast model",,,DNV GL – Document No.: 10039663-HOU-01,oceanographic modelling; hydrodynamics; structural integrity
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 85",Offshore,133,21,Technical,Sand bars and large gradients shall be correctly represented in input of the model to assess their impact on wave fields.,"Offshore wind farm design, wave hindcast model, seabed bathymetry input data",,,DNV GL – Document No.: 10039663-HOU-01,oceanographic modelling; hydrodynamics; geotechnical engineering
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 85",Offshore,133,21,Technical,"If local seabed variations may influence the ocean conditions within the wind farm, the grid resolution in the hindcast model shall be sufficiently fine to capture these variations, otherwise alternative conservative choices shall be made.","Offshore wind farm design, wave hindcast model, grid resolution",,,DNV GL – Document No.: 10039663-HOU-01,oceanographic modelling; hydrodynamics; numerical analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 85",Offshore,133,21,Technical,"If few grid points are in the wind facility area, design criteria shall be derived at the most severe location.","Offshore wind farm design, wave hindcast model, grid resolution, design criteria",,,DNV GL – Document No.: 10039663-HOU-01,oceanographic modelling; hydrodynamics; structural design
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 85",Offshore,133,21,Technical,"In areas with strong current, the current should be included also in the wave hindcast model.","Offshore wind farm design, wave hindcast model, areas with strong currents",,,DNV GL – Document No.: 10039663-HOU-01,oceanographic modelling; hydrodynamics
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 85",Offshore,133,21,Technical,"In areas with large tidal variations, or shallow water sites, the water level variations should be included in the hindcast model.","Offshore wind farm design, wave hindcast model, areas with large tidal variations or shallow water sites",,,DNV GL – Document No.: 10039663-HOU-01,oceanographic modelling; hydrodynamics
+gemini-1.5-pro,,Offshore,134,21,Technical,"For wind facilities located in bathymetrically dynamic areas, for example in areas with sand dunes, a Morphodynamic Desk Study shall be completed determining possible long-term seabed variations.","Wind facilities in bathymetrically dynamic areas (e.g., areas with sand dunes)",,,,seabed stability; geotechnical engineering; site assessment
+gemini-1.5-pro,,Offshore,134,21,Technical,The study should be based on long-term extrapolation of measured bathymetries.,Morphodynamic Desk Study,,,,hydrographic survey; data analysis; seabed modeling
+gemini-1.5-pro,Page 92-93,Offshore,144,21,Technical,"A report for a metocean study involving numerical modelling should as a minimum contain the following (if relevant): Details of the model used, including an explanation of the physics included and any simplifying",Metocean studies for offshore wind farms,,,"DNV GL – Document No.: 10039663-HOU-01, Issue: D",metocean studies; numerical modelling; reporting requirements
+gemini-1.5-pro,,Offshore,147,21,Technical,"The long-term distributions of *U* *10* and σ U for extreme average wind speeds should preferably be based on statistical data for the same averaging period for the wind speed as the averaging period, which is used for the determination of loads.",Extreme average wind speed calculations,,,,structural loading; wind resource assessment
+gemini-1.5-pro,,Offshore,147,21,Technical,"For the extreme wind speeds, where site-specific extreme average wind speeds are available only for averaging periods longer than 10 minutes, conversion factors shall be used to estimate the extreme 10-minute wind speed.",Extreme 10-minute wind speed estimation,10.0,minutes,,wind resource assessment; data analysis
+gemini-1.5-pro,,Offshore,147,21,Technical,The conversion factors given in Table 5-1 are from IEC 61400-3,Extreme wind speed conversion factors,,,IEC 61400-3,wind resource assessment; data analysis; standards compliance
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 96",Offshore,148,21,Technical,"Extreme wind speed conversion factors for different averaging periods relative to the extreme 10-min average wind speed shall be applied as follows: 1 hour average: 0.95, 3 hour average: 0.90.",Wind resource assessment,,,IEC 61400-3,wind resource assessment; design loads
+gemini-1.5-pro,Page 97,Offshore,149,21,Technical,"The wind shear exponent may be decided based on measurements of wind speed in various heights, with a period down to one or two years (to capture seasonal variations).",Offshore wind turbines,1.0,year,,wind resource assessment; turbine design
+gemini-1.5-pro,Page 97,Offshore,149,21,Technical,"αw is compiled for normal and extreme offshore wind conditions in IEC 61400-3, and specified as 0.14 for normal wind conditions and 0.11 for extreme wind conditions, for load calculations.",Offshore wind turbine load calculations,0.14,,IEC 61400-3,structural integrity; turbine design
+gemini-1.5-pro,Page 97,Offshore,149,21,Technical,The offshore mean wind speed for averaging periods equal or below 1 hour is given by the Fröya Profile.,Offshore wind resource assessment,1.0,hour,API RP 2A-WSD 22 [nd] Edition 2014 and DNVGL-RP-C205,wind resource assessment; meteorological data analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 98",Offshore,151,21,Technical,The value of the turbulence intensity and standard deviation shall be determined using appropriate statistical techniques applied to measured data.,Turbulence intensity measurement,,,,meteorological data; wind resource assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 98",Offshore,151,21,Technical,"Where topographical (shoreline) or other local effects may influence the turbulence intensity, these effects shall be represented in the data.","Turbulence intensity measurement, Shoreline effects",,,,meteorological data; wind resource assessment; environmental impact assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 98",Offshore,151,21,Technical,"The characteristics of the anemometer, sampling rate, and averaging time used to obtain measured data shall be taken into account when evaluating the turbulence intensity.",Turbulence intensity measurement,,,,meteorological data; wind resource assessment; instrumentation
+gemini-1.5-pro,,Offshore,152,21,Technical,"The turbulence in a wind facility with turbines in operation is affected by: the ambient turbulence (i.e., turbulence without influence of wind turbines); the operating turbine induced turbulence (in the IEC system this turbulence is denoted “the maximum center wake turbulence”) that depends on: the spacing of the turbines (farm layout); the rotor diameter; how much the wind is slowed down over the rotor plane as expressed by the thrust-curve of the turbine.",Turbine operation within a wind facility,,,IEC 61400-1,turbulence assessment; wake effects; turbine spacing; rotor diameter; thrust curve
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 99",Offshore,153,21,Technical,all processes that have a dominant and significant influence on waves shall be considered in the physics modelling for any offshore project.,Offshore wind farm projects,,,DNV GL – Document No.: 10039663-HOU-01,physics modelling; wave analysis; environmental impact assessment
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 99",Offshore,153,21,Technical,"In a wind facility, the maximum center wake may be larger than the extreme turbulence with no effect from the neighboring wind turbines. In this case, the maximum center wake turbulence shall be applied.",Wind farm turbulence modelling,,,DNV GL – Document No.: 10039663-HOU-01,turbulence modelling; wake effects; wind farm layout
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 113",Offshore,166,21,Technical,DNVGL-ST 0437 limits the influence of wind generated currents to the first 50 m,Consideration of wind-generated currents in design,50.0,m,DNVGL-ST 0437,hydrodynamic modelling; structural design
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 113",Offshore,166,21,Technical,IEC61400-3 limits this influence to the first 20 m,Consideration of wind-generated currents in design,20.0,m,IEC61400-3,hydrodynamic modelling; structural design
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 115",Offshore,169,21,Technical,"Both negative and positive storm surges should be considered in the design, particularly for those minimum support structures, such as monopiles and tripods.",Design of minimum support structures (monopiles and tripods) for offshore wind turbines,,,,structural integrity; loads analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+
+Page 115",Offshore,169,21,Technical,The wave theory employed in the design should reflect the effect of water depth.,Design of offshore wind turbine structures,,,,structural integrity; hydrodynamic analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 119",Offshore,173,21,Technical,"Offshore wind turbines shall be designed for the combined ULS (Ultimate Limit State, defined for various recurrence periods) loads from waves, current, and wind.",Offshore wind turbines,,,DNV GL – Document No.: 10039663-HOU-01,structural integrity; load calculations
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 119",Offshore,173,21,Technical,"It is allowed to include, if documented, the joint probabilities between parameters so that combined ULS loads, (including possible dynamic effect), will have the required return period.",Offshore wind turbine ULS load calculations,,,DNV GL – Document No.: 10039663-HOU-01 (referencing Section 5.6.2 for extreme joint correlations),structural integrity; load calculations; probabilistic analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 119",Offshore,173,21,Technical,For the FLS (Fatigue Limit State) design it is important that input for load simulations reflects the actual structure and site conditions.,Offshore wind turbine FLS design,,,DNV GL – Document No.: 10039663-HOU-01,structural integrity; fatigue analysis; load simulations
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL
+www.dnvgl.com
+Page 119",Offshore,173,21,Technical,"For FLS design load calculations the joint probability can be determined from long time hindcast simulations and/or long-term measurements of at least the wind speed, wind direction, wave height, wave period, and wave direction.",Offshore wind turbine FLS design load calculations,,,DNV GL – Document No.: 10039663-HOU-01,load calculations; data analysis; metocean data
+gemini-1.5-pro,5.6,Offshore,174,21,Technical,Extreme conditions are rare events generating peak values of single Metocean parameter conditions (extreme wave) or joint conditions (extreme wind and associated wave) that shall be considered in any design of an offshore structure.,Design of offshore structures,,,,structural integrity; metocean conditions
+gemini-1.5-pro,5.6,Offshore,174,21,Technical,"For design purposes, the conditions shall be derived per directional sectors, as a minimum.",Design of offshore structures,,,,structural integrity; metocean conditions
+gemini-1.5-pro,,Offshore,180,21,Spatial,"The sites which are selected in the pool shall be part of a homogeneous region, in terms of water depth, fetch limitation, and orientation of major storm track.",Site selection for grid point pooling in extreme value analysis for cyclone conditions.,,,,meteorological modeling; site assessment; risk assessment
+gemini-1.5-pro,,Offshore,180,21,Spatial,The sites shall also be spaced far enough (75 km) to reduce statistical dependency.,Site selection for grid point pooling in extreme value analysis for cyclone conditions.,75.0,km,,meteorological modeling; site assessment; risk assessment; statistical analysis
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 129",Offshore,185,21,Technical,Test reports shall be prepared by accredited testing laboratories and meet the requirements of ISO 17025 and relevant standards for the specific testing.,Metocean Study report,,,ISO 17025,metocean data analysis; reporting
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 129",Offshore,185,21,Technical,"A Metocean Study report containing the results of metocean data analysis and interpretation should as a minimum include: Description of the data used, clearly identifying the sources (whether from in-situ measurements, numerical modelling, satellite, etc.), the data provider, the quality control and checks undertaken.",Metocean Study report,,,DNV GL – Document No.: 10039663-HOU-01,metocean data analysis; data quality; reporting
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 129",Offshore,185,21,Technical,"A Metocean Study report should include: A qualitative and quantitative assessment of the datasets including as a minimum length, resolution in time and space, data gaps, quality flags, and overall confidence in the data.",Metocean Study report,,,DNV GL – Document No.: 10039663-HOU-01,metocean data analysis; data quality; reporting
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 129",Offshore,185,21,Technical,"When multiple datasets are used to arrive at design criteria, results should clearly state which dataset has been used for which analysis, and any adjustments/uplift/calibration being made.","Metocean Study report, Design Criteria",,,DNV GL – Document No.: 10039663-HOU-01,metocean data analysis; data quality; reporting; design criteria
+gemini-1.5-pro,"DNV GL – Document No.: 10039663-HOU-01, Issue: D, Status: FINAL, Page 129",Offshore,185,21,Technical,"A Metocean Study report should include: Details of analysis methods, clearly stating any assumptions made and any shortcomings of the methods used which may affect the accuracy of the results.",Metocean Study report,,,DNV GL – Document No.: 10039663-HOU-01,metocean data analysis; reporting; analysis methodology
+gemini-1.5-pro,"10039663-HOU-01, Issue: D, Status: FINAL, Page 130",Offshore,186,21,Technical,"Where statistical fits and extrapolations to extreme return periods are undertaken, results should clearly state details of the distributions used and goodness of fit parameters (or equivalent assessment of quality of data fit).",Metocean data analysis,,,DNV GL – Document No.: 10039663-HOU-01,metocean analysis; statistical modeling
+gemini-1.5-pro,"10039663-HOU-01, Issue: D, Status: FINAL, Page 130",Offshore,186,21,Technical,"Metocean design criteria being reported should clearly include their units of measure, averaging intervals, height or depth of reported value, and the relevant season or direction as applicable.",Metocean data reporting,,,DNV GL – Document No.: 10039663-HOU-01,metocean data reporting; design criteria
+gemini-1.5-pro,"10039663-HOU-01, Issue: D, Status: FINAL, Page 130",Offshore,186,21,Technical,"An overall statement on the suitability and applicability of the reported metocean values (post-analysis) for application to a wind facility project, including any refinements that may need to be made in the future to increase confidence.",Metocean data analysis and reporting,,,DNV GL – Document No.: 10039663-HOU-01,metocean analysis; project suitability assessment

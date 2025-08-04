@@ -1,0 +1,33 @@
+{
+  "total_original_constraints": 1022,
+  "regulatory_constraints": 288,
+  "high_confidence_constraints": 127,
+  "filter_efficiency_percent": 28.180039138943247,
+  "confidence_statistics": {
+    "mean": 0.7614583333333332,
+    "median": 0.75,
+    "std": 0.1705411299466622,
+    "min": 0.5,
+    "max": 1.0
+  },
+  "methodology": {
+    "min_confidence_threshold": 0.5,
+    "regulatory_keywords_categories": 4,
+    "non_regulatory_patterns": 22
+  },
+  "output_columns": [
+    "model_type",
+    "model_name",
+    "document_id",
+    "constraint_id",
+    "category",
+    "description",
+    "value",
+    "unit",
+    "source_section_number",
+    "geographic_scope",
+    "context_quote",
+    "component_name"
+  ],
+  "filtering_date": "2025-07-31T19:31:29.535252"
+}

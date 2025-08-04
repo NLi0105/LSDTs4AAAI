@@ -1,0 +1,134 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"7","deepseek","deepseek-chat",413075,45814,4,3,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Maryland Offshore Wind Commercial Project Record of Decision"",
+    ""project_name"": ""Maryland Offshore Wind Project"",
+    ""project_location"": ""10.1 statute miles (16.2 kilometers) off the coast of Maryland, within Renewable Energy Lease Number OCS-A 0490""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Up to 121 wind turbine generators (reduced to 114 after setback adjustment) ranging from 14 to 18 MW each."",
+      ""source_section_number"": ""2.1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Substations"",
+      ""component_acronym"": ""OSS"",
+      ""description"": ""Up to 4 offshore substations to support the wind energy facility."",
+      ""source_section_number"": ""2.1""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Offshore Export Cables"",
+      ""component_acronym"": null,
+      ""description"": ""Up to 4 offshore export cables connecting to onshore substations."",
+      ""source_section_number"": ""2.1""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Meteorological Tower"",
+      ""component_acronym"": ""Met Tower"",
+      ""description"": ""A 100m tall meteorological tower for weather data collection."",
+      ""source_section_number"": ""2.1""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""WTGs must maintain a 1 nautical mile setback from the outer boundary of the southeastbound traffic lane of the current Traffic Separation Scheme."",
+      ""value"": 1,
+      ""unit"": ""nautical mile"",
+      ""source_section_number"": ""2.1"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Based on USCG recommendations in the New Jersey Port Access Route Study (PARS), US Wind's proposed layout included a 1 nmi (1.9 km) setback from the outer boundary of the southeastbound traffic lane of the current Traffic Separation Scheme for the southeastern approach to the Delaware Bay or its proposed extension, which removed 7 of the 121 WTG positions, resulting in a total of up to 114 WTGs.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""No surface occupancy within 14 miles from shore, excluding 32 WTG positions and 1 OSS."",
+      ""value"": 14,
+      ""unit"": ""miles"",
+      ""source_section_number"": ""3.3"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Under Alternative D, no surface occupancy would occur within 14 miles (22.5-kilometers) from shore, resulting in the exclusion of 32 WTG positions and one OSS.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Removal or realignment of up to 11 WTG positions to avoid habitat areas of concern."",
+      ""value"": 11,
+      ""unit"": ""WTG positions"",
+      ""source_section_number"": ""3.3"",
+      ""geographic_scope"": ""Lease Area"",
+      ""context_quote"": ""Under Alternative E, removal of up to 11 WTG positions, removal/realignment of associated inter-array cables (if applicable), realignment of the offshore export cables, and relocation of the Met Tower would avoid the identified AOCs.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Avoidance of cable routes through Indian River Bay to minimize impacts on sensitive habitats."",
+      ""source_section_number"": ""3.3"",
+      ""geographic_scope"": ""Indian River Bay"",
+      ""context_quote"": ""Alternative C would result in the elimination of approximately 168.3 acres of temporary seafloor disturbance in Indian River Bay associated with cable installation and 39 acres associated with dredging for barge access, but would include wetland impacts that are not present in Alternative B.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Lead agency for approving the Construction and Operations Plan (COP) under the Outer Continental Shelf Lands Act."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issues Letter of Authorization (LOA) under the Marine Mammal Protection Act for incidental take of marine mammals."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""entity_acronym"": ""USACE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Permitting authority under Section 10 of the Rivers and Harbors Act and Section 404 of the Clean Water Act."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""entity_acronym"": ""USCG"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provides recommendations for navigational safety, including setback requirements for WTGs."",
+      ""source_section_number"": ""2.1""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""entity_acronym"": ""USFWS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Participating agency in the environmental review process."",
+      ""source_section_number"": ""1""
+    },
+    {
+      ""entity_id"": ""E-06"",
+      ""entity_name"": ""Delaware State Historic Preservation Office"",
+      ""entity_acronym"": null,
+      ""jurisdiction"": ""State"",
+      ""role_description"": ""Consulting party in the Section 106 review process."",
+      ""source_section_number"": ""5.1""
+    }
+  ]
+}
+```"

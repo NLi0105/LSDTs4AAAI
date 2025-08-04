@@ -1,0 +1,122 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"2","gemini","gemini-1.5-pro",617384,72968,48,25,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Pre-publication Notice of Joint BOEM/BSEE Final Rule"",
+    ""project_name"": null,
+    ""project_location"": ""Outer Continental Shelf (OCS)""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Facility"",
+      ""component_acronym"": null,
+      ""description"": ""Any structure on the OCS"",
+      ""source_section_number"": ""120""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Cables"",
+      ""component_acronym"": null,
+      ""description"": ""Subsea cables"",
+      ""source_section_number"": ""120""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Pipelines"",
+      ""component_acronym"": null,
+      ""description"": ""Subsea pipelines"",
+      ""source_section_number"": ""120""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Facility designs must adhere to accepted engineering practices."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""129"",
+      ""geographic_scope"": ""OCS"",
+      ""context_quote"": ""Ensure that your facilities are designed, fabricated, and installed in conformance with accepted engineering practices""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Repairs and major modifications must be completed in conformance with accepted engineering practices."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""129"",
+      ""geographic_scope"": ""OCS"",
+      ""context_quote"": ""Ensure that repairs and major modifications are completed in conformance with accepted engineering practices""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Safety Standard"",
+      ""description"": ""Immediate reports to BSEE are required for incidents affecting design, fabrication, and installation."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""129"",
+      ""geographic_scope"": ""OCS"",
+      ""context_quote"": ""Provide BSEE immediate reports of all incidents that affect the design, fabrication, and installation of the project and its components.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Cables must include exterior corrosion protection."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""310"",
+      ""geographic_scope"": ""OCS"",
+      ""context_quote"": ""All cables and pipelines, including cables on project easements|Location, design and installation methods, testing, maintenance, repair, safety devices, exterior corrosion protection, inspections, and decommissioning.""
+    }
+
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Reviews and approves plans, manages leases and grants, ensures compliance with regulations."",
+      ""source_section_number"": ""20""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Oversees safety and environmental aspects, receives reports and notifications."",
+      ""source_section_number"": ""20""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""Environmental Protection Agency"",
+      ""entity_acronym"": ""EPA"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Sets reportable quantities for stored chemicals."",
+      ""source_section_number"": ""310""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""entity_acronym"": null,
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issues authorizations or approvals."",
+      ""source_section_number"": ""312""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""U.S. Army Corps of Engineers"",
+      ""entity_acronym"": null,
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issues authorizations or approvals."",
+      ""source_section_number"": ""312""
+    }
+  ]
+}
+```"

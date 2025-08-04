@@ -1,0 +1,173 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"15","claude","claude-3-haiku-20240307",674548,175763,20,12,True,"{
+  ""document_metadata"": {
+    ""title"": ""Sunrise Wind Project Record of Decision Construction and Operations Plan"",
+    ""project_name"": ""Sunrise Wind Project"",
+    ""project_location"": ""Offshore of Massachusetts, Rhode Island, and New York""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTG"",
+      ""description"": ""Offshore wind turbines that generate electricity"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Offshore Converter Station"",
+      ""component_acronym"": ""OCS-DC"",
+      ""description"": ""Offshore direct current converter station"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Inter-Array Cables"",
+      ""description"": ""Cables connecting the individual WTGs to the OCS-DC"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Onshore Converter Station"",
+      ""component_acronym"": ""OnCS-DC"",
+      ""description"": ""Onshore direct current converter station"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Offshore Transmission Cable"",
+      ""description"": ""Cable connecting the OCS-DC to the onshore infrastructure"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""component_id"": ""COMP-06"",
+      ""component_name"": ""Onshore Interconnection Cable"",
+      ""description"": ""Cable connecting the OnCS-DC to the Long Island Power Authority Holbrook Substation"",
+      ""source_section_number"": ""2.4""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 84 wind turbine generators (WTGs) at 87 potential locations, each with a maximum capacity of 11 MW"",
+      ""value"": 84,
+      ""unit"": ""WTGs"",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""Lease Area OCS-A 0487"",
+      ""context_quote"": ""Sunrise Wind proposed the Project using a Project Design Envelope (PDE) framework, under which multiple aspects of the Project are potentially variable but would remain within the limits defined in the PDE. Within this PDE framework, the Project (Preferred Alternative in the Final EIS) consists of up to 84 wind turbine generators (WTGs) at 87 potential locations, each of which would have an up to 11 MW generation capacity;""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""One direct current offshore converter station (OCS-DC)"",
+      ""value"": 1,
+      ""unit"": ""OCS-DC"",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""Lease Area OCS-A 0487"",
+      ""context_quote"": ""Sunrise Wind proposed the Project using a Project Design Envelope (PDE) framework, under which multiple aspects of the Project are potentially variable but would remain within the limits defined in the PDE. Within this PDE framework, the Project (Preferred Alternative in the Final EIS) consists of up to 84 wind turbine generators (WTGs) at 87 potential locations, each of which would have an up to 11 MW generation capacity; one direct current offshore converter station (OCS-DC);""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 135 inter-array cables connecting the individual WTGs to the OCS-DC"",
+      ""value"": 135,
+      ""unit"": ""cables"",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""Lease Area OCS-A 0487"",
+      ""context_quote"": ""Sunrise Wind proposed the Project using a Project Design Envelope (PDE) framework, under which multiple aspects of the Project are potentially variable but would remain within the limits defined in the PDE. Within this PDE framework, the Project (Preferred Alternative in the Final EIS) consists of up to 84 wind turbine generators (WTGs) at 87 potential locations, each of which would have an up to 11 MW generation capacity; one direct current offshore converter station (OCS-DC); and up to 135 inter-array cables linking the individual WTGs to the OCS-DC.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Design Specification"",
+      ""description"": ""One onshore converter station (OnCS-DC)"",
+      ""value"": 1,
+      ""unit"": ""OnCS-DC"",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""Onshore in the Town of Brookhaven, Long Island, New York"",
+      ""context_quote"": ""Sunrise Wind proposed the Project using a Project Design Envelope (PDE) framework, under which multiple aspects of the Project are potentially variable but would remain within the limits defined in the PDE. Within this PDE framework, the Project (Preferred Alternative in the Final EIS) consists of up to 84 wind turbine generators (WTGs) at 87 potential locations, each of which would have an up to 11 MW generation capacity; one direct current offshore converter station (OCS-DC); and up to 135 inter-array cables linking the individual WTGs to the OCS-DC.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Design Specification"",
+      ""description"": ""One offshore transmission cable connecting the OCS-DC to onshore infrastructure"",
+      ""value"": 1,
+      ""unit"": ""cable"",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""From the OCS-DC to landfall on Long Island, New York"",
+      ""context_quote"": ""Sunrise Wind proposed the Project using a Project Design Envelope (PDE) framework, under which multiple aspects of the Project are potentially variable but would remain within the limits defined in the PDE. Within this PDE framework, the Project (Preferred Alternative in the Final EIS) consists of up to 84 wind turbine generators (WTGs) at 87 potential locations, each of which would have an up to 11 MW generation capacity; one direct current offshore converter station (OCS-DC); and up to 135 inter-array cables linking the individual WTGs to the OCS-DC.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-06"",
+      ""category"": ""Design Specification"",
+      ""description"": ""One onshore interconnection cable connecting the OnCS-DC to the Long Island Power Authority Holbrook Substation"",
+      ""value"": 1,
+      ""unit"": ""cable"",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""From the OnCS-DC to the Long Island Power Authority Holbrook Substation"",
+      ""context_quote"": ""Sunrise Wind proposed the Project using a Project Design Envelope (PDE) framework, under which multiple aspects of the Project are potentially variable but would remain within the limits defined in the PDE. Within this PDE framework, the Project (Preferred Alternative in the Final EIS) consists of up to 84 wind turbine generators (WTGs) at 87 potential locations, each of which would have an up to 11 MW generation capacity; one direct current offshore converter station (OCS-DC); and up to 135 inter-array cables linking the individual WTGs to the OCS-DC.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Sunrise Wind has the ability to deliver a maximum capacity of 924 MW of offshore wind energy"",
+      ""value"": 924,
+      ""unit"": ""MW"",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""Lease Area OCS-A 0487"",
+      ""context_quote"": ""Sunrise Wind has the ability under the OREC to deliver a maximum capacity of 924 MW of offshore wind energy (NYSERDA 2019).""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Sunrise Wind is required to deliver 880 MW of offshore wind energy to New York State under an Offshore Wind Renewable Energy Certificate Purchase and Sale Agreement (OREC)"",
+      ""value"": 880,
+      ""unit"": ""MW"",
+      ""source_section_number"": ""2.4"",
+      ""geographic_scope"": ""Lease Area OCS-A 0487"",
+      ""context_quote"": ""This Project would help the state of New York achieve the aggressive clean energy goals set forth in the Clean Energy Standards Order and the Climate Leadership and Community Protection Act through an Offshore Wind Renewable Energy Certificate Purchase and Sale Agreement (OREC) with the New York State Energy Research and Development Authority (NYSERDA) to deliver 880 MW of offshore wind energy.""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Responsible for reviewing and approving the Construction and Operations Plan for the Sunrise Wind Project"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Serves as a cooperating agency and has MMPA authorization decision responsibilities"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""National Park Service"",
+      ""entity_acronym"": ""NPS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Has ROW and SUP permitting decision responsibilities for the portion of the project within the Fire Island National Seashore"",
+      ""source_section_number"": ""2.4""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""New York State Energy Research and Development Authority"",
+      ""entity_acronym"": ""NYSERDA"",
+      ""jurisdiction"": ""State"",
+      ""role_description"": ""Entered into an Offshore Wind Renewable Energy Certificate Purchase and Sale Agreement with Sunrise Wind to purchase 880 MW of offshore wind energy"",
+      ""source_section_number"": ""2.4""
+    }
+  ]
+}"

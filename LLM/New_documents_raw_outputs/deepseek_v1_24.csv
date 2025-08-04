@@ -1,0 +1,190 @@
+﻿"document_id","model_type","model_name","original_length","filtered_length","spatial_sections","sections_with_spatial_indicators","parsed_successfully","raw_output"
+"24","deepseek","deepseek-chat",595001,57251,17,9,True,"```json
+{
+  ""document_metadata"": {
+    ""title"": ""Appendices"",
+    ""project_name"": ""New England Wind Project"",
+    ""project_location"": ""Offshore Massachusetts and Rhode Island""
+  },
+  ""project_components"": [
+    {
+      ""component_id"": ""COMP-01"",
+      ""component_name"": ""Wind Turbine Generators"",
+      ""component_acronym"": ""WTGs"",
+      ""description"": ""Components that generate electricity from wind energy."",
+      ""source_section_number"": ""Table 3-1""
+    },
+    {
+      ""component_id"": ""COMP-02"",
+      ""component_name"": ""Electrical Service Platforms"",
+      ""component_acronym"": ""ESPs"",
+      ""description"": ""Platforms that support electrical service and distribution."",
+      ""source_section_number"": ""Table 3-1""
+    },
+    {
+      ""component_id"": ""COMP-03"",
+      ""component_name"": ""Offshore Export Cable Corridor"",
+      ""component_acronym"": ""OECC"",
+      ""description"": ""Routes for offshore electrical transmission cables."",
+      ""source_section_number"": ""Table 3-2""
+    },
+    {
+      ""component_id"": ""COMP-04"",
+      ""component_name"": ""Onshore Electrical Cables"",
+      ""component_acronym"": null,
+      ""description"": ""Cables for onshore electrical transmission."",
+      ""source_section_number"": ""Table 3-1""
+    },
+    {
+      ""component_id"": ""COMP-05"",
+      ""component_name"": ""Substations"",
+      ""component_acronym"": null,
+      ""description"": ""Facilities for transforming and distributing electricity."",
+      ""source_section_number"": ""Table 3-1""
+    }
+  ],
+  ""project_constraints"": [
+    {
+      ""constraint_id"": ""C-001"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Minimum nameplate capacity per WTG is 16 MW."",
+      ""value"": 16,
+      ""unit"": ""MW"",
+      ""source_section_number"": ""Table 3-1"",
+      ""geographic_scope"": ""Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501"",
+      ""context_quote"": ""This equates to an approximate minimum nameplate capacity of 16 MW per WTG.""
+    },
+    {
+      ""constraint_id"": ""C-002"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 129 WTGs can be installed."",
+      ""value"": 129,
+      ""unit"": null,
+      ""source_section_number"": ""Table 3-1"",
+      ""geographic_scope"": ""Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501"",
+      ""context_quote"": ""The Selected Alternative is a hybrid alternative combining elements of Alternatives B (Proposed Action Alternative) and C-1 (Habitat Impact Minimization Alternative). By selecting the Selected Alternative, DOI will allow for up to 130 foundations for the installation of 125 to 129 WTGs and 1 to 5 ESPs within Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501 (collectively the Southern Wind Development Area [SWDA]) offshore Massachusetts.""
+    },
+    {
+      ""constraint_id"": ""C-003"",
+      ""linked_component_id"": ""COMP-02"",
+      ""category"": ""Design Specification"",
+      ""description"": ""Up to 5 ESPs can be installed."",
+      ""value"": 5,
+      ""unit"": null,
+      ""source_section_number"": ""Table 3-1"",
+      ""geographic_scope"": ""Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501"",
+      ""context_quote"": ""The Selected Alternative is a hybrid alternative combining elements of Alternatives B (Proposed Action Alternative) and C-1 (Habitat Impact Minimization Alternative). By selecting the Selected Alternative, DOI will allow for up to 130 foundations for the installation of 125 to 129 WTGs and 1 to 5 ESPs within Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501 (collectively the Southern Wind Development Area [SWDA]) offshore Massachusetts.""
+    },
+    {
+      ""constraint_id"": ""C-004"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Phase 1 export cables must be installed in the Eastern OECC in Muskeget Channel."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Table 3-2"",
+      ""geographic_scope"": ""Eastern OECC in Muskeget Channel"",
+      ""context_quote"": ""For Phase 1, two cables would be installed in the Eastern OECC in Muskeget Channel.""
+    },
+    {
+      ""constraint_id"": ""C-005"",
+      ""linked_component_id"": ""COMP-03"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Phase 2 export cables can be installed in various configurations in the Eastern OECC, Western Variant, or South Coast Variant."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Table 3-2"",
+      ""geographic_scope"": ""Eastern OECC, Western Variant, or South Coast Variant"",
+      ""context_quote"": ""For Phase 2, three cables would be installed in various proposed configurations in the Eastern OECC in Muskeget Channel, the Western Variant in Muskeget Channel and/or the South Coast Variant (SCV), which runs to the south and west of Martha’s Vineyard, through Rhode Island Sound.""
+    },
+    {
+      ""constraint_id"": ""C-006"",
+      ""linked_component_id"": ""COMP-04"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Onshore electrical cables and grid interconnection cables must be installed in Barnstable County, Massachusetts."",
+      ""value"": null,
+      ""unit"": null,
+      ""source_section_number"": ""Table 3-1"",
+      ""geographic_scope"": ""Barnstable County, Massachusetts"",
+      ""context_quote"": ""Onshore electrical cables, grid interconnection cables, and up to three new or upgraded substations would be installed in Barnstable County, Massachusetts.""
+    },
+    {
+      ""constraint_id"": ""C-007"",
+      ""linked_component_id"": ""COMP-05"",
+      ""category"": ""Operational Parameter"",
+      ""description"": ""Up to three new or upgraded substations must be installed in Barnstable County, Massachusetts."",
+      ""value"": 3,
+      ""unit"": null,
+      ""source_section_number"": ""Table 3-1"",
+      ""geographic_scope"": ""Barnstable County, Massachusetts"",
+      ""context_quote"": ""Onshore electrical cables, grid interconnection cables, and up to three new or upgraded substations would be installed in Barnstable County, Massachusetts.""
+    },
+    {
+      ""constraint_id"": ""C-008"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Safety Standard"",
+      ""description"": ""Micrositing of WTG foundations may occur within 500 feet from each proposed WTG location."",
+      ""value"": 500,
+      ""unit"": ""feet"",
+      ""source_section_number"": ""Footnote 10"",
+      ""geographic_scope"": ""Lease Area OCS-A 0534 and potentially a portion of OCS-A 0501"",
+      ""context_quote"": ""In accordance with 30 CFR § 585.634(c)(6), micrositing of WTG foundations may occur within 500 feet from each proposed WTG location. WTG micrositing would be performed on a case-by-case basis to avoid significant seafloor hazards such as surface and subsurface boulders (see COP Section 2.2.1.1).""
+    },
+    {
+      ""constraint_id"": ""C-009"",
+      ""linked_component_id"": ""COMP-01"",
+      ""category"": ""Environmental Mitigation"",
+      ""description"": ""Vessel speed must not exceed 10 knots in Seasonal Management Areas and Dynamic Management Areas for North Atlantic right whales."",
+      ""value"": 10,
+      ""unit"": ""knots"",
+      ""source_section_number"": ""Section 5.11.1"",
+      ""geographic_scope"": ""Seasonal Management Areas and Dynamic Management Areas for North Atlantic right whales"",
+      ""context_quote"": ""Regardless of vessel size, vessel operators must reduce vessel speed to 10 knots (18.5 mph) or less while operating in any Seasonal Management Area (SMA) and Dynamic Management Area (DMA) or Slow Zone for North Atlantic right whales, unless the vessel is operating in a designated DMA or Slow Zone where right whales have not been detected and it is not reasonable to expect the presence of North Atlantic right whales (e.g., Long Island Sound, shallow harbors).""
+    }
+  ],
+  ""governing_entities"": [
+    {
+      ""entity_id"": ""E-01"",
+      ""entity_name"": ""Bureau of Ocean Energy Management"",
+      ""entity_acronym"": ""BOEM"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issues renewable energy leases, easements, and rights-of-way for OCS activities."",
+      ""source_section_number"": ""Appendix B.1""
+    },
+    {
+      ""entity_id"": ""E-02"",
+      ""entity_name"": ""National Marine Fisheries Service"",
+      ""entity_acronym"": ""NMFS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issues Biological Opinions and monitors protected species."",
+      ""source_section_number"": ""Section 5.10""
+    },
+    {
+      ""entity_id"": ""E-03"",
+      ""entity_name"": ""U.S. Fish and Wildlife Service"",
+      ""entity_acronym"": ""USFWS"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Issues Biological Opinions for Endangered Species Act-listed species."",
+      ""source_section_number"": ""Section 5.10""
+    },
+    {
+      ""entity_id"": ""E-04"",
+      ""entity_name"": ""U.S. Coast Guard"",
+      ""entity_acronym"": ""USCG"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Provides navigation risk assessments and ensures safe vessel traffic."",
+      ""source_section_number"": ""Section 4.9""
+    },
+    {
+      ""entity_id"": ""E-05"",
+      ""entity_name"": ""Bureau of Safety and Environmental Enforcement"",
+      ""entity_acronym"": ""BSEE"",
+      ""jurisdiction"": ""Federal"",
+      ""role_description"": ""Reviews and approves engineering drawings and safety plans."",
+      ""source_section_number"": ""Table 2.21-1""
+    }
+  ]
+}
+```"
