@@ -61,7 +61,7 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 
 ```
 .
-├── LLM/                           # LLM Knowledge Extraction Module
+├── LLM/                           # Knowledge Structuring Module
 │   ├── Multi-Model Experiments/
 │   │   ├── Anthropic/             # Claude model experiments
 │   │   ├── DeepSeek/              # DeepSeek model outputs & experiments
@@ -81,7 +81,27 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 │   │   ├── Prompts/               # LLM prompt templates & strategies
 │   │   └── Original/              # Legacy processing scripts
 │   └── Screenshots/               # Documentation images
-├── Wind/                          # Physical Simulation & Optimization Module
+├── Wind_Apache_Jena/              # Semantic Reasoning Module
+│   ├── Core Architecture/
+│   │   ├── Main/                  # System entry points & orchestration
+│   │   ├── Ontology/              # Core ontology management framework
+│   │   └── Query/                 # SPARQL query engine & templates
+│   ├── Knowledge Modeling/
+│   │   ├── SemanticModelSpecs/    # OWL ontology specifications
+│   │   ├── SemanticModels/        # Turbine, WindFarm, Geospatial ontologies
+│   │   └── Builder/               # Ontology construction & data integration
+│   ├── Reasoning Engine/
+│   │   ├── Rules/                 # SPARQL reasoning rules & constraints
+│   │   ├── ExpressionTree/        # Logic expression processing
+│   │   └── Listener/              # Event-driven rule processing (Hurricane)
+│   ├── Data Processing/
+│   │   ├── Geometry/              # Geospatial data handling & WKT processing
+│   │   ├── CSVVisitor/            # Tabular data integration patterns
+│   │   └── CustomFunctionsArchive/ # Extended SPARQL function library
+│   ├── External Integration/
+│   │   └── org/apache/jena/       # Apache Jena framework integration
+│   └── Utils/                     # Core utility classes & data helpers
+├── Wind/                          # Simulation-Integrated Evolution Module
 │   ├── Digital_Twin/              # Digital twin implementation
 │   │   ├── Coordinates/           # Spatial coordinate management
 │   │   └── Response_hurricane/     # Hurricane impact simulation
@@ -97,7 +117,7 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 │   │   ├── Surrogate models/      # Machine learning surrogate models
 │   │   ├── Rules Extraction/      # Physical constraint rule mining
 │   │   └── Utils/                 # Supporting utilities & data processing
-├── Wind_Apache_Jena/              # Semantic Reasoning & Knowledge Graph Module
+├── Wind_Apache_Jena/              # Semantic Reasoning Module
 │   ├── Core Architecture/
 │   │   ├── Main/                  # System entry points & orchestration
 │   │   ├── Ontology/              # Core ontology management framework
