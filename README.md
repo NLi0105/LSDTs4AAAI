@@ -117,8 +117,7 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 │   ├── External Integration/
 │   │   └── org/apache/jena/       # Apache Jena framework integration
 │   └── Utils/                     # Core utility classes & data helpers
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 
 ### Key Components by Module
