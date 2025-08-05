@@ -143,7 +143,7 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 - **Rule Engine**: SPARQL-based constraint reasoning and hurricane event processing
 - **Knowledge Integration**: Seamless CSV and geospatial data integration via visitor patterns
 - **Spatial Reasoning**: Advanced geospatial processing through WKT geometry handling
-- 
+
 ---
 
 ## 🪪 License
