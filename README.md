@@ -122,7 +122,7 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 
 ### Key Components by Module
 
-#### 🤖 LLM Knowledge Extraction Module (`/LLM`)
+#### 🤖 Knowledge Structuring Module (`/LLM`)
 - **Multi-Model Pipeline**: Comparative experiments with Claude, DeepSeek, and Ollama models
 - **Document Processing**: Automated PDF extraction, intelligent chunking, and regulatory content filtering  
 - **Prompt Engineering**: Structured prompt templates in [`Prompts`](LLM/Prompts) for consistent extraction
@@ -136,7 +136,7 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 - **Knowledge Integration**: Seamless CSV and geospatial data integration via visitor patterns
 - **Spatial Reasoning**: Advanced geospatial processing through WKT geometry handling
 
-#### 🌊 Wind Simulation Module (`/Wind`) 
+#### 🌊 Simulation-Integrated Evolution Module (`/Wind`) 
 - **Digital Twin**: Real-time wind farm modeling with hurricane response simulation
 - **Layout Optimization**: [`TopFarm`](Wind/TopFarm) integration with PyWake for turbine positioning
 - **WEIS Integration**: High-fidelity IEA-15MW turbine modeling in [`WEIS`](Wind/WEIS)
