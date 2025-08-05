@@ -59,8 +59,6 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 
 ## 📁 Repository Structure
 
-## 📁 Repository Structure
-
 ```
 .
 ├── LLM/                           # LLM Knowledge Extraction Module
