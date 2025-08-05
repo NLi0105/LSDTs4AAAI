@@ -22,7 +22,7 @@ Our case study focuses on offshore wind farm planning in Maryland and demonstrat
 
 ## 🏗️ Architecture
 
-The LSDT framework operates as a closed-loop architecture composed of three synergistic modules connected through a central semantic graph.
+LSDTs operate as a closed-loop architecture composed of three synergistic modules connected through a central semantic graph.
 
 <p align="center">
   <img src="assets/LSDT-1.png" alt="LSDT Framework Architecture" width="700"/>
