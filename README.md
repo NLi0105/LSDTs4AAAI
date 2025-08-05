@@ -44,7 +44,7 @@ Implemented using Apache Jena, this module encodes domain knowledge and constrai
   <img src="assets/ontology-1.png" alt="Semantic Reasoning with OWL" width="600"/>
 </p>
 
-### 3. Dynamic Simulation Module
+### 3. Simulation-Integrated Evolution Module
 
 Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure behavior, supporting resilience assessment and adaptive planning.
 
