@@ -117,26 +117,6 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 │   │   ├── Surrogate models/      # Machine learning surrogate models
 │   │   ├── Rules Extraction/      # Physical constraint rule mining
 │   │   └── Utils/                 # Supporting utilities & data processing
-├── Wind_Apache_Jena/              # Semantic Reasoning Module
-│   ├── Core Architecture/
-│   │   ├── Main/                  # System entry points & orchestration
-│   │   ├── Ontology/              # Core ontology management framework
-│   │   └── Query/                 # SPARQL query engine & templates
-│   ├── Knowledge Modeling/
-│   │   ├── SemanticModelSpecs/    # OWL ontology specifications
-│   │   ├── SemanticModels/        # Turbine, WindFarm, Geospatial ontologies
-│   │   └── Builder/               # Ontology construction & data integration
-│   ├── Reasoning Engine/
-│   │   ├── Rules/                 # SPARQL reasoning rules & constraints
-│   │   ├── ExpressionTree/        # Logic expression processing
-│   │   └── Listener/              # Event-driven rule processing (Hurricane)
-│   ├── Data Processing/
-│   │   ├── Geometry/              # Geospatial data handling & WKT processing
-│   │   ├── CSVVisitor/            # Tabular data integration patterns
-│   │   └── CustomFunctionsArchive/ # Extended SPARQL function library
-│   ├── External Integration/
-│   │   └── org/apache/jena/       # Apache Jena framework integration
-│   └── Utils/                     # Core utility classes & data helpers
 └── README.md
 ```
 
@@ -149,6 +129,13 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 - **Quality Assurance**: Document validation tools in [`Check_doc`](LLM/Check_doc) with PDF highlighting
 - **Regulation Mining**: Automated constraint extraction via [`Extract_regulations`](LLM/Extract_regulations)
 
+#### 🧠 Semantic Reasoning Module (`/Wind_Apache_Jena`)
+- **Ontology Framework**: Comprehensive wind farm ontologies (Turbine, WindFarm, Geospatial)
+- **Apache Jena Integration**: Full RDF/OWL reasoning capabilities with custom extensions
+- **Rule Engine**: SPARQL-based constraint reasoning and hurricane event processing
+- **Knowledge Integration**: Seamless CSV and geospatial data integration via visitor patterns
+- **Spatial Reasoning**: Advanced geospatial processing through WKT geometry handling
+
 #### 🌊 Wind Simulation Module (`/Wind`) 
 - **Digital Twin**: Real-time wind farm modeling with hurricane response simulation
 - **Layout Optimization**: [`TopFarm`](Wind/TopFarm) integration with PyWake for turbine positioning
@@ -156,12 +143,6 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 - **Weather Modeling**: Comprehensive storm simulation (Hurricane, Nor'easter, extreme wind events)
 - **Engineering Analysis**: Physical constraint extraction and surrogate model development
 
-#### 🧠 Semantic Reasoning Module (`/Wind_Apache_Jena`)
-- **Ontology Framework**: Comprehensive wind farm ontologies (Turbine, WindFarm, Geospatial)
-- **Apache Jena Integration**: Full RDF/OWL reasoning capabilities with custom extensions
-- **Rule Engine**: SPARQL-based constraint reasoning and hurricane event processing
-- **Knowledge Integration**: Seamless CSV and geospatial data integration via visitor patterns
-- **Spatial Reasoning**: Advanced geospatial processing through WKT geometry handling
 
 ---
 
