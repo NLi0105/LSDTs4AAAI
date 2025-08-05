@@ -6,7 +6,7 @@ This repository provides the official implementation of our AAAI paper submissio
 
 ---
 
-## 🧠 Overview
+## 🎯 Overview
 
 Large-scale infrastructure planning is often constrained by a knowledge integration problem: critical regulatory and technical information is fragmented across thousands of unstructured documents. While Digital Twins (DTs) are powerful tools for simulating and optimizing physical systems, they traditionally rely on structured data and struggle with incorporating textual knowledge.
 
@@ -129,14 +129,14 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 - **Quality Assurance**: Document validation tools in [`Check_doc`](LLM/Check_doc) with PDF highlighting
 - **Regulation Mining**: Automated constraint extraction via [`Extract_regulations`](LLM/Extract_regulations)
 
-#### 🧠 Semantic Reasoning Module (`/Wind_Apache_Jena`)
+#### 🔍 Semantic Reasoning Module (`/Wind_Apache_Jena`)
 - **Ontology Framework**: Comprehensive wind farm ontologies (Turbine, WindFarm, Geospatial)
 - **Apache Jena Integration**: Full RDF/OWL reasoning capabilities with custom extensions
 - **Rule Engine**: SPARQL-based constraint reasoning and hurricane event processing
 - **Knowledge Integration**: Seamless CSV and geospatial data integration via visitor patterns
 - **Spatial Reasoning**: Advanced geospatial processing through WKT geometry handling
 
-#### 🌊 Simulation-Integrated Evolution Module (`/Wind`) 
+#### ⚙️ Simulation-Integrated Evolution Module (`/Wind`) 
 - **Digital Twin**: Real-time wind farm modeling with hurricane response simulation
 - **Layout Optimization**: [`TopFarm`](Wind/TopFarm) integration with PyWake for turbine positioning
 - **WEIS Integration**: High-fidelity IEA-15MW turbine modeling in [`WEIS`](Wind/WEIS)
