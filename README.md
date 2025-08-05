@@ -10,7 +10,7 @@ This repository provides the official implementation of our AAAI paper submissio
 
 Large-scale infrastructure planning is often constrained by a knowledge integration problem: critical regulatory and technical information is fragmented across thousands of unstructured documents. While Digital Twins (DTs) are powerful tools for simulating and optimizing physical systems, they traditionally rely on structured data and struggle with incorporating textual knowledge.
 
-We present **LSDTs (LLM-Augmented Semantic Digital Twins)** — a novel framework that leverages **Large Language Models (LLMs)** and **semantic reasoning** to integrate unstructured planning knowledge into simulation-driven infrastructure design. LSDTs transform documents into a structured RDF knowledge graph, which then powers regulation-aware layout design and dynamic resilience analysis.
+We present **LSDTs (LLM-Augmented Semantic Digital Twins)** — a novel framework that leverages **Large Language Models (LLMs)** and **semantic reasoning** to integrate unstructured planning knowledge into simulation-driven infrastructure design. LSDTs transform documents into a structured RDF semantic graph, which then powers regulation-aware layout design and dynamic resilience analysis.
 
 Our case study focuses on offshore wind farm planning in Maryland and demonstrates how LSDTs can:
 
@@ -22,7 +22,7 @@ Our case study focuses on offshore wind farm planning in Maryland and demonstrat
 
 ## 🏗️ Architecture
 
-The LSDT framework operates as a closed-loop architecture composed of three synergistic modules connected through a central semantic knowledge graph.
+The LSDT framework operates as a closed-loop architecture composed of three synergistic modules connected through a central semantic graph.
 
 <p align="center">
   <img src="assets/LSDT-1.png" alt="LSDT Framework Architecture" width="700"/>
