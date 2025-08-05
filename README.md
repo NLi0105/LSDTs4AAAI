@@ -48,6 +48,13 @@ Implemented using Apache Jena, this module encodes domain knowledge and constrai
 
 Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure behavior, supporting resilience assessment and adaptive planning.
 
+<p align="center">
+  <img src="assets/hurricane_sandy_progression.gif" alt="Semantic Reasoning with OWL" width="600"/>
+</p>
+
+<p align="center">
+  <img src="assets/Hurricane_layout-1.png" alt="Semantic Reasoning with OWL" width="600"/>
+</p>
 ---
 
 ## 📁 Repository Structure
