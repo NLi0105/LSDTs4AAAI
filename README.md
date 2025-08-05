@@ -143,23 +143,7 @@ Ingests time-varying data (e.g., hurricane tracks) and simulates infrastructure 
 - **Rule Engine**: SPARQL-based constraint reasoning and hurricane event processing
 - **Knowledge Integration**: Seamless CSV and geospatial data integration via visitor patterns
 - **Spatial Reasoning**: Advanced geospatial processing through WKT geometry handling
-
-
----
-
-## 📖 Citation
-
-If you use LSDTs in your research, please cite our paper:
-
-```bibtex
-@inproceedings{your_citation_key,
-  author    = {Anonymous Author(s)},
-  title     = {LSDTs: LLM-Augmented Semantic Digital Twins for Adaptive Knowledge-Intensive Infrastructure Planning},
-  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
-  year      = {2026}
-}
-```
-
+- 
 ---
 
 ## 🪪 License
