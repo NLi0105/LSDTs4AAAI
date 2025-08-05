@@ -41,7 +41,7 @@ This module uses LLMs to extract constraints, attributes, and spatial rules from
 Implemented using Apache Jena, this module encodes domain knowledge and constraints using OWL ontologies and SPARQL rules, enabling logical validation of wind turbine layouts.
 
 <p align="center">
-  <img src="assets/ontology-1.png" alt="Semantic Reasoning with OWL" width="600"/>
+  <img src="assets/ontology-1.png" alt="Semantic Reasoning with OWL" width="800"/>
 </p>
 
 ### 3. Simulation-Integrated Evolution Module
