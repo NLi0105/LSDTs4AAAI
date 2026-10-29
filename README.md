@@ -3,7 +3,12 @@
 This repository provides the official implementation of our AAAI paper submission:
 
 **"LSDTs: LLM-Augmented Semantic Digital Twins for Adaptive Knowledge-Intensive Infrastructure Planning."**
-cite:@inproceedings{li2026lsdts,
+### Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@inproceedings{li2026lsdts,
   title={LSDTs: LLM-augmented semantic digital twins for adaptive knowledge-intensive infrastructure planning},
   author={Li, Naiyi and Ma, Zihui and Yu, Runlong and Li, Lingyao},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
@@ -12,6 +17,7 @@ cite:@inproceedings{li2026lsdts,
   pages={38871--38879},
   year={2026}
 }
+```
 
 ---
 
